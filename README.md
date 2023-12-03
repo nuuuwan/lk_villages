@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**42,203** Villages from **11,497** GNDs in **272** DSDs (6.449MB), scraped as of *2023-12-04 03:19:53*.
+**42,555** Villages from **11,663** GNDs in **277** DSDs (6.511MB), scraped as of *2023-12-04 03:35:33*.
 
 ## LK-1 - Western
 
@@ -351,3 +351,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-7145](data/villages/LK-7145.json) - Thambuttegama
 * [LK-7148](data/villages/LK-7148.json) - Thalawa
 * [LK-7151](data/villages/LK-7151.json) - Thirappane
+* [LK-7154](data/villages/LK-7154.json) - Kekirawa
+* [LK-7157](data/villages/LK-7157.json) - Palugaswewa
+* [LK-7160](data/villages/LK-7160.json) - Ipalogama
+* [LK-7163](data/villages/LK-7163.json) - Galnewa
+* [LK-7166](data/villages/LK-7166.json) - Palagala
