@@ -25,7 +25,7 @@ def main():
         n_gnds_for_dsd = len(data['children'])
         n_gnds += n_gnds_for_dsd
         for gnd in data['children']:
-            n_villages_for_gnd = len(gnd['children'])
+            n_villages_for_gnd = len(gnd.get('children',[]))
             n_villages += n_villages_for_gnd
 
     lines = [
