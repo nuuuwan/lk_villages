@@ -36,8 +36,15 @@ def main():
         + f' in **{n_dsds}** DSDs, scraped as of *{time_str}*.',
     ]
 
+    previous_province_id = None
     for file_only in sorted(file_only_list):
         dsd_id = file_only.split('.')[0]
+        province_id = dsd_id[:4]
+        if province_id != previous_province_id:
+            previous_province_id = province_id
+            lines.append('')
+            lines.append(f'## {province_id}')
+            lines.append('')
         lines.append(
             f'* [{dsd_id}]({os.path.join(DIR_DATA_VILLAGES, file_only)})'
         )
