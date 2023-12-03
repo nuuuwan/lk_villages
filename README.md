@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**37,154** Villages from **9,974** GNDs in **232** DSDs (5.662MB), scraped as of *2023-12-04 01:22:00*.
+**38,201** Villages from **10,271** GNDs in **237** DSDs (5.822MB), scraped as of *2023-12-04 01:37:35*.
 
 ## LK-1 - Western
 
@@ -303,3 +303,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-6160](data/villages/LK-6160.json) - Mawathagama
 * [LK-6163](data/villages/LK-6163.json) - Rideegama
 * [LK-6166](data/villages/LK-6166.json) - Weerambugedara
+* [LK-6169](data/villages/LK-6169.json) - Kuliyapitiya East
+* [LK-6172](data/villages/LK-6172.json) - Kuliyapitiya West
+* [LK-6175](data/villages/LK-6175.json) - Udubaddawa
+* [LK-6178](data/villages/LK-6178.json) - Pannala
+* [LK-6181](data/villages/LK-6181.json) - Narammala
