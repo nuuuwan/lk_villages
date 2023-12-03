@@ -2,11 +2,12 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**1240** Villages from **219** GNDs in **4** DSDs (0.177MB), scraped as of *2023-12-03 11:28:58*.
+**1,486** Villages from **287** GNDs in **5** DSDs (0.211MB), scraped as of *2023-12-03 11:44:09*.
 
 ## LK-1 - Western
 
+* [LK-1103](data/villages/LK-1103.json) - Colombo
+* [LK-1106](data/villages/LK-1106.json) - Kolonnawa
+* [LK-1109](data/villages/LK-1109.json) - Kaduwela
 * [LK-1112](data/villages/LK-1112.json) - Homagama
-* [LK-1130](data/villages/LK-1130.json) - Dehiwala
-* [LK-1160](data/villages/LK-1160.json) - ❔
-* [LK-1190](data/villages/LK-1190.json) - ❔
+* [LK-1115](data/villages/LK-1115.json) - Seethawaka

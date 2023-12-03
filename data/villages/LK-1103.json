@@ -1,0 +1,2497 @@
+{
+  "id": "LK-1103",
+  "name": "Colombo",
+  "query_id": "950",
+  "children": [
+    {
+      "id": "LK-1103005",
+      "name": "Sammanthranapura",
+      "query_id": "9",
+      "children": [
+        {
+          "id": "LK-110300505",
+          "name": "Gemunupura Road",
+          "query_id": "54625"
+        },
+        {
+          "id": "LK-110300502",
+          "name": "Sri Wickramapura",
+          "query_id": "28615"
+        },
+        {
+          "id": "LK-110300501",
+          "name": "Sammanthranapura Road",
+          "query_id": "46961"
+        },
+        {
+          "id": "LK-110300503",
+          "name": "Gemunu pura",
+          "query_id": "46962"
+        },
+        {
+          "id": "LK-110300504",
+          "name": "Pichchamal watta",
+          "query_id": "46963"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103010",
+      "name": "Mattakkuliya",
+      "query_id": "10",
+      "children": [
+        {
+          "id": "LK-110301001",
+          "name": "Hadala Thotupla Rd",
+          "query_id": "26665"
+        },
+        {
+          "id": "LK-110301002",
+          "name": " farm Rd",
+          "query_id": "26741"
+        },
+        {
+          "id": "LK-110301003",
+          "name": "kadiranawath Housing  Scheme",
+          "query_id": "26744"
+        },
+        {
+          "id": "LK-110301004",
+          "name": "Mudali john Rodrigo  Mw",
+          "query_id": "26746"
+        },
+        {
+          "id": "LK-110301005",
+          "name": "Modara Street",
+          "query_id": "46410"
+        },
+        {
+          "id": "LK-110301006",
+          "name": "S.D Fernando Road",
+          "query_id": "46411"
+        },
+        {
+          "id": "LK-110301009",
+          "name": "St. Mery's Road",
+          "query_id": "46414"
+        },
+        {
+          "id": "LK-110301010",
+          "name": "Pranshawatta Lane",
+          "query_id": "46415"
+        },
+        {
+          "id": "LK-110301011",
+          "name": "Kelani Ganga Mill Road",
+          "query_id": "46416"
+        },
+        {
+          "id": "LK-110301012",
+          "name": "Sri Kalyani gangarama Mawatha",
+          "query_id": "46417"
+        },
+        {
+          "id": "LK-110301013",
+          "name": "Sri Wckrama Mawatha",
+          "query_id": "46418"
+        },
+        {
+          "id": "LK-110301014",
+          "name": "Rawatta Lane",
+          "query_id": "46419"
+        },
+        {
+          "id": "LK-110301015",
+          "name": "Malwatta Lane",
+          "query_id": "46420"
+        },
+        {
+          "id": "LK-110301016",
+          "name": "Center Road",
+          "query_id": "46421"
+        },
+        {
+          "id": "LK-110301017",
+          "name": "Saviya Lane",
+          "query_id": "46422"
+        },
+        {
+          "id": "LK-110301018",
+          "name": "Fergussion Lane",
+          "query_id": "46423"
+        },
+        {
+          "id": "LK-110301019",
+          "name": "Crow Island Road",
+          "query_id": "47070"
+        },
+        {
+          "id": "LK-110301020",
+          "name": "Rodrigo place",
+          "query_id": "47071"
+        },
+        {
+          "id": "LK-110301021",
+          "name": "Jubili Mawatha",
+          "query_id": "47072"
+        },
+        {
+          "id": "LK-110301023",
+          "name": "Church Lane",
+          "query_id": "47074"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103015",
+      "name": "Modara",
+      "query_id": "11",
+      "children": [
+        {
+          "id": "LK-110301524",
+          "name": "John. Rodrigo mawatha",
+          "query_id": "54732"
+        },
+        {
+          "id": "LK-110301523",
+          "name": "Bogahawaththa Lane",
+          "query_id": "54731"
+        },
+        {
+          "id": "LK-110301501",
+          "name": "Madampitiya Road",
+          "query_id": "26525"
+        },
+        {
+          "id": "LK-110301503",
+          "name": "Bloemendhal Road",
+          "query_id": "26527"
+        },
+        {
+          "id": "LK-110301504",
+          "name": "Mahawaththa Rd",
+          "query_id": "26530"
+        },
+        {
+          "id": "LK-110301505",
+          "name": "Henamulla lane",
+          "query_id": "26531"
+        },
+        {
+          "id": "LK-110301506",
+          "name": "Dhawalasingharama Road",
+          "query_id": "26534"
+        },
+        {
+          "id": "LK-110301507",
+          "name": "Sri Pagngnanananda Mawatha",
+          "query_id": "26536"
+        },
+        {
+          "id": "LK-110301508",
+          "name": "Aluthmawatha Road",
+          "query_id": "26566"
+        },
+        {
+          "id": "LK-110301509",
+          "name": "Modera street",
+          "query_id": "26567"
+        },
+        {
+          "id": "LK-110301510",
+          "name": "Wist Passage",
+          "query_id": "26568"
+        },
+        {
+          "id": "LK-110301511",
+          "name": "St. Brijet Lane",
+          "query_id": "26569"
+        },
+        {
+          "id": "LK-110301512",
+          "name": "Rajamalwattha Lane",
+          "query_id": "26570"
+        },
+        {
+          "id": "LK-110301513",
+          "name": "Rajamalwaththa Mw",
+          "query_id": "26571"
+        },
+        {
+          "id": "LK-110301515",
+          "name": "Hiubet Place",
+          "query_id": "26573"
+        },
+        {
+          "id": "LK-110301516",
+          "name": "St. John Lane",
+          "query_id": "26574"
+        },
+        {
+          "id": "LK-110301517",
+          "name": "Doctor S D Fernando street",
+          "query_id": "26575"
+        },
+        {
+          "id": "LK-110301518",
+          "name": "Mudali Jhon Rodrigo  Mw",
+          "query_id": "26576"
+        },
+        {
+          "id": "LK-110301519",
+          "name": "Pergiutions Rd",
+          "query_id": "26577"
+        },
+        {
+          "id": "LK-110301520",
+          "name": "Temple Rd",
+          "query_id": "26578"
+        },
+        {
+          "id": "LK-110301521",
+          "name": "madampitiya Rd",
+          "query_id": "26579"
+        },
+        {
+          "id": "LK-110301522",
+          "name": "Peris Mw",
+          "query_id": "46852"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103020",
+      "name": "Madampitiya",
+      "query_id": "12",
+      "children": [
+        {
+          "id": "LK-110302001",
+          "name": "Lucus Road",
+          "query_id": "54733"
+        },
+        {
+          "id": "LK-110302002",
+          "name": "Madampitiya Rd",
+          "query_id": "26634"
+        },
+        {
+          "id": "LK-110302008",
+          "name": "Ferguson Road",
+          "query_id": "26648"
+        },
+        {
+          "id": "LK-110302009",
+          "name": "Henamulla Kadawura",
+          "query_id": "26650"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103025",
+      "name": "Mahawatta",
+      "query_id": "13",
+      "children": [
+        {
+          "id": "LK-110302501",
+          "name": "Mahawatha Road",
+          "query_id": "26652"
+        },
+        {
+          "id": "LK-110302502",
+          "name": "mahawatha lane",
+          "query_id": "26653"
+        },
+        {
+          "id": "LK-110302503",
+          "name": "Madampitiya Road",
+          "query_id": "26655"
+        },
+        {
+          "id": "LK-110302504",
+          "name": "Nagalagam Veediya",
+          "query_id": "26656"
+        },
+        {
+          "id": "LK-110302505",
+          "name": "Srimawo Bandaranayka  Mawatha",
+          "query_id": "26658"
+        },
+        {
+          "id": "LK-110302506",
+          "name": "Ferguison Road",
+          "query_id": "26660"
+        },
+        {
+          "id": "LK-110302507",
+          "name": "Lucus Road",
+          "query_id": "47076"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103030",
+      "name": "Aluthmawatha",
+      "query_id": "14",
+      "children": [
+        {
+          "id": "LK-110303018",
+          "name": "Muthuwella Street",
+          "query_id": "54629"
+        },
+        {
+          "id": "LK-110303019",
+          "name": "Joshep dias Mawatha",
+          "query_id": "54630"
+        },
+        {
+          "id": "LK-110303001",
+          "name": "Aluthmawatha Road",
+          "query_id": "26433"
+        },
+        {
+          "id": "LK-110303002",
+          "name": "Muthuwella Mawatha",
+          "query_id": "26435"
+        },
+        {
+          "id": "LK-110303003",
+          "name": "Bluemandel Rd",
+          "query_id": "26436"
+        },
+        {
+          "id": "LK-110303004",
+          "name": "Dilasal Street",
+          "query_id": "26437"
+        },
+        {
+          "id": "LK-110303005",
+          "name": "Hamsa Lane",
+          "query_id": "26438"
+        },
+        {
+          "id": "LK-110303006",
+          "name": "Mosque Lane",
+          "query_id": "26441"
+        },
+        {
+          "id": "LK-110303007",
+          "name": "Temple Rd",
+          "query_id": "26442"
+        },
+        {
+          "id": "LK-110303008",
+          "name": "maha Santhiyagu waththa",
+          "query_id": "26444"
+        },
+        {
+          "id": "LK-110303009",
+          "name": "Wilfred  watha",
+          "query_id": "26446"
+        },
+        {
+          "id": "LK-110303010",
+          "name": "St' Jude Mawatha",
+          "query_id": "26448"
+        },
+        {
+          "id": "LK-110303011",
+          "name": "Bosan waththa lane",
+          "query_id": "26450"
+        },
+        {
+          "id": "LK-110303012",
+          "name": "Madamitiya Rd",
+          "query_id": "26451"
+        },
+        {
+          "id": "LK-110303013",
+          "name": "St' James Rd",
+          "query_id": "26453"
+        },
+        {
+          "id": "LK-110303014",
+          "name": "St'James  lane",
+          "query_id": "26455"
+        },
+        {
+          "id": "LK-110303015",
+          "name": "Walls Lane",
+          "query_id": "26456"
+        },
+        {
+          "id": "LK-110303017",
+          "name": "Desal Rd",
+          "query_id": "46859"
+        },
+        {
+          "id": "LK-110303020",
+          "name": "Moses Lane",
+          "query_id": "54631"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103035",
+      "name": "Lunupokuna",
+      "query_id": "15",
+      "children": [
+        {
+          "id": "LK-110303501",
+          "name": "Pickarins Road",
+          "query_id": "26460"
+        },
+        {
+          "id": "LK-110303502",
+          "name": "sumthrarama mawatha",
+          "query_id": "26461"
+        },
+        {
+          "id": "LK-110303503",
+          "name": "Gunananda Mawatta",
+          "query_id": "26462"
+        },
+        {
+          "id": "LK-110303504",
+          "name": "School Lane",
+          "query_id": "26464"
+        },
+        {
+          "id": "LK-110303505",
+          "name": "Alwis Place",
+          "query_id": "26467"
+        },
+        {
+          "id": "LK-110303506",
+          "name": "Aluthmawatha  Mw",
+          "query_id": "26468"
+        },
+        {
+          "id": "LK-110303508",
+          "name": "Upper Andara Mawatta",
+          "query_id": "26470"
+        },
+        {
+          "id": "LK-110303509",
+          "name": "Lower Anthare  Mawatta",
+          "query_id": "26474"
+        },
+        {
+          "id": "LK-110303510",
+          "name": "De seram Place",
+          "query_id": "26478"
+        },
+        {
+          "id": "LK-110303511",
+          "name": "Rock House lane",
+          "query_id": "26491"
+        },
+        {
+          "id": "LK-110303512",
+          "name": "Eli Lane",
+          "query_id": "26492"
+        },
+        {
+          "id": "LK-110303514",
+          "name": "Dilasal Place",
+          "query_id": "26493"
+        },
+        {
+          "id": "LK-110303516",
+          "name": "Eli house lane",
+          "query_id": "26495"
+        },
+        {
+          "id": "LK-110303517",
+          "name": "16th lane",
+          "query_id": "26496"
+        },
+        {
+          "id": "LK-110303518",
+          "name": "17th lane",
+          "query_id": "26497"
+        },
+        {
+          "id": "LK-110303519",
+          "name": "Galwala Road  ",
+          "query_id": "26498"
+        },
+        {
+          "id": "LK-110303520",
+          "name": "Charls Place",
+          "query_id": "26499"
+        },
+        {
+          "id": "LK-110303521",
+          "name": "St' Androos Place ",
+          "query_id": "26500"
+        },
+        {
+          "id": "LK-110303522",
+          "name": "Sri Ramanadan Road",
+          "query_id": "46442"
+        },
+        {
+          "id": "LK-110303515",
+          "name": "Redbanawatta Road",
+          "query_id": "47069"
+        },
+        {
+          "id": "LK-110303531",
+          "name": "18 th Lane",
+          "query_id": "54632"
+        },
+        {
+          "id": "LK-110303532",
+          "name": "15 th Lane",
+          "query_id": "54633"
+        },
+        {
+          "id": "LK-110303533",
+          "name": "Eli house garden",
+          "query_id": "54634"
+        },
+        {
+          "id": "LK-110303534",
+          "name": "Keragala Mawatha",
+          "query_id": "54635"
+        },
+        {
+          "id": "LK-110303535",
+          "name": "Perera place",
+          "query_id": "54636"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103040",
+      "name": "Bloemendhal",
+      "query_id": "16",
+      "children": [
+        {
+          "id": "LK-110304002",
+          "name": "Parakrama Rd",
+          "query_id": "26411"
+        },
+        {
+          "id": "LK-110304003",
+          "name": "Mahawatha Rd",
+          "query_id": "26412"
+        },
+        {
+          "id": "LK-110304004",
+          "name": "St' Benadict Mw",
+          "query_id": "26414"
+        },
+        {
+          "id": "LK-110304005",
+          "name": "Station lane",
+          "query_id": "26428"
+        },
+        {
+          "id": "LK-110304006",
+          "name": "Bluemandel Rd",
+          "query_id": "26429"
+        },
+        {
+          "id": "LK-110304009",
+          "name": "Mayfield Lane",
+          "query_id": "46444"
+        },
+        {
+          "id": "LK-110304010",
+          "name": "Paramanandavihara Mawatha",
+          "query_id": "46445"
+        },
+        {
+          "id": "LK-110304011",
+          "name": "K. Cyril C. Perera Mawatha",
+          "query_id": "46446"
+        },
+        {
+          "id": "LK-110304012",
+          "name": "Sirimavo Bandaranayake Mawatha",
+          "query_id": "46447"
+        },
+        {
+          "id": "LK-110304015",
+          "name": "Ranaviru Rohan Rodrigo Mawatha",
+          "query_id": "47077"
+        },
+        {
+          "id": "LK-110304017",
+          "name": "5th Lane",
+          "query_id": "47079"
+        },
+        {
+          "id": "LK-110304018",
+          "name": "6th lane",
+          "query_id": "47081"
+        },
+        {
+          "id": "LK-110304019",
+          "name": "7th lane",
+          "query_id": "47082"
+        },
+        {
+          "id": "LK-110304020",
+          "name": "Alwis Place",
+          "query_id": "54637"
+        },
+        {
+          "id": "LK-110304021",
+          "name": "Kotahena Street",
+          "query_id": "54638"
+        },
+        {
+          "id": "LK-110304022",
+          "name": "Mahakumarage Mawatha",
+          "query_id": "54639"
+        },
+        {
+          "id": "LK-110304023",
+          "name": "Jampata Street",
+          "query_id": "54640"
+        },
+        {
+          "id": "LK-110304024",
+          "name": "Nagalagam Street",
+          "query_id": "54641"
+        },
+        {
+          "id": "LK-110304025",
+          "name": "Geroge R de Silva Mawatha",
+          "query_id": "54642"
+        },
+        {
+          "id": "LK-110304026",
+          "name": "Galpotha Street",
+          "query_id": "54643"
+        },
+        {
+          "id": "LK-110304027",
+          "name": "Benajin Road",
+          "query_id": "54644"
+        },
+        {
+          "id": "LK-110304028",
+          "name": "St.Lucia Road",
+          "query_id": "54645"
+        },
+        {
+          "id": "LK-110304029",
+          "name": "St.Lucia Street",
+          "query_id": "54646"
+        },
+        {
+          "id": "LK-110304030",
+          "name": "St.Lucia Square",
+          "query_id": "54647"
+        },
+        {
+          "id": "LK-110304031",
+          "name": "8 th lane",
+          "query_id": "54648"
+        },
+        {
+          "id": "LK-110304032",
+          "name": "9 th lane",
+          "query_id": "54649"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103045",
+      "name": "Kotahena East",
+      "query_id": "17",
+      "children": [
+        {
+          "id": "LK-110304501",
+          "name": "Wasala Rd",
+          "query_id": "26382"
+        },
+        {
+          "id": "LK-110304502",
+          "name": "paramananda vihara Mw",
+          "query_id": "26383"
+        },
+        {
+          "id": "LK-110304503",
+          "name": "Galpotha street",
+          "query_id": "26384"
+        },
+        {
+          "id": "LK-110304505",
+          "name": "St' lucia street",
+          "query_id": "26386"
+        },
+        {
+          "id": "LK-110304506",
+          "name": "Mayfield lane",
+          "query_id": "26387"
+        },
+        {
+          "id": "LK-110304507",
+          "name": "Borajian Rd",
+          "query_id": "26388"
+        },
+        {
+          "id": "LK-110304508",
+          "name": "Kotahena street",
+          "query_id": "26389"
+        },
+        {
+          "id": "LK-110304510",
+          "name": "K Siril C Perera Mw",
+          "query_id": "26393"
+        },
+        {
+          "id": "LK-110304511",
+          "name": "Goerge R D Silva Mawatha",
+          "query_id": "26394"
+        },
+        {
+          "id": "LK-110304512",
+          "name": "Jampatta street",
+          "query_id": "26398"
+        },
+        {
+          "id": "LK-110304513",
+          "name": "8 th lane",
+          "query_id": "54650"
+        },
+        {
+          "id": "LK-110304514",
+          "name": "9 th lane",
+          "query_id": "54651"
+        },
+        {
+          "id": "LK-110304515",
+          "name": "Alwis Place",
+          "query_id": "54652"
+        },
+        {
+          "id": "LK-110304516",
+          "name": "St.Lucia Street",
+          "query_id": "54653"
+        },
+        {
+          "id": "LK-110304517",
+          "name": "St.Lucia Square",
+          "query_id": "54654"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103050",
+      "name": "Kotahena West",
+      "query_id": "18",
+      "children": [
+        {
+          "id": "LK-110305001",
+          "name": "Kotahena Street",
+          "query_id": "26401"
+        },
+        {
+          "id": "LK-110305002",
+          "name": "Gunananda Mawatha",
+          "query_id": "26402"
+        },
+        {
+          "id": "LK-110305003",
+          "name": "Pikarins Mw",
+          "query_id": "26404"
+        },
+        {
+          "id": "LK-110305004",
+          "name": "Sri Ramanadan Mw",
+          "query_id": "26405"
+        },
+        {
+          "id": "LK-110305005",
+          "name": "Jampattah street",
+          "query_id": "26406"
+        },
+        {
+          "id": "LK-110305008",
+          "name": "Bonjian Rd",
+          "query_id": "26409"
+        },
+        {
+          "id": "LK-110305011",
+          "name": "Geroge R de Silva Mawatha",
+          "query_id": "54655"
+        },
+        {
+          "id": "LK-110305012",
+          "name": "Isakimuththu Place",
+          "query_id": "54656"
+        },
+        {
+          "id": "LK-110305013",
+          "name": "College Street",
+          "query_id": "54657"
+        },
+        {
+          "id": "LK-110305014",
+          "name": "Jinananda Mawatha",
+          "query_id": "54658"
+        },
+        {
+          "id": "LK-110305015",
+          "name": "11 th Lane",
+          "query_id": "54659"
+        },
+        {
+          "id": "LK-110305016",
+          "name": "13 th Lane",
+          "query_id": "54660"
+        },
+        {
+          "id": "LK-110305017",
+          "name": "14 th Lane",
+          "query_id": "54661"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103055",
+      "name": "Kochchikade North",
+      "query_id": "19",
+      "children": [
+        {
+          "id": "LK-110305501",
+          "name": "jampata street",
+          "query_id": "26269"
+        },
+        {
+          "id": "LK-110305503",
+          "name": "Rathnam Rd",
+          "query_id": "26271"
+        },
+        {
+          "id": "LK-110305504",
+          "name": "St. Anthoni Road",
+          "query_id": "26272"
+        },
+        {
+          "id": "LK-110305505",
+          "name": "Viwekananda Road",
+          "query_id": "26273"
+        },
+        {
+          "id": "LK-110305506",
+          "name": "Andiwal street",
+          "query_id": "26275"
+        },
+        {
+          "id": "LK-110305507",
+          "name": "Sea street",
+          "query_id": "26276"
+        },
+        {
+          "id": "LK-110305508",
+          "name": "Brass Pownder street",
+          "query_id": "26278"
+        },
+        {
+          "id": "LK-110305509",
+          "name": "sri kadiresation street",
+          "query_id": "26280"
+        },
+        {
+          "id": "LK-110305510",
+          "name": "Ginthupitiya Road",
+          "query_id": "26281"
+        },
+        {
+          "id": "LK-110305511",
+          "name": "main street",
+          "query_id": "26282"
+        },
+        {
+          "id": "LK-110305512",
+          "name": "Sea street",
+          "query_id": "26284"
+        },
+        {
+          "id": "LK-110305513",
+          "name": "hill street",
+          "query_id": "26285"
+        },
+        {
+          "id": "LK-110305514",
+          "name": "Lokuru street",
+          "query_id": "26287"
+        },
+        {
+          "id": "LK-110305515",
+          "name": "wolfendal  Street",
+          "query_id": "26289"
+        },
+        {
+          "id": "LK-110305517",
+          "name": "Beach Lane",
+          "query_id": "26291"
+        },
+        {
+          "id": "LK-110305518",
+          "name": "Garboss lane",
+          "query_id": "26295"
+        },
+        {
+          "id": "LK-110305520",
+          "name": "China Street",
+          "query_id": "54662"
+        },
+        {
+          "id": "LK-110305521",
+          "name": "Perera Mawatha",
+          "query_id": "54663"
+        },
+        {
+          "id": "LK-110305522",
+          "name": "St.John Street",
+          "query_id": "54664"
+        },
+        {
+          "id": "LK-110305523",
+          "name": "Bangasala Street",
+          "query_id": "54665"
+        },
+        {
+          "id": "LK-110305524",
+          "name": "Newham Square",
+          "query_id": "54666"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103060",
+      "name": "Jinthupitiya",
+      "query_id": "20",
+      "children": [
+        {
+          "id": "LK-110306002",
+          "name": "woflfendol  Lane",
+          "query_id": "25924"
+        },
+        {
+          "id": "LK-110306003",
+          "name": "Bodhirajarama Lane",
+          "query_id": "25925"
+        },
+        {
+          "id": "LK-110306004",
+          "name": "Lokuru Street",
+          "query_id": "25926"
+        },
+        {
+          "id": "LK-110306005",
+          "name": "Jinthupitiya Street",
+          "query_id": "25927"
+        },
+        {
+          "id": "LK-110306006",
+          "name": "Vivekananda Street",
+          "query_id": "25928"
+        },
+        {
+          "id": "LK-110306007",
+          "name": "Jampata Street",
+          "query_id": "25929"
+        },
+        {
+          "id": "LK-110306008",
+          "name": "New Hetti Weediya",
+          "query_id": "25930"
+        },
+        {
+          "id": "LK-110306009",
+          "name": "Sangamitha Mw",
+          "query_id": "25931"
+        },
+        {
+          "id": "LK-110306010",
+          "name": "Hinni Appuhami Mw",
+          "query_id": "25932"
+        },
+        {
+          "id": "LK-110306011",
+          "name": "Maha Vidyala Mw",
+          "query_id": "25933"
+        },
+        {
+          "id": "LK-110306012",
+          "name": "Adiwal Street",
+          "query_id": "25934"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103065",
+      "name": "Massangar Street",
+      "query_id": "21",
+      "children": [
+        {
+          "id": "LK-110306501",
+          "name": "Maha Vidyala Mawatha",
+          "query_id": "46384"
+        },
+        {
+          "id": "LK-110306503",
+          "name": "Green Lane",
+          "query_id": "46386"
+        },
+        {
+          "id": "LK-110306505",
+          "name": "Sangamitta Mawatha",
+          "query_id": "46388"
+        },
+        {
+          "id": "LK-110306506",
+          "name": "Sri Sumanathissa Mawatha",
+          "query_id": "46389"
+        },
+        {
+          "id": "LK-110306507",
+          "name": "Abdul Jabbar Mawatha",
+          "query_id": "46390"
+        },
+        {
+          "id": "LK-110306508",
+          "name": "Hussainia Street",
+          "query_id": "46391"
+        },
+        {
+          "id": "LK-110306509",
+          "name": "1st Mosque Lane",
+          "query_id": "46392"
+        },
+        {
+          "id": "LK-110306510",
+          "name": "Central Road",
+          "query_id": "46393"
+        },
+        {
+          "id": "LK-110306511",
+          "name": "Rathanajothi Sarawanamuttu Mawatha",
+          "query_id": "46394"
+        },
+        {
+          "id": "LK-110306512",
+          "name": "Old moor Street",
+          "query_id": "46395"
+        },
+        {
+          "id": "LK-110306513",
+          "name": " Court Road",
+          "query_id": "46396"
+        },
+        {
+          "id": "LK-110306514",
+          "name": "Gause Mohideen Mawatha",
+          "query_id": "46397"
+        },
+        {
+          "id": "LK-110306515",
+          "name": "New moor Street",
+          "query_id": "46398"
+        },
+        {
+          "id": "LK-110306516",
+          "name": "Messenjer Street",
+          "query_id": "46399"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103070",
+      "name": "New Bazaar",
+      "query_id": "22",
+      "children": [
+        {
+          "id": "LK-110307001",
+          "name": "sri sumanathissa Mawatha",
+          "query_id": "26354"
+        },
+        {
+          "id": "LK-110307002",
+          "name": "Sri Sangaraja Mw",
+          "query_id": "26356"
+        },
+        {
+          "id": "LK-110307004",
+          "name": "Leyards Brodway Road",
+          "query_id": "26359"
+        },
+        {
+          "id": "LK-110307005",
+          "name": "Grandpass Rd",
+          "query_id": "26360"
+        },
+        {
+          "id": "LK-110307006",
+          "name": "Sri bodhiraja  pedesa",
+          "query_id": "26361"
+        },
+        {
+          "id": "LK-110307007",
+          "name": "Sri bodhiraja  pedesa",
+          "query_id": "26362"
+        },
+        {
+          "id": "LK-110307008",
+          "name": "Prakrama Rd",
+          "query_id": "26364"
+        },
+        {
+          "id": "LK-110307009",
+          "name": "Messenger street",
+          "query_id": "26365"
+        },
+        {
+          "id": "LK-110307011",
+          "name": "Bandaranayaka Mw",
+          "query_id": "26370"
+        },
+        {
+          "id": "LK-110307013",
+          "name": "Chethawana Road",
+          "query_id": "54667"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103075",
+      "name": "Grandpass South",
+      "query_id": "23",
+      "children": [
+        {
+          "id": "LK-110307501",
+          "name": "Stase Rd",
+          "query_id": "26033"
+        },
+        {
+          "id": "LK-110307504",
+          "name": "Grandpass Rd",
+          "query_id": "26036"
+        },
+        {
+          "id": "LK-110307505",
+          "name": "Babapulle Place",
+          "query_id": "26037"
+        },
+        {
+          "id": "LK-110307506",
+          "name": "Keththarama Mawatha",
+          "query_id": "46435"
+        },
+        {
+          "id": "LK-110307511",
+          "name": "BaseLine Lane",
+          "query_id": "46439"
+        },
+        {
+          "id": "LK-110307513",
+          "name": "Sri Saddharama Mawath",
+          "query_id": "46441"
+        },
+        {
+          "id": "LK-110307515",
+          "name": "Bodirajarama MW old street",
+          "query_id": "47116"
+        },
+        {
+          "id": "LK-110307514",
+          "name": "Lakmanj Square",
+          "query_id": "54668"
+        },
+        {
+          "id": "LK-110307516",
+          "name": "Maligawaththa",
+          "query_id": "54669"
+        },
+        {
+          "id": "LK-110307517",
+          "name": "Danister de silva Mawatha",
+          "query_id": "54670"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103080",
+      "name": "Grandpass North",
+      "query_id": "24",
+      "children": [
+        {
+          "id": "LK-110308002",
+          "name": "St' Joseph Place",
+          "query_id": "26216"
+        },
+        {
+          "id": "LK-110308001",
+          "name": "St. Joseph Street",
+          "query_id": "26217"
+        },
+        {
+          "id": "LK-110308003",
+          "name": "3rd Lane",
+          "query_id": "26219"
+        },
+        {
+          "id": "LK-110308004",
+          "name": "Stece Road",
+          "query_id": "26220"
+        },
+        {
+          "id": "LK-110308005",
+          "name": "Maha kumarage Rd",
+          "query_id": "26222"
+        },
+        {
+          "id": "LK-110308006",
+          "name": "Awval Saviya Rd",
+          "query_id": "26225"
+        },
+        {
+          "id": "LK-110308007",
+          "name": "Swarna chaithaya RD",
+          "query_id": "26227"
+        },
+        {
+          "id": "LK-110308008",
+          "name": "Gemunu Lane",
+          "query_id": "26229"
+        },
+        {
+          "id": "LK-110308009",
+          "name": "Dewose Lane",
+          "query_id": "26230"
+        },
+        {
+          "id": "LK-110308010",
+          "name": "Grand pass Rd",
+          "query_id": "26231"
+        },
+        {
+          "id": "LK-110308011",
+          "name": "Keththarama Mawatha",
+          "query_id": "47113"
+        },
+        {
+          "id": "LK-110308014",
+          "name": "Leyads brodeway Road",
+          "query_id": "47114"
+        },
+        {
+          "id": "LK-110308012",
+          "name": "Malwaththa lane",
+          "query_id": "54671"
+        },
+        {
+          "id": "LK-110308013",
+          "name": "Mahakumarage Road",
+          "query_id": "54672"
+        },
+        {
+          "id": "LK-110308015",
+          "name": "Parakrama Road",
+          "query_id": "54673"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103085",
+      "name": "Nawagampura",
+      "query_id": "25",
+      "children": [
+        {
+          "id": "LK-110308501",
+          "name": "Stace Rd",
+          "query_id": "26345"
+        },
+        {
+          "id": "LK-110308503",
+          "name": "Awwal savia Road",
+          "query_id": "47091"
+        },
+        {
+          "id": "LK-110308504",
+          "name": "Grandpass road",
+          "query_id": "47092"
+        },
+        {
+          "id": "LK-110308505",
+          "name": "19th lane",
+          "query_id": "47093"
+        },
+        {
+          "id": "LK-110308506",
+          "name": "Nawaganpura Flats",
+          "query_id": "54674"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103090",
+      "name": "Maligawatta East",
+      "query_id": "26",
+      "children": [
+        {
+          "id": "LK-110309001",
+          "name": "jumma musjeed mawatha",
+          "query_id": "26195"
+        },
+        {
+          "id": "LK-110309002",
+          "name": "sri saddarma mawatha",
+          "query_id": "26196"
+        },
+        {
+          "id": "LK-110309003",
+          "name": "Maligawatha Road",
+          "query_id": "26197"
+        },
+        {
+          "id": "LK-110309004",
+          "name": "school Lane",
+          "query_id": "26198"
+        },
+        {
+          "id": "LK-110309005",
+          "name": "Dematagoda Road",
+          "query_id": "26199"
+        },
+        {
+          "id": "LK-110309006",
+          "name": "Baseline Road ",
+          "query_id": "26200"
+        },
+        {
+          "id": "LK-110309007",
+          "name": "Mallikarama Rd",
+          "query_id": "26201"
+        },
+        {
+          "id": "LK-110309009",
+          "name": "Maligawaththa Lane",
+          "query_id": "47083"
+        },
+        {
+          "id": "LK-110309011",
+          "name": "Jayantha veerasekara MW",
+          "query_id": "47085"
+        },
+        {
+          "id": "LK-110309012",
+          "name": "Station House Scheme",
+          "query_id": "54675"
+        },
+        {
+          "id": "LK-110309013",
+          "name": "Keththarama temple Road",
+          "query_id": "54676"
+        },
+        {
+          "id": "LK-110309014",
+          "name": "St. Anthony Road",
+          "query_id": "54677"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103095",
+      "name": "Kettarama",
+      "query_id": "27",
+      "children": [
+        {
+          "id": "LK-110309501",
+          "name": "pradeepa mawatha",
+          "query_id": "26207"
+        },
+        {
+          "id": "LK-110309503",
+          "name": "Jumma masjeed Road",
+          "query_id": "46451"
+        },
+        {
+          "id": "LK-110309507",
+          "name": "Maligawatta Place",
+          "query_id": "46456"
+        },
+        {
+          "id": "LK-110309508",
+          "name": "Maligawatta Road",
+          "query_id": "46457"
+        },
+        {
+          "id": "LK-110309510",
+          "name": "Sri Sangaraja Mawatha",
+          "query_id": "46459"
+        },
+        {
+          "id": "LK-110309511",
+          "name": "Hon Baron Jayathilaka Mw",
+          "query_id": "47086"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103100",
+      "name": "Aluthkade East",
+      "query_id": "28",
+      "children": [
+        {
+          "id": "LK-110310002",
+          "name": "Mihindu Mawatha",
+          "query_id": "46400"
+        },
+        {
+          "id": "LK-110310004",
+          "name": "St. Sbestiyan Road",
+          "query_id": "46402"
+        },
+        {
+          "id": "LK-110310005",
+          "name": "Peer Saibu Lane",
+          "query_id": "46403"
+        },
+        {
+          "id": "LK-110310006",
+          "name": "Dam Street",
+          "query_id": "46404"
+        },
+        {
+          "id": "LK-110310007",
+          "name": "Miraniya Street",
+          "query_id": "46405"
+        },
+        {
+          "id": "LK-110310008",
+          "name": "Silver Smith Lane",
+          "query_id": "46406"
+        },
+        {
+          "id": "LK-110310009",
+          "name": "Bandaranayaka Mawatha",
+          "query_id": "46407"
+        },
+        {
+          "id": "LK-110310010",
+          "name": "Hill Carssel Place",
+          "query_id": "46408"
+        },
+        {
+          "id": "LK-110310011",
+          "name": "Abdul Hameed Street",
+          "query_id": "46409"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103105",
+      "name": "Aluthkade West",
+      "query_id": "29",
+      "children": [
+        {
+          "id": "LK-110310502",
+          "name": "Bandaranayaka Mw",
+          "query_id": "26236"
+        },
+        {
+          "id": "LK-110310503",
+          "name": "Hill Carsel Place",
+          "query_id": "26237"
+        },
+        {
+          "id": "LK-110310504",
+          "name": "Abdul Hameed Road",
+          "query_id": "26240"
+        },
+        {
+          "id": "LK-110310505",
+          "name": "Kumara  Enterance",
+          "query_id": "26243"
+        },
+        {
+          "id": "LK-110310506",
+          "name": "Meeraniya Street",
+          "query_id": "26244"
+        },
+        {
+          "id": "LK-110310507",
+          "name": "Mill Street",
+          "query_id": "26245"
+        },
+        {
+          "id": "LK-110310508",
+          "name": "Bellment Street",
+          "query_id": "26246"
+        },
+        {
+          "id": "LK-110310509",
+          "name": "Oilmen Street",
+          "query_id": "26247"
+        },
+        {
+          "id": "LK-110310510",
+          "name": "Wilson Street",
+          "query_id": "26248"
+        },
+        {
+          "id": "LK-110310511",
+          "name": "Old Moor street",
+          "query_id": "26249"
+        },
+        {
+          "id": "LK-110310512",
+          "name": "Sri Sangaraja Mw",
+          "query_id": "26250"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103110",
+      "name": "Kochchikade South",
+      "query_id": "30",
+      "children": [
+        {
+          "id": "LK-110311001",
+          "name": "wolfendal  Street",
+          "query_id": "26251"
+        },
+        {
+          "id": "LK-110311002",
+          "name": "Centrel Rd",
+          "query_id": "26252"
+        },
+        {
+          "id": "LK-110311003",
+          "name": "1st Mosque Lane",
+          "query_id": "26253"
+        },
+        {
+          "id": "LK-110311004",
+          "name": "New Moor  Street",
+          "query_id": "26255"
+        },
+        {
+          "id": "LK-110311005",
+          "name": "Price Place",
+          "query_id": "26261"
+        },
+        {
+          "id": "LK-110311006",
+          "name": "Sonders place",
+          "query_id": "26262"
+        },
+        {
+          "id": "LK-110311007",
+          "name": "Dam street",
+          "query_id": "26263"
+        },
+        {
+          "id": "LK-110311008",
+          "name": "St. Bastian Rd",
+          "query_id": "26264"
+        },
+        {
+          "id": "LK-110311009",
+          "name": " Dais place",
+          "query_id": "26265"
+        },
+        {
+          "id": "LK-110311010",
+          "name": "Bere Lane",
+          "query_id": "26267"
+        },
+        {
+          "id": "LK-110311011",
+          "name": "Akbar Lane",
+          "query_id": "26268"
+        },
+        {
+          "id": "LK-110311012",
+          "name": "Umbichi Place",
+          "query_id": "47088"
+        },
+        {
+          "id": "LK-110311013",
+          "name": "Gouse Mohideen MW",
+          "query_id": "47089"
+        },
+        {
+          "id": "LK-110311014",
+          "name": "Old Yone street",
+          "query_id": "47090"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103115",
+      "name": "Pettah",
+      "query_id": "31",
+      "children": [
+        {
+          "id": "LK-110311501",
+          "name": "Olcot Mw",
+          "query_id": "25851"
+        },
+        {
+          "id": "LK-110311502",
+          "name": "Main Street",
+          "query_id": "25852"
+        },
+        {
+          "id": "LK-110311505",
+          "name": "Gaboss Lane",
+          "query_id": "25855"
+        },
+        {
+          "id": "LK-110311507",
+          "name": "Gas work  Rd",
+          "query_id": "25857"
+        },
+        {
+          "id": "LK-110311509",
+          "name": "1st Cross Rd",
+          "query_id": "25859"
+        },
+        {
+          "id": "LK-110311510",
+          "name": "2nd Cross Rd",
+          "query_id": "25860"
+        },
+        {
+          "id": "LK-110311511",
+          "name": "3rd Cross Rd",
+          "query_id": "25861"
+        },
+        {
+          "id": "LK-110311512",
+          "name": "4th Cross Rd",
+          "query_id": "25862"
+        },
+        {
+          "id": "LK-110311513",
+          "name": "5th Cross Rd",
+          "query_id": "25863"
+        },
+        {
+          "id": "LK-110311514",
+          "name": "Maliban Street",
+          "query_id": "25864"
+        },
+        {
+          "id": "LK-110311515",
+          "name": "Mayuri  Lane",
+          "query_id": "25865"
+        },
+        {
+          "id": "LK-110311516",
+          "name": "Kumara Street",
+          "query_id": "25866"
+        },
+        {
+          "id": "LK-110311519",
+          "name": "Kosala  Lane",
+          "query_id": "25869"
+        },
+        {
+          "id": "LK-110311520",
+          "name": "Keerthi Lane",
+          "query_id": "25870"
+        },
+        {
+          "id": "LK-110311521",
+          "name": "China Lane",
+          "query_id": "25871"
+        },
+        {
+          "id": "LK-110311522",
+          "name": "Bastiyan Mw",
+          "query_id": "25872"
+        },
+        {
+          "id": "LK-110311524",
+          "name": "Flower Rd",
+          "query_id": "25874"
+        },
+        {
+          "id": "LK-110311525",
+          "name": "N.H.M Abdhul kadar MW",
+          "query_id": "47094"
+        },
+        {
+          "id": "LK-110311526",
+          "name": "I.X. Perera Mw",
+          "query_id": "47095"
+        },
+        {
+          "id": "LK-110311527",
+          "name": "St. John Street",
+          "query_id": "47096"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103120",
+      "name": "Fort",
+      "query_id": "32",
+      "children": [
+        {
+          "id": "LK-110312003",
+          "name": "Lotus Rd",
+          "query_id": "25834"
+        },
+        {
+          "id": "LK-110312006",
+          "name": "Lanka Bank Rd",
+          "query_id": "25837"
+        },
+        {
+          "id": "LK-110312007",
+          "name": "York Street",
+          "query_id": "25838"
+        },
+        {
+          "id": "LK-110312009",
+          "name": "Hospital Lane",
+          "query_id": "25840"
+        },
+        {
+          "id": "LK-110312010",
+          "name": "Chathum Street",
+          "query_id": "25841"
+        },
+        {
+          "id": "LK-110312011",
+          "name": "Janadipathi Mw",
+          "query_id": "25842"
+        },
+        {
+          "id": "LK-110312012",
+          "name": "Mudalige Mw",
+          "query_id": "25843"
+        },
+        {
+          "id": "LK-110312013",
+          "name": "Bristal Street",
+          "query_id": "25844"
+        },
+        {
+          "id": "LK-110312014",
+          "name": "Duke Street",
+          "query_id": "25845"
+        },
+        {
+          "id": "LK-110312016",
+          "name": "Sir. Chiththapplam A. Gadner Mw",
+          "query_id": "25847"
+        },
+        {
+          "id": "LK-110312018",
+          "name": "I.X. Perera Mw",
+          "query_id": "25849"
+        },
+        {
+          "id": "LK-110312019",
+          "name": "D.R. Wijewardana Mw",
+          "query_id": "25850"
+        },
+        {
+          "id": "LK-110312020",
+          "name": "Upper chatham Street",
+          "query_id": "47097"
+        },
+        {
+          "id": "LK-110312021",
+          "name": "Ledan bastiyan MW",
+          "query_id": "47098"
+        },
+        {
+          "id": "LK-110312022",
+          "name": "Lower chetham street",
+          "query_id": "47099"
+        },
+        {
+          "id": "LK-110312023",
+          "name": "Kodigaha street",
+          "query_id": "47100"
+        },
+        {
+          "id": "LK-110312024",
+          "name": "Desamanya Mudalige MW",
+          "query_id": "47101"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103125",
+      "name": "Galle Face",
+      "query_id": "33",
+      "children": [
+        {
+          "id": "LK-110312501",
+          "name": "Church Lane",
+          "query_id": "25912"
+        },
+        {
+          "id": "LK-110312502",
+          "name": "Church Street",
+          "query_id": "25914"
+        },
+        {
+          "id": "LK-110312503",
+          "name": "Station Lane",
+          "query_id": "25917"
+        },
+        {
+          "id": "LK-110312504",
+          "name": "Ahamad Lane",
+          "query_id": "25918"
+        },
+        {
+          "id": "LK-110312505",
+          "name": "Galleface Terrace",
+          "query_id": "25919"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103130",
+      "name": "Slave Island",
+      "query_id": "34",
+      "children": [
+        {
+          "id": "LK-110313001",
+          "name": "Kumar Rathnam Rd",
+          "query_id": "25877"
+        },
+        {
+          "id": "LK-110313002",
+          "name": "Justin Akbar Mw",
+          "query_id": "25878"
+        },
+        {
+          "id": "LK-110313005",
+          "name": "Old Harbor Rd",
+          "query_id": "25882"
+        },
+        {
+          "id": "LK-110313006",
+          "name": "New Harbor Rd",
+          "query_id": "25883"
+        },
+        {
+          "id": "LK-110313007",
+          "name": "Miuse Street",
+          "query_id": "25884"
+        },
+        {
+          "id": "LK-110313009",
+          "name": "Java Lane",
+          "query_id": "25886"
+        },
+        {
+          "id": "LK-110313010",
+          "name": "Musjidul Jamiya Rd",
+          "query_id": "25887"
+        },
+        {
+          "id": "LK-110313011",
+          "name": "Hendry De Mel Mw",
+          "query_id": "25888"
+        },
+        {
+          "id": "LK-110313012",
+          "name": "Gladen Lane",
+          "query_id": "25889"
+        },
+        {
+          "id": "LK-110313013",
+          "name": "Liveman Lane",
+          "query_id": "25890"
+        },
+        {
+          "id": "LK-110313015",
+          "name": "Velan place",
+          "query_id": "47103"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103135",
+      "name": "Hunupitiya",
+      "query_id": "35",
+      "children": [
+        {
+          "id": "LK-110313501",
+          "name": "Que Rd",
+          "query_id": "25893"
+        },
+        {
+          "id": "LK-110313502",
+          "name": "Que Passage",
+          "query_id": "25894"
+        },
+        {
+          "id": "LK-110313503",
+          "name": "Que Lane",
+          "query_id": "25895"
+        },
+        {
+          "id": "LK-110313504",
+          "name": "Police Lane",
+          "query_id": "25897"
+        },
+        {
+          "id": "LK-110313506",
+          "name": "Union Place",
+          "query_id": "25902"
+        },
+        {
+          "id": "LK-110313507",
+          "name": "Union Lane",
+          "query_id": "25903"
+        },
+        {
+          "id": "LK-110313508",
+          "name": "Dosan Street",
+          "query_id": "25904"
+        },
+        {
+          "id": "LK-110313509",
+          "name": "Voxshall Street",
+          "query_id": "25905"
+        },
+        {
+          "id": "LK-110313510",
+          "name": "Vauxhall  Lane",
+          "query_id": "25906"
+        },
+        {
+          "id": "LK-110313511",
+          "name": "Kumar Rathnam Rd",
+          "query_id": "25907"
+        },
+        {
+          "id": "LK-110313512",
+          "name": "Morgan Rd",
+          "query_id": "25908"
+        },
+        {
+          "id": "LK-110313513",
+          "name": "Sri Murugan Street",
+          "query_id": "25909"
+        },
+        {
+          "id": "LK-110313514",
+          "name": "Barak Lane",
+          "query_id": "25910"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103140",
+      "name": "Suduwella",
+      "query_id": "36",
+      "children": [
+        {
+          "id": "LK-110314001",
+          "name": "D.R. Wijewardana Mw",
+          "query_id": "25966"
+        },
+        {
+          "id": "LK-110314002",
+          "name": "T. B. Jaya Mw",
+          "query_id": "25967"
+        },
+        {
+          "id": "LK-110314003",
+          "name": "Deans Road",
+          "query_id": "25968"
+        },
+        {
+          "id": "LK-110314005",
+          "name": "Winayalankara Mw",
+          "query_id": "25970"
+        },
+        {
+          "id": "LK-110314006",
+          "name": "Arnold Rathnayaka Mawatha",
+          "query_id": "25971"
+        },
+        {
+          "id": "LK-110314007",
+          "name": "Dewanam Piyathissa Mw",
+          "query_id": "25972"
+        },
+        {
+          "id": "LK-110314009",
+          "name": "Forbus Lane",
+          "query_id": "25974"
+        },
+        {
+          "id": "LK-110314011",
+          "name": "Kovil street",
+          "query_id": "25976"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103145",
+      "name": "Keselwatta",
+      "query_id": "37",
+      "children": [
+        {
+          "id": "LK-110314501",
+          "name": "Mihidu Mw",
+          "query_id": "25989"
+        },
+        {
+          "id": "LK-110314502",
+          "name": "Martis Lane",
+          "query_id": "25990"
+        },
+        {
+          "id": "LK-110314503",
+          "name": "Bere Lane",
+          "query_id": "25991"
+        },
+        {
+          "id": "LK-110314504",
+          "name": "Muhandiram Lane",
+          "query_id": "25992"
+        },
+        {
+          "id": "LK-110314505",
+          "name": "Muhandiram Rd",
+          "query_id": "25993"
+        },
+        {
+          "id": "LK-110314506",
+          "name": "Gomas Lane",
+          "query_id": "25994"
+        },
+        {
+          "id": "LK-110314507",
+          "name": "Olcut Mw",
+          "query_id": "25995"
+        },
+        {
+          "id": "LK-110314508",
+          "name": "Sonders Place",
+          "query_id": "25996"
+        },
+        {
+          "id": "LK-110314510",
+          "name": "Akbar Lane",
+          "query_id": "25998"
+        },
+        {
+          "id": "LK-110314511",
+          "name": "St. Sebasthiyan Street",
+          "query_id": "25999"
+        },
+        {
+          "id": "LK-110314512",
+          "name": "Belmunt Street",
+          "query_id": "26000"
+        },
+        {
+          "id": "LK-110314513",
+          "name": "Court Street",
+          "query_id": "26001"
+        },
+        {
+          "id": "LK-110314515",
+          "name": "Meeraniya Street",
+          "query_id": "26003"
+        },
+        {
+          "id": "LK-110314516",
+          "name": "Sanchi Arachchi Watta",
+          "query_id": "26004"
+        },
+        {
+          "id": "LK-110314517",
+          "name": "Smith Street",
+          "query_id": "26005"
+        },
+        {
+          "id": "LK-110314518",
+          "name": "Wilson Street",
+          "query_id": "26006"
+        },
+        {
+          "id": "LK-110314520",
+          "name": "Maradana Rd",
+          "query_id": "26008"
+        },
+        {
+          "id": "LK-110314521",
+          "name": "Sri Sangaraja Mw",
+          "query_id": "26009"
+        },
+        {
+          "id": "LK-110314522",
+          "name": "Sri Priyadarshana Mw",
+          "query_id": "26010"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103150",
+      "name": "Panchikawatta",
+      "query_id": "38",
+      "children": [
+        {
+          "id": "LK-110315001",
+          "name": "Badriya Lane",
+          "query_id": "26013"
+        },
+        {
+          "id": "LK-110315002",
+          "name": "Mohideen Musjeed Lane",
+          "query_id": "26014"
+        },
+        {
+          "id": "LK-110315003",
+          "name": "Sri. Sangaraja Mw",
+          "query_id": "26015"
+        },
+        {
+          "id": "LK-110315004",
+          "name": "Mohideen Musjeed Rd",
+          "query_id": "26016"
+        },
+        {
+          "id": "LK-110315005",
+          "name": " Maradana  1",
+          "query_id": "26017"
+        },
+        {
+          "id": "LK-110315006",
+          "name": "Sahir Kasim Rd",
+          "query_id": "26018"
+        },
+        {
+          "id": "LK-110315007",
+          "name": "Abesingharama Rd",
+          "query_id": "26019"
+        },
+        {
+          "id": "LK-110315008",
+          "name": "Jayantha Werasekara Mw",
+          "query_id": "26020"
+        },
+        {
+          "id": "LK-110315009",
+          "name": "Panchikawatta Rd",
+          "query_id": "26021"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103155",
+      "name": "Maligawatta West",
+      "query_id": "39",
+      "children": [
+        {
+          "id": "LK-110315506",
+          "name": "Maligawatta Road",
+          "query_id": "46425"
+        },
+        {
+          "id": "LK-110315507",
+          "name": "Jayantha Weerasekara Mawatha",
+          "query_id": "46426"
+        },
+        {
+          "id": "LK-110315509",
+          "name": "Kureshani Maulana Lane",
+          "query_id": "46428"
+        },
+        {
+          "id": "LK-110315514",
+          "name": "School Lane",
+          "query_id": "46433"
+        },
+        {
+          "id": "LK-110315515",
+          "name": "Saviya Mosque Lane",
+          "query_id": "46434"
+        },
+        {
+          "id": "LK-110315517",
+          "name": "N.M.M Ishaq MW",
+          "query_id": "47106"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103160",
+      "name": "Maligakanda",
+      "query_id": "40",
+      "children": [
+        {
+          "id": "LK-110316001",
+          "name": "Sri Wajiragnana Mawatha",
+          "query_id": "25977"
+        },
+        {
+          "id": "LK-110316002",
+          "name": "Kureshani Maulana Mw",
+          "query_id": "25978"
+        },
+        {
+          "id": "LK-110316003",
+          "name": "Jalasha Rd (South Side)",
+          "query_id": "25979"
+        },
+        {
+          "id": "LK-110316004",
+          "name": "Gosple Lane",
+          "query_id": "25980"
+        },
+        {
+          "id": "LK-110316005",
+          "name": "Maligakanda Rd(South)",
+          "query_id": "25981"
+        },
+        {
+          "id": "LK-110316007",
+          "name": "Maradana Rd",
+          "query_id": "25983"
+        },
+        {
+          "id": "LK-110316008",
+          "name": "Clipton Lane",
+          "query_id": "25984"
+        },
+        {
+          "id": "LK-110316014",
+          "name": "Dematagoda Passage",
+          "query_id": "47108"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103165",
+      "name": "Maradana",
+      "query_id": "41",
+      "children": [
+        {
+          "id": "LK-110316501",
+          "name": "Piyadasa Sirisena Mw",
+          "query_id": "26022"
+        },
+        {
+          "id": "LK-110316502",
+          "name": "Sri Wipulasena Mw",
+          "query_id": "26023"
+        },
+        {
+          "id": "LK-110316503",
+          "name": "Deans Rd",
+          "query_id": "26024"
+        },
+        {
+          "id": "LK-110316504",
+          "name": "Dewanam Piyathissa Mw",
+          "query_id": "26025"
+        },
+        {
+          "id": "LK-110316506",
+          "name": "semans Rd",
+          "query_id": "26027"
+        },
+        {
+          "id": "LK-110316507",
+          "name": "S. Mahinda Himi Mw",
+          "query_id": "26028"
+        },
+        {
+          "id": "LK-110316508",
+          "name": "Arabic passage",
+          "query_id": "26029"
+        },
+        {
+          "id": "LK-110316509",
+          "name": "  Maradana Road",
+          "query_id": "26030"
+        },
+        {
+          "id": "LK-110316510",
+          "name": "Mohideen Musjeed Rd",
+          "query_id": "26031"
+        },
+        {
+          "id": "LK-110316511",
+          "name": "K.D. David Mw",
+          "query_id": "26032"
+        },
+        {
+          "id": "LK-110316512",
+          "name": "T.B Jaya MW",
+          "query_id": "47109"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103170",
+      "name": "Ibbanwala",
+      "query_id": "42",
+      "children": [
+        {
+          "id": "LK-110317001",
+          "name": "Ramanayake Mw",
+          "query_id": "25944"
+        },
+        {
+          "id": "LK-110317004",
+          "name": "Hunupitiya Rd",
+          "query_id": "25947"
+        },
+        {
+          "id": "LK-110317005",
+          "name": "Sri Jinarathana Rd",
+          "query_id": "25948"
+        },
+        {
+          "id": "LK-110317006",
+          "name": "Beybrook Place",
+          "query_id": "25949"
+        },
+        {
+          "id": "LK-110317007",
+          "name": "Lake Cresent",
+          "query_id": "25950"
+        },
+        {
+          "id": "LK-110317008",
+          "name": "Lily Street",
+          "query_id": "25951"
+        },
+        {
+          "id": "LK-110317009",
+          "name": "Union Place",
+          "query_id": "25952"
+        },
+        {
+          "id": "LK-110317010",
+          "name": "Dharmapala Mw",
+          "query_id": "25953"
+        },
+        {
+          "id": "LK-110317011",
+          "name": "Hidepark Coner",
+          "query_id": "25954"
+        },
+        {
+          "id": "LK-110317012",
+          "name": "Park Street",
+          "query_id": "25955"
+        },
+        {
+          "id": "LK-110317013",
+          "name": "Sir. James Peris Mw",
+          "query_id": "25956"
+        },
+        {
+          "id": "LK-110317014",
+          "name": "Staple Road",
+          "query_id": "25957"
+        },
+        {
+          "id": "LK-110317016",
+          "name": "Hunupitiya Lake Rd",
+          "query_id": "25959"
+        },
+        {
+          "id": "LK-110317017",
+          "name": "Hedjes Court",
+          "query_id": "25960"
+        },
+        {
+          "id": "LK-110317018",
+          "name": "Noris Cannal Road",
+          "query_id": "25961"
+        },
+        {
+          "id": "LK-110317019",
+          "name": "Wipulasena Mw",
+          "query_id": "25962"
+        },
+        {
+          "id": "LK-110317021",
+          "name": "Deens Road",
+          "query_id": "25964"
+        },
+        {
+          "id": "LK-110317022",
+          "name": "Poster Lane",
+          "query_id": "25965"
+        },
+        {
+          "id": "LK-110317023",
+          "name": "Hunupitiya Cross Road",
+          "query_id": "47111"
+        },
+        {
+          "id": "LK-110317024",
+          "name": "Muththaiya Road",
+          "query_id": "47112"
+        }
+      ]
+    },
+    {
+      "id": "LK-1103175",
+      "name": "Wekanda",
+      "query_id": "43",
+      "children": [
+        {
+          "id": "LK-110317501",
+          "name": "Stuwerd Street",
+          "query_id": "25936"
+        },
+        {
+          "id": "LK-110317502",
+          "name": "Wekanda Rd",
+          "query_id": "25937"
+        },
+        {
+          "id": "LK-110317503",
+          "name": "Sir. James Peris Mw",
+          "query_id": "25938"
+        },
+        {
+          "id": "LK-110317504",
+          "name": "Church Street",
+          "query_id": "25939"
+        },
+        {
+          "id": "LK-110317505",
+          "name": "Sonders Court",
+          "query_id": "25940"
+        },
+        {
+          "id": "LK-110317506",
+          "name": "Withanage Mw",
+          "query_id": "25941"
+        },
+        {
+          "id": "LK-110317507",
+          "name": "Dispansary Lane",
+          "query_id": "25942"
+        },
+        {
+          "id": "LK-110317508",
+          "name": "Justin Akbar Mw",
+          "query_id": "25943"
+        }
+      ]
+    }
+  ]
+}
