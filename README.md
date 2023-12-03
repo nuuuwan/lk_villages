@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**40,042** Villages from **10,823** GNDs in **252** DSDs (6.107MB), scraped as of *2023-12-04 02:20:22*.
+**40,527** Villages from **11,010** GNDs in **257** DSDs (6.189MB), scraped as of *2023-12-04 02:35:47*.
 
 ## LK-1 - Western
 
@@ -326,3 +326,13 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-6233](data/villages/LK-6233.json) - Chilaw
 * [LK-6236](data/villages/LK-6236.json) - Madampe
 * [LK-6239](data/villages/LK-6239.json) - Mahawewa
+* [LK-6242](data/villages/LK-6242.json) - Nattandiya
+* [LK-6245](data/villages/LK-6245.json) - Wennappuwa
+* [LK-6248](data/villages/LK-6248.json) - Dankotuwa
+
+## LK-7 - North Central
+
+### LK-71 - Anuradhapura
+
+* [LK-7103](data/villages/LK-7103.json) - Padaviya
+* [LK-7106](data/villages/LK-7106.json) - Kebithigollewa
