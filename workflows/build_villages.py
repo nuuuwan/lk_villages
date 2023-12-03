@@ -15,7 +15,7 @@ DIR_DATA_VILLAGES = os.path.join('data', 'villages')
 
 
 def random_sleep():
-    random_t = random.random() * 10 + 10
+    random_t = random.random() * 5 + 5
     log.debug(f"😴Sleeping for {random_t:.3f} seconds.")
     time.sleep(random_t)
 
