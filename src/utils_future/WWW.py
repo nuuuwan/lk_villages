@@ -1,7 +1,7 @@
 import requests
 from utils import Log
 
-TIMEOUT = 30
+TIMEOUT = 120
 
 log = Log('WWW')
 
