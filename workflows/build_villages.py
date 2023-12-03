@@ -47,7 +47,7 @@ def aggregate():
                     village_id=village['id'],
                     name=village['name'],
                 )
-            data_list.append(data)
+                data_list.append(data)
     data_list = sorted(data_list, key=lambda d: d['village_id'])
     TSVFile(ALL_PATH).write(data_list)
     log.debug(f'Wrote {len(data_list)} villages to {ALL_PATH}')
