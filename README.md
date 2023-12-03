@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**44,554** Villages from **12,204** GNDs in **292** DSDs (6.814MB), scraped as of *2023-12-04 04:19:57*.
+**45,727** Villages from **12,460** GNDs in **297** DSDs (6.986MB), scraped as of *2023-12-04 04:36:52*.
 
 ## LK-1 - Western
 
@@ -379,3 +379,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-8118](data/villages/LK-8118.json) - Passara
 * [LK-8119](data/villages/LK-8119.json) - Lunugala
 * [LK-8121](data/villages/LK-8121.json) - Badulla
+* [LK-8124](data/villages/LK-8124.json) - Hali-Ela
+* [LK-8127](data/villages/LK-8127.json) - Uva Paranagama
+* [LK-8130](data/villages/LK-8130.json) - Welimada
+* [LK-8133](data/villages/LK-8133.json) - Bandarawela
+* [LK-8136](data/villages/LK-8136.json) - Ella
