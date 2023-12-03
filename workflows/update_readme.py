@@ -32,7 +32,7 @@ def main():
         '',
         'Scrapes information about villages from http://moha.gov.lk:8090.',
         '',
-        f'**{n_villages}** Villages from from **{n_gnds}**'
+        f'**{n_villages}** Villages from **{n_gnds}** GNDs'
         + f' in **{n_dsds}** DSDs, scraped as of *{time_str}*.',
     ]
 
