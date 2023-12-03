@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**25,659** Villages from **6,616** GNDs in **127** DSDs (3.888MB), scraped as of *2023-12-03 20:06:11*.
+**26,295** Villages from **6,854** GNDs in **132** DSDs (3.994MB), scraped as of *2023-12-03 20:20:47*.
 
 ## LK-1 - Western
 
@@ -165,3 +165,13 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-3318](data/villages/LK-3318.json) - Angunakolapelessa
 * [LK-3321](data/villages/LK-3321.json) - Weeraketiya
 * [LK-3324](data/villages/LK-3324.json) - Katuwana
+* [LK-3327](data/villages/LK-3327.json) - Okewela
+* [LK-3330](data/villages/LK-3330.json) - Beliatta
+* [LK-3333](data/villages/LK-3333.json) - Tangalle
+* [LK-3336](data/villages/LK-3336.json) - ❔
+
+## LK-4 - Northern
+
+### LK-41 - Jaffna
+
+* [LK-4103](data/villages/LK-4103.json) - Island North (Kayts)
