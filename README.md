@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**29,780** Villages from **7,683** GNDs in **162** DSDs (4.510MB), scraped as of *2023-12-03 21:54:02*.
+**30,240** Villages from **7,784** GNDs in **167** DSDs (4.577MB), scraped as of *2023-12-03 22:05:53*.
 
 ## LK-1 - Western
 
@@ -217,3 +217,13 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 ### LK-45 - Kilinochchi
 
 * [LK-4503](data/villages/LK-4503.json) - Pachchilaipalli
+* [LK-4506](data/villages/LK-4506.json) - Kandavalai
+* [LK-4509](data/villages/LK-4509.json) - Karachchi
+* [LK-4512](data/villages/LK-4512.json) - Poonakary
+
+## LK-5 - Eastern
+
+### LK-51 - Batticaloa
+
+* [LK-5103](data/villages/LK-5103.json) - Koralai Pattu North (Vaharai)
+* [LK-5106](data/villages/LK-5106.json) - Koralai Pattu  West (Oddamavadi)

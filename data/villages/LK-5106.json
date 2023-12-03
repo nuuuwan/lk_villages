@@ -1,0 +1,213 @@
+{
+  "id": "LK-5106",
+  "name": "Koralai Pattu West (Oddamavadi)",
+  "query_id": "1104",
+  "children": [
+    {
+      "id": "LK-5106005",
+      "name": "Paper Town",
+      "query_id": "7561",
+      "children": [
+        {
+          "id": "LK-510600501",
+          "name": "Paper Town",
+          "query_id": "16090"
+        },
+        {
+          "id": "LK-510600502",
+          "name": "Kawaththamunai",
+          "query_id": "16092"
+        },
+        {
+          "id": "LK-510600504",
+          "name": "Puthuweli",
+          "query_id": "34567"
+        },
+        {
+          "id": "LK-510600505",
+          "name": "Kanjan Weli ",
+          "query_id": "34568"
+        },
+        {
+          "id": "LK-510600506",
+          "name": "Soodupaththina Senai",
+          "query_id": "34569"
+        },
+        {
+          "id": "LK-510600509",
+          "name": "Tharasena",
+          "query_id": "34570"
+        },
+        {
+          "id": "LK-510600507",
+          "name": "Sothyankattu",
+          "query_id": "34571"
+        },
+        {
+          "id": "LK-510600508",
+          "name": "Sengamalatheevu",
+          "query_id": "34572"
+        },
+        {
+          "id": "LK-510600503",
+          "name": "Magma Nagar West",
+          "query_id": "53019"
+        },
+        {
+          "id": "LK-510600510",
+          "name": "Milath Nagar",
+          "query_id": "54304"
+        },
+        {
+          "id": "LK-510600511",
+          "name": "Wattathimunai",
+          "query_id": "54305"
+        }
+      ]
+    },
+    {
+      "id": "LK-5106010",
+      "name": "Oddamavadi 01 North",
+      "query_id": "7563",
+      "children": [
+        {
+          "id": "LK-510601001",
+          "name": "Oddamavadi 1 Town ",
+          "query_id": "16071"
+        },
+        {
+          "id": "LK-510601002",
+          "name": "Oddamavadi -01 Central ",
+          "query_id": "41817"
+        },
+        {
+          "id": "LK-510601003",
+          "name": "Oddamavadi-01 North",
+          "query_id": "41820"
+        },
+        {
+          "id": "LK-510601005",
+          "name": "Oddamavadi - 01",
+          "query_id": "41821"
+        },
+        {
+          "id": "LK-510601004",
+          "name": "Oddamavadi-01 North East",
+          "query_id": "41823"
+        }
+      ]
+    },
+    {
+      "id": "LK-5106015",
+      "name": "Oddamavadi 01 South",
+      "query_id": "7564",
+      "children": [
+        {
+          "id": "LK-510601501",
+          "name": "Oddamavadi ",
+          "query_id": "16072"
+        }
+      ]
+    },
+    {
+      "id": "LK-5106020",
+      "name": "Oddamavadi  02",
+      "query_id": "7565",
+      "children": [
+        {
+          "id": "LK-510602001",
+          "name": "Oddamavadi 02",
+          "query_id": "16075"
+        },
+        {
+          "id": "LK-510602002",
+          "name": "Abrar Nagara",
+          "query_id": "41827"
+        }
+      ]
+    },
+    {
+      "id": "LK-5106025",
+      "name": "Oddamavadi 03",
+      "query_id": "7566",
+      "children": [
+        {
+          "id": "LK-510602501",
+          "name": "Oddamavadi  03",
+          "query_id": "16095"
+        },
+        {
+          "id": "LK-510602502",
+          "name": "Hairath City",
+          "query_id": "41831"
+        }
+      ]
+    },
+    {
+      "id": "LK-5106030",
+      "name": "Meeravodai Muslim West",
+      "query_id": "7567",
+      "children": [
+        {
+          "id": "LK-510603001",
+          "name": "Meeravodai West(Muslim)",
+          "query_id": "16079"
+        },
+        {
+          "id": "LK-510603002",
+          "name": "Ottuveli",
+          "query_id": "34573"
+        },
+        {
+          "id": "LK-510603003",
+          "name": "Thavanaikkantam",
+          "query_id": "34574"
+        },
+        {
+          "id": "LK-510603004",
+          "name": "Hilmiya Nagara",
+          "query_id": "41839"
+        }
+      ]
+    },
+    {
+      "id": "LK-5106035",
+      "name": "Meeravodai  Muslim  East",
+      "query_id": "7568",
+      "children": [
+        {
+          "id": "LK-510603501",
+          "name": "Meeravodai East(Muslim)",
+          "query_id": "16082"
+        },
+        {
+          "id": "LK-510603502",
+          "name": "Hamithiya Nagar ",
+          "query_id": "41842"
+        }
+      ]
+    },
+    {
+      "id": "LK-5106040",
+      "name": "Mancholai ",
+      "query_id": "7569",
+      "children": [
+        {
+          "id": "LK-510604001",
+          "name": "Manchcholai",
+          "query_id": "16085"
+        },
+        {
+          "id": "LK-510604002",
+          "name": "Bathuriya Nagar ",
+          "query_id": "16088"
+        },
+        {
+          "id": "LK-510604003",
+          "name": "Thakwa City",
+          "query_id": "41846"
+        }
+      ]
+    }
+  ]
+}
