@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**26,295** Villages from **6,854** GNDs in **132** DSDs (3.994MB), scraped as of *2023-12-03 20:20:47*.
+**26,958** Villages from **7,013** GNDs in **137** DSDs (4.092MB), scraped as of *2023-12-03 20:35:34*.
 
 ## LK-1 - Western
 
@@ -175,3 +175,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 ### LK-41 - Jaffna
 
 * [LK-4103](data/villages/LK-4103.json) - Island North (Kayts)
+* [LK-4106](data/villages/LK-4106.json) - Valikamam West (Chankanai)
+* [LK-4109](data/villages/LK-4109.json) - Valikamam South-West (Sandilipay)
+* [LK-4112](data/villages/LK-4112.json) - Valikamam North (Tellipallai)
+* [LK-4115](data/villages/LK-4115.json) - Valikamam South (Uduvil)
+* [LK-4118](data/villages/LK-4118.json) - Valikamam East (Kopay)
