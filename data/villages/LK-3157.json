@@ -1,0 +1,455 @@
+{
+  "id": "LK-3157",
+  "name": "Gonapinuwala",
+  "query_id": "1280",
+  "children": [
+    {
+      "id": "LK-3157010",
+      "name": "Manampita",
+      "query_id": "5200",
+      "children": [
+        {
+          "id": "LK-315701001",
+          "name": "Manampita",
+          "query_id": "1243"
+        },
+        {
+          "id": "LK-315701002",
+          "name": "Dehigahabedda",
+          "query_id": "1244"
+        },
+        {
+          "id": "LK-315701003",
+          "name": "Madumkumbura",
+          "query_id": "1245"
+        },
+        {
+          "id": "LK-315701004",
+          "name": "A Part of Polhunnawa",
+          "query_id": "1246"
+        },
+        {
+          "id": "LK-315701005",
+          "name": "Kosatahena",
+          "query_id": "1247"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157015",
+      "name": "Dangaragaha Udumulla",
+      "query_id": "5201",
+      "children": [
+        {
+          "id": "LK-315701501",
+          "name": "Dangaragaha Udumulla",
+          "query_id": "1248"
+        },
+        {
+          "id": "LK-315701502",
+          "name": "Watawalagodella",
+          "query_id": "1249"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157020",
+      "name": "Banwelgodella",
+      "query_id": "5202",
+      "children": [
+        {
+          "id": "LK-315702001",
+          "name": "Banwelgodella",
+          "query_id": "1250"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157005",
+      "name": "Karuwalabedda",
+      "query_id": "5203",
+      "children": [
+        {
+          "id": "LK-315700501",
+          "name": "Karuwalabedda",
+          "query_id": "1251"
+        },
+        {
+          "id": "LK-315700502",
+          "name": "Katajayagaha Udumulla",
+          "query_id": "1252"
+        },
+        {
+          "id": "LK-315700502",
+          "name": "Part of Manampita",
+          "query_id": "1253"
+        },
+        {
+          "id": "LK-315700504",
+          "name": "Part of Dehigahabedda",
+          "query_id": "1254"
+        },
+        {
+          "id": "LK-315700504",
+          "name": "Kakirigaha Udumulla",
+          "query_id": "1255"
+        },
+        {
+          "id": "LK-315700506",
+          "name": "Part of the Karanawila",
+          "query_id": "1256"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157040",
+      "name": "Kirindiela",
+      "query_id": "5209",
+      "children": [
+        {
+          "id": "LK-315704004",
+          "name": "Kirindiala",
+          "query_id": "1272"
+        },
+        {
+          "id": "LK-315704003",
+          "name": "Kiralagahawela",
+          "query_id": "1273"
+        },
+        {
+          "id": "LK-315704005",
+          "name": "Mahagangoda (Part)",
+          "query_id": "52409"
+        },
+        {
+          "id": "LK-315704006",
+          "name": "Etholuwa (Part)",
+          "query_id": "52410"
+        },
+        {
+          "id": "LK-315704006",
+          "name": "Etholuwa (Part)",
+          "query_id": "52411"
+        },
+        {
+          "id": "LK-315704001",
+          "name": "Eth Adiya",
+          "query_id": "52407"
+        },
+        {
+          "id": "LK-315704002",
+          "name": "Paluwila",
+          "query_id": "52408"
+        },
+        {
+          "id": "LK-315704008",
+          "name": "Diddeliya (Part)",
+          "query_id": "52413"
+        },
+        {
+          "id": "LK-315704007",
+          "name": "Thambahitiya (Part)",
+          "query_id": "52412"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157035",
+      "name": "Mahagangoda",
+      "query_id": "5210",
+      "children": [
+        {
+          "id": "LK-315703501",
+          "name": "Mahagangoda",
+          "query_id": "1274"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157030",
+      "name": "Aluthwala",
+      "query_id": "5211",
+      "children": [
+        {
+          "id": "LK-315703001",
+          "name": "Aluthwala",
+          "query_id": "1275"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157025",
+      "name": "Eriyagahamulla",
+      "query_id": "5212",
+      "children": [
+        {
+          "id": "LK-315702501",
+          "name": "Eriyagahamulla",
+          "query_id": "1276"
+        },
+        {
+          "id": "LK-315702501",
+          "name": "Part of Aluthwala",
+          "query_id": "1277"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157050",
+      "name": "Henagoda",
+      "query_id": "5213",
+      "children": [
+        {
+          "id": "LK-315705001",
+          "name": "Part of Kammalgoda ",
+          "query_id": "1278"
+        },
+        {
+          "id": "LK-315705002",
+          "name": "Henagoda",
+          "query_id": "52403"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157045",
+      "name": "Thilakagama",
+      "query_id": "5214",
+      "children": [
+        {
+          "id": "LK-315704501",
+          "name": "Kibulamaladeniya",
+          "query_id": "1279"
+        },
+        {
+          "id": "LK-315704502",
+          "name": "Part of Berathuduwa ",
+          "query_id": "1280"
+        },
+        {
+          "id": "LK-315704503",
+          "name": "Gimana",
+          "query_id": "1281"
+        },
+        {
+          "id": "LK-315704504",
+          "name": "Indigahawela",
+          "query_id": "52405"
+        },
+        {
+          "id": "LK-315704505",
+          "name": "Thilaka Udagama",
+          "query_id": "52406"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157065",
+      "name": "Berathuduwa",
+      "query_id": "5215",
+      "children": [
+        {
+          "id": "LK-315706501",
+          "name": "Part of the Berethuduwa",
+          "query_id": "1282"
+        },
+        {
+          "id": "LK-315706501",
+          "name": "Berathuduwa",
+          "query_id": "1283"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157060",
+      "name": "Woodland Watta",
+      "query_id": "5216",
+      "children": [
+        {
+          "id": "LK-315706001",
+          "name": "Woodland watta",
+          "query_id": "1284"
+        },
+        {
+          "id": "LK-315706002",
+          "name": "Kasland Watta Place",
+          "query_id": "1285"
+        },
+        {
+          "id": "LK-315706003",
+          "name": "Harisland Watta",
+          "query_id": "1286"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157080",
+      "name": "Gonapinuwala East",
+      "query_id": "5217",
+      "children": [
+        {
+          "id": "LK-315708001",
+          "name": "Rathmahara",
+          "query_id": "1287"
+        },
+        {
+          "id": "LK-315708002",
+          "name": "Suramya Road",
+          "query_id": "1288"
+        },
+        {
+          "id": "LK-315708003",
+          "name": "Berathuduwa Road",
+          "query_id": "1289"
+        },
+        {
+          "id": "LK-315708004",
+          "name": "Baddegama Road",
+          "query_id": "1290"
+        },
+        {
+          "id": "LK-315708005",
+          "name": "Aluthwala Road",
+          "query_id": "52395"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157055",
+      "name": "Gonapeenuwala Central",
+      "query_id": "5218",
+      "children": [
+        {
+          "id": "LK-315705501",
+          "name": "Kiththandoowa",
+          "query_id": "1291"
+        },
+        {
+          "id": "LK-315705502",
+          "name": "Kammalgoda",
+          "query_id": "1292"
+        },
+        {
+          "id": "LK-315705503",
+          "name": "Kongahagoda",
+          "query_id": "1293"
+        },
+        {
+          "id": "LK-315705504",
+          "name": "Rathmeherawatta",
+          "query_id": "1294"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157095",
+      "name": "Kaluwagaha Colony",
+      "query_id": "5219",
+      "children": [
+        {
+          "id": "LK-315709501",
+          "name": "Kaluwagaha Colony",
+          "query_id": "1295"
+        },
+        {
+          "id": "LK-315709502",
+          "name": "Kaluwagaha Watta",
+          "query_id": "52400"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157085",
+      "name": "Gonapinuwala West",
+      "query_id": "5220",
+      "children": [
+        {
+          "id": "LK-315708501",
+          "name": "Part of Kongahagoda",
+          "query_id": "1296"
+        },
+        {
+          "id": "LK-315708502",
+          "name": "Part of the Kiththandoowa",
+          "query_id": "1297"
+        },
+        {
+          "id": "LK-315708503",
+          "name": "West of the Gonapinuwala",
+          "query_id": "1298"
+        },
+        {
+          "id": "LK-315708504",
+          "name": "Kandegoda",
+          "query_id": "1299"
+        },
+        {
+          "id": "LK-315708505",
+          "name": "Kurusagoda",
+          "query_id": "1300"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157075",
+      "name": "Arachchikanda",
+      "query_id": "5222",
+      "children": [
+        {
+          "id": "LK-315707501",
+          "name": "Arachchikanda",
+          "query_id": "1303"
+        },
+        {
+          "id": "LK-315707502",
+          "name": "Mahaweella Road",
+          "query_id": "1304"
+        },
+        {
+          "id": "LK-315707503",
+          "name": "Kahatagahawatta",
+          "query_id": "1305"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157070",
+      "name": "Hikkaduwa East",
+      "query_id": "5223",
+      "children": [
+        {
+          "id": "LK-315707001",
+          "name": "Pathana",
+          "query_id": "1306"
+        },
+        {
+          "id": "LK-315707002",
+          "name": "Suduwelipotha",
+          "query_id": "1307"
+        },
+        {
+          "id": "LK-315707003",
+          "name": "Kotidoowawatta",
+          "query_id": "1308"
+        }
+      ]
+    },
+    {
+      "id": "LK-3157090",
+      "name": "Dodankahawila",
+      "query_id": "14040",
+      "children": [
+        {
+          "id": "LK-315709001",
+          "name": "Dodamkahawila",
+          "query_id": "52398"
+        },
+        {
+          "id": "LK-315709002",
+          "name": "Part of Kiththandoowa",
+          "query_id": "52399"
+        }
+      ]
+    }
+  ]
+}

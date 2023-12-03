@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**21,694** Villages from **5,399** GNDs in **97** DSDs (3.269MB), scraped as of *2023-12-03 18:35:05*.
+**22,211** Villages from **5,590** GNDs in **102** DSDs (3.353MB), scraped as of *2023-12-03 18:41:53*.
 
 ## LK-1 - Western
 
@@ -125,7 +125,12 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-3130](data/villages/LK-3130.json) - Welivitiya-Divithura
 * [LK-3133](data/villages/LK-3133.json) - Ambalangoda
 * [LK-3136](data/villages/LK-3136.json) - Hikkaduwa
+* [LK-3137](data/villages/LK-3137.json) - ❔
+* [LK-3138](data/villages/LK-3138.json) - ❔
 * [LK-3139](data/villages/LK-3139.json) - Galle Four Gravets
 * [LK-3142](data/villages/LK-3142.json) - Bope-Poddala
 * [LK-3145](data/villages/LK-3145.json) - Akmeemana
 * [LK-3148](data/villages/LK-3148.json) - Yakkalamulla
+* [LK-3151](data/villages/LK-3151.json) - Imaduwa
+* [LK-3154](data/villages/LK-3154.json) - Habaraduwa
+* [LK-3157](data/villages/LK-3157.json) - ❔
