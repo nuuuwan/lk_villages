@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**11,736** Villages from **2,630** GNDs in **42** DSDs (1.730MB), scraped as of *2023-12-03 13:59:23*.
+**12,467** Villages from **2,842** GNDs in **47** DSDs (1.843MB), scraped as of *2023-12-03 14:16:02*.
 
 ## LK-1 - Western
 
@@ -61,3 +61,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 * [LK-2103](data/villages/LK-2103.json) - Thumpane
 * [LK-2106](data/villages/LK-2106.json) - Pujapitiya
+* [LK-2109](data/villages/LK-2109.json) - Akurana
+* [LK-2112](data/villages/LK-2112.json) - Pathadumbara
+* [LK-2115](data/villages/LK-2115.json) - Panvila
+* [LK-2118](data/villages/LK-2118.json) - Udadumbara
+* [LK-2121](data/villages/LK-2121.json) - Minipe

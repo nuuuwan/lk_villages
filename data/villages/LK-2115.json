@@ -1,0 +1,615 @@
+{
+  "id": "LK-2115",
+  "name": "Panvila",
+  "query_id": "994",
+  "children": [
+    {
+      "id": "LK-2115005",
+      "name": "Kelebokka",
+      "query_id": "2726",
+      "children": [
+        {
+          "id": "LK-211500501",
+          "name": "Diyanilla State",
+          "query_id": "16127"
+        },
+        {
+          "id": "LK-211500502",
+          "name": "Galahiriya Estate",
+          "query_id": "16128"
+        },
+        {
+          "id": "LK-211500503",
+          "name": "Hoolankanda Estate",
+          "query_id": "16130"
+        },
+        {
+          "id": "LK-211500504",
+          "name": "Kallebokka Estate",
+          "query_id": "16131"
+        },
+        {
+          "id": "LK-211500505",
+          "name": "Kallebokka S.P. Nellimale Division",
+          "query_id": "16133"
+        },
+        {
+          "id": "LK-211500506",
+          "name": "Nellimale  (PVT) Estate",
+          "query_id": "16134"
+        },
+        {
+          "id": "LK-211500507",
+          "name": "Relugas watta No 2",
+          "query_id": "16136"
+        },
+        {
+          "id": "LK-211500508",
+          "name": "Kalebokka Nivasa yojana kramaya",
+          "query_id": "16139"
+        },
+        {
+          "id": "LK-211500510",
+          "name": "Kelabokka Upper Division",
+          "query_id": "39259"
+        },
+        {
+          "id": "LK-211500511",
+          "name": "Hulnkanda Watta Middle Division",
+          "query_id": "54333"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115010",
+      "name": "Watakele",
+      "query_id": "2727",
+      "children": [
+        {
+          "id": "LK-211501001",
+          "name": "Mahapatana Tharunagovi Viyaparaya",
+          "query_id": "16125"
+        },
+        {
+          "id": "LK-211501002",
+          "name": "Watakele Estate Upper Division",
+          "query_id": "16126"
+        },
+        {
+          "id": "LK-211501003",
+          "name": "Wattakele Estate Lower Division",
+          "query_id": "40710"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115015",
+      "name": "Mahapathana",
+      "query_id": "2728",
+      "children": [
+        {
+          "id": "LK-211501502",
+          "name": "Maussawa Bazar",
+          "query_id": "16123"
+        },
+        {
+          "id": "LK-211501503",
+          "name": "Mahaousa Estate upper division",
+          "query_id": "16124"
+        },
+        {
+          "id": "LK-211501501",
+          "name": "Mahapathana Gama",
+          "query_id": "51315"
+        },
+        {
+          "id": "LK-211501504",
+          "name": "Maussawa Estate lower Division",
+          "query_id": "51316"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115020",
+      "name": "Kosgama",
+      "query_id": "2729",
+      "children": [
+        {
+          "id": "LK-211502001",
+          "name": "Alakola   Estate",
+          "query_id": "16141"
+        },
+        {
+          "id": "LK-211502002",
+          "name": "Alakolawatta lower division",
+          "query_id": "16143"
+        },
+        {
+          "id": "LK-211502003",
+          "name": "Alakolawatta Uper divsion",
+          "query_id": "16145"
+        },
+        {
+          "id": "LK-211502004",
+          "name": "Huluganga Bazar",
+          "query_id": "16146"
+        },
+        {
+          "id": "LK-211502005",
+          "name": "Rathnatenna Estate",
+          "query_id": "16147"
+        },
+        {
+          "id": "LK-211502006",
+          "name": "Kaludella Colony",
+          "query_id": "16149"
+        },
+        {
+          "id": "LK-211502007",
+          "name": "Kandaketiya Watta uper division",
+          "query_id": "16150"
+        },
+        {
+          "id": "LK-211502008",
+          "name": "Alakola Colony",
+          "query_id": "16152"
+        },
+        {
+          "id": "LK-211502010",
+          "name": "Kosgama village ",
+          "query_id": "16153"
+        },
+        {
+          "id": "LK-211502009",
+          "name": "Kandaketiyawatta lower division",
+          "query_id": "16154"
+        },
+        {
+          "id": "LK-211502011",
+          "name": "St. Jhonshil Estate (Hulaganga Estate Division)",
+          "query_id": "16155"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115025",
+      "name": "Thawalanthenna",
+      "query_id": "2730",
+      "children": [
+        {
+          "id": "LK-211502514",
+          "name": "Dawatagala Estate",
+          "query_id": "54340"
+        },
+        {
+          "id": "LK-211502513",
+          "name": "Knuckles Gam Udawa",
+          "query_id": "54339"
+        },
+        {
+          "id": "LK-211502510",
+          "name": "Gomaraya S.P. - Batangala Division",
+          "query_id": "54336"
+        },
+        {
+          "id": "LK-211502501",
+          "name": "Hagala S.P.- Hagala Division",
+          "query_id": "16164"
+        },
+        {
+          "id": "LK-211502502",
+          "name": "Hagala S.P. - Madakale Division",
+          "query_id": "16166"
+        },
+        {
+          "id": "LK-211502503",
+          "name": "Katuloya",
+          "query_id": "16167"
+        },
+        {
+          "id": "LK-211502504",
+          "name": "Hagala Gam Udawa",
+          "query_id": "16169"
+        },
+        {
+          "id": "LK-211502505",
+          "name": "Mariland ",
+          "query_id": "16171"
+        },
+        {
+          "id": "LK-211502508",
+          "name": "Gomaraya S.P. - Lebanan Division",
+          "query_id": "54334"
+        },
+        {
+          "id": "LK-211502506",
+          "name": "Nukkles Watta",
+          "query_id": "16172"
+        },
+        {
+          "id": "LK-211502511",
+          "name": "Rathnagiriya",
+          "query_id": "54337"
+        },
+        {
+          "id": "LK-211502512",
+          "name": "Batagala upper division",
+          "query_id": "54338"
+        },
+        {
+          "id": "LK-211502509",
+          "name": "Gomaraya S.P. - Liyangala Division",
+          "query_id": "54335"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115030",
+      "name": "Gomaraya",
+      "query_id": "2731",
+      "children": [
+        {
+          "id": "LK-211503005",
+          "name": "Gomaraya Estate Lower Division",
+          "query_id": "54341"
+        },
+        {
+          "id": "LK-211503001",
+          "name": "Gomaraya Bazar",
+          "query_id": "16175"
+        },
+        {
+          "id": "LK-211503002",
+          "name": "Gomaraya colony Upper division",
+          "query_id": "16176"
+        },
+        {
+          "id": "LK-211503003",
+          "name": "Gomaraya Colony lower division",
+          "query_id": "16178"
+        },
+        {
+          "id": "LK-211503004",
+          "name": "Gomaraya Estate Upper Division",
+          "query_id": "16179"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115035",
+      "name": "Beddegama",
+      "query_id": "2732",
+      "children": [
+        {
+          "id": "LK-211503501",
+          "name": "Beddagama",
+          "query_id": "16157"
+        },
+        {
+          "id": "LK-211503502",
+          "name": "Florence Estate",
+          "query_id": "16158"
+        },
+        {
+          "id": "LK-211503503",
+          "name": " Galabadawatta",
+          "query_id": "16160"
+        },
+        {
+          "id": "LK-211503504",
+          "name": "Beddegama Mariland Colony ",
+          "query_id": "16161"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115040",
+      "name": "Arattana",
+      "query_id": "2733",
+      "children": [
+        {
+          "id": "LK-211504001",
+          "name": "Arattana Esatate Colony",
+          "query_id": "16089"
+        },
+        {
+          "id": "LK-211504002",
+          "name": "Diyarabedu tenna",
+          "query_id": "16091"
+        },
+        {
+          "id": "LK-211504003",
+          "name": "Delgaha anga",
+          "query_id": "16093"
+        },
+        {
+          "id": "LK-211504004",
+          "name": "Dikhinna colony",
+          "query_id": "16094"
+        },
+        {
+          "id": "LK-211504005",
+          "name": "Elediya Estate (PVT)",
+          "query_id": "16096"
+        },
+        {
+          "id": "LK-211504006",
+          "name": "Elediya Colony",
+          "query_id": "16097"
+        },
+        {
+          "id": "LK-211504007",
+          "name": "Ganga tenna",
+          "query_id": "16098"
+        },
+        {
+          "id": "LK-211504008",
+          "name": "Meegasthanna",
+          "query_id": "16099"
+        },
+        {
+          "id": "LK-211504009",
+          "name": "Pahalagammadda",
+          "query_id": "16100"
+        },
+        {
+          "id": "LK-211504010",
+          "name": "Tharanagala (Colony & Private Land)",
+          "query_id": "16101"
+        },
+        {
+          "id": "LK-211504011",
+          "name": "Udagammadda",
+          "query_id": "16102"
+        },
+        {
+          "id": "LK-211504012",
+          "name": "Warakalanda Colony",
+          "query_id": "16103"
+        },
+        {
+          "id": "LK-211504013",
+          "name": "Sent jojhons Hill Estate( PVT)",
+          "query_id": "39261"
+        },
+        {
+          "id": "LK-211504014",
+          "name": "Araththana Estate (pvt)",
+          "query_id": "51317"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115045",
+      "name": "Madulkele",
+      "query_id": "2734",
+      "children": [
+        {
+          "id": "LK-211504501",
+          "name": "Mudulkele Bazaar",
+          "query_id": "16116"
+        },
+        {
+          "id": "LK-211504502",
+          "name": "Madulkelle  Madulkele Estate Lower Division",
+          "query_id": "16117"
+        },
+        {
+          "id": "LK-211504503",
+          "name": "Madulkelle  Estate Upper division",
+          "query_id": "16118"
+        },
+        {
+          "id": "LK-211504505",
+          "name": "Unanagala Estate",
+          "query_id": "39263"
+        },
+        {
+          "id": "LK-211504506",
+          "name": "Nellikola Estate",
+          "query_id": "39266"
+        },
+        {
+          "id": "LK-211504507",
+          "name": "Bandaranayaka pura",
+          "query_id": "39268"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115050",
+      "name": "Hathale",
+      "query_id": "2735",
+      "children": [
+        {
+          "id": "LK-211505001",
+          "name": "Akkara 93 Division",
+          "query_id": "16104"
+        },
+        {
+          "id": "LK-211505002",
+          "name": "16 Kanuwa Colony (Parabahathenna Colony)",
+          "query_id": "16106"
+        },
+        {
+          "id": "LK-211505003",
+          "name": "Tharuna govi Viyaparaya",
+          "query_id": "16110"
+        },
+        {
+          "id": "LK-211505004",
+          "name": "Hathale Estate Lower Division",
+          "query_id": "16112"
+        },
+        {
+          "id": "LK-211505008",
+          "name": "Hathale Estate Upper division",
+          "query_id": "54343"
+        },
+        {
+          "id": "LK-211505007",
+          "name": "Hathale Estate Middle Division",
+          "query_id": "54342"
+        },
+        {
+          "id": "LK-211505005",
+          "name": "Mount Hunnasgiriya",
+          "query_id": "39272"
+        },
+        {
+          "id": "LK-211505006",
+          "name": "Richland Estate",
+          "query_id": "39273"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115055",
+      "name": "Angammana",
+      "query_id": "2736",
+      "children": [
+        {
+          "id": "LK-211505501",
+          "name": "Angammana",
+          "query_id": "16077"
+        },
+        {
+          "id": "LK-211505502",
+          "name": "Galpihilla Estate Nikathanna",
+          "query_id": "16078"
+        },
+        {
+          "id": "LK-211505503",
+          "name": "Nivasa 30 (Adarsha Gammanaya)",
+          "query_id": "16080"
+        },
+        {
+          "id": "LK-211505504",
+          "name": "Katukithula colony",
+          "query_id": "16081"
+        },
+        {
+          "id": "LK-211505506",
+          "name": "Glasstown Estate",
+          "query_id": "54344"
+        },
+        {
+          "id": "LK-211505505",
+          "name": "Akkara 53 Colony",
+          "query_id": "39257"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115060",
+      "name": "Udugoda",
+      "query_id": "2737",
+      "children": [
+        {
+          "id": "LK-211506001",
+          "name": "Dewalagama",
+          "query_id": "16065"
+        },
+        {
+          "id": "LK-211506002",
+          "name": "Elen udagama",
+          "query_id": "16066"
+        },
+        {
+          "id": "LK-211506003",
+          "name": "Heeralu Anga gama",
+          "query_id": "16067"
+        },
+        {
+          "id": "LK-211506004",
+          "name": "Ihalagama",
+          "query_id": "16068"
+        },
+        {
+          "id": "LK-211506005",
+          "name": "Kurukude Gama",
+          "query_id": "16069"
+        },
+        {
+          "id": "LK-211506005",
+          "name": "Udugoda",
+          "query_id": "16070"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115065",
+      "name": "Pitawala",
+      "query_id": "2738",
+      "children": [
+        {
+          "id": "LK-211506501",
+          "name": "Dehimaditta",
+          "query_id": "16073"
+        },
+        {
+          "id": "LK-211506502",
+          "name": "Wela ihala Gama",
+          "query_id": "16074"
+        },
+        {
+          "id": "LK-211506503",
+          "name": "Pitawala Gama",
+          "query_id": "16076"
+        },
+        {
+          "id": "LK-211506505",
+          "name": "Eriyagasthenna",
+          "query_id": "54348"
+        },
+        {
+          "id": "LK-211506504",
+          "name": "Madagammedda",
+          "query_id": "54347"
+        }
+      ]
+    },
+    {
+      "id": "LK-2115070",
+      "name": "Panvila",
+      "query_id": "2739",
+      "children": [
+        {
+          "id": "LK-211507001",
+          "name": "Panvila Town",
+          "query_id": "16083"
+        },
+        {
+          "id": "LK-211507002",
+          "name": "Purankumbura Gama",
+          "query_id": "16084"
+        },
+        {
+          "id": "LK-211507003",
+          "name": "Rakshawa Estate",
+          "query_id": "16086"
+        },
+        {
+          "id": "LK-211507004",
+          "name": "Udakumbura Gama",
+          "query_id": "16087"
+        },
+        {
+          "id": "LK-211507007",
+          "name": "Madyama Panthika Nivasa Kramaya",
+          "query_id": "54346"
+        },
+        {
+          "id": "LK-211507006",
+          "name": "Appallabedda Gama",
+          "query_id": "54345"
+        },
+        {
+          "id": "LK-211507005",
+          "name": "Dehimadiththa Village",
+          "query_id": "39256"
+        }
+      ]
+    }
+  ]
+}
