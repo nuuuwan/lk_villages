@@ -1,0 +1,453 @@
+{
+  "id": "LK-4136",
+  "name": "Jaffna",
+  "query_id": "1082",
+  "children": [
+    {
+      "id": "LK-4136005",
+      "name": "Nedunkulam",
+      "query_id": "7168",
+      "children": [
+        {
+          "id": "LK-413600501",
+          "name": "Nedunkulam",
+          "query_id": "24514"
+        },
+        {
+          "id": "LK-413600504",
+          "name": "Elillur",
+          "query_id": "24516"
+        },
+        {
+          "id": "LK-413600502",
+          "name": "Vasanthapuram",
+          "query_id": "24519"
+        },
+        {
+          "id": "LK-413600503",
+          "name": "Mahendrapuram",
+          "query_id": "24522"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136010",
+      "name": "Columbuthurai East",
+      "query_id": "7169",
+      "children": [
+        {
+          "id": "LK-413601001",
+          "name": "Columbuthurai East Part",
+          "query_id": "24527"
+        },
+        {
+          "id": "LK-413601002",
+          "name": "Velampuram",
+          "query_id": "34746"
+        },
+        {
+          "id": "LK-413601003",
+          "name": "Punithapuram",
+          "query_id": "34747"
+        },
+        {
+          "id": "LK-413601004",
+          "name": "Uthayapuram",
+          "query_id": "34748"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136015",
+      "name": "Columbuthurai West",
+      "query_id": "7170",
+      "children": [
+        {
+          "id": "LK-413601501",
+          "name": "Columbuthurai West  part",
+          "query_id": "24528"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136020",
+      "name": "Passaiyoor East",
+      "query_id": "7171",
+      "children": [
+        {
+          "id": "LK-413602001",
+          "name": "Passaiyoor East part",
+          "query_id": "24530"
+        },
+        {
+          "id": "LK-413602002",
+          "name": "Puthukudiyiruppu",
+          "query_id": "34749"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136025",
+      "name": "Passaiyoor West",
+      "query_id": "7172",
+      "children": [
+        {
+          "id": "LK-413602501",
+          "name": "Passaiyoor West Part",
+          "query_id": "24532"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136030",
+      "name": "Eachchamoddai",
+      "query_id": "7173",
+      "children": [
+        {
+          "id": "LK-413603001",
+          "name": "Eachchamoddai",
+          "query_id": "24534"
+        },
+        {
+          "id": "LK-413603002",
+          "name": "Koiyathoddam",
+          "query_id": "34750"
+        },
+        {
+          "id": "LK-413603003",
+          "name": "Pandiyanthalvu",
+          "query_id": "34751"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136035",
+      "name": "Thirunagar",
+      "query_id": "7174",
+      "children": [
+        {
+          "id": "LK-413603501",
+          "name": "Thirunagar",
+          "query_id": "24535"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136040",
+      "name": "Reclamation East",
+      "query_id": "7175",
+      "children": [
+        {
+          "id": "LK-413604001",
+          "name": "Reclamation East part",
+          "query_id": "24536"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136045",
+      "name": "Reclamation West",
+      "query_id": "7176",
+      "children": [
+        {
+          "id": "LK-413604501",
+          "name": "Reclamation West part",
+          "query_id": "24537"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136050",
+      "name": "Gurunagar East",
+      "query_id": "7177",
+      "children": [
+        {
+          "id": "LK-413605001",
+          "name": "Gurunagar East part",
+          "query_id": "24539"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136055",
+      "name": "Gurunagar West",
+      "query_id": "7178",
+      "children": [
+        {
+          "id": "LK-413605501",
+          "name": "Gurunagar West part",
+          "query_id": "24541"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136060",
+      "name": "Small Bazaar",
+      "query_id": "7179",
+      "children": [
+        {
+          "id": "LK-413606001",
+          "name": "Small Bazaar",
+          "query_id": "24543"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136065",
+      "name": "Jaffna Town West",
+      "query_id": "7180",
+      "children": [
+        {
+          "id": "LK-413606501",
+          "name": "Jaffna Town West Part",
+          "query_id": "24544"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136070",
+      "name": "Jaffna Town East",
+      "query_id": "7181",
+      "children": [
+        {
+          "id": "LK-413607001",
+          "name": "Jaffna Town East Part",
+          "query_id": "24546"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136075",
+      "name": "Chundikuly South",
+      "query_id": "7182",
+      "children": [
+        {
+          "id": "LK-413607501",
+          "name": "Chundikuly South part",
+          "query_id": "24547"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136080",
+      "name": "Chundikuly North",
+      "query_id": "7183",
+      "children": [
+        {
+          "id": "LK-413608001",
+          "name": "Chundikuly North Part ",
+          "query_id": "24548"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136085",
+      "name": "Maruthady",
+      "query_id": "7184",
+      "children": [
+        {
+          "id": "LK-413608501",
+          "name": "Maruthady",
+          "query_id": "24550"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136090",
+      "name": "Aththiady",
+      "query_id": "7185",
+      "children": [
+        {
+          "id": "LK-413609001",
+          "name": "Aththiady",
+          "query_id": "24551"
+        },
+        {
+          "id": "LK-413609002",
+          "name": "Rasavin Thoddam",
+          "query_id": "34752"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136095",
+      "name": "Sirampiyady",
+      "query_id": "7186",
+      "children": [
+        {
+          "id": "LK-413609501",
+          "name": "Sirampiyady",
+          "query_id": "24554"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136100",
+      "name": "Grand Bazaar",
+      "query_id": "7187",
+      "children": [
+        {
+          "id": "LK-413610001",
+          "name": "Grand Bazaar",
+          "query_id": "24556"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136105",
+      "name": "Fort",
+      "query_id": "7188",
+      "children": [
+        {
+          "id": "LK-413610501",
+          "name": "Fort",
+          "query_id": "24557"
+        },
+        {
+          "id": "LK-413610502",
+          "name": "Menachchipuram",
+          "query_id": "34753"
+        },
+        {
+          "id": "LK-413610503",
+          "name": "Muththamil Village",
+          "query_id": "34754"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136110",
+      "name": "Vannarpannai",
+      "query_id": "7189",
+      "children": [
+        {
+          "id": "LK-413611001",
+          "name": "Vannarpannai",
+          "query_id": "24558"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136115",
+      "name": "Koddady",
+      "query_id": "7190",
+      "children": [
+        {
+          "id": "LK-413611501",
+          "name": "Koddady",
+          "query_id": "24560"
+        },
+        {
+          "id": "LK-413611502",
+          "name": "Solai Puram",
+          "query_id": "34755"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136120",
+      "name": "Navanthurai South",
+      "query_id": "7191",
+      "children": [
+        {
+          "id": "LK-413612001",
+          "name": "Navanthurai South",
+          "query_id": "24562"
+        },
+        {
+          "id": "LK-413612002",
+          "name": "Manpiddy",
+          "query_id": "34641"
+        },
+        {
+          "id": "LK-413612003",
+          "name": "Kannapuram",
+          "query_id": "34642"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136125",
+      "name": "Navanthurai North",
+      "query_id": "7192",
+      "children": [
+        {
+          "id": "LK-413612501",
+          "name": "Navanthurai North",
+          "query_id": "24563"
+        },
+        {
+          "id": "LK-413612502",
+          "name": "Suriyavely",
+          "query_id": "34756"
+        },
+        {
+          "id": "LK-413612503",
+          "name": "Vasanthapuram",
+          "query_id": "34757"
+        },
+        {
+          "id": "LK-413612504",
+          "name": "Niththiya Olly",
+          "query_id": "34758"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136130",
+      "name": "Moor Street South",
+      "query_id": "7193",
+      "children": [
+        {
+          "id": "LK-413613001",
+          "name": "Moor Street South Part",
+          "query_id": "24565"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136135",
+      "name": "Moor Street North ",
+      "query_id": "7194",
+      "children": [
+        {
+          "id": "LK-413613501",
+          "name": "Moor Street North Part",
+          "query_id": "24569"
+        },
+        {
+          "id": "LK-413613502",
+          "name": "Pommaivelly",
+          "query_id": "34759"
+        },
+        {
+          "id": "LK-413613503",
+          "name": "Oddumadam Part",
+          "query_id": "34760"
+        }
+      ]
+    },
+    {
+      "id": "LK-4136140",
+      "name": "New Moor Street",
+      "query_id": "7195",
+      "children": [
+        {
+          "id": "LK-413614001",
+          "name": "New Moor Street",
+          "query_id": "24570"
+        },
+        {
+          "id": "LK-413614002",
+          "name": "Arukalmaddam",
+          "query_id": "34761"
+        },
+        {
+          "id": "LK-413614003",
+          "name": "Oddumadam Part",
+          "query_id": "34762"
+        }
+      ]
+    }
+  ]
+}

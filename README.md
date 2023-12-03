@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**27,532** Villages from **7,201** GNDs in **142** DSDs (4.184MB), scraped as of *2023-12-03 20:52:27*.
+**28,031** Villages from **7,323** GNDs in **147** DSDs (4.258MB), scraped as of *2023-12-03 21:04:28*.
 
 ## LK-1 - Western
 
@@ -185,3 +185,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-4127](data/villages/LK-4127.json) - Vadamaradchi North (Point Pedro)
 * [LK-4130](data/villages/LK-4130.json) - Thenmaradchi (Chavakachcheri)
 * [LK-4133](data/villages/LK-4133.json) - Nallur
+* [LK-4136](data/villages/LK-4136.json) - Jaffna
+* [LK-4139](data/villages/LK-4139.json) - Island South (Velanai)
+* [LK-4142](data/villages/LK-4142.json) - Delft
+* [LK-4145](data/villages/LK-4145.json) - ❔
+
+### LK-42 - Mannar
+
+* [LK-4203](data/villages/LK-4203.json) - Mannar Town
