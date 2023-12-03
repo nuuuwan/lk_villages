@@ -9,7 +9,7 @@ from workflows.build_dsds import DSD_DATA_PATH
 
 log = Log('pipeline')
 
-MAX_COMPLETED_RUNS = 5
+MAX_COMPLETED_RUNS = 1
 log.debug(f'🪛{MAX_COMPLETED_RUNS=}')
 DIR_DATA_VILLAGES = os.path.join('data', 'villages')
 ALL_PATH = os.path.join('data', 'villages.tsv')
