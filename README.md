@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**46,475** Villages from **12,638** GNDs in **302** DSDs (7.096MB), scraped as of *2023-12-04 04:53:00*.
+**47,296** Villages from **12,811** GNDs in **307** DSDs (7.214MB), scraped as of *2023-12-04 05:05:04*.
 
 ## LK-1 - Western
 
@@ -392,3 +392,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-8203](data/villages/LK-8203.json) - Bibile
 * [LK-8206](data/villages/LK-8206.json) - Madulla
 * [LK-8209](data/villages/LK-8209.json) - Medagama
+* [LK-8212](data/villages/LK-8212.json) - Siyambalanduwa
+* [LK-8215](data/villages/LK-8215.json) - Moneragala
+* [LK-8218](data/villages/LK-8218.json) - Badalkumbura
+* [LK-8221](data/villages/LK-8221.json) - Wellawaya
+* [LK-8224](data/villages/LK-8224.json) - Buttala
