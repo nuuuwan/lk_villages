@@ -2,9 +2,11 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**5,346** Villages from **947** GNDs in **17** DSDs (0.760MB), scraped as of *2023-12-03 12:18:55*.
+**6,562** Villages from **1,423** GNDs in **22** DSDs (0.966MB), scraped as of *2023-12-03 12:41:50*.
 
 ## LK-1 - Western
+
+### LK-11 - Colombo
 
 * [LK-1103](data/villages/LK-1103.json) - Colombo
 * [LK-1106](data/villages/LK-1106.json) - Kolonnawa
@@ -19,7 +21,15 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-1131](data/villages/LK-1131.json) - Ratmalana
 * [LK-1133](data/villages/LK-1133.json) - Moratuwa
 * [LK-1136](data/villages/LK-1136.json) - Kesbewa
+
+### LK-12 - Gampaha
+
 * [LK-1203](data/villages/LK-1203.json) - Negombo
 * [LK-1206](data/villages/LK-1206.json) - Katana
 * [LK-1209](data/villages/LK-1209.json) - Divulapitiya
 * [LK-1212](data/villages/LK-1212.json) - Mirigama
+* [LK-1215](data/villages/LK-1215.json) - Minuwangoda
+* [LK-1218](data/villages/LK-1218.json) - Wattala
+* [LK-1221](data/villages/LK-1221.json) - Ja-Ela
+* [LK-1224](data/villages/LK-1224.json) - Gampaha
+* [LK-1227](data/villages/LK-1227.json) - Attanagalla
