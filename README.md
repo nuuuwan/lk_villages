@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**38,201** Villages from **10,271** GNDs in **237** DSDs (5.822MB), scraped as of *2023-12-04 01:37:35*.
+**38,795** Villages from **10,495** GNDs in **242** DSDs (5.919MB), scraped as of *2023-12-04 01:53:22*.
 
 ## LK-1 - Western
 
@@ -308,3 +308,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-6175](data/villages/LK-6175.json) - Udubaddawa
 * [LK-6178](data/villages/LK-6178.json) - Pannala
 * [LK-6181](data/villages/LK-6181.json) - Narammala
+* [LK-6184](data/villages/LK-6184.json) - Alawwa
+* [LK-6187](data/villages/LK-6187.json) - Polgahawela
+
+### LK-62 - Puttalam
+
+* [LK-6203](data/villages/LK-6203.json) - Kalpitiya
+* [LK-6206](data/villages/LK-6206.json) - Vanathawilluwa
+* [LK-6209](data/villages/LK-6209.json) - Karuwalagaswewa
