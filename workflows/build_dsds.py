@@ -10,7 +10,9 @@ log = Log('build_dsd')
 
 def main():
     if os.path.exists(DSD_DATA_PATH):
-        log.warn(f'DSD data already exists at {DSD_DATA_PATH}. Not building.')
+        log.warning(
+            f'DSD data already exists at {DSD_DATA_PATH}. Not building.'
+        )
         return
 
     provinces = Region.provinces()
