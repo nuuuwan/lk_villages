@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**1,544** Villages from **333** GNDs in **6** DSDs (0.224MB), scraped as of *2023-12-03 11:56:21*.
+**1,968** Villages from **374** GNDs in **7** DSDs (0.280MB), scraped as of *2023-12-03 12:05:30*.
 
 ## LK-1 - Western
 
@@ -12,3 +12,4 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-1112](data/villages/LK-1112.json) - Homagama
 * [LK-1115](data/villages/LK-1115.json) - Seethawaka
 * [LK-1118](data/villages/LK-1118.json) - Padukka
+* [LK-1121](data/villages/LK-1121.json) - Maharagama
