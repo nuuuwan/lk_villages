@@ -1,0 +1,765 @@
+{
+  "id": "LK-2148",
+  "name": "Delthota",
+  "query_id": "1006",
+  "children": [
+    {
+      "id": "LK-2148005",
+      "name": "Perawatta West",
+      "query_id": "3555",
+      "children": [
+        {
+          "id": "LK-214800503",
+          "name": "Malberry part of Galaha Watta",
+          "query_id": "15504"
+        },
+        {
+          "id": "LK-214800502",
+          "name": "Dunaliya Watta",
+          "query_id": "54810"
+        },
+        {
+          "id": "LK-214800504",
+          "name": "Kithul Mulla Ihala",
+          "query_id": "36739"
+        },
+        {
+          "id": "LK-214800505",
+          "name": "Kithul mulla pahala",
+          "query_id": "36740"
+        },
+        {
+          "id": "LK-214800506",
+          "name": "Basmale Watta",
+          "query_id": "36741"
+        },
+        {
+          "id": "LK-214800501",
+          "name": "Upper part of Galaha Watta",
+          "query_id": "54809"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148010",
+      "name": "Perawatta East",
+      "query_id": "3556",
+      "children": [
+        {
+          "id": "LK-214801001",
+          "name": "Perawattagama",
+          "query_id": "15490"
+        },
+        {
+          "id": "LK-214801002",
+          "name": "Hapuwalmana colony",
+          "query_id": "15492"
+        },
+        {
+          "id": "LK-214801003",
+          "name": "Part of Belwood Colony",
+          "query_id": "15494"
+        },
+        {
+          "id": "LK-214801004",
+          "name": "Part of Udadeltota Gama",
+          "query_id": "36742"
+        },
+        {
+          "id": "LK-214801005",
+          "name": "Part of Ambalamana Watta",
+          "query_id": "36743"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148015",
+      "name": "Palugama",
+      "query_id": "3557",
+      "children": [
+        {
+          "id": "LK-214801501",
+          "name": "Belwood Colony",
+          "query_id": "15465"
+        },
+        {
+          "id": "LK-214801502",
+          "name": "Palugama Gama",
+          "query_id": "15468"
+        },
+        {
+          "id": "LK-214801503",
+          "name": "Jothiland Watta",
+          "query_id": "15473"
+        },
+        {
+          "id": "LK-214801504",
+          "name": "Belwood Watta",
+          "query_id": "15474"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148020",
+      "name": "Udadelthota",
+      "query_id": "3558",
+      "children": [
+        {
+          "id": "LK-214802001",
+          "name": "Deltota Janapadaya",
+          "query_id": "15440"
+        },
+        {
+          "id": "LK-214802002",
+          "name": "Littleweliya Udakala Gammanaya",
+          "query_id": "15443"
+        },
+        {
+          "id": "LK-214802003",
+          "name": "Udadeltota Ihalagama",
+          "query_id": "15449"
+        },
+        {
+          "id": "LK-214802004",
+          "name": "Deltota watta",
+          "query_id": "15452"
+        },
+        {
+          "id": "LK-214802006",
+          "name": "Gallanthanna Watta - Ihala ",
+          "query_id": "15454"
+        },
+        {
+          "id": "LK-214802007",
+          "name": "Udadeltota Rathnaloka watta",
+          "query_id": "15458"
+        },
+        {
+          "id": "LK-214802005",
+          "name": "Kasturi watta",
+          "query_id": "15460"
+        },
+        {
+          "id": "LK-214802008",
+          "name": "Udadeltota Pahalagama",
+          "query_id": "15462"
+        },
+        {
+          "id": "LK-214802009",
+          "name": "Gallanthanna Watta - Pahala",
+          "query_id": "37318"
+        },
+        {
+          "id": "LK-214802010",
+          "name": "Udadeltota Madakotasa",
+          "query_id": "37319"
+        },
+        {
+          "id": "LK-214802011",
+          "name": "Udadeltota Gama",
+          "query_id": "37320"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148025",
+      "name": "Galaha",
+      "query_id": "3559",
+      "children": [
+        {
+          "id": "LK-214802501",
+          "name": "Galaha Town",
+          "query_id": "15475"
+        },
+        {
+          "id": "LK-214802502",
+          "name": "Annasiwatta",
+          "query_id": "15478"
+        },
+        {
+          "id": "LK-214802503",
+          "name": "Muttusena Watta",
+          "query_id": "15481"
+        },
+        {
+          "id": "LK-214802504",
+          "name": "Part of 18th Post",
+          "query_id": "15483"
+        },
+        {
+          "id": "LK-214802505",
+          "name": "Part of New Hospital Road",
+          "query_id": "15485"
+        },
+        {
+          "id": "LK-214802506",
+          "name": "Dikhinnapathana Colony",
+          "query_id": "15487"
+        },
+        {
+          "id": "LK-214802507",
+          "name": "Part of near the Police Station",
+          "query_id": "36766"
+        },
+        {
+          "id": "LK-214802508",
+          "name": "Part of Pupurassa Road",
+          "query_id": "36767"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148030",
+      "name": "Suduwella",
+      "query_id": "3560",
+      "children": [
+        {
+          "id": "LK-214803001",
+          "name": "Suduwella colony",
+          "query_id": "15510"
+        },
+        {
+          "id": "LK-214803002",
+          "name": "Littleweliya watta",
+          "query_id": "15512"
+        },
+        {
+          "id": "LK-214803003",
+          "name": "Littleweliya colony",
+          "query_id": "15514"
+        },
+        {
+          "id": "LK-214803004",
+          "name": "Hayth watta",
+          "query_id": "15516"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148035",
+      "name": "Greatweliya",
+      "query_id": "3561",
+      "children": [
+        {
+          "id": "LK-214803501",
+          "name": "Greatweliya watta",
+          "query_id": "15691"
+        },
+        {
+          "id": "LK-214803502",
+          "name": "Greatweliya west part",
+          "query_id": "15692"
+        },
+        {
+          "id": "LK-214803503",
+          "name": "Greatweliya housing scheme",
+          "query_id": "15693"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148040",
+      "name": "Bawlanawatta Janapadaya",
+      "query_id": "3562",
+      "children": [
+        {
+          "id": "LK-214804001",
+          "name": "Bawlanawatta Janapadaya",
+          "query_id": "36859"
+        },
+        {
+          "id": "LK-214804002",
+          "name": "Bawlana Kanda Ihala",
+          "query_id": "36860"
+        },
+        {
+          "id": "LK-214804003",
+          "name": "Bawlana Kanda Pahala",
+          "query_id": "36861"
+        },
+        {
+          "id": "LK-214804004",
+          "name": "Neelawala Watta",
+          "query_id": "40717"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148045",
+      "name": "Maussawa",
+      "query_id": "3563",
+      "children": [
+        {
+          "id": "LK-214804501",
+          "name": "Maussawa Watta",
+          "query_id": "15584"
+        },
+        {
+          "id": "LK-214804502",
+          "name": "Hulankada Colony",
+          "query_id": "15586"
+        },
+        {
+          "id": "LK-214804503",
+          "name": "Neelawala watta",
+          "query_id": "15587"
+        },
+        {
+          "id": "LK-214804506",
+          "name": "Neelawala Colony",
+          "query_id": "54803"
+        },
+        {
+          "id": "LK-214804504",
+          "name": "Part of Bawlanawatta Colony",
+          "query_id": "37322"
+        },
+        {
+          "id": "LK-214804504",
+          "name": "Division 14, 15 Bopitiya Estate",
+          "query_id": "37325"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148050",
+      "name": "Wanahapuwa",
+      "query_id": "3564",
+      "children": [
+        {
+          "id": "LK-214805001",
+          "name": "Wanahapuwa",
+          "query_id": "15589"
+        },
+        {
+          "id": "LK-214805002",
+          "name": "Anasalgolla",
+          "query_id": "15592"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148055",
+      "name": "Bopitiya Nagaraya",
+      "query_id": "3565",
+      "children": [
+        {
+          "id": "LK-214805501",
+          "name": "Bopitiya",
+          "query_id": "15604"
+        },
+        {
+          "id": "LK-214805502",
+          "name": "Bopitiya watta",
+          "query_id": "15606"
+        },
+        {
+          "id": "LK-214805503",
+          "name": "Kukulapana colony",
+          "query_id": "15608"
+        },
+        {
+          "id": "LK-214805504",
+          "name": "Bopitiya Town",
+          "query_id": "40718"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148060",
+      "name": "Medakekila",
+      "query_id": "3566",
+      "children": [
+        {
+          "id": "LK-214806001",
+          "name": "Medakekila",
+          "query_id": "15601"
+        },
+        {
+          "id": "LK-214806002",
+          "name": "Arakwala Colony",
+          "query_id": "15602"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148065",
+      "name": "Karagaskada South",
+      "query_id": "3567",
+      "children": [
+        {
+          "id": "LK-214806501",
+          "name": "Karagaskada Muslim Colony",
+          "query_id": "15705"
+        },
+        {
+          "id": "LK-214806502",
+          "name": "Littleweliya colony",
+          "query_id": "15706"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148070",
+      "name": "Karagaskada North",
+      "query_id": "3568",
+      "children": [
+        {
+          "id": "LK-214807001",
+          "name": "karagaskada Town",
+          "query_id": "15707"
+        },
+        {
+          "id": "LK-214807002",
+          "name": "Karagaskada Sinhala colony",
+          "query_id": "15708"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148075",
+      "name": "Gonangoda",
+      "query_id": "3569",
+      "children": [
+        {
+          "id": "LK-214807501",
+          "name": "Gonangoda Gama",
+          "query_id": "15709"
+        },
+        {
+          "id": "LK-214807502",
+          "name": "Gonangoda colony",
+          "query_id": "15710"
+        },
+        {
+          "id": "LK-214807503",
+          "name": "Kalugala Colony",
+          "query_id": "15711"
+        },
+        {
+          "id": "LK-214807504",
+          "name": "Naranhinna Colony",
+          "query_id": "15712"
+        },
+        {
+          "id": "LK-214807505",
+          "name": "Pattiyagama Watta",
+          "query_id": "15713"
+        },
+        {
+          "id": "LK-214807506",
+          "name": "Piyasenapura Janawasaya",
+          "query_id": "15714"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148080",
+      "name": "Kandegama",
+      "query_id": "3570",
+      "children": [
+        {
+          "id": "LK-214808001",
+          "name": "Kandegama",
+          "query_id": "15697"
+        },
+        {
+          "id": "LK-214808002",
+          "name": "Mottawa colony",
+          "query_id": "15698"
+        },
+        {
+          "id": "LK-214808003",
+          "name": "Thittawelgammana",
+          "query_id": "15699"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148085",
+      "name": "Watakepotha",
+      "query_id": "3571",
+      "children": [
+        {
+          "id": "LK-214808501",
+          "name": "Keppetiyawa",
+          "query_id": "15577"
+        },
+        {
+          "id": "LK-214808502",
+          "name": "Pilikara",
+          "query_id": "15578"
+        },
+        {
+          "id": "LK-214808503",
+          "name": "Watakepotha",
+          "query_id": "15582"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148090",
+      "name": "Pattiyagama Pallegama",
+      "query_id": "3572",
+      "children": [
+        {
+          "id": "LK-214809001",
+          "name": "Essedduma",
+          "query_id": "15568"
+        },
+        {
+          "id": "LK-214809002",
+          "name": "Pallegama",
+          "query_id": "15569"
+        },
+        {
+          "id": "LK-214809003",
+          "name": "Madihena Colony",
+          "query_id": "15572"
+        },
+        {
+          "id": "LK-214809004",
+          "name": "Thiththawela Gama",
+          "query_id": "15573"
+        },
+        {
+          "id": "LK-214809005",
+          "name": "Wadiyagoda",
+          "query_id": "36862"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148095",
+      "name": "Kirawanaketiya",
+      "query_id": "3573",
+      "children": [
+        {
+          "id": "LK-214809501",
+          "name": "Kiriwanaketiya",
+          "query_id": "15526"
+        },
+        {
+          "id": "LK-214809502",
+          "name": "Bandigoda",
+          "query_id": "15528"
+        },
+        {
+          "id": "LK-214809503",
+          "name": "Gomadiya Pokumna",
+          "query_id": "15531"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148100",
+      "name": "Kolambissa West",
+      "query_id": "3574",
+      "children": [
+        {
+          "id": "LK-214810001",
+          "name": "Kolabissa Colony",
+          "query_id": "15559"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148105",
+      "name": "Murapola West",
+      "query_id": "3575",
+      "children": [
+        {
+          "id": "LK-214810501",
+          "name": "Part of the Murapola colony",
+          "query_id": "15563"
+        },
+        {
+          "id": "LK-214810502",
+          "name": "Pihatalawa",
+          "query_id": "15565"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148110",
+      "name": "Murapola East",
+      "query_id": "3576",
+      "children": [
+        {
+          "id": "LK-214811001",
+          "name": "Part of Murapola Colony",
+          "query_id": "15561"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148115",
+      "name": "Kolambissa East",
+      "query_id": "3577",
+      "children": [
+        {
+          "id": "LK-214811501",
+          "name": "Girambe Colony",
+          "query_id": "15538"
+        },
+        {
+          "id": "LK-214811502",
+          "name": "Part of the Kolabissa Colony",
+          "query_id": "15557"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148120",
+      "name": "Nawaneliya",
+      "query_id": "3578",
+      "children": [
+        {
+          "id": "LK-214812001",
+          "name": "Nawaneliya",
+          "query_id": "15520"
+        },
+        {
+          "id": "LK-214812002",
+          "name": "Part of the Kiriwanaketiya",
+          "query_id": "15521"
+        },
+        {
+          "id": "LK-214812003",
+          "name": "Kiribogahahinna Colony",
+          "query_id": "54804"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148125",
+      "name": "Kotagepitiya",
+      "query_id": "3579",
+      "children": [
+        {
+          "id": "LK-214812501",
+          "name": "Kotage Pitiya",
+          "query_id": "15533"
+        },
+        {
+          "id": "LK-214812502",
+          "name": "Bembiya",
+          "query_id": "15534"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148130",
+      "name": "Wadiyagoda",
+      "query_id": "3580",
+      "children": [
+        {
+          "id": "LK-214813007",
+          "name": "Ihalamangoda",
+          "query_id": "54806"
+        },
+        {
+          "id": "LK-214813001",
+          "name": "Wadiyagodagama",
+          "query_id": "15694"
+        },
+        {
+          "id": "LK-214813002",
+          "name": "Mahagammadda",
+          "query_id": "15695"
+        },
+        {
+          "id": "LK-214813003",
+          "name": "Part of the Pattiyagama Pallegama",
+          "query_id": "15696"
+        },
+        {
+          "id": "LK-214813004",
+          "name": "Thiththawalgammana",
+          "query_id": "36870"
+        },
+        {
+          "id": "LK-214813006",
+          "name": "Appallawala",
+          "query_id": "54805"
+        },
+        {
+          "id": "LK-214813005",
+          "name": "Udapitiya",
+          "query_id": "37327"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148135",
+      "name": "Pattiyagama Udagama",
+      "query_id": "3581",
+      "children": [
+        {
+          "id": "LK-214813501",
+          "name": "Ralimangoda",
+          "query_id": "15715"
+        },
+        {
+          "id": "LK-214813502",
+          "name": "Puwakketiya",
+          "query_id": "15716"
+        },
+        {
+          "id": "LK-214813503",
+          "name": "Thittawel gama",
+          "query_id": "15717"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148140",
+      "name": "Pattiyagama Gabadama North",
+      "query_id": "3582",
+      "children": [
+        {
+          "id": "LK-214814001",
+          "name": "Nelligolla colony",
+          "query_id": "15700"
+        },
+        {
+          "id": "LK-214814002",
+          "name": "Naranhinna Watta",
+          "query_id": "15701"
+        }
+      ]
+    },
+    {
+      "id": "LK-2148145",
+      "name": "Pattiyagama Gabadama South",
+      "query_id": "3583",
+      "children": [
+        {
+          "id": "LK-214814504",
+          "name": "Muththoliya Gama",
+          "query_id": "54807"
+        },
+        {
+          "id": "LK-214814501",
+          "name": "Walagedaragama",
+          "query_id": "15702"
+        },
+        {
+          "id": "LK-214814502",
+          "name": "Lulkandura watta",
+          "query_id": "15703"
+        },
+        {
+          "id": "LK-214814503",
+          "name": "Pitahapatana Gama",
+          "query_id": "15704"
+        },
+        {
+          "id": "LK-214814505",
+          "name": "Loolkandura Colony",
+          "query_id": "54808"
+        }
+      ]
+    }
+  ]
+}

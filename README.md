@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**13,616** Villages from **3,220** GNDs in **52** DSDs (2.029MB), scraped as of *2023-12-03 14:38:36*.
+**14,578** Villages from **3,574** GNDs in **57** DSDs (2.189MB), scraped as of *2023-12-03 14:57:57*.
 
 ## LK-1 - Western
 
@@ -71,3 +71,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-2130](data/villages/LK-2130.json) - Kandy Four Gravets & Gangawata Korale
 * [LK-2133](data/villages/LK-2133.json) - Harispattuwa
 * [LK-2134](data/villages/LK-2134.json) - Hatharaliyadda
+* [LK-2136](data/villages/LK-2136.json) - Yatinuwara
+* [LK-2139](data/villages/LK-2139.json) - Udunuwara
+* [LK-2142](data/villages/LK-2142.json) - Doluwa
+* [LK-2145](data/villages/LK-2145.json) - Pathahewaheta
+* [LK-2148](data/villages/LK-2148.json) - Deltota

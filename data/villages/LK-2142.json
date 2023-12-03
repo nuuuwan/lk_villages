@@ -1,0 +1,1023 @@
+{
+  "id": "LK-2142",
+  "name": "Doluwa",
+  "query_id": "1004",
+  "children": [
+    {
+      "id": "LK-2142005",
+      "name": "Galoya",
+      "query_id": "3449",
+      "children": [
+        {
+          "id": "LK-214200501",
+          "name": "Galoya Gama",
+          "query_id": "37290"
+        },
+        {
+          "id": "LK-214200502",
+          "name": "Haloya Colony",
+          "query_id": "37291"
+        },
+        {
+          "id": "LK-214200503",
+          "name": "Hadabima Colony",
+          "query_id": "37292"
+        },
+        {
+          "id": "LK-214200504",
+          "name": "Galoya Watta ",
+          "query_id": "37293"
+        },
+        {
+          "id": "LK-214200505",
+          "name": "Lower Gloster Estate",
+          "query_id": "37294"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142010",
+      "name": "Haloya",
+      "query_id": "3450",
+      "children": [
+        {
+          "id": "LK-214201001",
+          "name": "Haloya Colony",
+          "query_id": "12789"
+        },
+        {
+          "id": "LK-214201002",
+          "name": "Parana Haloyagama",
+          "query_id": "37282"
+        },
+        {
+          "id": "LK-214201004",
+          "name": "Upland and Upper Gloster Estate  (State)",
+          "query_id": "37284"
+        },
+        {
+          "id": "LK-214201005",
+          "name": "Upland and Upper Glouester Estate (Private)",
+          "query_id": "51721"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142015",
+      "name": "Wariyagala",
+      "query_id": "3451",
+      "children": [
+        {
+          "id": "LK-214201501",
+          "name": "Wariyagala Estate",
+          "query_id": "12786"
+        },
+        {
+          "id": "LK-214201504",
+          "name": "Wariyagala Gama",
+          "query_id": "37287"
+        },
+        {
+          "id": "LK-214201506",
+          "name": "Haloya Nedsa Colony",
+          "query_id": "37289"
+        },
+        {
+          "id": "LK-214201507",
+          "name": "Nawa wariyagala watta",
+          "query_id": "54538"
+        },
+        {
+          "id": "LK-214201509",
+          "name": "Wariyagala Nadsa Colony",
+          "query_id": "54540"
+        },
+        {
+          "id": "LK-214201508",
+          "name": "Selwakanda Estate",
+          "query_id": "54539"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142020",
+      "name": "Megoda Kalugamuwa",
+      "query_id": "3452",
+      "children": [
+        {
+          "id": "LK-214202001",
+          "name": "A part of Megoda Kalugamuwa",
+          "query_id": "37273"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142025",
+      "name": "Ganegoda",
+      "query_id": "3453",
+      "children": [
+        {
+          "id": "LK-214202501",
+          "name": "Ganegoda Gama",
+          "query_id": "12788"
+        },
+        {
+          "id": "LK-214202502",
+          "name": "Illagolla Gama",
+          "query_id": "37275"
+        },
+        {
+          "id": "LK-214202503",
+          "name": "Pihimbiyahena Colony",
+          "query_id": "37279"
+        },
+        {
+          "id": "LK-214202504",
+          "name": "A part of Megoda Kalugamuwa",
+          "query_id": "37281"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142030",
+      "name": "Godawela",
+      "query_id": "3454",
+      "children": [
+        {
+          "id": "LK-214203001",
+          "name": "Godawela Gama",
+          "query_id": "12785"
+        },
+        {
+          "id": "LK-214203002",
+          "name": "Galpihilla ",
+          "query_id": "37270"
+        },
+        {
+          "id": "LK-214203003",
+          "name": "Watagoda",
+          "query_id": "37271"
+        },
+        {
+          "id": "LK-214203004",
+          "name": "Gurukele Colony",
+          "query_id": "37272"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142035",
+      "name": "Nawa Gurukele",
+      "query_id": "3455",
+      "children": [
+        {
+          "id": "LK-214203505",
+          "name": "Gurukele State's Division",
+          "query_id": "54541"
+        },
+        {
+          "id": "LK-214203502",
+          "name": " A part of Gurukele Gama ",
+          "query_id": "36968"
+        },
+        {
+          "id": "LK-214203503",
+          "name": "Godawela Watta Nadsa Colony",
+          "query_id": "36969"
+        },
+        {
+          "id": "LK-214203504",
+          "name": "Gurukele (private) watta",
+          "query_id": "51722"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142040",
+      "name": "Nillamba",
+      "query_id": "3456",
+      "children": [
+        {
+          "id": "LK-214204001",
+          "name": "Nillamba 1 Colony",
+          "query_id": "12766"
+        },
+        {
+          "id": "LK-214204002",
+          "name": "Winayagar Colony",
+          "query_id": "36957"
+        },
+        {
+          "id": "LK-214204003",
+          "name": "Nirosha Watta",
+          "query_id": "36958"
+        },
+        {
+          "id": "LK-214204004",
+          "name": " Part of Palledeltota gama",
+          "query_id": "36959"
+        },
+        {
+          "id": "LK-214204005",
+          "name": "Meriland Watta",
+          "query_id": "36960"
+        },
+        {
+          "id": "LK-214204006",
+          "name": "Meenambal Watta",
+          "query_id": "36961"
+        },
+        {
+          "id": "LK-214204007",
+          "name": "Shanmuga Nadan Watta",
+          "query_id": "36962"
+        },
+        {
+          "id": "LK-214204008",
+          "name": "Kamalawatta",
+          "query_id": "36963"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142045",
+      "name": "Nawa Nillamba",
+      "query_id": "3457",
+      "children": [
+        {
+          "id": "LK-214204501",
+          "name": "Nawa Nillamba Estate",
+          "query_id": "12765"
+        },
+        {
+          "id": "LK-214204502",
+          "name": "Nillamba",
+          "query_id": "36951"
+        },
+        {
+          "id": "LK-214204503",
+          "name": "A Part of the Palledelthota Gama",
+          "query_id": "36952"
+        },
+        {
+          "id": "LK-214204504",
+          "name": "A part of Mery Land Watta",
+          "query_id": "36953"
+        },
+        {
+          "id": "LK-214204505",
+          "name": "Wedaheta Watta North",
+          "query_id": "36954"
+        },
+        {
+          "id": "LK-214204506",
+          "name": "Shanmuganadan Estate",
+          "query_id": "36955"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142050",
+      "name": "Palledelthota",
+      "query_id": "3458",
+      "children": [
+        {
+          "id": "LK-214205015",
+          "name": "Nillamba Factory Division",
+          "query_id": "54545"
+        },
+        {
+          "id": "LK-214205014",
+          "name": "Queens Field Watta",
+          "query_id": "54544"
+        },
+        {
+          "id": "LK-214205001",
+          "name": "Yoga Lakshmi Watta",
+          "query_id": "36910"
+        },
+        {
+          "id": "LK-214205002",
+          "name": "A Part of the Palledelthota Gama",
+          "query_id": "36912"
+        },
+        {
+          "id": "LK-214205003",
+          "name": "Wedaheta Watta (State)",
+          "query_id": "36913"
+        },
+        {
+          "id": "LK-214205004",
+          "name": "Hemas Land",
+          "query_id": "36914"
+        },
+        {
+          "id": "LK-214205005",
+          "name": "Nillamba A Division",
+          "query_id": "36949"
+        },
+        {
+          "id": "LK-214205009",
+          "name": "Wedaheta Estate (Private)",
+          "query_id": "39951"
+        },
+        {
+          "id": "LK-214205010",
+          "name": "Green Welly watta",
+          "query_id": "39952"
+        },
+        {
+          "id": "LK-214205011",
+          "name": "Wedathenna Estate private ",
+          "query_id": "39953"
+        },
+        {
+          "id": "LK-214205013",
+          "name": "Nillamba 03 watta",
+          "query_id": "54543"
+        },
+        {
+          "id": "LK-214205012",
+          "name": "Wedathenna Watta (State)",
+          "query_id": "54542"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142055",
+      "name": "Gurukele",
+      "query_id": "3459",
+      "children": [
+        {
+          "id": "LK-214205504",
+          "name": "Gurukele Watta (State)",
+          "query_id": "54546"
+        },
+        {
+          "id": "LK-214205502",
+          "name": "Gurukele Watta (private) ",
+          "query_id": "36966"
+        },
+        {
+          "id": "LK-214205503",
+          "name": "Rajamale State's Division",
+          "query_id": "36967"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142060",
+      "name": "Legumdeniya",
+      "query_id": "3460",
+      "children": [
+        {
+          "id": "LK-214206001",
+          "name": "Legumdeniya Gama",
+          "query_id": "12772"
+        },
+        {
+          "id": "LK-214206002",
+          "name": "Pussathenna Estate",
+          "query_id": "37149"
+        },
+        {
+          "id": "LK-214206003",
+          "name": "Samarakonhena",
+          "query_id": "37198"
+        },
+        {
+          "id": "LK-214206004",
+          "name": " Nawa Castlemilk ",
+          "query_id": "37200"
+        },
+        {
+          "id": "LK-214206005",
+          "name": "Andanadeniya Nadsa Colony",
+          "query_id": "37203"
+        },
+        {
+          "id": "LK-214206006",
+          "name": "Adanadeniya Colony",
+          "query_id": "37205"
+        },
+        {
+          "id": "LK-214206007",
+          "name": "Pussatenna Colony",
+          "query_id": "37206"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142065",
+      "name": "Orayanwatta",
+      "query_id": "3461",
+      "children": [
+        {
+          "id": "LK-214206501",
+          "name": "Orayanwatta ",
+          "query_id": "12783"
+        },
+        {
+          "id": "LK-214206502",
+          "name": "A part of Pussathenna Colony",
+          "query_id": "37260"
+        },
+        {
+          "id": "LK-214206503",
+          "name": "Parana kanda Colony",
+          "query_id": "39922"
+        },
+        {
+          "id": "LK-214206504",
+          "name": "Aluth Kanda Colony",
+          "query_id": "39923"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142070",
+      "name": "Doluwa",
+      "query_id": "3462",
+      "children": [
+        {
+          "id": "LK-214207001",
+          "name": "Doluwa  ",
+          "query_id": "12784"
+        },
+        {
+          "id": "LK-214207006",
+          "name": "Lio watta",
+          "query_id": "51723"
+        },
+        {
+          "id": "LK-214207002",
+          "name": "Medapitiya",
+          "query_id": "37265"
+        },
+        {
+          "id": "LK-214207003",
+          "name": "Ambakumbura",
+          "query_id": "37266"
+        },
+        {
+          "id": "LK-214207004",
+          "name": "Liyandeniya ",
+          "query_id": "37268"
+        },
+        {
+          "id": "LK-214207005",
+          "name": "Haliyadda Colony",
+          "query_id": "37269"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142075",
+      "name": "Inguruwatta",
+      "query_id": "3463",
+      "children": [
+        {
+          "id": "LK-214207501",
+          "name": "A part of Inguruwatta Gama",
+          "query_id": "12782"
+        },
+        {
+          "id": "LK-214207502",
+          "name": "Niyangama Gama",
+          "query_id": "37250"
+        },
+        {
+          "id": "LK-214207503",
+          "name": "Charliman Colony",
+          "query_id": "37253"
+        },
+        {
+          "id": "LK-214207504",
+          "name": "Kawudupitiya Gama",
+          "query_id": "37255"
+        },
+        {
+          "id": "LK-214207505",
+          "name": "Don Saimon Colony",
+          "query_id": "37256"
+        },
+        {
+          "id": "LK-214207506",
+          "name": "Bohappa Gama",
+          "query_id": "37258"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142080",
+      "name": "Naranvita",
+      "query_id": "3464",
+      "children": [
+        {
+          "id": "LK-214208001",
+          "name": "Naranvita Gama",
+          "query_id": "12778"
+        },
+        {
+          "id": "LK-214208002",
+          "name": "Gurunnehela Gama",
+          "query_id": "37227"
+        },
+        {
+          "id": "LK-214208003",
+          "name": "Jayarathna Pedesa",
+          "query_id": "37228"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142085",
+      "name": "Atuwewatta",
+      "query_id": "3465",
+      "children": [
+        {
+          "id": "LK-214208501",
+          "name": "Atuwewatta Attam Niwasa",
+          "query_id": "12780"
+        },
+        {
+          "id": "LK-214208502",
+          "name": "Kumbaloluwa Gama",
+          "query_id": "37231"
+        },
+        {
+          "id": "LK-214208503",
+          "name": "Jayarathna (Place) West",
+          "query_id": "37232"
+        },
+        {
+          "id": "LK-214208504",
+          "name": "Atuwewatta Pihilladeniya Colony",
+          "query_id": "37234"
+        },
+        {
+          "id": "LK-214208505",
+          "name": "Andiyakadawatha Gama",
+          "query_id": "37235"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142090",
+      "name": "Gampolawatta",
+      "query_id": "3466",
+      "children": [
+        {
+          "id": "LK-214209001",
+          "name": "Gampolawatta Colony",
+          "query_id": "12779"
+        },
+        {
+          "id": "LK-214209004",
+          "name": "A Part of Kumbaloluwela",
+          "query_id": "54547"
+        },
+        {
+          "id": "LK-214209003",
+          "name": "A part of Pallewela Gama ",
+          "query_id": "37230"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142095",
+      "name": "Wewathenna",
+      "query_id": "3467",
+      "children": [
+        {
+          "id": "LK-214209501",
+          "name": "Wewathanna Gama",
+          "query_id": "12781"
+        },
+        {
+          "id": "LK-214209502",
+          "name": "Ududeniya Gama",
+          "query_id": "37236"
+        },
+        {
+          "id": "LK-214209503",
+          "name": "Demodara Watta",
+          "query_id": "37237"
+        },
+        {
+          "id": "LK-214209504",
+          "name": "Dail Watta",
+          "query_id": "37239"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142100",
+      "name": "Thundeniya",
+      "query_id": "3468",
+      "children": [
+        {
+          "id": "LK-214210001",
+          "name": "Thundeniya Gama",
+          "query_id": "12777"
+        },
+        {
+          "id": "LK-214210006",
+          "name": "A part of Datry Watta Nadsa Colony",
+          "query_id": "54548"
+        },
+        {
+          "id": "LK-214210002",
+          "name": "Demodara Watta",
+          "query_id": "36979"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142105",
+      "name": "Kahawatta ",
+      "query_id": "3469",
+      "children": [
+        {
+          "id": "LK-214210501",
+          "name": " Kahawatta Gama ",
+          "query_id": "12770"
+        },
+        {
+          "id": "LK-214210502",
+          "name": "Kasalmilk Colony",
+          "query_id": "36982"
+        },
+        {
+          "id": "LK-214210503",
+          "name": "Nawa Kasalmilk Colony",
+          "query_id": "39927"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142110",
+      "name": "Gothatuwela",
+      "query_id": "3470",
+      "children": [
+        {
+          "id": "LK-214211001",
+          "name": "Castle Milk (State)",
+          "query_id": "12771"
+        },
+        {
+          "id": "LK-214211002",
+          "name": "Castle Milk  Estate L.R.C",
+          "query_id": "36983"
+        },
+        {
+          "id": "LK-214211003",
+          "name": "Gonatuwela Gama",
+          "query_id": "36984"
+        },
+        {
+          "id": "LK-214211004",
+          "name": "Katupaduremada Gama",
+          "query_id": "36985"
+        },
+        {
+          "id": "LK-214211005",
+          "name": "castle  milk Nadsa Hadabima Colony",
+          "query_id": "39949"
+        },
+        {
+          "id": "LK-214211006",
+          "name": "A Part of Nawa castle  milk Colony",
+          "query_id": "39950"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142115",
+      "name": "Millagahamula",
+      "query_id": "3471",
+      "children": [
+        {
+          "id": "LK-214211501",
+          "name": "Grohill Colony",
+          "query_id": "37295"
+        },
+        {
+          "id": "LK-214211503",
+          "name": "Egodagama Gama",
+          "query_id": "37297"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142120",
+      "name": "Pambadeniya",
+      "query_id": "3472",
+      "children": [
+        {
+          "id": "LK-214212001",
+          "name": "Pabadeniya Colony",
+          "query_id": "12774"
+        },
+        {
+          "id": "LK-214212002",
+          "name": "Andanadeniya Colony",
+          "query_id": "37224"
+        },
+        {
+          "id": "LK-214212003",
+          "name": " A part of Panwilathenna Gama ",
+          "query_id": "37225"
+        },
+        {
+          "id": "LK-214212006",
+          "name": "Andanadeniya Watta",
+          "query_id": "54549"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142125",
+      "name": "Panvilathenna",
+      "query_id": "3473",
+      "children": [
+        {
+          "id": "LK-214212501",
+          "name": "Panvilathenna gama part ",
+          "query_id": "12773"
+        },
+        {
+          "id": "LK-214212502",
+          "name": "Lorawatta Colony",
+          "query_id": "37216"
+        },
+        {
+          "id": "LK-214212503",
+          "name": "Uda Nillamba Colony",
+          "query_id": "37217"
+        },
+        {
+          "id": "LK-214212504",
+          "name": "A part of Andanadeniya Estate",
+          "query_id": "37218"
+        },
+        {
+          "id": "LK-214212505",
+          "name": "New Thiriwana Estate",
+          "query_id": "37219"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142130",
+      "name": "Masgolla",
+      "query_id": "3474",
+      "children": [
+        {
+          "id": "LK-214213002",
+          "name": "Thumpelawaka gama",
+          "query_id": "36974"
+        },
+        {
+          "id": "LK-214213003",
+          "name": "Morahena Colony",
+          "query_id": "36975"
+        },
+        {
+          "id": "LK-214213004",
+          "name": "Mulgamawatta Nadsa Colony",
+          "query_id": "54550"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142135",
+      "name": "Thumpelawaka",
+      "query_id": "3475",
+      "children": [
+        {
+          "id": "LK-214213501",
+          "name": "Thumpalawaka Gama",
+          "query_id": "12768"
+        },
+        {
+          "id": "LK-214213502",
+          "name": "Nillamba 2 Colony",
+          "query_id": "36970"
+        },
+        {
+          "id": "LK-214213505",
+          "name": "Erin Watta ",
+          "query_id": "42828"
+        },
+        {
+          "id": "LK-214213504",
+          "name": "Pasland Estate",
+          "query_id": "54551"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142140",
+      "name": "Mulgama",
+      "query_id": "3476",
+      "children": [
+        {
+          "id": "LK-214214001",
+          "name": "Mulgama",
+          "query_id": "12758"
+        },
+        {
+          "id": "LK-214214002",
+          "name": "Pananwalagama",
+          "query_id": "36871"
+        },
+        {
+          "id": "LK-214214003",
+          "name": "Lewalan Jana Udana Gama",
+          "query_id": "36903"
+        },
+        {
+          "id": "LK-214214004",
+          "name": "Levalan Estate",
+          "query_id": "36904"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142145",
+      "name": "Ududeniya",
+      "query_id": "3477",
+      "children": [
+        {
+          "id": "LK-214214501",
+          "name": "Ududeniya ",
+          "query_id": "12760"
+        },
+        {
+          "id": "LK-214214502",
+          "name": "Pahalagama Gama",
+          "query_id": "36908"
+        },
+        {
+          "id": "LK-214214503",
+          "name": "New Forest watta",
+          "query_id": "39941"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142150",
+      "name": "Hunugala",
+      "query_id": "3478",
+      "children": [
+        {
+          "id": "LK-214215001",
+          "name": "New Hunugala ",
+          "query_id": "12761"
+        },
+        {
+          "id": "LK-214215002",
+          "name": "Yaro Hadabima (Nedsa) Colony",
+          "query_id": "36976"
+        },
+        {
+          "id": "LK-214215003",
+          "name": "Lukadagama",
+          "query_id": "36977"
+        },
+        {
+          "id": "LK-214215005",
+          "name": "Hanagala Anawasara Colony",
+          "query_id": "39945"
+        },
+        {
+          "id": "LK-214215006",
+          "name": "Hunugala ",
+          "query_id": "39946"
+        },
+        {
+          "id": "LK-214215007",
+          "name": "Galloway Knowe Division",
+          "query_id": "54552"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142155",
+      "name": "Rajathalawa",
+      "query_id": "3479",
+      "children": [
+        {
+          "id": "LK-214215501",
+          "name": "Rajathalawa Gama",
+          "query_id": "12763"
+        },
+        {
+          "id": "LK-214215502",
+          "name": "Pudumale Gama",
+          "query_id": "37304"
+        },
+        {
+          "id": "LK-214215503",
+          "name": "A part of Boumont Estate",
+          "query_id": "37307"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142160",
+      "name": "Pupuressa",
+      "query_id": "3480",
+      "children": [
+        {
+          "id": "LK-214216001",
+          "name": "Pupuressa Gama",
+          "query_id": "12762"
+        },
+        {
+          "id": "LK-214216002",
+          "name": "Paranapattiya Gama",
+          "query_id": "37298"
+        },
+        {
+          "id": "LK-214216003",
+          "name": "Nedsa Colony (Hadabima Colony)",
+          "query_id": "37299"
+        },
+        {
+          "id": "LK-214216004",
+          "name": "Dalta Colony ",
+          "query_id": "37300"
+        },
+        {
+          "id": "LK-214216005",
+          "name": "Anakaola Estate",
+          "query_id": "37301"
+        },
+        {
+          "id": "LK-214216007",
+          "name": "Sterllenberg Estate",
+          "query_id": "37303"
+        },
+        {
+          "id": "LK-214216008",
+          "name": "Pupurassa Watta (State)",
+          "query_id": "39942"
+        },
+        {
+          "id": "LK-214216009",
+          "name": "Delta Estate",
+          "query_id": "39943"
+        },
+        {
+          "id": "LK-214216011",
+          "name": "Pupurassa Watta (Private)",
+          "query_id": "54553"
+        },
+        {
+          "id": "LK-214216012",
+          "name": "Wheyddon Colony",
+          "query_id": "54554"
+        },
+        {
+          "id": "LK-214216013",
+          "name": "Dation Estate",
+          "query_id": "54555"
+        }
+      ]
+    },
+    {
+      "id": "LK-2142165",
+      "name": "Pitawala",
+      "query_id": "3481",
+      "children": [
+        {
+          "id": "LK-214216505",
+          "name": "Hermitage division",
+          "query_id": "51726"
+        },
+        {
+          "id": "LK-214216502",
+          "name": "Golagren Division",
+          "query_id": "36905"
+        },
+        {
+          "id": "LK-214216503",
+          "name": "Pitawalagama",
+          "query_id": "36906"
+        },
+        {
+          "id": "LK-214216506",
+          "name": "A part of Levalan watta pitawala Division",
+          "query_id": "51727"
+        },
+        {
+          "id": "LK-214216507",
+          "name": "Le Vallan Division",
+          "query_id": "54556"
+        }
+      ]
+    }
+  ]
+}
