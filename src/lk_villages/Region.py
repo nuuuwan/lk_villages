@@ -107,6 +107,7 @@ class Region:
 
     def write(self):
         if os.path.exists(self.data_path):
+            log.warning(f'Data already exists at {self.data_path}.')
             return False
         JSONFile(self.data_path).write(self.data)
         log.info(f'Wrote {self.data_path}')
