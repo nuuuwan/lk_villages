@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**36,040** Villages from **9,653** GNDs in **227** DSDs (5.491MB), scraped as of *2023-12-04 01:05:42*.
+**37,154** Villages from **9,974** GNDs in **232** DSDs (5.662MB), scraped as of *2023-12-04 01:22:00*.
 
 ## LK-1 - Western
 
@@ -298,3 +298,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-6148](data/villages/LK-6148.json) - Panduwasnuwara East
 * [LK-6149](data/villages/LK-6149.json) - Bamunakotuwa
 * [LK-6151](data/villages/LK-6151.json) - Maspotha
+* [LK-6154](data/villages/LK-6154.json) - Kurunegala
+* [LK-6157](data/villages/LK-6157.json) - Mallawapitiya
+* [LK-6160](data/villages/LK-6160.json) - Mawathagama
+* [LK-6163](data/villages/LK-6163.json) - Rideegama
+* [LK-6166](data/villages/LK-6166.json) - Weerambugedara
