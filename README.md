@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**31,204** Villages from **8,079** GNDs in **177** DSDs (4.730MB), scraped as of *2023-12-03 22:35:34*.
+**31,538** Villages from **8,156** GNDs in **182** DSDs (4.779MB), scraped as of *2023-12-03 22:51:04*.
 
 ## LK-1 - Western
 
@@ -237,3 +237,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-5130](data/villages/LK-5130.json) - Manmunai South-West
 * [LK-5133](data/villages/LK-5133.json) - Porativu Pattu
 * [LK-5136](data/villages/LK-5136.json) - Manmunai South & Eruvil pattu
+* [LK-5139](data/villages/LK-5139.json) - ❔
+* [LK-5142](data/villages/LK-5142.json) - ❔
+
+### LK-52 - Ampara
+
+* [LK-5203](data/villages/LK-5203.json) - Dehiattakandiya
+* [LK-5206](data/villages/LK-5206.json) - Padiyathalawa
+* [LK-5209](data/villages/LK-5209.json) - Mahaoya
