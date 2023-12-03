@@ -30,7 +30,7 @@ jobs:
         ref: 'main'
         token: "${{ secrets.REPO_DATA_TOKEN }}"
 
-    - name: Stage 0) build_dsdss
+    - name: Stage 0) build_dsds
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/build_dsds.py
