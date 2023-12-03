@@ -36,7 +36,7 @@ def main():
         + f' in **{n_dsds}** DSDs, scraped as of *{time_str}*.',
     ]
 
-    for file_only in file_only_list:
+    for file_only in sorted(file_only_list):
         dsd_id = file_only.split('.')[0]
         lines.append(
             f'* [{dsd_id}]({os.path.join(DIR_DATA_VILLAGES, file_only)})'
