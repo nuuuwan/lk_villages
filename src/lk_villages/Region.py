@@ -74,7 +74,7 @@ class Region:
                 continue
             child_query_id = option['value']
             child_id_prefix, child_name = text.split(': ')
-            child_id_prefix = child_id_prefix.ljust(child_id_len, '0')
+            child_id_prefix = child_id_prefix.rjust(child_id_len, '0')
             child_id = self.id + child_id_prefix
             child = Region(child_id, child_name, child_query_id)
 
