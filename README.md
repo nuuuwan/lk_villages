@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**31,752** Villages from **8,334** GNDs in **187** DSDs (4.826MB), scraped as of *2023-12-03 23:05:08*.
+**31,868** Villages from **8,437** GNDs in **192** DSDs (4.852MB), scraped as of *2023-12-03 23:19:18*.
 
 ## LK-1 - Western
 
@@ -250,3 +250,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-5216](data/villages/LK-5216.json) - Navithanveli
 * [LK-5218](data/villages/LK-5218.json) - Samanthurai
 * [LK-5224](data/villages/LK-5224.json) - Kalmunai
+* [LK-5225](data/villages/LK-5225.json) - Sainthamaruthu
+* [LK-5227](data/villages/LK-5227.json) - Karaitheevu
+* [LK-5230](data/villages/LK-5230.json) - Ninthavur
+* [LK-5233](data/villages/LK-5233.json) - Addalachchenai
+* [LK-5234](data/villages/LK-5234.json) - Irakkamam
