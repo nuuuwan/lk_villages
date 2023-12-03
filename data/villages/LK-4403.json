@@ -1,0 +1,352 @@
+{
+  "id": "LK-4403",
+  "name": "Thunukkai",
+  "query_id": "1094",
+  "children": [
+    {
+      "id": "LK-4403015",
+      "name": "Ampalapperumalkulam",
+      "query_id": "7487",
+      "children": [
+        {
+          "id": "LK-440301501",
+          "name": "Ampalapperumalkulam",
+          "query_id": "23576"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403060",
+      "name": "Puththuvedduvan",
+      "query_id": "7488",
+      "children": [
+        {
+          "id": "LK-440306001",
+          "name": "Maruthankulam",
+          "query_id": "23571"
+        },
+        {
+          "id": "LK-440306002",
+          "name": "Puththuvedduvan",
+          "query_id": "23572"
+        },
+        {
+          "id": "LK-440306003",
+          "name": "Manakulam",
+          "query_id": "39418"
+        },
+        {
+          "id": "LK-440306004",
+          "name": "Playakudiyiruppu",
+          "query_id": "39419"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403080",
+      "name": "Thunukkai",
+      "query_id": "7489",
+      "children": [
+        {
+          "id": "LK-440308001",
+          "name": "Thunukkai",
+          "query_id": "23518"
+        },
+        {
+          "id": "LK-440308002",
+          "name": "Vinayagar Veethy",
+          "query_id": "23519"
+        },
+        {
+          "id": "LK-440308003",
+          "name": "Koththambiyakulam",
+          "query_id": "23529"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403085",
+      "name": "Uyilankulam",
+      "query_id": "7490",
+      "children": [
+        {
+          "id": "LK-440308501",
+          "name": "Uyilankulam",
+          "query_id": "23534"
+        },
+        {
+          "id": "LK-440308502",
+          "name": "Puthukkulam",
+          "query_id": "39407"
+        },
+        {
+          "id": "LK-440308503",
+          "name": "Kollankulam",
+          "query_id": "39408"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403005",
+      "name": "Alankulam",
+      "query_id": "13796",
+      "children": [
+        {
+          "id": "LK-440300501",
+          "name": "Alankulam",
+          "query_id": "23545"
+        },
+        {
+          "id": "LK-440300502",
+          "name": "Veddaiyadaipu",
+          "query_id": "23547"
+        },
+        {
+          "id": "LK-440300503",
+          "name": "Vasanthapuram",
+          "query_id": "23548"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403010",
+      "name": "Amaithipuram",
+      "query_id": "13797",
+      "children": [
+        {
+          "id": "LK-440301001",
+          "name": "Amaithipuram",
+          "query_id": "23574"
+        },
+        {
+          "id": "LK-440301002",
+          "name": "Arokkiyapuram",
+          "query_id": "23575"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403020",
+      "name": "Anichchiyankulam",
+      "query_id": "13798",
+      "children": [
+        {
+          "id": "LK-440302001",
+          "name": "Anichchiyankulam  North",
+          "query_id": "23589"
+        },
+        {
+          "id": "LK-440302002",
+          "name": "Anichchiyankulam South",
+          "query_id": "34118"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403025",
+      "name": "Barathinagar",
+      "query_id": "13799",
+      "children": [
+        {
+          "id": "LK-440302503",
+          "name": "Barathinagar",
+          "query_id": "39424"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403030",
+      "name": "Iyankankulam",
+      "query_id": "13800",
+      "children": [
+        {
+          "id": "LK-440303001",
+          "name": "Iyankankulam",
+          "query_id": "23579"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403035",
+      "name": "Kalvilan",
+      "query_id": "13801",
+      "children": [
+        {
+          "id": "LK-440303501",
+          "name": "Kalvilan",
+          "query_id": "23530"
+        },
+        {
+          "id": "LK-440303502",
+          "name": "Sivapuram",
+          "query_id": "23531"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403040",
+      "name": "Koddaikaddiyakulam",
+      "query_id": "13802",
+      "children": [
+        {
+          "id": "LK-440304001",
+          "name": "Keelkulam",
+          "query_id": "23591"
+        },
+        {
+          "id": "LK-440304002",
+          "name": "Koddaikaddiyakulam",
+          "query_id": "23592"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403045",
+      "name": "Mallavi",
+      "query_id": "13803",
+      "children": [
+        {
+          "id": "LK-440304501",
+          "name": "Mallavi",
+          "query_id": "23554"
+        },
+        {
+          "id": "LK-440304502",
+          "name": "Mankainagar",
+          "query_id": "23555"
+        },
+        {
+          "id": "LK-440304503",
+          "name": "Palayakudiyiruppu",
+          "query_id": "39416"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403050",
+      "name": "Palayamurikandy",
+      "query_id": "13804",
+      "children": [
+        {
+          "id": "LK-440305001",
+          "name": "Palayamurikandy",
+          "query_id": "23573"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403055",
+      "name": "Pugalenthinagar",
+      "query_id": "13805",
+      "children": [
+        {
+          "id": "LK-440305501",
+          "name": "Pugalenthinagar",
+          "query_id": "23584"
+        },
+        {
+          "id": "LK-440305502",
+          "name": "Namanankulam",
+          "query_id": "23586"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403065",
+      "name": "Thenniyankulam",
+      "query_id": "13806",
+      "children": [
+        {
+          "id": "LK-440306501",
+          "name": "Thenniyankulam",
+          "query_id": "23590"
+        },
+        {
+          "id": "LK-440306502",
+          "name": "Periyamaavillu",
+          "query_id": "39426"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403070",
+      "name": "Therankandal",
+      "query_id": "13807",
+      "children": [
+        {
+          "id": "LK-440307001",
+          "name": "Therankandal",
+          "query_id": "23577"
+        },
+        {
+          "id": "LK-440307002",
+          "name": "Karapaikkulam",
+          "query_id": "23578"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403075",
+      "name": "Thirunagar ",
+      "query_id": "13808",
+      "children": [
+        {
+          "id": "LK-440307501",
+          "name": "Thirunagar North",
+          "query_id": "23570"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403090",
+      "name": "Yogapuram Centre",
+      "query_id": "13809",
+      "children": [
+        {
+          "id": "LK-440309001",
+          "name": "Yogapuram Center",
+          "query_id": "23562"
+        },
+        {
+          "id": "LK-440309002",
+          "name": "Kunchukkulam",
+          "query_id": "34113"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403095",
+      "name": "Yogapuram East",
+      "query_id": "13810",
+      "children": [
+        {
+          "id": "LK-440309501",
+          "name": "Thiruvalluvarnagar",
+          "query_id": "23580"
+        },
+        {
+          "id": "LK-440309503",
+          "name": "Padduppochchi",
+          "query_id": "39423"
+        }
+      ]
+    },
+    {
+      "id": "LK-4403100",
+      "name": "Yogapuram West",
+      "query_id": "13811",
+      "children": [
+        {
+          "id": "LK-440310002",
+          "name": "Valanagar East",
+          "query_id": "34114"
+        },
+        {
+          "id": "LK-440310003",
+          "name": "Valanagar  West",
+          "query_id": "34115"
+        }
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**28,691** Villages from **7,447** GNDs in **152** DSDs (4.351MB), scraped as of *2023-12-03 21:19:10*.
+**29,190** Villages from **7,564** GNDs in **157** DSDs (4.425MB), scraped as of *2023-12-03 21:35:12*.
 
 ## LK-1 - Western
 
@@ -201,3 +201,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 ### LK-43 - Vavuniya
 
 * [LK-4303](data/villages/LK-4303.json) - Vavuniya North
+* [LK-4306](data/villages/LK-4306.json) - Vavuniya South
+* [LK-4309](data/villages/LK-4309.json) - Vavuniya
+* [LK-4312](data/villages/LK-4312.json) - Vengalacheddikulam
+
+### LK-44 - Mullaitivu
+
+* [LK-4403](data/villages/LK-4403.json) - Thunukkai
+* [LK-4406](data/villages/LK-4406.json) - Manthai East
