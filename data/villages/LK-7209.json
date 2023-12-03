@@ -1,0 +1,488 @@
+{
+  "id": "LK-7209",
+  "name": "Lankapura",
+  "query_id": "1216",
+  "children": [
+    {
+      "id": "LK-7209005",
+      "name": "Weli Ela",
+      "query_id": "11568",
+      "children": [
+        {
+          "id": "LK-720900501",
+          "name": "Weli Ela",
+          "query_id": "3565"
+        },
+        {
+          "id": "LK-720900502",
+          "name": "Olu wila",
+          "query_id": "3566"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209010",
+      "name": "Maha Kirimetiya",
+      "query_id": "11569",
+      "children": [
+        {
+          "id": "LK-720901001",
+          "name": "Mahakirimatiya",
+          "query_id": "3567"
+        },
+        {
+          "id": "LK-720901002",
+          "name": "Olu wala",
+          "query_id": "3568"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209015",
+      "name": "Buddhayaya",
+      "query_id": "11570",
+      "children": [
+        {
+          "id": "LK-720901501",
+          "name": "Budhdayaya",
+          "query_id": "3569"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209020",
+      "name": "Sungavila",
+      "query_id": "11571",
+      "children": [
+        {
+          "id": "LK-720902001",
+          "name": "Sungawila Paranagama",
+          "query_id": "3543"
+        },
+        {
+          "id": "LK-720902002",
+          "name": "Somawathiya",
+          "query_id": "51042"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209025",
+      "name": "Jayabima",
+      "query_id": "11572",
+      "children": [
+        {
+          "id": "LK-720902501",
+          "name": "Jayabima",
+          "query_id": "3544"
+        },
+        {
+          "id": "LK-720902502",
+          "name": "Dewalagodalla",
+          "query_id": "3545"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209030",
+      "name": "Jayapura",
+      "query_id": "11573",
+      "children": [
+        {
+          "id": "LK-720903001",
+          "name": "Jayapura",
+          "query_id": "3541"
+        },
+        {
+          "id": "LK-720903002",
+          "name": "Part  Of  The  B.O.P.  649",
+          "query_id": "3542"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209035",
+      "name": "Nelumpura",
+      "query_id": "11574",
+      "children": [
+        {
+          "id": "LK-720903501",
+          "name": "Nelumpura",
+          "query_id": "3539"
+        },
+        {
+          "id": "LK-720903502",
+          "name": "Part  Of  The  B.O.P.649",
+          "query_id": "3540"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209040",
+      "name": "Patunugama",
+      "query_id": "11575",
+      "children": [
+        {
+          "id": "LK-720904001",
+          "name": "Patunugama",
+          "query_id": "3546"
+        },
+        {
+          "id": "LK-720904002",
+          "name": "Kudapatunugama",
+          "query_id": "3547"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209045",
+      "name": "Munisirigama",
+      "query_id": "11576",
+      "children": [
+        {
+          "id": "LK-720904501",
+          "name": "Munisirigama",
+          "query_id": "3570"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209050",
+      "name": "Pansalgodella",
+      "query_id": "11577",
+      "children": [
+        {
+          "id": "LK-720905001",
+          "name": "Pansalgodalla",
+          "query_id": "3563"
+        },
+        {
+          "id": "LK-720905002",
+          "name": "Ulkatu ela",
+          "query_id": "3564"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209055",
+      "name": "Gal Amuna",
+      "query_id": "11578",
+      "children": [
+        {
+          "id": "LK-720905501",
+          "name": "7th Mile Post",
+          "query_id": "3561"
+        },
+        {
+          "id": "LK-720905502",
+          "name": "Gal Amuna",
+          "query_id": "3562"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209060",
+      "name": "Hingurakdamana",
+      "query_id": "11579",
+      "children": [
+        {
+          "id": "LK-720906001",
+          "name": "7th  Post",
+          "query_id": "3558"
+        },
+        {
+          "id": "LK-720906002",
+          "name": "6th  Post",
+          "query_id": "3559"
+        },
+        {
+          "id": "LK-720906003",
+          "name": "Weli  Elayaya  Gama",
+          "query_id": "3560"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209065",
+      "name": "Gemunupura",
+      "query_id": "11580",
+      "children": [
+        {
+          "id": "LK-720906501",
+          "name": "Part  Of  The  Gewal  11",
+          "query_id": "3554"
+        },
+        {
+          "id": "LK-720906502",
+          "name": "Jana  Uadana  Gammanaya",
+          "query_id": "3555"
+        },
+        {
+          "id": "LK-720906503",
+          "name": "Gamunupura",
+          "query_id": "3556"
+        },
+        {
+          "id": "LK-720906504",
+          "name": "Anikat Godella",
+          "query_id": "3557"
+        },
+        {
+          "id": "LK-720906505",
+          "name": "Senanayakepura",
+          "query_id": "34667"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209070",
+      "name": "Senanayakapura",
+      "query_id": "11581",
+      "children": [
+        {
+          "id": "LK-720907001",
+          "name": "Senanayakapura",
+          "query_id": "3553"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209075",
+      "name": "Debarella",
+      "query_id": "11582",
+      "children": [
+        {
+          "id": "LK-720907501",
+          "name": "Debaredda",
+          "query_id": "3552"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209080",
+      "name": "Somapura",
+      "query_id": "11583",
+      "children": [
+        {
+          "id": "LK-720908001",
+          "name": "Somapura",
+          "query_id": "3549"
+        },
+        {
+          "id": "LK-720908002",
+          "name": "Kegalugama North",
+          "query_id": "3550"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209085",
+      "name": "Abhayapura",
+      "query_id": "11584",
+      "children": [
+        {
+          "id": "LK-720908501",
+          "name": "Abhayapura",
+          "query_id": "3548"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209090",
+      "name": "Sanghabodhi Gama",
+      "query_id": "11585",
+      "children": [
+        {
+          "id": "LK-720909001",
+          "name": "Pulasthigama East",
+          "query_id": "3533"
+        },
+        {
+          "id": "LK-720909002",
+          "name": "Kirimatidamana",
+          "query_id": "3534"
+        },
+        {
+          "id": "LK-720909003",
+          "name": "Sangabodhigama",
+          "query_id": "3535"
+        },
+        {
+          "id": "LK-720909004",
+          "name": "Galketidamana",
+          "query_id": "3536"
+        },
+        {
+          "id": "LK-720909005",
+          "name": "Wellankaduwa",
+          "query_id": "3537"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209095",
+      "name": "Pulasthigama",
+      "query_id": "11586",
+      "children": [
+        {
+          "id": "LK-720909501",
+          "name": "Pulathisigama west",
+          "query_id": "3538"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209100",
+      "name": "Kegalugama",
+      "query_id": "11587",
+      "children": [
+        {
+          "id": "LK-720910001",
+          "name": "Kegalugama South",
+          "query_id": "3551"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209105",
+      "name": "Thalpotha",
+      "query_id": "11588",
+      "children": [
+        {
+          "id": "LK-720910501",
+          "name": "Thalpotha",
+          "query_id": "3517"
+        },
+        {
+          "id": "LK-720910502",
+          "name": "Wijepura",
+          "query_id": "3518"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209110",
+      "name": "Bauddhartha Gama",
+      "query_id": "11589",
+      "children": [
+        {
+          "id": "LK-720911001",
+          "name": "Buddharthagama",
+          "query_id": "3519"
+        },
+        {
+          "id": "LK-720911002",
+          "name": "Subasadhakagama",
+          "query_id": "3520"
+        },
+        {
+          "id": "LK-720911003",
+          "name": "Thalpotha East",
+          "query_id": "51043"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209115",
+      "name": "Lankapura",
+      "query_id": "11590",
+      "children": [
+        {
+          "id": "LK-720911501",
+          "name": "Lankapura",
+          "query_id": "3521"
+        },
+        {
+          "id": "LK-720911502",
+          "name": "Kalingupura",
+          "query_id": "3522"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209120",
+      "name": "Rifaipura",
+      "query_id": "11591",
+      "children": [
+        {
+          "id": "LK-720912001",
+          "name": "Rifiaipura",
+          "query_id": "3523"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209125",
+      "name": "Al Hilalpura",
+      "query_id": "11592",
+      "children": [
+        {
+          "id": "LK-720912501",
+          "name": "Al Hilalpura",
+          "query_id": "3530"
+        },
+        {
+          "id": "LK-720912502",
+          "name": "Wettampura ",
+          "query_id": "3531"
+        },
+        {
+          "id": "LK-720912503",
+          "name": "Samapura",
+          "query_id": "3532"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209130",
+      "name": "Thambala",
+      "query_id": "11593",
+      "children": [
+        {
+          "id": "LK-720913001",
+          "name": "Thmbala paranagama ",
+          "query_id": "3527"
+        },
+        {
+          "id": "LK-720913002",
+          "name": "Deewara Gammanaya ",
+          "query_id": "3528"
+        },
+        {
+          "id": "LK-720913003",
+          "name": "Thambala Pudukudierippu",
+          "query_id": "3529"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209135",
+      "name": "Onegama Muslimgama",
+      "query_id": "11594",
+      "children": [
+        {
+          "id": "LK-720913501",
+          "name": "Onegama Muslimgama",
+          "query_id": "3526"
+        }
+      ]
+    },
+    {
+      "id": "LK-7209140",
+      "name": "Weerapura",
+      "query_id": "11595",
+      "children": [
+        {
+          "id": "LK-720914001",
+          "name": "Weerapura",
+          "query_id": "3524"
+        },
+        {
+          "id": "LK-720914002",
+          "name": "Perakumgama",
+          "query_id": "3525"
+        }
+      ]
+    }
+  ]
+}

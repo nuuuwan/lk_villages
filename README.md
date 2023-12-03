@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**42,555** Villages from **11,663** GNDs in **277** DSDs (6.511MB), scraped as of *2023-12-04 03:35:33*.
+**43,103** Villages from **11,875** GNDs in **282** DSDs (6.602MB), scraped as of *2023-12-04 03:53:35*.
 
 ## LK-1 - Western
 
@@ -356,3 +356,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-7160](data/villages/LK-7160.json) - Ipalogama
 * [LK-7163](data/villages/LK-7163.json) - Galnewa
 * [LK-7166](data/villages/LK-7166.json) - Palagala
+
+### LK-72 - Polonnaruwa
+
+* [LK-7203](data/villages/LK-7203.json) - Hingurakgoda
+* [LK-7206](data/villages/LK-7206.json) - Medirigiriya
+* [LK-7209](data/villages/LK-7209.json) - Lankapura
+* [LK-7210](data/villages/LK-7210.json) - Welikanda
+* [LK-7212](data/villages/LK-7212.json) - Dimbulagala
