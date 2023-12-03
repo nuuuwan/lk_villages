@@ -9,6 +9,9 @@ log = Log('build_dsd')
 
 
 def main():
+    if not os.path.exists('data'):
+        os.mkdir('data')
+
     if os.path.exists(DSD_DATA_PATH):
         log.warning(
             f'DSD data already exists at {DSD_DATA_PATH}. Not building.'

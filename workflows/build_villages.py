@@ -1,3 +1,4 @@
+import os
 import random
 import time
 
@@ -10,6 +11,7 @@ log = Log('pipeline')
 
 MAX_COMPLETED_RUNS = 5
 log.debug(f'🪛{MAX_COMPLETED_RUNS=}')
+DIR_DATA_VILLAGES = os.path.join('data', 'villages')
 
 
 def random_sleep():
@@ -19,6 +21,9 @@ def random_sleep():
 
 
 if __name__ == '__main__':
+    if not os.path.exists(DIR_DATA_VILLAGES):
+        os.mkdir(DIR_DATA_VILLAGES)
+
     data_list = JSONFile(DSD_DATA_PATH).read()
 
     n_completed_runs = 0
