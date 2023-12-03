@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**33,506** Villages from **8,943** GNDs in **212** DSDs (5.109MB), scraped as of *2023-12-04 00:19:58*.
+**34,249** Villages from **9,140** GNDs in **217** DSDs (5.220MB), scraped as of *2023-12-04 00:36:02*.
 
 ## LK-1 - Western
 
@@ -283,3 +283,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-6103](data/villages/LK-6103.json) - Giribawa
 * [LK-6106](data/villages/LK-6106.json) - Galgamuwa
 * [LK-6109](data/villages/LK-6109.json) - Ehetuwewa
+* [LK-6112](data/villages/LK-6112.json) - Ambanpola
+* [LK-6115](data/villages/LK-6115.json) - Kotavehera
+* [LK-6118](data/villages/LK-6118.json) - Rasnayakapura
+* [LK-6121](data/villages/LK-6121.json) - Nikaweratiya
+* [LK-6124](data/villages/LK-6124.json) - Maho
