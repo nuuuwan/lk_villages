@@ -1,0 +1,249 @@
+{
+  "id": "LK-5115",
+  "name": "Eravur Town",
+  "query_id": "1107",
+  "children": [
+    {
+      "id": "LK-5115030",
+      "name": "Eravur 02B",
+      "query_id": "7641",
+      "children": [
+        {
+          "id": "LK-511503001",
+          "name": "Maccamady Vettai",
+          "query_id": "16183"
+        },
+        {
+          "id": "LK-511503002",
+          "name": "Riffai palli vettai ",
+          "query_id": "34532"
+        }
+      ]
+    },
+    {
+      "id": "LK-5115035",
+      "name": "Eravur 02C",
+      "query_id": "7642",
+      "children": [
+        {
+          "id": "LK-511503501",
+          "name": "Anaivelunthan Vettai",
+          "query_id": "16184"
+        }
+      ]
+    },
+    {
+      "id": "LK-5115045",
+      "name": "Eravur 01B",
+      "query_id": "7643",
+      "children": [
+        {
+          "id": "LK-511504501",
+          "name": "Kaattu Mawadi vettai ",
+          "query_id": "16170"
+        },
+        {
+          "id": "LK-511504502",
+          "name": "Pesanthai Vettai",
+          "query_id": "16173"
+        },
+        {
+          "id": "LK-511504503",
+          "name": "Moongilady vettai",
+          "query_id": "53005"
+        }
+      ]
+    },
+    {
+      "id": "LK-5115050",
+      "name": "Eravur 01",
+      "query_id": "7644",
+      "children": [
+        {
+          "id": "LK-511505001",
+          "name": "Kaattumawadi vettai ",
+          "query_id": "16159"
+        },
+        {
+          "id": "LK-511505002",
+          "name": "Thaikka Vettai ",
+          "query_id": "34533"
+        },
+        {
+          "id": "LK-511505003",
+          "name": "Muthalam Kurichchi vettai",
+          "query_id": "53006"
+        }
+      ]
+    },
+    {
+      "id": "LK-5115025",
+      "name": "Eravur 02",
+      "query_id": "7646",
+      "children": [
+        {
+          "id": "LK-511502502",
+          "name": "Maccamady Vettai",
+          "query_id": "53008"
+        },
+        {
+          "id": "LK-511502501",
+          "name": "Kattuppali Vettai",
+          "query_id": "53007"
+        },
+        {
+          "id": "LK-511502503",
+          "name": "Eravur 02",
+          "query_id": "53009"
+        }
+      ]
+    },
+    {
+      "id": "LK-5115020",
+      "name": "Eravur 03A",
+      "query_id": "7647",
+      "children": [
+        {
+          "id": "LK-511502001",
+          "name": "Muthiraikaddu Vettai",
+          "query_id": "16105"
+        },
+        {
+          "id": "LK-511502002",
+          "name": "Kadukkaikerni vettai ",
+          "query_id": "16107"
+        },
+        {
+          "id": "LK-511502003",
+          "name": "Kerny",
+          "query_id": "16109"
+        },
+        {
+          "id": "LK-511502004",
+          "name": "Santhai  Vettai",
+          "query_id": "16111"
+        },
+        {
+          "id": "LK-511502003",
+          "name": "Maccamady Vettai",
+          "query_id": "53010"
+        },
+        {
+          "id": "LK-511502004",
+          "name": "Santhai vettai",
+          "query_id": "53011"
+        }
+      ]
+    },
+    {
+      "id": "LK-5115015",
+      "name": "Eravur 03",
+      "query_id": "7648",
+      "children": [
+        {
+          "id": "LK-511501501",
+          "name": "Mastharchenai",
+          "query_id": "16186"
+        },
+        {
+          "id": "LK-511501502",
+          "name": "Kalvachenai",
+          "query_id": "16187"
+        },
+        {
+          "id": "LK-511501503",
+          "name": "Rahmathnagar",
+          "query_id": "16188"
+        },
+        {
+          "id": "LK-511501504",
+          "name": "Santhaivettai",
+          "query_id": "53012"
+        }
+      ]
+    },
+    {
+      "id": "LK-5115010",
+      "name": "Meerakerny",
+      "query_id": "7649"
+    },
+    {
+      "id": "LK-5115005",
+      "name": "Eravur 02A\u00a0 \u00a0",
+      "query_id": "7650"
+    },
+    {
+      "id": "LK-5115075",
+      "name": "Mich Nagar",
+      "query_id": "7651"
+    },
+    {
+      "id": "LK-5115080",
+      "name": "Iyankerny",
+      "query_id": "14241"
+    },
+    {
+      "id": "LK-5115070",
+      "name": "Eravur 06",
+      "query_id": "7652",
+      "children": [
+        {
+          "id": "LK-511507001",
+          "name": "Suraddayankudah",
+          "query_id": "16113"
+        },
+        {
+          "id": "LK-511507002",
+          "name": "Munkiladi  Vettai",
+          "query_id": "16114"
+        },
+        {
+          "id": "LK-511507003",
+          "name": "Oddupalli Vettai",
+          "query_id": "16115"
+        }
+      ]
+    },
+    {
+      "id": "LK-5115065",
+      "name": "Eravur 06D",
+      "query_id": "7653",
+      "children": [
+        {
+          "id": "LK-511506501",
+          "name": "Aththankarai Vettai",
+          "query_id": "16129"
+        }
+      ]
+    },
+    {
+      "id": "LK-5115060",
+      "name": "Eravur 06A",
+      "query_id": "7654",
+      "children": [
+        {
+          "id": "LK-511506001",
+          "name": "Munaivalavu Vettai",
+          "query_id": "16120"
+        }
+      ]
+    },
+    {
+      "id": "LK-5115055",
+      "name": "Eravur 01A",
+      "query_id": "7655",
+      "children": [
+        {
+          "id": "LK-511505501",
+          "name": "Periyapalaththadi Vettai",
+          "query_id": "16163"
+        },
+        {
+          "id": "LK-511505502",
+          "name": "Munaiyavalavu",
+          "query_id": "16165"
+        }
+      ]
+    }
+  ]
+}

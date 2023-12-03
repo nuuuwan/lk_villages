@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**30,240** Villages from **7,784** GNDs in **167** DSDs (4.577MB), scraped as of *2023-12-03 22:05:53*.
+**30,808** Villages from **7,922** GNDs in **172** DSDs (4.662MB), scraped as of *2023-12-03 22:19:51*.
 
 ## LK-1 - Western
 
@@ -227,3 +227,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 * [LK-5103](data/villages/LK-5103.json) - Koralai Pattu North (Vaharai)
 * [LK-5106](data/villages/LK-5106.json) - Koralai Pattu  West (Oddamavadi)
+* [LK-5109](data/villages/LK-5109.json) - Koralai Pattu (Valachchenai)
+* [LK-5112](data/villages/LK-5112.json) - Eravur Pattu
+* [LK-5115](data/villages/LK-5115.json) - Eravur Town
+* [LK-5118](data/villages/LK-5118.json) - Manmunai North
+* [LK-5121](data/villages/LK-5121.json) - Manmunai West
