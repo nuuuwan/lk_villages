@@ -1,0 +1,975 @@
+{
+  "id": "LK-2157",
+  "name": "Pasbage Korale",
+  "query_id": "1009",
+  "children": [
+    {
+      "id": "LK-2157005",
+      "name": "Pallegama",
+      "query_id": "3664",
+      "children": [
+        {
+          "id": "LK-215700501",
+          "name": "Tilyan Colony",
+          "query_id": "15845"
+        },
+        {
+          "id": "LK-215700502",
+          "name": "Andangodawatta",
+          "query_id": "15846"
+        },
+        {
+          "id": "LK-215700503",
+          "name": "Pallegama ",
+          "query_id": "15847"
+        },
+        {
+          "id": "LK-215700504",
+          "name": "Hapugastanna",
+          "query_id": "15848"
+        },
+        {
+          "id": "LK-215700505",
+          "name": "Tilton Part",
+          "query_id": "40435"
+        },
+        {
+          "id": "LK-215700506",
+          "name": "Ulapane Watta Part",
+          "query_id": "40436"
+        },
+        {
+          "id": "LK-215700507",
+          "name": "Dangahinna Watta",
+          "query_id": "40437"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157010",
+      "name": "Warakawa",
+      "query_id": "3665",
+      "children": [
+        {
+          "id": "LK-215701001",
+          "name": "Kahamana",
+          "query_id": "15849"
+        },
+        {
+          "id": "LK-215701002",
+          "name": "Warakawa",
+          "query_id": "15850"
+        },
+        {
+          "id": "LK-215701003",
+          "name": "Pattunupitiya",
+          "query_id": "15851"
+        },
+        {
+          "id": "LK-215701004",
+          "name": "Rock Hill Watta",
+          "query_id": "15852"
+        },
+        {
+          "id": "LK-215701005",
+          "name": "Gondennawa watta",
+          "query_id": "15853"
+        },
+        {
+          "id": "LK-215701006",
+          "name": "Tilton Colony",
+          "query_id": "15854"
+        },
+        {
+          "id": "LK-215701007",
+          "name": "Part of the Dolosbage Road",
+          "query_id": "40440"
+        },
+        {
+          "id": "LK-215701008",
+          "name": "Gampala Road",
+          "query_id": "40441"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157015",
+      "name": "Weligodawatta",
+      "query_id": "3666",
+      "children": [
+        {
+          "id": "LK-215701501",
+          "name": "Katukithula ",
+          "query_id": "15835"
+        },
+        {
+          "id": "LK-215701502",
+          "name": "Weligoda Watta",
+          "query_id": "15836"
+        },
+        {
+          "id": "LK-215701503",
+          "name": "Shemrock Colony",
+          "query_id": "15837"
+        },
+        {
+          "id": "LK-215701504",
+          "name": "Weekanda pathana ",
+          "query_id": "15838"
+        },
+        {
+          "id": "LK-215701505",
+          "name": "Weralugashinna",
+          "query_id": "40438"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157020",
+      "name": "Dandubendiruppa",
+      "query_id": "3667",
+      "children": [
+        {
+          "id": "LK-215702001",
+          "name": "Soolankanda Bazar",
+          "query_id": "15839"
+        },
+        {
+          "id": "LK-215702002",
+          "name": "Pussemankada",
+          "query_id": "15840"
+        },
+        {
+          "id": "LK-215702003",
+          "name": "Dandubendiruppa",
+          "query_id": "15841"
+        },
+        {
+          "id": "LK-215702004",
+          "name": "Goonawalapatana",
+          "query_id": "15842"
+        },
+        {
+          "id": "LK-215702005",
+          "name": "Kalugalhinna",
+          "query_id": "15843"
+        },
+        {
+          "id": "LK-215702006",
+          "name": "Montichristo Watta",
+          "query_id": "15844"
+        },
+        {
+          "id": "LK-215702007",
+          "name": "Soolankanda",
+          "query_id": "40439"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157025",
+      "name": "Penithuduwa",
+      "query_id": "3668",
+      "children": [
+        {
+          "id": "LK-215702501",
+          "name": "Kopiyawattamulla colony",
+          "query_id": "15855"
+        },
+        {
+          "id": "LK-215702502",
+          "name": "Brukland watta",
+          "query_id": "15856"
+        },
+        {
+          "id": "LK-215702503",
+          "name": "Penithuduwa gama ",
+          "query_id": "15857"
+        },
+        {
+          "id": "LK-215702504",
+          "name": "Bodadeniya gama ",
+          "query_id": "15858"
+        },
+        {
+          "id": "LK-215702505",
+          "name": "Bopitiya",
+          "query_id": "15859"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157030",
+      "name": "Phala Rambukpitiya",
+      "query_id": "3669",
+      "children": [
+        {
+          "id": "LK-215703001",
+          "name": "Walapitiya",
+          "query_id": "15787"
+        },
+        {
+          "id": "LK-215703002",
+          "name": " Rambukpitiya gama ",
+          "query_id": "15790"
+        },
+        {
+          "id": "LK-215703003",
+          "name": "Silvasland Colony",
+          "query_id": "15792"
+        },
+        {
+          "id": "LK-215703004",
+          "name": "Crowders Land",
+          "query_id": "15794"
+        },
+        {
+          "id": "LK-215703005",
+          "name": "Pahala Rambukpitiya gama ",
+          "query_id": "15795"
+        },
+        {
+          "id": "LK-215703006",
+          "name": "Delgaha Ella",
+          "query_id": "40456"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157035",
+      "name": "Uda Rambukpitiya",
+      "query_id": "3670",
+      "children": [
+        {
+          "id": "LK-215703501",
+          "name": "Dangolla Colony",
+          "query_id": "15779"
+        },
+        {
+          "id": "LK-215703502",
+          "name": "Harandal B Colony",
+          "query_id": "15780"
+        },
+        {
+          "id": "LK-215703503",
+          "name": "Hiddegedara gama ",
+          "query_id": "15781"
+        },
+        {
+          "id": "LK-215703504",
+          "name": "New clearin watta ",
+          "query_id": "15783"
+        },
+        {
+          "id": "LK-215703505",
+          "name": "Galamuduna watta",
+          "query_id": "15785"
+        },
+        {
+          "id": "LK-215703506",
+          "name": "Rambukpitiya gama ",
+          "query_id": "15786"
+        },
+        {
+          "id": "LK-215703507",
+          "name": "Uda Walaw Watta",
+          "query_id": "40458"
+        },
+        {
+          "id": "LK-215703508",
+          "name": "Harandal B Watta",
+          "query_id": "40459"
+        },
+        {
+          "id": "LK-215703509",
+          "name": "Pahala Rambukpitiya Part",
+          "query_id": "40460"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157040",
+      "name": "Balanthota north",
+      "query_id": "3671",
+      "children": [
+        {
+          "id": "LK-215704007",
+          "name": "Galamuduna Colony",
+          "query_id": "15796"
+        },
+        {
+          "id": "LK-215704006",
+          "name": "Haldora watta",
+          "query_id": "15797"
+        },
+        {
+          "id": "LK-215704001",
+          "name": "Part of Pahala Rambukpitiya",
+          "query_id": "15798"
+        },
+        {
+          "id": "LK-215704002",
+          "name": "Balantota",
+          "query_id": "15799"
+        },
+        {
+          "id": "LK-215704005",
+          "name": "Herandal watta",
+          "query_id": "15800"
+        },
+        {
+          "id": "LK-215704008",
+          "name": "Nagasthenna Watta Horagolla part ",
+          "query_id": "15801"
+        },
+        {
+          "id": "LK-215704003",
+          "name": "Benjoland",
+          "query_id": "51760"
+        },
+        {
+          "id": "LK-215704004",
+          "name": "Herandal colony",
+          "query_id": "51761"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157045",
+      "name": "Weligampala",
+      "query_id": "3672",
+      "children": [
+        {
+          "id": "LK-215704501",
+          "name": "Weligampola",
+          "query_id": "15820"
+        },
+        {
+          "id": "LK-215704502",
+          "name": "Asborn colony",
+          "query_id": "15821"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157050",
+      "name": "Karahandungala",
+      "query_id": "3673",
+      "children": [
+        {
+          "id": "LK-215705001",
+          "name": "Karahadungala",
+          "query_id": "15860"
+        },
+        {
+          "id": "LK-215705002",
+          "name": "Meepitiya watta",
+          "query_id": "15861"
+        },
+        {
+          "id": "LK-215705003",
+          "name": "Bodadeniya",
+          "query_id": "15862"
+        },
+        {
+          "id": "LK-215705004",
+          "name": "Part of Bopitiyagama",
+          "query_id": "15863"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157055",
+      "name": "Nawalapitiya South",
+      "query_id": "3674",
+      "children": [
+        {
+          "id": "LK-215705501",
+          "name": "A:1- Dolosbage Road ",
+          "query_id": "15767"
+        },
+        {
+          "id": "LK-215705503",
+          "name": "A:3-Dolosbage Road",
+          "query_id": "15770"
+        },
+        {
+          "id": "LK-215705506",
+          "name": "Weekandapathana ",
+          "query_id": "40178"
+        },
+        {
+          "id": "LK-215705507",
+          "name": "Hill Road",
+          "query_id": "40179"
+        },
+        {
+          "id": "LK-215705508",
+          "name": "Upper Hill Road",
+          "query_id": "40180"
+        },
+        {
+          "id": "LK-215705509",
+          "name": "Pansala Road",
+          "query_id": "40181"
+        },
+        {
+          "id": "LK-215705510",
+          "name": "Ambagamuwa  Road ",
+          "query_id": "40182"
+        },
+        {
+          "id": "LK-215705511",
+          "name": "Handungalawatta ",
+          "query_id": "40183"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157060",
+      "name": "Nawalapitiya North",
+      "query_id": "3675",
+      "children": [
+        {
+          "id": "LK-215706001",
+          "name": "Penithudumulla Road ",
+          "query_id": "15773"
+        },
+        {
+          "id": "LK-215706002",
+          "name": "Ambagamuwa Road",
+          "query_id": "15775"
+        },
+        {
+          "id": "LK-215706003",
+          "name": "Jayasundara Mawatha",
+          "query_id": "40175"
+        },
+        {
+          "id": "LK-215706004",
+          "name": "Pethithuduwamulla Lane ",
+          "query_id": "40176"
+        },
+        {
+          "id": "LK-215706005",
+          "name": "Karahadungala Road ",
+          "query_id": "40177"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157065",
+      "name": "Nawalapitiya West",
+      "query_id": "3676",
+      "children": [
+        {
+          "id": "LK-215706501",
+          "name": "A:6-Part of Bawwagama",
+          "query_id": "15776"
+        },
+        {
+          "id": "LK-215706502",
+          "name": "Soysa kele Road",
+          "query_id": "15777"
+        },
+        {
+          "id": "LK-215706503",
+          "name": "Kothmale Road Right side ",
+          "query_id": "40170"
+        },
+        {
+          "id": "LK-215706504",
+          "name": "Mahakumbura (with Godamuduna)",
+          "query_id": "40171"
+        },
+        {
+          "id": "LK-215706505",
+          "name": "Godamuduna Road",
+          "query_id": "40172"
+        },
+        {
+          "id": "LK-215706506",
+          "name": "Part of Penithudumulla",
+          "query_id": "40173"
+        },
+        {
+          "id": "LK-215706507",
+          "name": "Part of the Ambagamuwa Road",
+          "query_id": "40174"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157070",
+      "name": "Nawalapitiya East",
+      "query_id": "3677",
+      "children": [
+        {
+          "id": "LK-215707001",
+          "name": "Gampola Road 1st Gate",
+          "query_id": "15762"
+        },
+        {
+          "id": "LK-215707002",
+          "name": "UC Road",
+          "query_id": "15763"
+        },
+        {
+          "id": "LK-215707003",
+          "name": "Kothmale Road Left Side",
+          "query_id": "15765"
+        },
+        {
+          "id": "LK-215707004",
+          "name": "Cinema Mawatha",
+          "query_id": "15766"
+        },
+        {
+          "id": "LK-215707005",
+          "name": "Gampola Backlane Road",
+          "query_id": "40442"
+        },
+        {
+          "id": "LK-215707006",
+          "name": "Baili Road Vaguns park",
+          "query_id": "40443"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157075",
+      "name": "Imbulpitiya",
+      "query_id": "3678",
+      "children": [
+        {
+          "id": "LK-215707506",
+          "name": "Imbulpitiya watta Galabada part ",
+          "query_id": "15752"
+        },
+        {
+          "id": "LK-215707502",
+          "name": "Madagahawathura Gama",
+          "query_id": "15753"
+        },
+        {
+          "id": "LK-215707504",
+          "name": "Holgama Colony",
+          "query_id": "15755"
+        },
+        {
+          "id": "LK-215707505",
+          "name": "Imbulpitiyawatta lower Division",
+          "query_id": "15756"
+        },
+        {
+          "id": "LK-215707503",
+          "name": "Medagangawathura Colony",
+          "query_id": "40184"
+        },
+        {
+          "id": "LK-215707507",
+          "name": "Imbulpitiya watta Part of Galoya",
+          "query_id": "40185"
+        },
+        {
+          "id": "LK-215707501",
+          "name": "Part of Kotmale Road",
+          "query_id": "40186"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157080",
+      "name": "Greenwood",
+      "query_id": "3679",
+      "children": [
+        {
+          "id": "LK-215708001",
+          "name": "Masbilla Watta",
+          "query_id": "15737"
+        },
+        {
+          "id": "LK-215708002",
+          "name": "Part of Kadiyanlenagama",
+          "query_id": "15740"
+        },
+        {
+          "id": "LK-215708003",
+          "name": "Bohil watta ",
+          "query_id": "15742"
+        },
+        {
+          "id": "LK-215708004",
+          "name": "Greenwood ",
+          "query_id": "15743"
+        },
+        {
+          "id": "LK-215708005",
+          "name": "Imbulpitiya watta",
+          "query_id": "15744"
+        },
+        {
+          "id": "LK-215708006",
+          "name": "Cal Brook watta ",
+          "query_id": "15745"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157085",
+      "name": "Bawwagama",
+      "query_id": "3680",
+      "children": [
+        {
+          "id": "LK-215708507",
+          "name": "Selambridge gama ",
+          "query_id": "15746"
+        },
+        {
+          "id": "LK-215708501",
+          "name": "Bawwagama",
+          "query_id": "15747"
+        },
+        {
+          "id": "LK-215708502",
+          "name": "Samagigama",
+          "query_id": "15748"
+        },
+        {
+          "id": "LK-215708503",
+          "name": "Imbulpitya Colony",
+          "query_id": "15749"
+        },
+        {
+          "id": "LK-215708505",
+          "name": "Hynford colony (samanalagama)",
+          "query_id": "15750"
+        },
+        {
+          "id": "LK-215708506",
+          "name": "Imbulpitiya Watta Upper Division",
+          "query_id": "15751"
+        },
+        {
+          "id": "LK-215708504",
+          "name": "Bawwagama Colony",
+          "query_id": "40168"
+        },
+        {
+          "id": "LK-215708508",
+          "name": "Part of Kothmale ",
+          "query_id": "40169"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157090",
+      "name": "Kendopitiya",
+      "query_id": "3681",
+      "children": [
+        {
+          "id": "LK-215709001",
+          "name": "Kandopitiya",
+          "query_id": "15822"
+        },
+        {
+          "id": "LK-215709002",
+          "name": "Hynford A Division",
+          "query_id": "15823"
+        },
+        {
+          "id": "LK-215709003",
+          "name": "Hynford B Division",
+          "query_id": "15824"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157095",
+      "name": "Aluthgama",
+      "query_id": "3682",
+      "children": [
+        {
+          "id": "LK-215709501",
+          "name": "Nawangama",
+          "query_id": "15804"
+        },
+        {
+          "id": "LK-215709502",
+          "name": "Ganthalawa",
+          "query_id": "15805"
+        },
+        {
+          "id": "LK-215709504",
+          "name": "Isardeen Colony",
+          "query_id": "15807"
+        },
+        {
+          "id": "LK-215709505",
+          "name": "Hynford B Colony",
+          "query_id": "15808"
+        },
+        {
+          "id": "LK-215709506",
+          "name": "Balantota watta colony ",
+          "query_id": "15809"
+        },
+        {
+          "id": "LK-215709507",
+          "name": "Authgama Colony",
+          "query_id": "15810"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157100",
+      "name": "Balanthota South",
+      "query_id": "3683",
+      "children": [
+        {
+          "id": "LK-215710001",
+          "name": "Nawashanta Janapadaya",
+          "query_id": "15802"
+        },
+        {
+          "id": "LK-215710002",
+          "name": "Shantha Colony",
+          "query_id": "15803"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157105",
+      "name": "Dekinda",
+      "query_id": "3684",
+      "children": [
+        {
+          "id": "LK-215710504",
+          "name": "Watagodehinna colony ",
+          "query_id": "15811"
+        },
+        {
+          "id": "LK-215710502",
+          "name": "Horehinna Colony",
+          "query_id": "15812"
+        },
+        {
+          "id": "LK-215710503",
+          "name": "Nagollahena colony",
+          "query_id": "15813"
+        },
+        {
+          "id": "LK-215710501",
+          "name": "Dekinda Gama",
+          "query_id": "15814"
+        },
+        {
+          "id": "LK-215710505",
+          "name": "Part of Haynford B colony (Weralugolla)",
+          "query_id": "15815"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157110",
+      "name": "Mapakanda North",
+      "query_id": "3685",
+      "children": [
+        {
+          "id": "LK-215711001",
+          "name": "Mapakandagama",
+          "query_id": "15832"
+        },
+        {
+          "id": "LK-215711002",
+          "name": "Hynford Colony",
+          "query_id": "15833"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157115",
+      "name": "Inguruoya North",
+      "query_id": "3686",
+      "children": [
+        {
+          "id": "LK-215711501",
+          "name": "Maskinnawatta Hangaranoya ",
+          "query_id": "15828"
+        },
+        {
+          "id": "LK-215711504",
+          "name": "Imbulpitiya watta",
+          "query_id": "15829"
+        },
+        {
+          "id": "LK-215711502",
+          "name": "Shantha Sebesthian Watta",
+          "query_id": "15830"
+        },
+        {
+          "id": "LK-215711503",
+          "name": "Newland Watta",
+          "query_id": "40449"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157120",
+      "name": "Kadiyanlena",
+      "query_id": "3687",
+      "children": [
+        {
+          "id": "LK-215712001",
+          "name": "Kadiyanlena colony ",
+          "query_id": "15726"
+        },
+        {
+          "id": "LK-215712002",
+          "name": "Petarganwatta",
+          "query_id": "15728"
+        },
+        {
+          "id": "LK-215712003",
+          "name": "Rexhole watta",
+          "query_id": "15730"
+        },
+        {
+          "id": "LK-215712004",
+          "name": "Baranda watta",
+          "query_id": "15731"
+        },
+        {
+          "id": "LK-215712005",
+          "name": "Baranda(pvt Estate )",
+          "query_id": "15732"
+        },
+        {
+          "id": "LK-215712006",
+          "name": "Queensberi watta lower Division ",
+          "query_id": "15734"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157125",
+      "name": "Westhole",
+      "query_id": "3688",
+      "children": [
+        {
+          "id": "LK-215712501",
+          "name": "Barkepal watta",
+          "query_id": "15718"
+        },
+        {
+          "id": "LK-215712502",
+          "name": "Westhall Estate(Westhole part ",
+          "query_id": "15719"
+        },
+        {
+          "id": "LK-215712503",
+          "name": "Westhall-Etherton Division",
+          "query_id": "40166"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157130",
+      "name": "Inguruoya South",
+      "query_id": "3689",
+      "children": [
+        {
+          "id": "LK-215713001",
+          "name": "Maskinnawatta A colony ",
+          "query_id": "15825"
+        },
+        {
+          "id": "LK-215713002",
+          "name": "Inguruoya colony ",
+          "query_id": "15826"
+        },
+        {
+          "id": "LK-215713003",
+          "name": "Penrose Watta",
+          "query_id": "15827"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157135",
+      "name": "Mapakanda South",
+      "query_id": "3690",
+      "children": [
+        {
+          "id": "LK-215713501",
+          "name": "Mapakandagama South",
+          "query_id": "15834"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157140",
+      "name": "Wewegama",
+      "query_id": "3691",
+      "children": [
+        {
+          "id": "LK-215714001",
+          "name": "Wewegama colony ",
+          "query_id": "15816"
+        },
+        {
+          "id": "LK-215714002",
+          "name": "Galabodagama",
+          "query_id": "15817"
+        },
+        {
+          "id": "LK-215714003",
+          "name": "Galaboda watta",
+          "query_id": "15818"
+        },
+        {
+          "id": "LK-215714004",
+          "name": "Penrose Watta",
+          "query_id": "15819"
+        }
+      ]
+    },
+    {
+      "id": "LK-2157145",
+      "name": "Hydry",
+      "query_id": "3692",
+      "children": [
+        {
+          "id": "LK-215714501",
+          "name": "Gliston gama ",
+          "query_id": "15720"
+        },
+        {
+          "id": "LK-215714502",
+          "name": "Hydry",
+          "query_id": "15721"
+        },
+        {
+          "id": "LK-215714503",
+          "name": "Wigton Upper/ Lower",
+          "query_id": "15722"
+        },
+        {
+          "id": "LK-215714504",
+          "name": "Tempalstowe watta ",
+          "query_id": "15723"
+        },
+        {
+          "id": "LK-215714505",
+          "name": "Inchara watta ",
+          "query_id": "15724"
+        },
+        {
+          "id": "LK-215714506",
+          "name": "Wudistok watta ",
+          "query_id": "40167"
+        }
+      ]
+    }
+  ]
+}

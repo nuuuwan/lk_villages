@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**14,578** Villages from **3,574** GNDs in **57** DSDs (2.189MB), scraped as of *2023-12-03 14:57:57*.
+**15,491** Villages from **3,801** GNDs in **62** DSDs (2.327MB), scraped as of *2023-12-03 15:16:08*.
 
 ## LK-1 - Western
 
@@ -76,3 +76,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-2142](data/villages/LK-2142.json) - Doluwa
 * [LK-2145](data/villages/LK-2145.json) - Pathahewaheta
 * [LK-2148](data/villages/LK-2148.json) - Deltota
+* [LK-2151](data/villages/LK-2151.json) - Udapalatha
+* [LK-2154](data/villages/LK-2154.json) - Ganga Ihala Korale
+* [LK-2157](data/villages/LK-2157.json) - Pasbage Korale
+
+### LK-22 - Matale
+
+* [LK-2203](data/villages/LK-2203.json) - Galewela
+* [LK-2206](data/villages/LK-2206.json) - Dambulla
