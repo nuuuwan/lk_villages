@@ -1,0 +1,850 @@
+{
+  "id": "LK-1312",
+  "name": "Bulathsinhala",
+  "query_id": "980",
+  "children": [
+    {
+      "id": "LK-1312005",
+      "name": "Ihala Naragala",
+      "query_id": "1966",
+      "children": [
+        {
+          "id": "LK-131200501",
+          "name": "Govinna",
+          "query_id": "21669"
+        },
+        {
+          "id": "LK-131200502",
+          "name": "Ihala Naragala",
+          "query_id": "42442"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312010",
+      "name": "Kobawaka North",
+      "query_id": "1967",
+      "children": [
+        {
+          "id": "LK-131201001",
+          "name": "Govinna",
+          "query_id": "21668"
+        },
+        {
+          "id": "LK-131201002",
+          "name": "Kobawaka",
+          "query_id": "42443"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312015",
+      "name": "Diwalakada",
+      "query_id": "1968",
+      "children": [
+        {
+          "id": "LK-131201501",
+          "name": "Bulathsinhala",
+          "query_id": "21699"
+        },
+        {
+          "id": "LK-131201502",
+          "name": "Diwalakada",
+          "query_id": "42445"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312020",
+      "name": "Meegahakumbura",
+      "query_id": "1969",
+      "children": [
+        {
+          "id": "LK-131202001",
+          "name": "Bulathsinhala",
+          "query_id": "21702"
+        },
+        {
+          "id": "LK-131202002",
+          "name": "Meegahakubura",
+          "query_id": "42450"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312025",
+      "name": "Yahalawatta",
+      "query_id": "1970",
+      "children": [
+        {
+          "id": "LK-131202501",
+          "name": "Bulathsinhala",
+          "query_id": "21701"
+        },
+        {
+          "id": "LK-131202502",
+          "name": "Yahalawatta",
+          "query_id": "42452"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312030",
+      "name": "Bothale Gangoda",
+      "query_id": "1971",
+      "children": [
+        {
+          "id": "LK-131203001",
+          "name": "Bulathsinhala",
+          "query_id": "21700"
+        },
+        {
+          "id": "LK-131203002",
+          "name": "Bothalegangoda",
+          "query_id": "42457"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312035",
+      "name": "Kongasthenna",
+      "query_id": "1972",
+      "children": [
+        {
+          "id": "LK-131203501",
+          "name": "Bulathsinhala",
+          "query_id": "21703"
+        },
+        {
+          "id": "LK-131203502",
+          "name": "Kongas thenna",
+          "query_id": "42455"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312040",
+      "name": "Halwathura",
+      "query_id": "1973",
+      "children": [
+        {
+          "id": "LK-131204001",
+          "name": "Bulathsinhala",
+          "query_id": "21698"
+        },
+        {
+          "id": "LK-131204002",
+          "name": "Halwatura",
+          "query_id": "42459"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312045",
+      "name": "Amaragedara North",
+      "query_id": "1974",
+      "children": [
+        {
+          "id": "LK-131204501",
+          "name": "Bulathsinhala",
+          "query_id": "21694"
+        },
+        {
+          "id": "LK-131204502",
+          "name": "Amragedara",
+          "query_id": "42460"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312050",
+      "name": "Bothale",
+      "query_id": "1975",
+      "children": [
+        {
+          "id": "LK-131205001",
+          "name": "Bulathsinhala",
+          "query_id": "21697"
+        },
+        {
+          "id": "LK-131205002",
+          "name": "Bothalegama",
+          "query_id": "42463"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312055",
+      "name": "Bulathsinhala North",
+      "query_id": "1976",
+      "children": [
+        {
+          "id": "LK-131205501",
+          "name": "Bulathsinhala",
+          "query_id": "21689"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312060",
+      "name": "Egaloya",
+      "query_id": "1977",
+      "children": [
+        {
+          "id": "LK-131206001",
+          "name": "Bulathsinhala",
+          "query_id": "21693"
+        },
+        {
+          "id": "LK-131206002",
+          "name": "Egaloya",
+          "query_id": "42467"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312065",
+      "name": "Kobawaka South",
+      "query_id": "1978",
+      "children": [
+        {
+          "id": "LK-131206501",
+          "name": "Kobawaka",
+          "query_id": "42471"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312070",
+      "name": "Ihala Naragala South",
+      "query_id": "1979",
+      "children": [
+        {
+          "id": "LK-131207001",
+          "name": "Ehala Naragala",
+          "query_id": "42472"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312075",
+      "name": "Govinna North",
+      "query_id": "1980",
+      "children": [
+        {
+          "id": "LK-131207501",
+          "name": "Govinna North",
+          "query_id": "21670"
+        },
+        {
+          "id": "LK-131207502",
+          "name": "Govinna",
+          "query_id": "42478"
+        },
+        {
+          "id": "LK-131207503",
+          "name": "Pahala Nargala",
+          "query_id": "42480"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312080",
+      "name": "Pahala Naragala",
+      "query_id": "1981",
+      "children": [
+        {
+          "id": "LK-131208001",
+          "name": "Govinna",
+          "query_id": "21667"
+        },
+        {
+          "id": "LK-131208002",
+          "name": "Pahala Naragala",
+          "query_id": "42673"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312085",
+      "name": "Dewamulla",
+      "query_id": "1982",
+      "children": [
+        {
+          "id": "LK-131208501",
+          "name": "Govinna",
+          "query_id": "21666"
+        },
+        {
+          "id": "LK-131208502",
+          "name": "Dewamulla",
+          "query_id": "42491"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312090",
+      "name": "Govinna South",
+      "query_id": "1983",
+      "children": [
+        {
+          "id": "LK-131209001",
+          "name": "Govinna",
+          "query_id": "21671"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312095",
+      "name": "Ratiyala",
+      "query_id": "1984",
+      "children": [
+        {
+          "id": "LK-131209501",
+          "name": "Govinna",
+          "query_id": "21672"
+        },
+        {
+          "id": "LK-131209502",
+          "name": "Retiyala",
+          "query_id": "42497"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312100",
+      "name": "Galahena",
+      "query_id": "1985",
+      "children": [
+        {
+          "id": "LK-131210001",
+          "name": "Bulathsinhala",
+          "query_id": "21707"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312105",
+      "name": "Bulathsinhala South",
+      "query_id": "1986",
+      "children": [
+        {
+          "id": "LK-131210501",
+          "name": "Bulathsinhala",
+          "query_id": "21691"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312110",
+      "name": "Bulathsinhala",
+      "query_id": "1987",
+      "children": [
+        {
+          "id": "LK-131211001",
+          "name": "Bulathsinhala",
+          "query_id": "21709"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312115",
+      "name": "Bulathsinhala Central",
+      "query_id": "1988",
+      "children": [
+        {
+          "id": "LK-131211501",
+          "name": "Bulathsinhala",
+          "query_id": "21695"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312120",
+      "name": "Amaragedara South",
+      "query_id": "1989",
+      "children": [
+        {
+          "id": "LK-131212001",
+          "name": "Bulathsinhala",
+          "query_id": "21692"
+        },
+        {
+          "id": "LK-131212002",
+          "name": "Amaragedara",
+          "query_id": "42498"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312125",
+      "name": "Delmella",
+      "query_id": "1990",
+      "children": [
+        {
+          "id": "LK-131212501",
+          "name": "Bulathsinhala",
+          "query_id": "21690"
+        },
+        {
+          "id": "LK-131212502",
+          "name": "Delmella",
+          "query_id": "42499"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312130",
+      "name": "Udugalakanda",
+      "query_id": "1991",
+      "children": [
+        {
+          "id": "LK-131213001",
+          "name": "Bulathsinhala",
+          "query_id": "21696"
+        },
+        {
+          "id": "LK-131213002",
+          "name": "Udugalakanda",
+          "query_id": "42500"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312135",
+      "name": "Niggaha",
+      "query_id": "1992",
+      "children": [
+        {
+          "id": "LK-131213501",
+          "name": "Bulathsinhala",
+          "query_id": "21705"
+        },
+        {
+          "id": "LK-131213502",
+          "name": "Niggaha",
+          "query_id": "42501"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312140",
+      "name": "Yatagampitiya",
+      "query_id": "1993",
+      "children": [
+        {
+          "id": "LK-131214001",
+          "name": "Bulathsinhala",
+          "query_id": "21704"
+        },
+        {
+          "id": "LK-131214002",
+          "name": "Yatagampitiya",
+          "query_id": "42618"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312145",
+      "name": "Karaldekma",
+      "query_id": "1994",
+      "children": [
+        {
+          "id": "LK-131214501",
+          "name": "Bulathsinhala",
+          "query_id": "21712"
+        },
+        {
+          "id": "LK-131214502",
+          "name": "Karaldekma",
+          "query_id": "42622"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312150",
+      "name": "Bulathsinhala East",
+      "query_id": "1995",
+      "children": [
+        {
+          "id": "LK-131215001",
+          "name": "Bulathsinhala",
+          "query_id": "21711"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312155",
+      "name": "Damparadugoda",
+      "query_id": "1996",
+      "children": [
+        {
+          "id": "LK-131215501",
+          "name": "Bulathsinhala",
+          "query_id": "21710"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312160",
+      "name": "Pahala Welgama",
+      "query_id": "1997",
+      "children": [
+        {
+          "id": "LK-131216001",
+          "name": "Bulathsinhala",
+          "query_id": "21706"
+        },
+        {
+          "id": "LK-131216002",
+          "name": "Pahala welgama",
+          "query_id": "42625"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312165",
+      "name": "Bulathsinhala West",
+      "query_id": "1998",
+      "children": [
+        {
+          "id": "LK-131216501",
+          "name": "Bulathsinhala",
+          "query_id": "21713"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312170",
+      "name": "Deeyakaduwa East",
+      "query_id": "1999",
+      "children": [
+        {
+          "id": "LK-131217001",
+          "name": "Mahagama",
+          "query_id": "21686"
+        },
+        {
+          "id": "LK-131217002",
+          "name": "Deeyakaduwa",
+          "query_id": "42627"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312175",
+      "name": "Deeyakaduwa West",
+      "query_id": "2000",
+      "children": [
+        {
+          "id": "LK-131217501",
+          "name": "Mahagama",
+          "query_id": "21687"
+        },
+        {
+          "id": "LK-131217502",
+          "name": "Deeyakaduwa",
+          "query_id": "42629"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312180",
+      "name": "Bogahawatta",
+      "query_id": "2001",
+      "children": [
+        {
+          "id": "LK-131218001",
+          "name": "Mahagama",
+          "query_id": "21681"
+        },
+        {
+          "id": "LK-131218002",
+          "name": "Uthuru Mahagama",
+          "query_id": "42633"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312185",
+      "name": "Mahagama North",
+      "query_id": "2002",
+      "children": [
+        {
+          "id": "LK-131218501",
+          "name": "Mahagama",
+          "query_id": "21677"
+        },
+        {
+          "id": "LK-131218502",
+          "name": "Uthuru Mahagama",
+          "query_id": "42635"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312190",
+      "name": "Demodarawatta",
+      "query_id": "2003",
+      "children": [
+        {
+          "id": "LK-131219001",
+          "name": "Mahagama",
+          "query_id": "21682"
+        },
+        {
+          "id": "LK-131219002",
+          "name": "Uthuru Mahagama",
+          "query_id": "42637"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312195",
+      "name": "Thennahena",
+      "query_id": "2004",
+      "children": [
+        {
+          "id": "LK-131219501",
+          "name": "Mahagama",
+          "query_id": "21688"
+        },
+        {
+          "id": "LK-131219502",
+          "name": "Thennahena",
+          "query_id": "42641"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312200",
+      "name": "Ihala Welgama",
+      "query_id": "2005",
+      "children": [
+        {
+          "id": "LK-131220001",
+          "name": "Bulathsinhala",
+          "query_id": "21708"
+        },
+        {
+          "id": "LK-131220002",
+          "name": "Ihala Eelgama",
+          "query_id": "42645"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312205",
+      "name": "Paragoda West",
+      "query_id": "2006",
+      "children": [
+        {
+          "id": "LK-131220501",
+          "name": "Bulathsinhala",
+          "query_id": "21715"
+        },
+        {
+          "id": "LK-131220502",
+          "name": "Paragoda",
+          "query_id": "42648"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312210",
+      "name": "Paragoda East",
+      "query_id": "2007",
+      "children": [
+        {
+          "id": "LK-131221001",
+          "name": "Bulathsinhala",
+          "query_id": "21714"
+        },
+        {
+          "id": "LK-131221002",
+          "name": "Paragoda",
+          "query_id": "42650"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312215",
+      "name": "Molkawa",
+      "query_id": "2008",
+      "children": [
+        {
+          "id": "LK-131221501",
+          "name": "Molkawa",
+          "query_id": "21716"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312220",
+      "name": "Galahitiya",
+      "query_id": "2009",
+      "children": [
+        {
+          "id": "LK-131222001",
+          "name": "Molkawa",
+          "query_id": "21717"
+        },
+        {
+          "id": "LK-131222002",
+          "name": "Galahitiya",
+          "query_id": "42654"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312225",
+      "name": "Mahagama East",
+      "query_id": "2010",
+      "children": [
+        {
+          "id": "LK-131222501",
+          "name": "Mahagama",
+          "query_id": "21679"
+        },
+        {
+          "id": "LK-131222502",
+          "name": "Uthuru Mahagama",
+          "query_id": "42658"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312230",
+      "name": "Polegoda West",
+      "query_id": "2011",
+      "children": [
+        {
+          "id": "LK-131223001",
+          "name": "Mahagama",
+          "query_id": "21683"
+        },
+        {
+          "id": "LK-131223002",
+          "name": "Polgoda",
+          "query_id": "42660"
+        },
+        {
+          "id": "LK-131223003",
+          "name": "Mahagama South",
+          "query_id": "42662"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312235",
+      "name": "Mahagama West",
+      "query_id": "2012",
+      "children": [
+        {
+          "id": "LK-131223501",
+          "name": "Mahagama",
+          "query_id": "21680"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312240",
+      "name": "Pahala Kudaligama",
+      "query_id": "2013",
+      "children": [
+        {
+          "id": "LK-131224001",
+          "name": "Agalawatta",
+          "query_id": "21674"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312245",
+      "name": "Ihala Kudaligama",
+      "query_id": "2014",
+      "children": [
+        {
+          "id": "LK-131224501",
+          "name": "Neboda",
+          "query_id": "21673"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312250",
+      "name": "Weyangalla West",
+      "query_id": "2015",
+      "children": [
+        {
+          "id": "LK-131225001",
+          "name": "Agalawatta",
+          "query_id": "21676"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312255",
+      "name": "Weyangalla East",
+      "query_id": "2016",
+      "children": [
+        {
+          "id": "LK-131225501",
+          "name": "Agalawatta",
+          "query_id": "21675"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312260",
+      "name": "Mahagama South",
+      "query_id": "2017",
+      "children": [
+        {
+          "id": "LK-131226001",
+          "name": "Mahagama",
+          "query_id": "21678"
+        },
+        {
+          "id": "LK-131226002",
+          "name": "Mahagama South",
+          "query_id": "42665"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312265",
+      "name": "Muduna",
+      "query_id": "2018",
+      "children": [
+        {
+          "id": "LK-131226501",
+          "name": "Mahagama",
+          "query_id": "21684"
+        },
+        {
+          "id": "LK-131226502",
+          "name": "Mahagama South",
+          "query_id": "42667"
+        }
+      ]
+    },
+    {
+      "id": "LK-1312270",
+      "name": "Gamagewatta",
+      "query_id": "2019",
+      "children": [
+        {
+          "id": "LK-131227001",
+          "name": "Mahagama",
+          "query_id": "21685"
+        },
+        {
+          "id": "LK-131227002",
+          "name": "Mahagama South",
+          "query_id": "42668"
+        }
+      ]
+    }
+  ]
+}

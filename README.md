@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**7,911** Villages from **1,806** GNDs in **27** DSDs (1.174MB), scraped as of *2023-12-03 12:58:08*.
+**8,804** Villages from **2,044** GNDs in **32** DSDs (1.309MB), scraped as of *2023-12-03 13:16:25*.
 
 ## LK-1 - Western
 
@@ -41,3 +41,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 ### LK-13 - Kalutara
 
 * [LK-1303](data/villages/LK-1303.json) - Panadura
+* [LK-1306](data/villages/LK-1306.json) - Bandaragama
+* [LK-1309](data/villages/LK-1309.json) - Horana
+* [LK-1310](data/villages/LK-1310.json) - Ingiriya
+* [LK-1312](data/villages/LK-1312.json) - Bulathsinhala
+* [LK-1315](data/villages/LK-1315.json) - Madurawala
