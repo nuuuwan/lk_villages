@@ -106,5 +106,8 @@ class Region:
         return os.path.join('data', 'villages', f'{self.id}.json')
 
     def write(self):
+        if os.path.exists(self.data_path):
+            return False
         JSONFile(self.data_path).write(self.data)
         log.info(f'Wrote {self.data_path}')
+        return True

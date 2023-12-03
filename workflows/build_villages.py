@@ -8,8 +8,8 @@ from workflows.build_dsds import DSD_DATA_PATH
 
 log = Log('pipeline')
 
-N_SAMPLES = 5
-log.debug(f'🪛{N_SAMPLES=}')
+MAX_COMPLETED_RUNS = 1
+log.debug(f'🪛{MAX_COMPLETED_RUNS=}')
 
 
 def random_sleep():
@@ -20,9 +20,12 @@ def random_sleep():
 
 if __name__ == '__main__':
     data_list = JSONFile(DSD_DATA_PATH).read()
-    random_data_list = random.sample(data_list, N_SAMPLES)
 
-    for d in random_data_list:
+    n_completed_runs = 0
+    for d in data_list:
         dsd = Region(**d)
-        dsd.write()
-        random_sleep()
+        if dsd.write():
+            random_sleep()
+            n_completed_runs += 1
+            if n_completed_runs >= MAX_COMPLETED_RUNS:
+                break
