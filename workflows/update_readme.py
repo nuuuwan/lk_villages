@@ -37,7 +37,7 @@ def main():
         'Scrapes information about villages from http://moha.gov.lk:8090.',
         '',
         f'**{n_villages}** Villages from **{n_gnds}** GNDs'
-        + f' in **{n_dsds}** DSDs ({n_file_size_m:.1f}MB), scraped as of *{time_str}*.',
+        + f' in **{n_dsds}** DSDs ({n_file_size_m:.3f}MB), scraped as of *{time_str}*.',
     ]
 
     previous_province_id = None
