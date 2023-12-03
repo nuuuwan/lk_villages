@@ -1,0 +1,524 @@
+{
+  "id": "LK-3306",
+  "name": "Lunugamvehera",
+  "query_id": "1061",
+  "children": [
+    {
+      "id": "LK-3306005",
+      "name": "Mahaaluthgamara",
+      "query_id": "6295",
+      "children": [
+        {
+          "id": "LK-330600501",
+          "name": "Mahaaluthgamara",
+          "query_id": "17980"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306010",
+      "name": "Angunakolawewa",
+      "query_id": "6296",
+      "children": [
+        {
+          "id": "LK-330601001",
+          "name": "Angunukolawewa",
+          "query_id": "17981"
+        },
+        {
+          "id": "LK-330601002",
+          "name": "Sethsirigama",
+          "query_id": "51118"
+        },
+        {
+          "id": "LK-330601003",
+          "name": "Mahawewa",
+          "query_id": "51119"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306015",
+      "name": "Weheragala",
+      "query_id": "6297",
+      "children": [
+        {
+          "id": "LK-330601501",
+          "name": "Weheragala",
+          "query_id": "17982"
+        },
+        {
+          "id": "LK-330601502",
+          "name": "Palugaswewa",
+          "query_id": "51120"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306020",
+      "name": "Ranawaranawa",
+      "query_id": "6298",
+      "children": [
+        {
+          "id": "LK-330602001",
+          "name": "Ranawaranawa",
+          "query_id": "17983"
+        },
+        {
+          "id": "LK-330602002",
+          "name": "Kotakumbuka",
+          "query_id": "51121"
+        },
+        {
+          "id": "LK-330602003",
+          "name": "jandura Janawasaya",
+          "query_id": "51122"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306025",
+      "name": "Dewramwehera",
+      "query_id": "6299",
+      "children": [
+        {
+          "id": "LK-330602501",
+          "name": "Dewramwehera",
+          "query_id": "17984"
+        },
+        {
+          "id": "LK-330602502",
+          "name": "Kotakumbuka",
+          "query_id": "51123"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306030",
+      "name": "Bogahawewa",
+      "query_id": "6300",
+      "children": [
+        {
+          "id": "LK-330603001",
+          "name": "Bogahawewa",
+          "query_id": "17985"
+        },
+        {
+          "id": "LK-330603002",
+          "name": "Elukpelessa",
+          "query_id": "51124"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306035",
+      "name": "Padawgama",
+      "query_id": "6301",
+      "children": [
+        {
+          "id": "LK-330603501",
+          "name": "Padawgama",
+          "query_id": "17986"
+        },
+        {
+          "id": "LK-330603502",
+          "name": "Diyawara Gammanaya",
+          "query_id": "51125"
+        },
+        {
+          "id": "LK-330603503",
+          "name": "Unathuwewa",
+          "query_id": "51126"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306040",
+      "name": "Punchiappujandura",
+      "query_id": "6302",
+      "children": [
+        {
+          "id": "LK-330604001",
+          "name": "Punchiappujandura",
+          "query_id": "17987"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306045",
+      "name": "Lunugamvehera New Town",
+      "query_id": "6303",
+      "children": [
+        {
+          "id": "LK-330604501",
+          "name": "Lunugamwehera New Town",
+          "query_id": "17988"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306050",
+      "name": "Seenimunna",
+      "query_id": "6304",
+      "children": [
+        {
+          "id": "LK-330605001",
+          "name": "Hamlet No 01, Right Bank ",
+          "query_id": "17991"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306055",
+      "name": "Kendagasmankada",
+      "query_id": "6305",
+      "children": [
+        {
+          "id": "LK-330605501",
+          "name": "Hamlet No 02, Right Bank Kendagasmankada",
+          "query_id": "17992"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306060",
+      "name": "Mahanagapura",
+      "query_id": "6306",
+      "children": [
+        {
+          "id": "LK-330606001",
+          "name": "Hamlet No 03, Right Bank",
+          "query_id": "17993"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306065",
+      "name": "Muwanwewa",
+      "query_id": "6307",
+      "children": [
+        {
+          "id": "LK-330606501",
+          "name": "Hamlet No 05, Right Bank",
+          "query_id": "17994"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306070",
+      "name": "Weeravil Ara",
+      "query_id": "6308",
+      "children": [
+        {
+          "id": "LK-330607001",
+          "name": "Weeravil Ara",
+          "query_id": "17995"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306075",
+      "name": "Iththanwekada ",
+      "query_id": "6309",
+      "children": [
+        {
+          "id": "LK-330607501",
+          "name": "Hamlet No 05, Right Bank",
+          "query_id": "17996"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306080",
+      "name": "Maththala",
+      "query_id": "6310",
+      "children": [
+        {
+          "id": "LK-330608001",
+          "name": "Uda Maththala",
+          "query_id": "17997"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306085",
+      "name": "Pahala Maththala",
+      "query_id": "6311",
+      "children": [
+        {
+          "id": "LK-330608501",
+          "name": "Pahala Maththala",
+          "query_id": "17998"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306090",
+      "name": "Mihindupura",
+      "query_id": "6312",
+      "children": [
+        {
+          "id": "LK-330609001",
+          "name": "Hamlet No 06, Right Bank",
+          "query_id": "17999"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306095",
+      "name": "Abayapura",
+      "query_id": "6313",
+      "children": [
+        {
+          "id": "LK-330609501",
+          "name": "Hamlet No 06, Right Bank",
+          "query_id": "18000"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306100",
+      "name": "Singhapura",
+      "query_id": "6314",
+      "children": [
+        {
+          "id": "LK-330610001",
+          "name": "Hamlet No 07, Right Bank",
+          "query_id": "18002"
+        },
+        {
+          "id": "LK-330610002",
+          "name": "Maha Weerawila",
+          "query_id": "51127"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306105",
+      "name": "Senapura",
+      "query_id": "6315",
+      "children": [
+        {
+          "id": "LK-330610501",
+          "name": "Hamlet No 07, Right Bank",
+          "query_id": "18004"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306110",
+      "name": "Agbopura",
+      "query_id": "6316",
+      "children": [
+        {
+          "id": "LK-330611001",
+          "name": "Hamlet No 09, Right Bank",
+          "query_id": "18006"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306115",
+      "name": "Karambawewa",
+      "query_id": "6317",
+      "children": [
+        {
+          "id": "LK-330611501",
+          "name": "Hamlet No 18, Right Bank",
+          "query_id": "18008"
+        },
+        {
+          "id": "LK-330611502",
+          "name": "karambawewa",
+          "query_id": "51128"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306120",
+      "name": "Rambukwewa",
+      "query_id": "6318",
+      "children": [
+        {
+          "id": "LK-330612003",
+          "name": "Hamlet No 20, Right Bank",
+          "query_id": "18012"
+        },
+        {
+          "id": "LK-330612001",
+          "name": "Rambukwewa",
+          "query_id": "51129"
+        },
+        {
+          "id": "LK-330612002",
+          "name": "Hamlet10,Right Bank",
+          "query_id": "51130"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306125",
+      "name": "Keerthipura",
+      "query_id": "6319",
+      "children": [
+        {
+          "id": "LK-330612501",
+          "name": "Hamlet No 10, Right Bank",
+          "query_id": "18018"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306130",
+      "name": "Samanpura",
+      "query_id": "6320",
+      "children": [
+        {
+          "id": "LK-330613001",
+          "name": "Hamlet No 09, Right Bank",
+          "query_id": "18021"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306135",
+      "name": "Ranasiripura",
+      "query_id": "6321",
+      "children": [
+        {
+          "id": "LK-330613501",
+          "name": "Hamlet No 08, Right Bank",
+          "query_id": "18024"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306140",
+      "name": "Weeravila",
+      "query_id": "6322",
+      "children": [
+        {
+          "id": "LK-330614001",
+          "name": "Weerawela New Townaya",
+          "query_id": "18026"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306145",
+      "name": "Weligatta",
+      "query_id": "6323",
+      "children": [
+        {
+          "id": "LK-330614501",
+          "name": "Hamlet No 10, Right Bank",
+          "query_id": "18031"
+        },
+        {
+          "id": "LK-330614501",
+          "name": "Weligaththa Town",
+          "query_id": "51131"
+        },
+        {
+          "id": "LK-330614502",
+          "name": "Boralessa",
+          "query_id": "51132"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306150",
+      "name": "Beralihela",
+      "query_id": "6324",
+      "children": [
+        {
+          "id": "LK-330615001",
+          "name": "Hamlet No 03, Left Bank",
+          "query_id": "18035"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306155",
+      "name": "Dutugemunupura",
+      "query_id": "6325",
+      "children": [
+        {
+          "id": "LK-330615501",
+          "name": "Hamlet No 04, Left Bank",
+          "query_id": "18037"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306160",
+      "name": "Jayagama",
+      "query_id": "6326",
+      "children": [
+        {
+          "id": "LK-330616001",
+          "name": "Hamlet No 04, Left Bank",
+          "query_id": "18039"
+        },
+        {
+          "id": "LK-330616002",
+          "name": "Encroched Lands",
+          "query_id": "51133"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306165",
+      "name": "Parakramapura",
+      "query_id": "6327",
+      "children": [
+        {
+          "id": "LK-330616501",
+          "name": "Hamlet No 03, Left Bank",
+          "query_id": "18042"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306170",
+      "name": "Saddhathissapura",
+      "query_id": "6328",
+      "children": [
+        {
+          "id": "LK-330617001",
+          "name": "Hamlet No 05, Left Bank",
+          "query_id": "18045"
+        },
+        {
+          "id": "LK-330617001",
+          "name": "Hamlet No 05, Left Bank",
+          "query_id": "18046"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306175",
+      "name": "Saddhathissapura New Town",
+      "query_id": "6329",
+      "children": [
+        {
+          "id": "LK-330617501",
+          "name": "Saddathissapura New Town",
+          "query_id": "18048"
+        }
+      ]
+    },
+    {
+      "id": "LK-3306180",
+      "name": "Saliyapura",
+      "query_id": "6330",
+      "children": [
+        {
+          "id": "LK-330618001",
+          "name": "Hamlet No 06, Left Bank",
+          "query_id": "18050"
+        }
+      ]
+    }
+  ]
+}

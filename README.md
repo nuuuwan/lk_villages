@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**24,440** Villages from **6,174** GNDs in **117** DSDs (3.689MB), scraped as of *2023-12-03 19:44:12*.
+**24,994** Villages from **6,364** GNDs in **122** DSDs (3.779MB), scraped as of *2023-12-03 19:52:52*.
 
 ## LK-1 - Western
 
@@ -152,3 +152,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-3236](data/villages/LK-3236.json) - Thihagoda
 * [LK-3239](data/villages/LK-3239.json) - Weligama
 * [LK-3242](data/villages/LK-3242.json) - Matara Four Gravets
+* [LK-3245](data/villages/LK-3245.json) - Devinuwara
+* [LK-3248](data/villages/LK-3248.json) - Dickwella
+
+### LK-33 - Hambantota
+
+* [LK-3303](data/villages/LK-3303.json) - Sooriyawewa
+* [LK-3306](data/villages/LK-3306.json) - Lunugamvehera
+* [LK-3309](data/villages/LK-3309.json) - Thissamaharama

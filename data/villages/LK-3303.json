@@ -1,0 +1,564 @@
+{
+  "id": "LK-3303",
+  "name": "Sooriyawewa",
+  "query_id": "1060",
+  "children": [
+    {
+      "id": "LK-3303005",
+      "name": "Ihala Kumbukwewa",
+      "query_id": "6274",
+      "children": [
+        {
+          "id": "LK-330300501",
+          "name": "Ihala Kumbukwewa",
+          "query_id": "17797"
+        },
+        {
+          "id": "LK-330300502",
+          "name": "Pahala Kumbukwewa",
+          "query_id": "17800"
+        },
+        {
+          "id": "LK-330300503",
+          "name": "Mattala colony",
+          "query_id": "51114"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303010",
+      "name": "Mahagalwewa",
+      "query_id": "6275",
+      "children": [
+        {
+          "id": "LK-330301001",
+          "name": "Mahalwewa Janapadaya",
+          "query_id": "17816"
+        },
+        {
+          "id": "LK-330301002",
+          "name": "Diyawaragama",
+          "query_id": "54867"
+        },
+        {
+          "id": "LK-330301005",
+          "name": "Janasawigama",
+          "query_id": "54870"
+        },
+        {
+          "id": "LK-330301003",
+          "name": "Dhewaragama",
+          "query_id": "54868"
+        },
+        {
+          "id": "LK-330301004",
+          "name": "Mahasenpura",
+          "query_id": "54869"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303015",
+      "name": "Meegaha Jandura",
+      "query_id": "6276",
+      "children": [
+        {
+          "id": "LK-330301501",
+          "name": "Meegaha Jandura",
+          "query_id": "17827"
+        },
+        {
+          "id": "LK-330301502",
+          "name": "Kapukinissayaya",
+          "query_id": "17830"
+        },
+        {
+          "id": "LK-330301503",
+          "name": "Mattala Colony 2",
+          "query_id": "51115"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303020",
+      "name": "Ranmuduwewa",
+      "query_id": "6277",
+      "children": [
+        {
+          "id": "LK-330302002",
+          "name": "Ranmuduwewa Janawasaya ",
+          "query_id": "17840"
+        },
+        {
+          "id": "LK-330302002",
+          "name": "Mihindugama",
+          "query_id": "17841"
+        },
+        {
+          "id": "LK-330302001",
+          "name": "Mahaindiwewa Janawasaya ",
+          "query_id": "17843"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303025",
+      "name": "Weliwewa",
+      "query_id": "6278",
+      "children": [
+        {
+          "id": "LK-330302501",
+          "name": "Weliwewa",
+          "query_id": "17853"
+        },
+        {
+          "id": "LK-330302502",
+          "name": "18 Kiolaniya",
+          "query_id": "17856"
+        },
+        {
+          "id": "LK-330302503",
+          "name": "Bogahaindiwewa",
+          "query_id": "17860"
+        },
+        {
+          "id": "LK-330302505",
+          "name": "Housing Scheme",
+          "query_id": "54871"
+        },
+        {
+          "id": "LK-330302504",
+          "name": "Karametiya Janawasaya",
+          "query_id": "51113"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303030",
+      "name": "Suravirugama",
+      "query_id": "6279",
+      "children": [
+        {
+          "id": "LK-330303001",
+          "name": "Suravirugama",
+          "query_id": "17875"
+        },
+        {
+          "id": "LK-330303002",
+          "name": "Konketiara",
+          "query_id": "17878"
+        },
+        {
+          "id": "LK-330303003",
+          "name": "Weliara",
+          "query_id": "17880"
+        },
+        {
+          "id": "LK-330303004",
+          "name": "Wawegama",
+          "query_id": "17882"
+        },
+        {
+          "id": "LK-330303005",
+          "name": "Koonketiara Dheewaragama",
+          "query_id": "54872"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303035",
+      "name": "Samajasewapura",
+      "query_id": "6280",
+      "children": [
+        {
+          "id": "LK-330303501",
+          "name": "Samajasewapura 1",
+          "query_id": "17886"
+        },
+        {
+          "id": "LK-330303502",
+          "name": "Samajasewapura 11",
+          "query_id": "17891"
+        },
+        {
+          "id": "LK-330303503",
+          "name": "Deiyandarayaya",
+          "query_id": "17892"
+        },
+        {
+          "id": "LK-330303504",
+          "name": "Galwewa",
+          "query_id": "17893"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303040",
+      "name": "Weeriyagama",
+      "query_id": "6281",
+      "children": [
+        {
+          "id": "LK-330304001",
+          "name": "Weeriyagama",
+          "query_id": "17897"
+        },
+        {
+          "id": "LK-330304002",
+          "name": "Randiyagama",
+          "query_id": "17898"
+        },
+        {
+          "id": "LK-330304003",
+          "name": "Parana Hathporuwa",
+          "query_id": "17901"
+        },
+        {
+          "id": "LK-330304004",
+          "name": "Haburugala Road",
+          "query_id": "17904"
+        },
+        {
+          "id": "LK-330304005",
+          "name": "11 kanuwa",
+          "query_id": "51116"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303045",
+      "name": "Hathporuwa",
+      "query_id": "6282",
+      "children": [
+        {
+          "id": "LK-330304501",
+          "name": "hathporuwa",
+          "query_id": "17906"
+        },
+        {
+          "id": "LK-330304503",
+          "name": "Sri Wijayagama",
+          "query_id": "17908"
+        },
+        {
+          "id": "LK-330304503",
+          "name": "Shantipura",
+          "query_id": "17910"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303050",
+      "name": "Weniwal Ara",
+      "query_id": "6283",
+      "children": [
+        {
+          "id": "LK-330305001",
+          "name": "Weniwalara",
+          "query_id": "17913"
+        },
+        {
+          "id": "LK-330305002",
+          "name": "Alioluara Pahala",
+          "query_id": "17916"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303055",
+      "name": "Aliolu Ara",
+      "query_id": "6284",
+      "children": [
+        {
+          "id": "LK-330305501",
+          "name": "Alioluara Ihala ",
+          "query_id": "17923"
+        },
+        {
+          "id": "LK-330305502",
+          "name": "Yaya 01",
+          "query_id": "17925"
+        },
+        {
+          "id": "LK-330305503",
+          "name": "Sirilpura",
+          "query_id": "17926"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303060",
+      "name": "Sooriyawewa Town",
+      "query_id": "6285",
+      "children": [
+        {
+          "id": "LK-330306001",
+          "name": "Sooriyawewa Town",
+          "query_id": "17931"
+        },
+        {
+          "id": "LK-330306002",
+          "name": "Muwanpellessa",
+          "query_id": "17932"
+        },
+        {
+          "id": "LK-330306003",
+          "name": "Kandawuru Pedesa",
+          "query_id": "17933"
+        },
+        {
+          "id": "LK-330306004",
+          "name": "Darmigama",
+          "query_id": "17935"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303065",
+      "name": "Viharagala",
+      "query_id": "6286",
+      "children": [
+        {
+          "id": "LK-330306501",
+          "name": "Weharagala",
+          "query_id": "17938"
+        },
+        {
+          "id": "LK-330306502",
+          "name": "Yaya 02",
+          "query_id": "17940"
+        },
+        {
+          "id": "LK-330306503",
+          "name": "550 Yaya ",
+          "query_id": "17941"
+        },
+        {
+          "id": "LK-330306504",
+          "name": "Track 03",
+          "query_id": "36694"
+        },
+        {
+          "id": "LK-330306505",
+          "name": "D 09",
+          "query_id": "36695"
+        },
+        {
+          "id": "LK-330306506",
+          "name": "D 10",
+          "query_id": "36696"
+        },
+        {
+          "id": "LK-330306507",
+          "name": "Sampathgama",
+          "query_id": "36697"
+        },
+        {
+          "id": "LK-330306508",
+          "name": "Samagipura",
+          "query_id": "36698"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303070",
+      "name": "Beddewewa",
+      "query_id": "6287",
+      "children": [
+        {
+          "id": "LK-330307001",
+          "name": "Beddewewa West",
+          "query_id": "17947"
+        },
+        {
+          "id": "LK-330307002",
+          "name": "250 Yaya kotasak",
+          "query_id": "17950"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303075",
+      "name": "Mahawelikada Ara",
+      "query_id": "6288",
+      "children": [
+        {
+          "id": "LK-330307501",
+          "name": "Pareni Baddewewa",
+          "query_id": "17952"
+        },
+        {
+          "id": "LK-330307502",
+          "name": "Mahawelikada Ara",
+          "query_id": "17953"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303080",
+      "name": "Andarawewa",
+      "query_id": "6289",
+      "children": [
+        {
+          "id": "LK-330308001",
+          "name": "Andarawewa",
+          "query_id": "17954"
+        },
+        {
+          "id": "LK-330308004",
+          "name": "Maha Ara",
+          "query_id": "17957"
+        },
+        {
+          "id": "LK-330308002",
+          "name": "Usgala",
+          "query_id": "17958"
+        },
+        {
+          "id": "LK-330308003",
+          "name": "Svodagama",
+          "query_id": "17960"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303085",
+      "name": "Namadagaswewa",
+      "query_id": "6290",
+      "children": [
+        {
+          "id": "LK-330308501",
+          "name": "Namadagaswewa",
+          "query_id": "17963"
+        },
+        {
+          "id": "LK-330308502",
+          "name": "Seenimodarayaya",
+          "query_id": "17965"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303090",
+      "name": "Mahapelessa",
+      "query_id": "6291",
+      "children": [
+        {
+          "id": "LK-330309001",
+          "name": "Mahapelessa",
+          "query_id": "17967"
+        },
+        {
+          "id": "LK-330309002",
+          "name": "Unudiya Pokunagama",
+          "query_id": "36693"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303095",
+      "name": "Bediganthota",
+      "query_id": "6292",
+      "children": [
+        {
+          "id": "LK-330309501",
+          "name": "Badiganthota",
+          "query_id": "17968"
+        },
+        {
+          "id": "LK-330309502",
+          "name": "Bomandiya Galeyaya",
+          "query_id": "36688"
+        },
+        {
+          "id": "LK-330309503",
+          "name": "Watawana",
+          "query_id": "36689"
+        },
+        {
+          "id": "LK-330309504",
+          "name": "Katukapuara",
+          "query_id": "36690"
+        },
+        {
+          "id": "LK-330309505",
+          "name": "Janawasa",
+          "query_id": "54873"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303100",
+      "name": "Habaraththawala",
+      "query_id": "6293",
+      "children": [
+        {
+          "id": "LK-330310003",
+          "name": "Madunagala Kele",
+          "query_id": "17969"
+        },
+        {
+          "id": "LK-330310001",
+          "name": "Palugasvila",
+          "query_id": "17970"
+        },
+        {
+          "id": "LK-330310004",
+          "name": "Habaranththawala",
+          "query_id": "17971"
+        },
+        {
+          "id": "LK-330310002",
+          "name": "Pahalagama kotasak",
+          "query_id": "17972"
+        }
+      ]
+    },
+    {
+      "id": "LK-3303105",
+      "name": "Wediwewa",
+      "query_id": "6294",
+      "children": [
+        {
+          "id": "LK-330310502",
+          "name": "Wediwewa",
+          "query_id": "17973"
+        },
+        {
+          "id": "LK-330310505",
+          "name": "Burutha Kanda",
+          "query_id": "17974"
+        },
+        {
+          "id": "LK-330310503",
+          "name": "Kadawara South",
+          "query_id": "17975"
+        },
+        {
+          "id": "LK-330310504",
+          "name": "Kadawara North",
+          "query_id": "17976"
+        },
+        {
+          "id": "LK-330310506",
+          "name": "Walsapugala",
+          "query_id": "54874"
+        },
+        {
+          "id": "LK-330310507",
+          "name": "Kaluwarawewa",
+          "query_id": "54875"
+        },
+        {
+          "id": "LK-330310508",
+          "name": "Bolhinda",
+          "query_id": "54876"
+        },
+        {
+          "id": "LK-330310501",
+          "name": "Part of Koggalla",
+          "query_id": "54866"
+        }
+      ]
+    }
+  ]
+}
