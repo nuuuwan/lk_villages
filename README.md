@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**33,000** Villages from **8,785** GNDs in **207** DSDs (5.030MB), scraped as of *2023-12-04 00:05:38*.
+**33,506** Villages from **8,943** GNDs in **212** DSDs (5.109MB), scraped as of *2023-12-04 00:19:58*.
 
 ## LK-1 - Western
 
@@ -273,3 +273,13 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-5321](data/villages/LK-5321.json) - Kanthale
 * [LK-5324](data/villages/LK-5324.json) - Kinniya
 * [LK-5327](data/villages/LK-5327.json) - Muttur
+* [LK-5330](data/villages/LK-5330.json) - Seruvila
+* [LK-5333](data/villages/LK-5333.json) - Verugal (Eachchilampattu)
+
+## LK-6 - North Western
+
+### LK-61 - Kurunegala
+
+* [LK-6103](data/villages/LK-6103.json) - Giribawa
+* [LK-6106](data/villages/LK-6106.json) - Galgamuwa
+* [LK-6109](data/villages/LK-6109.json) - Ehetuwewa

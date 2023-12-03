@@ -1,0 +1,304 @@
+{
+  "id": "LK-5330",
+  "name": "Seruwila",
+  "query_id": "1144",
+  "children": [
+    {
+      "id": "LK-5330005",
+      "name": "Nilapola",
+      "query_id": "8592",
+      "children": [
+        {
+          "id": "LK-533000501",
+          "name": "Nilapola",
+          "query_id": "10040"
+        },
+        {
+          "id": "LK-533000502",
+          "name": "Neelagama",
+          "query_id": "10041"
+        },
+        {
+          "id": "LK-533000504",
+          "name": "Gamunupura",
+          "query_id": "54978"
+        },
+        {
+          "id": "LK-533000503",
+          "name": "Kowilgodalla",
+          "query_id": "54977"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330010",
+      "name": "Samagipura",
+      "query_id": "8593",
+      "children": [
+        {
+          "id": "LK-533001002",
+          "name": "Samagipura",
+          "query_id": "10043"
+        },
+        {
+          "id": "LK-533001001",
+          "name": "Mandalapura",
+          "query_id": "10044"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330015",
+      "name": "Sivapuram",
+      "query_id": "8594",
+      "children": [
+        {
+          "id": "LK-533001501",
+          "name": "Sivapuram",
+          "query_id": "10046"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330020",
+      "name": "Dehiwaththa",
+      "query_id": "8595",
+      "children": [
+        {
+          "id": "LK-533002001",
+          "name": "Dehiwaththa",
+          "query_id": "10047"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330025",
+      "name": "Tanganagar",
+      "query_id": "8596",
+      "children": [
+        {
+          "id": "LK-533002501",
+          "name": "Tanganagar",
+          "query_id": "10050"
+        },
+        {
+          "id": "LK-533002502",
+          "name": "R.B 04",
+          "query_id": "54985"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330030",
+      "name": "Kawanthissapura",
+      "query_id": "8597",
+      "children": [
+        {
+          "id": "LK-533003001",
+          "name": "Kawanthissapura",
+          "query_id": "10051"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330035",
+      "name": "Seruwila",
+      "query_id": "8598",
+      "children": [
+        {
+          "id": "LK-533003501",
+          "name": "Seruwila",
+          "query_id": "10054"
+        },
+        {
+          "id": "LK-533003504",
+          "name": "Nelumgama",
+          "query_id": "54976"
+        },
+        {
+          "id": "LK-533003502",
+          "name": "New Town",
+          "query_id": "54974"
+        },
+        {
+          "id": "LK-533003503",
+          "name": "Samanalathuduwa",
+          "query_id": "54975"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330040",
+      "name": "Nawakkenikadu",
+      "query_id": "8599",
+      "children": [
+        {
+          "id": "LK-533004001",
+          "name": "Nawakkenikadu",
+          "query_id": "10056"
+        },
+        {
+          "id": "LK-533004003",
+          "name": "Asraf Nagar Model Village",
+          "query_id": "54980"
+        },
+        {
+          "id": "LK-533004004",
+          "name": "Selwanagar Akkarei",
+          "query_id": "54981"
+        },
+        {
+          "id": "LK-533004002",
+          "name": "Ninakkeni",
+          "query_id": "54979"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330045",
+      "name": "Sumedhankarapura",
+      "query_id": "8601",
+      "children": [
+        {
+          "id": "LK-533004501",
+          "name": "Sumedhankarapura",
+          "query_id": "10059"
+        },
+        {
+          "id": "LK-533004502",
+          "name": "Mangalawawa",
+          "query_id": "54984"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330050",
+      "name": "Mahindapura",
+      "query_id": "8602",
+      "children": [
+        {
+          "id": "LK-533005001",
+          "name": "Mahindapura",
+          "query_id": "10060"
+        },
+        {
+          "id": "LK-533005002",
+          "name": "Gamunupura",
+          "query_id": "54983"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330055",
+      "name": "Serunuwara",
+      "query_id": "8603",
+      "children": [
+        {
+          "id": "LK-533005503",
+          "name": "R.B.-03",
+          "query_id": "10062"
+        },
+        {
+          "id": "LK-533005501",
+          "name": "Serunuwara",
+          "query_id": "10064"
+        },
+        {
+          "id": "LK-533005502",
+          "name": "Siriduwa",
+          "query_id": "10065"
+        },
+        {
+          "id": "LK-533005504",
+          "name": "Niwasa 25",
+          "query_id": "54194"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330060",
+      "name": "Mahaweligama",
+      "query_id": "8604",
+      "children": [
+        {
+          "id": "LK-533006001",
+          "name": "R.B.Colony-01",
+          "query_id": "10066"
+        },
+        {
+          "id": "LK-533006002",
+          "name": "R.B.Colony-02",
+          "query_id": "10067"
+        },
+        {
+          "id": "LK-533006003",
+          "name": "Pubudugama",
+          "query_id": "10068"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330065",
+      "name": "Lingapuram",
+      "query_id": "8605",
+      "children": [
+        {
+          "id": "LK-533006501",
+          "name": "Lingapuram",
+          "query_id": "10069"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330070",
+      "name": "Ariyamankani",
+      "query_id": "8606",
+      "children": [
+        {
+          "id": "LK-533007001",
+          "name": "Ariyamankani",
+          "query_id": "10072"
+        },
+        {
+          "id": "LK-533007002",
+          "name": "Mangaleshpuram Model Village",
+          "query_id": "54982"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330075",
+      "name": "Sirimangalapura",
+      "query_id": "8607",
+      "children": [
+        {
+          "id": "LK-533007502",
+          "name": "Medagama",
+          "query_id": "10074"
+        },
+        {
+          "id": "LK-533007501",
+          "name": "Sirimangalapura",
+          "query_id": "10075"
+        }
+      ]
+    },
+    {
+      "id": "LK-5330080",
+      "name": "Somapura",
+      "query_id": "8608",
+      "children": [
+        {
+          "id": "LK-533008001",
+          "name": "L.B. 01",
+          "query_id": "10080"
+        },
+        {
+          "id": "LK-533008002",
+          "name": "L.B. 02",
+          "query_id": "10081"
+        }
+      ]
+    }
+  ]
+}

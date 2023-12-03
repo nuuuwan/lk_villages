@@ -1,0 +1,177 @@
+{
+  "id": "LK-5333",
+  "name": "Verugal",
+  "query_id": "1145",
+  "children": [
+    {
+      "id": "LK-5333005",
+      "name": "Elangaithurai",
+      "query_id": "8609",
+      "children": [
+        {
+          "id": "LK-533300501",
+          "name": "Elangaithurai",
+          "query_id": "14408"
+        }
+      ]
+    },
+    {
+      "id": "LK-5333010",
+      "name": "Elangaithuraimugaththuwara",
+      "query_id": "8610",
+      "children": [
+        {
+          "id": "LK-533301001",
+          "name": "Elangaithuraimugaththuwaram ",
+          "query_id": "14433"
+        },
+        {
+          "id": "LK-533301002",
+          "name": "Punnaiyadi",
+          "query_id": "14434"
+        }
+      ]
+    },
+    {
+      "id": "LK-5333015",
+      "name": "Karukkamunai",
+      "query_id": "8611",
+      "children": [
+        {
+          "id": "LK-533301501",
+          "name": "Karukkamunai",
+          "query_id": "14438"
+        },
+        {
+          "id": "LK-533301502",
+          "name": "Vinayagapuram",
+          "query_id": "14440"
+        }
+      ]
+    },
+    {
+      "id": "LK-5333020",
+      "name": "Poonagar",
+      "query_id": "8612",
+      "children": [
+        {
+          "id": "LK-533302001",
+          "name": "Poonagar West",
+          "query_id": "54253"
+        },
+        {
+          "id": "LK-533302002",
+          "name": "Poonagar East",
+          "query_id": "14406"
+        }
+      ]
+    },
+    {
+      "id": "LK-5333025",
+      "name": "Poomaraththadichenai",
+      "query_id": "8613",
+      "children": [
+        {
+          "id": "LK-533302501",
+          "name": "Poomaraththadichenai",
+          "query_id": "14446"
+        }
+      ]
+    },
+    {
+      "id": "LK-5333030",
+      "name": "Eachchilampattu",
+      "query_id": "8614",
+      "children": [
+        {
+          "id": "LK-533303003",
+          "name": "Eachchilampattu",
+          "query_id": "14389"
+        },
+        {
+          "id": "LK-533303001",
+          "name": "Sinnakulam",
+          "query_id": "14392"
+        },
+        {
+          "id": "LK-533303002",
+          "name": "Udapukeni",
+          "query_id": "14394"
+        }
+      ]
+    },
+    {
+      "id": "LK-5333035",
+      "name": "Verugal",
+      "query_id": "8615",
+      "children": [
+        {
+          "id": "LK-533303501",
+          "name": "Mawadichchenai",
+          "query_id": "14399"
+        },
+        {
+          "id": "LK-533303502",
+          "name": "Chenaiyoor",
+          "query_id": "14400"
+        },
+        {
+          "id": "LK-533303503",
+          "name": "Vattavan",
+          "query_id": "14401"
+        }
+      ]
+    },
+    {
+      "id": "LK-5333040",
+      "name": "Anaithivu",
+      "query_id": "8616",
+      "children": [
+        {
+          "id": "LK-533304002",
+          "name": "Valaithoddam",
+          "query_id": "14412"
+        },
+        {
+          "id": "LK-533304001",
+          "name": "Muthuchchenai",
+          "query_id": "14415"
+        }
+      ]
+    },
+    {
+      "id": "LK-5333045",
+      "name": "Verugalmugaththuwaram",
+      "query_id": "8617",
+      "children": [
+        {
+          "id": "LK-533304502",
+          "name": "Kallady",
+          "query_id": "14424"
+        },
+        {
+          "id": "LK-533304501",
+          "name": "Sooranagar",
+          "query_id": "14427"
+        }
+      ]
+    },
+    {
+      "id": "LK-5333050",
+      "name": "Uppooral",
+      "query_id": "14193",
+      "children": [
+        {
+          "id": "LK-533305001",
+          "name": "Seenanvely",
+          "query_id": "54557"
+        },
+        {
+          "id": "LK-533305002",
+          "name": "Uppooral",
+          "query_id": "54558"
+        }
+      ]
+    }
+  ]
+}
