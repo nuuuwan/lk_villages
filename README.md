@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**29,190** Villages from **7,564** GNDs in **157** DSDs (4.425MB), scraped as of *2023-12-03 21:35:12*.
+**29,780** Villages from **7,683** GNDs in **162** DSDs (4.510MB), scraped as of *2023-12-03 21:54:02*.
 
 ## LK-1 - Western
 
@@ -209,3 +209,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 * [LK-4403](data/villages/LK-4403.json) - Thunukkai
 * [LK-4406](data/villages/LK-4406.json) - Manthai East
+* [LK-4409](data/villages/LK-4409.json) - Puthukkudiyiruppu
+* [LK-4412](data/villages/LK-4412.json) - Oddusuddan
+* [LK-4415](data/villages/LK-4415.json) - Maritimepattu
+* [LK-4418](data/villages/LK-4418.json) - Welioya
+
+### LK-45 - Kilinochchi
+
+* [LK-4503](data/villages/LK-4503.json) - Pachchilaipalli
