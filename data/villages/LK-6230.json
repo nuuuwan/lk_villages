@@ -1,0 +1,893 @@
+{
+  "id": "LK-6230",
+  "name": "Arachchikattuwa",
+  "query_id": "1185",
+  "children": [
+    {
+      "id": "LK-6230005",
+      "name": "Battuluoya",
+      "query_id": "10452",
+      "children": [
+        {
+          "id": "LK-623000501",
+          "name": "Pinkattiya",
+          "query_id": "22352"
+        },
+        {
+          "id": "LK-623000502",
+          "name": "Wellawala",
+          "query_id": "22353"
+        },
+        {
+          "id": "LK-623000503",
+          "name": "Battuluoya",
+          "query_id": "22354"
+        },
+        {
+          "id": "LK-623000504",
+          "name": "Maradansole",
+          "query_id": "22355"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230010",
+      "name": "Mahamaeliya",
+      "query_id": "10453",
+      "children": [
+        {
+          "id": "LK-623001001",
+          "name": "Mahamaeliya",
+          "query_id": "22362"
+        },
+        {
+          "id": "LK-623001002",
+          "name": "Kudamaeliya",
+          "query_id": "22363"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230015",
+      "name": "Buruthakele",
+      "query_id": "10454",
+      "children": [
+        {
+          "id": "LK-623001501",
+          "name": "Vilpothamukalana",
+          "query_id": "22357"
+        },
+        {
+          "id": "LK-623001501",
+          "name": "Gampaha Watta",
+          "query_id": "22358"
+        },
+        {
+          "id": "LK-623001502",
+          "name": "Burutha Kele",
+          "query_id": "22359"
+        },
+        {
+          "id": "LK-623001503",
+          "name": "Hulanpatiya",
+          "query_id": "22360"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230020",
+      "name": "Wijayakatupatha",
+      "query_id": "10455",
+      "children": [
+        {
+          "id": "LK-623002001",
+          "name": "Wijayakatupotha Elen megoda",
+          "query_id": "22356"
+        },
+        {
+          "id": "LK-623002002",
+          "name": "Wewakele",
+          "query_id": "44031"
+        },
+        {
+          "id": "LK-623002003",
+          "name": "part of Martinwaththa",
+          "query_id": "44033"
+        },
+        {
+          "id": "LK-623002004",
+          "name": "Pahala katuwa",
+          "query_id": "44034"
+        },
+        {
+          "id": "LK-623002005",
+          "name": "part of Kottapitiya",
+          "query_id": "44037"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230025",
+      "name": "Pahala Attanganaya",
+      "query_id": "10456",
+      "children": [
+        {
+          "id": "LK-623002501",
+          "name": "Pahala Attanganaya",
+          "query_id": "22379"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230030",
+      "name": "Wijayakatupatha Elen Egoda",
+      "query_id": "10457",
+      "children": [
+        {
+          "id": "LK-623003001",
+          "name": "Wijayakatupatha Elen Egoda",
+          "query_id": "22361"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230035",
+      "name": "Anavilundawa",
+      "query_id": "10458",
+      "children": [
+        {
+          "id": "LK-623003501",
+          "name": "Naguleliya",
+          "query_id": "22349"
+        },
+        {
+          "id": "LK-623003502",
+          "name": "Muthupanthiya",
+          "query_id": "22350"
+        },
+        {
+          "id": "LK-623003503",
+          "name": "Anavilundawa",
+          "query_id": "22351"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230040",
+      "name": "Suruvila",
+      "query_id": "10459",
+      "children": [
+        {
+          "id": "LK-623004001",
+          "name": " Maiyawa",
+          "query_id": "22344"
+        },
+        {
+          "id": "LK-623004002",
+          "name": "Suruvila",
+          "query_id": "22345"
+        },
+        {
+          "id": "LK-623004003",
+          "name": "Bogahawetiya",
+          "query_id": "22346"
+        },
+        {
+          "id": "LK-623004004",
+          "name": "Pahala Maiyawa",
+          "query_id": "22347"
+        },
+        {
+          "id": "LK-623004005",
+          "name": "Sirimal Uyana",
+          "query_id": "44039"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230045",
+      "name": "Ilakkattuwa",
+      "query_id": "10460",
+      "children": [
+        {
+          "id": "LK-623004501",
+          "name": "Mahabogamuwa",
+          "query_id": "22370"
+        },
+        {
+          "id": "LK-623004502",
+          "name": "Thambharakele",
+          "query_id": "22371"
+        },
+        {
+          "id": "LK-623004503",
+          "name": "Ilakkattuwa",
+          "query_id": "22372"
+        },
+        {
+          "id": "LK-623004504",
+          "name": "Kiriwelkele",
+          "query_id": "22373"
+        },
+        {
+          "id": "LK-623004505",
+          "name": "Bogamuwa Estate",
+          "query_id": "44115"
+        },
+        {
+          "id": "LK-623004506",
+          "name": "Samagithenna",
+          "query_id": "44116"
+        },
+        {
+          "id": "LK-623004507",
+          "name": "Jayarathnapura",
+          "query_id": "44117"
+        },
+        {
+          "id": "LK-623004508",
+          "name": "Ilakkattuwa Estate",
+          "query_id": "44118"
+        },
+        {
+          "id": "LK-623004509",
+          "name": "Niwasa Wissa",
+          "query_id": "44119"
+        },
+        {
+          "id": "LK-623004510",
+          "name": "Jayasamurupuraya",
+          "query_id": "44120"
+        },
+        {
+          "id": "LK-623004511",
+          "name": "S.M.G. Estate",
+          "query_id": "44121"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230050",
+      "name": "Pankulawa",
+      "query_id": "10461",
+      "children": [
+        {
+          "id": "LK-623005001",
+          "name": "Bogamuwa",
+          "query_id": "22374"
+        },
+        {
+          "id": "LK-623005002",
+          "name": "Pankulawa",
+          "query_id": "22375"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230055",
+      "name": "Ihala Attanganaya",
+      "query_id": "10462",
+      "children": [
+        {
+          "id": "LK-623005501",
+          "name": "Ihala Attanganaya",
+          "query_id": "22367"
+        },
+        {
+          "id": "LK-623005502",
+          "name": "Ambhakele Uthura",
+          "query_id": "22368"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230060",
+      "name": "Ambakele",
+      "query_id": "10463",
+      "children": [
+        {
+          "id": "LK-623006001",
+          "name": "Ambakele South",
+          "query_id": "22369"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230065",
+      "name": "Welipelessa",
+      "query_id": "10464",
+      "children": [
+        {
+          "id": "LK-623006501",
+          "name": "Welipelessa",
+          "query_id": "22329"
+        },
+        {
+          "id": "LK-623006502",
+          "name": "Sengawelliya",
+          "query_id": "22330"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230070",
+      "name": "Nalladarankattuwa",
+      "query_id": "10465",
+      "children": [
+        {
+          "id": "LK-623007001",
+          "name": "Nalladarankattuwa",
+          "query_id": "22364"
+        },
+        {
+          "id": "LK-623007002",
+          "name": "Karawilavelpitiya",
+          "query_id": "22365"
+        },
+        {
+          "id": "LK-623007003",
+          "name": "Sengawelliya",
+          "query_id": "22366"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230075",
+      "name": "Karukupane",
+      "query_id": "10466",
+      "children": [
+        {
+          "id": "LK-623007501",
+          "name": "Sinnakarukupane",
+          "query_id": "22297"
+        },
+        {
+          "id": "LK-623007502",
+          "name": "Periyakarukupane",
+          "query_id": "22298"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230080",
+      "name": "Wairankattuwa",
+      "query_id": "10467",
+      "children": [
+        {
+          "id": "LK-623008001",
+          "name": "Wairankattuwa",
+          "query_id": "22315"
+        },
+        {
+          "id": "LK-623008002",
+          "name": "Kuda Wairankattuwa",
+          "query_id": "22316"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230085",
+      "name": "Sengaloya",
+      "query_id": "10468",
+      "children": [
+        {
+          "id": "LK-623008501",
+          "name": "Weherakele",
+          "query_id": "22376"
+        },
+        {
+          "id": "LK-623008502",
+          "name": "Sengaloya",
+          "query_id": "22377"
+        },
+        {
+          "id": "LK-623008503",
+          "name": "Halambawatawana",
+          "query_id": "22378"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230090",
+      "name": "Arachchikattuwa West",
+      "query_id": "10469",
+      "children": [
+        {
+          "id": "LK-623009001",
+          "name": "Arachchikattuwa West",
+          "query_id": "22304"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230095",
+      "name": "Arachchikattuwa East",
+      "query_id": "10470",
+      "children": [
+        {
+          "id": "LK-623009501",
+          "name": "Arachchikattuwa East",
+          "query_id": "22317"
+        },
+        {
+          "id": "LK-623009502",
+          "name": "Weliwewa",
+          "query_id": "22319"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230100",
+      "name": "Bandarahena",
+      "query_id": "10471",
+      "children": [
+        {
+          "id": "LK-623010001",
+          "name": "Henagahapitiya",
+          "query_id": "22332"
+        },
+        {
+          "id": "LK-623010002",
+          "name": "Bandarahena",
+          "query_id": "22334"
+        },
+        {
+          "id": "LK-623010003",
+          "name": "Gadolkele",
+          "query_id": "22336"
+        },
+        {
+          "id": "LK-623010004",
+          "name": "Nikahenyaya",
+          "query_id": "22337"
+        },
+        {
+          "id": "LK-623010005",
+          "name": "Midellawatawana",
+          "query_id": "22338"
+        },
+        {
+          "id": "LK-623010006",
+          "name": "Bopathgama",
+          "query_id": "22339"
+        },
+        {
+          "id": "LK-623010007",
+          "name": "Kelegama",
+          "query_id": "22340"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230105",
+      "name": "Adippala",
+      "query_id": "10472",
+      "children": [
+        {
+          "id": "LK-623010501",
+          "name": "Adippala",
+          "query_id": "22321"
+        },
+        {
+          "id": "LK-623010502",
+          "name": "Welankele",
+          "query_id": "44199"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230110",
+      "name": "Andanan Kattuwa",
+      "query_id": "10473",
+      "children": [
+        {
+          "id": "LK-623011001",
+          "name": "Wawe Ihala Yaya",
+          "query_id": "22322"
+        },
+        {
+          "id": "LK-623011002",
+          "name": "Andanan Kattuwa",
+          "query_id": "22323"
+        },
+        {
+          "id": "LK-623011003",
+          "name": "Ellagalpitiya",
+          "query_id": "22325"
+        },
+        {
+          "id": "LK-623011004",
+          "name": "Ambagahayaya",
+          "query_id": "22327"
+        },
+        {
+          "id": "LK-623011005",
+          "name": "Weththilappuwa",
+          "query_id": "22328"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230115",
+      "name": "Kumarakattuwa",
+      "query_id": "10474",
+      "children": [
+        {
+          "id": "LK-623011501",
+          "name": "Midellawatawana",
+          "query_id": "22265"
+        },
+        {
+          "id": "LK-623011502",
+          "name": "Erunvila",
+          "query_id": "22266"
+        },
+        {
+          "id": "LK-623011503",
+          "name": "Mandalana",
+          "query_id": "22267"
+        },
+        {
+          "id": "LK-623011504",
+          "name": "Pieriswaththa",
+          "query_id": "22268"
+        },
+        {
+          "id": "LK-623011505",
+          "name": "Kumarakattuwa",
+          "query_id": "22269"
+        },
+        {
+          "id": "LK-623011506",
+          "name": "Jayaminipura",
+          "query_id": "44200"
+        },
+        {
+          "id": "LK-623011508",
+          "name": "20 Acer",
+          "query_id": "44201"
+        },
+        {
+          "id": "LK-623011509",
+          "name": "8 Acer",
+          "query_id": "44202"
+        },
+        {
+          "id": "LK-623011507",
+          "name": "Pallekele",
+          "query_id": "50469"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230120",
+      "name": "Elivitiya",
+      "query_id": "10475",
+      "children": [
+        {
+          "id": "LK-623012001",
+          "name": "Thabana",
+          "query_id": "22262"
+        },
+        {
+          "id": "LK-623012002",
+          "name": "Elivitiya",
+          "query_id": "22263"
+        },
+        {
+          "id": "LK-623012003",
+          "name": "Thukkiniyagama",
+          "query_id": "22264"
+        },
+        {
+          "id": "LK-623012004",
+          "name": "Nelumkuliya",
+          "query_id": "44041"
+        },
+        {
+          "id": "LK-623012005",
+          "name": "Gurumdanna",
+          "query_id": "44043"
+        },
+        {
+          "id": "LK-623012006",
+          "name": "Johana waththa",
+          "query_id": "44044"
+        },
+        {
+          "id": "LK-623012006",
+          "name": "Johana waththa",
+          "query_id": "44045"
+        },
+        {
+          "id": "LK-623012007",
+          "name": "Sitin Waththa",
+          "query_id": "44048"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230125",
+      "name": "Diganwewa",
+      "query_id": "10476",
+      "children": [
+        {
+          "id": "LK-623012501",
+          "name": "Alikatuwa",
+          "query_id": "22281"
+        },
+        {
+          "id": "LK-623012502",
+          "name": "Diganwewa",
+          "query_id": "22282"
+        },
+        {
+          "id": "LK-623012503",
+          "name": "Morakele",
+          "query_id": "22283"
+        },
+        {
+          "id": "LK-623012504",
+          "name": "Palugaswewa Estate",
+          "query_id": "44107"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230130",
+      "name": "Rajakadaluwa",
+      "query_id": "10477",
+      "children": [
+        {
+          "id": "LK-623013001",
+          "name": "Rajakadaluwa",
+          "query_id": "22306"
+        },
+        {
+          "id": "LK-623013002",
+          "name": "Antonwil Waththa",
+          "query_id": "22308"
+        },
+        {
+          "id": "LK-623013003",
+          "name": "Swarna Jayanthi Mw",
+          "query_id": "22310"
+        },
+        {
+          "id": "LK-623013004",
+          "name": "Kuda Manaweriya",
+          "query_id": "22312"
+        },
+        {
+          "id": "LK-623013005",
+          "name": "Benadicta Watta",
+          "query_id": "22313"
+        },
+        {
+          "id": "LK-623013006",
+          "name": "Maha Manaweriya",
+          "query_id": "22314"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230135",
+      "name": "Kusala",
+      "query_id": "10478",
+      "children": [
+        {
+          "id": "LK-623013501",
+          "name": "Kusala",
+          "query_id": "22299"
+        },
+        {
+          "id": "LK-623013502",
+          "name": "Kottage",
+          "query_id": "22300"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230140",
+      "name": "Kottapitiya",
+      "query_id": "10479",
+      "children": [
+        {
+          "id": "LK-623014001",
+          "name": "Kottapitiya",
+          "query_id": "22301"
+        },
+        {
+          "id": "LK-623014002",
+          "name": "Manaweriya",
+          "query_id": "22302"
+        },
+        {
+          "id": "LK-623014003",
+          "name": "Henyaya",
+          "query_id": "22303"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230145",
+      "name": "Bangadeniya",
+      "query_id": "10480",
+      "children": [
+        {
+          "id": "LK-623014501",
+          "name": "Kumbutukuliya",
+          "query_id": "22270"
+        },
+        {
+          "id": "LK-623014502",
+          "name": "Bangadeniya",
+          "query_id": "22271"
+        },
+        {
+          "id": "LK-623014503",
+          "name": "Siththamadama",
+          "query_id": "22272"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230150",
+      "name": "Weerakumandaluwa",
+      "query_id": "10481",
+      "children": [
+        {
+          "id": "LK-623015001",
+          "name": "Malwatta",
+          "query_id": "22273"
+        },
+        {
+          "id": "LK-623015002",
+          "name": "Kahambhiliyakatuwa",
+          "query_id": "22274"
+        },
+        {
+          "id": "LK-623015003",
+          "name": "Wewaihala",
+          "query_id": "22275"
+        },
+        {
+          "id": "LK-623015004",
+          "name": "Gamkele",
+          "query_id": "22276"
+        },
+        {
+          "id": "LK-623015005",
+          "name": "Weerakumandaluwa",
+          "query_id": "22277"
+        },
+        {
+          "id": "LK-623015006",
+          "name": "Siththamadama",
+          "query_id": "22278"
+        },
+        {
+          "id": "LK-623015007",
+          "name": "Isuru Uyana",
+          "query_id": "44203"
+        },
+        {
+          "id": "LK-623015008",
+          "name": "J.P.Waththa",
+          "query_id": "44204"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230155",
+      "name": "Karukkuliya",
+      "query_id": "10482",
+      "children": [
+        {
+          "id": "LK-623015501",
+          "name": "Karukkuliya",
+          "query_id": "22279"
+        },
+        {
+          "id": "LK-623015502",
+          "name": "Thanabima",
+          "query_id": "22280"
+        },
+        {
+          "id": "LK-623015503",
+          "name": "Dosthara Waththa",
+          "query_id": "44205"
+        },
+        {
+          "id": "LK-623015504",
+          "name": "Karukkuliya Henyaya",
+          "query_id": "50470"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230160",
+      "name": "Mukkandaluwa",
+      "query_id": "10483",
+      "children": [
+        {
+          "id": "LK-623016001",
+          "name": "Mukkandaluwa",
+          "query_id": "22284"
+        },
+        {
+          "id": "LK-623016002",
+          "name": "Weherakele",
+          "query_id": "22285"
+        },
+        {
+          "id": "LK-623016003",
+          "name": "Part of the Morakele",
+          "query_id": "44206"
+        },
+        {
+          "id": "LK-623016003",
+          "name": " Diganwewa",
+          "query_id": "44207"
+        },
+        {
+          "id": "LK-623016004",
+          "name": "Thekka Waththa",
+          "query_id": "44208"
+        },
+        {
+          "id": "LK-623016005",
+          "name": "piyasili Waththa",
+          "query_id": "44209"
+        }
+      ]
+    },
+    {
+      "id": "LK-6230165",
+      "name": "Dematapitiya",
+      "query_id": "10484",
+      "children": [
+        {
+          "id": "LK-623016501",
+          "name": "Isurugama",
+          "query_id": "22286"
+        },
+        {
+          "id": "LK-623016502",
+          "name": "Dematapitiya",
+          "query_id": "22287"
+        },
+        {
+          "id": "LK-623016503",
+          "name": "Radawikatuela",
+          "query_id": "22288"
+        },
+        {
+          "id": "LK-623016503",
+          "name": "Puhulhenakatuwa",
+          "query_id": "22289"
+        },
+        {
+          "id": "LK-623016504",
+          "name": "Pathkolalanda",
+          "query_id": "22290"
+        },
+        {
+          "id": "LK-623016505",
+          "name": "Aththanagaskatuwa",
+          "query_id": "22291"
+        },
+        {
+          "id": "LK-623016506",
+          "name": "Bombhiwela",
+          "query_id": "22292"
+        },
+        {
+          "id": "LK-623016507",
+          "name": "Samagamhena",
+          "query_id": "22293"
+        }
+      ]
+    }
+  ]
+}

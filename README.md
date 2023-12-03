@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**39,447** Villages from **10,627** GNDs in **247** DSDs (6.012MB), scraped as of *2023-12-04 02:04:35*.
+**40,042** Villages from **10,823** GNDs in **252** DSDs (6.107MB), scraped as of *2023-12-04 02:20:22*.
 
 ## LK-1 - Western
 
@@ -321,3 +321,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-6218](data/villages/LK-6218.json) - Mundel
 * [LK-6221](data/villages/LK-6221.json) - Mahakumbukkadawala
 * [LK-6224](data/villages/LK-6224.json) - Anamaduwa
+* [LK-6227](data/villages/LK-6227.json) - Pallama
+* [LK-6230](data/villages/LK-6230.json) - Arachchikattuwa
+* [LK-6233](data/villages/LK-6233.json) - Chilaw
+* [LK-6236](data/villages/LK-6236.json) - Madampe
+* [LK-6239](data/villages/LK-6239.json) - Mahawewa
