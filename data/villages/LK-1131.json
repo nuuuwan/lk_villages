@@ -1,0 +1,243 @@
+{
+  "id": "LK-1131",
+  "name": "Ratmalana",
+  "query_id": "960",
+  "children": [
+    {
+      "id": "LK-1131005",
+      "name": "Mount Lavinia",
+      "query_id": "437",
+      "children": [
+        {
+          "id": "LK-113100502",
+          "name": "Part of Dehiwala",
+          "query_id": "52454"
+        },
+        {
+          "id": "LK-113100501",
+          "name": "Part of Mount Lavinia",
+          "query_id": "52453"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131010",
+      "name": "Kawdana West",
+      "query_id": "438",
+      "children": [
+        {
+          "id": "LK-113101001",
+          "name": "Kawdana",
+          "query_id": "52475"
+        },
+        {
+          "id": "LK-113101002",
+          "name": "Part of Mount Lavinia",
+          "query_id": "52476"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131015",
+      "name": "Watarappala",
+      "query_id": "439",
+      "children": [
+        {
+          "id": "LK-113101501",
+          "name": "Watarappala",
+          "query_id": "52477"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131020",
+      "name": "Wathumulla",
+      "query_id": "440",
+      "children": [
+        {
+          "id": "LK-113102001",
+          "name": "Wathumulla",
+          "query_id": "52481"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131025",
+      "name": "Katukurunduwatta",
+      "query_id": "441",
+      "children": [
+        {
+          "id": "LK-113102502",
+          "name": "Badovita",
+          "query_id": "52495"
+        },
+        {
+          "id": "LK-113102501",
+          "name": "Katukuruduwatta",
+          "query_id": "52494"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131030",
+      "name": "Attidiya North",
+      "query_id": "442",
+      "children": [
+        {
+          "id": "LK-113103001",
+          "name": "Part of Attidiya",
+          "query_id": "52496"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131035",
+      "name": "Attidiya South",
+      "query_id": "443",
+      "children": [
+        {
+          "id": "LK-113103502",
+          "name": "Part of Ratmalana",
+          "query_id": "52500"
+        },
+        {
+          "id": "LK-113103501",
+          "name": "Part of Attidiya",
+          "query_id": "52498"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131040",
+      "name": "Piriwena",
+      "query_id": "444",
+      "children": [
+        {
+          "id": "LK-113104001",
+          "name": "Piriwena",
+          "query_id": "52503"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131045",
+      "name": "Wedikanda",
+      "query_id": "445",
+      "children": [
+        {
+          "id": "LK-113104502",
+          "name": "Part of Mount Lavinia",
+          "query_id": "52509"
+        },
+        {
+          "id": "LK-113104501",
+          "name": "Part of Ratmalana",
+          "query_id": "52506"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131050",
+      "name": "Vihara",
+      "query_id": "446",
+      "children": [
+        {
+          "id": "LK-113105002",
+          "name": "Part of Ratmalana",
+          "query_id": "52515"
+        },
+        {
+          "id": "LK-113105001",
+          "name": "Rathmalana",
+          "query_id": "52512"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131055",
+      "name": "Rathmalana West",
+      "query_id": "447",
+      "children": [
+        {
+          "id": "LK-113105501",
+          "name": "Part of Ratmalana",
+          "query_id": "52520"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131060",
+      "name": "Rathmalana East",
+      "query_id": "448",
+      "children": [
+        {
+          "id": "LK-113106009",
+          "name": "Kovila Road",
+          "query_id": "55097"
+        },
+        {
+          "id": "LK-113106008",
+          "name": "S.Weerasena silva mawatha",
+          "query_id": "55098"
+        },
+        {
+          "id": "LK-113106007",
+          "name": "Kothalawalapura",
+          "query_id": "55099"
+        },
+        {
+          "id": "LK-113106006",
+          "name": "Banglow Road",
+          "query_id": "55100"
+        },
+        {
+          "id": "LK-113106005",
+          "name": "Kaldemulla Road",
+          "query_id": "55101"
+        },
+        {
+          "id": "LK-113106004",
+          "name": "Galle Road",
+          "query_id": "55102"
+        },
+        {
+          "id": "LK-113106003",
+          "name": "Work shop Road",
+          "query_id": "55103"
+        },
+        {
+          "id": "LK-113106002",
+          "name": "Medial Road",
+          "query_id": "55104"
+        },
+        {
+          "id": "LK-113106001",
+          "name": "Raja Mawatha",
+          "query_id": "55105"
+        }
+      ]
+    },
+    {
+      "id": "LK-1131065",
+      "name": "Kandawala",
+      "query_id": "449",
+      "children": [
+        {
+          "id": "LK-113106501",
+          "name": "Part of Borupana",
+          "query_id": "52587"
+        },
+        {
+          "id": "LK-113106502",
+          "name": "Kandawala",
+          "query_id": "52590"
+        },
+        {
+          "id": "LK-113106503",
+          "name": "Part of Ratmalana",
+          "query_id": "52592"
+        }
+      ]
+    }
+  ]
+}

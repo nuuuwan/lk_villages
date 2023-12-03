@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**1,968** Villages from **374** GNDs in **7** DSDs (0.280MB), scraped as of *2023-12-03 12:05:30*.
+**3,444** Villages from **484** GNDs in **12** DSDs (0.475MB), scraped as of *2023-12-03 12:08:49*.
 
 ## LK-1 - Western
 
@@ -13,3 +13,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-1115](data/villages/LK-1115.json) - Seethawaka
 * [LK-1118](data/villages/LK-1118.json) - Padukka
 * [LK-1121](data/villages/LK-1121.json) - Maharagama
+* [LK-1124](data/villages/LK-1124.json) - Sri Jayawardanapura Kotte
+* [LK-1127](data/villages/LK-1127.json) - Thimbirigasyaya
+* [LK-1130](data/villages/LK-1130.json) - Dehiwala
+* [LK-1131](data/villages/LK-1131.json) - Ratmalana
+* [LK-1133](data/villages/LK-1133.json) - Moratuwa
