@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**32,231** Villages from **8,569** GNDs in **197** DSDs (4.912MB), scraped as of *2023-12-03 23:35:15*.
+**32,439** Villages from **8,635** GNDs in **202** DSDs (4.945MB), scraped as of *2023-12-03 23:53:01*.
 
 ## LK-1 - Western
 
@@ -260,3 +260,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-5242](data/villages/LK-5242.json) - Damana
 * [LK-5245](data/villages/LK-5245.json) - Thirukkovil
 * [LK-5248](data/villages/LK-5248.json) - Pothuvil
+* [LK-5251](data/villages/LK-5251.json) - Lahugala
+
+### LK-53 - Trincomalee
+
+* [LK-5303](data/villages/LK-5303.json) - Padavi Sri Pura
+* [LK-5306](data/villages/LK-5306.json) - Kuchchaveli
+* [LK-5309](data/villages/LK-5309.json) - Gomarankadawala
+* [LK-5312](data/villages/LK-5312.json) - Morawewa

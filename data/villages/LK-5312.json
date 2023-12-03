@@ -1,0 +1,267 @@
+{
+  "id": "LK-5312",
+  "name": "Morawewa",
+  "query_id": "1138",
+  "children": [
+    {
+      "id": "LK-5312005",
+      "name": "Penikatiyawa",
+      "query_id": "8432",
+      "children": [
+        {
+          "id": "LK-531200503",
+          "name": "Rorawewa",
+          "query_id": "13732"
+        },
+        {
+          "id": "LK-531200504",
+          "name": "Miris Wewa",
+          "query_id": "13740"
+        },
+        {
+          "id": "LK-531200505",
+          "name": "Ethabadi Wewa",
+          "query_id": "13743"
+        },
+        {
+          "id": "LK-531200501",
+          "name": "Ralapanawa",
+          "query_id": "13748"
+        }
+      ]
+    },
+    {
+      "id": "LK-5312010",
+      "name": "Mahathulwewa",
+      "query_id": "8433",
+      "children": [
+        {
+          "id": "LK-531201010",
+          "name": "Ulpath Wewa",
+          "query_id": "54181"
+        },
+        {
+          "id": "LK-531201001",
+          "name": "Mahathulwewa South",
+          "query_id": "13751"
+        },
+        {
+          "id": "LK-531201004",
+          "name": "Suwarnajayanthi Pura",
+          "query_id": "13752"
+        },
+        {
+          "id": "LK-531201005",
+          "name": "Viharagama",
+          "query_id": "13754"
+        },
+        {
+          "id": "LK-531201007",
+          "name": "Meegaswewa",
+          "query_id": "13756"
+        },
+        {
+          "id": "LK-531201006",
+          "name": "Kubuk Wewa",
+          "query_id": "13758"
+        },
+        {
+          "id": "LK-531201011",
+          "name": "Samaragalawewa",
+          "query_id": "13760"
+        },
+        {
+          "id": "LK-531201003",
+          "name": "Samagipura",
+          "query_id": "13762"
+        },
+        {
+          "id": "LK-531201008",
+          "name": "Pubudupura",
+          "query_id": "34661"
+        },
+        {
+          "id": "LK-531201009",
+          "name": "Timbiri Wewa",
+          "query_id": "54180"
+        },
+        {
+          "id": "LK-531201002",
+          "name": "Janapadaya",
+          "query_id": "54179"
+        }
+      ]
+    },
+    {
+      "id": "LK-5312015",
+      "name": "Mahadiwul Wewa Stage 02",
+      "query_id": "8434",
+      "children": [
+        {
+          "id": "LK-531201501",
+          "name": "Stage 11",
+          "query_id": "13764"
+        },
+        {
+          "id": "LK-531201502",
+          "name": "Samagi Gama",
+          "query_id": "13766"
+        }
+      ]
+    },
+    {
+      "id": "LK-5312020",
+      "name": "Nochchikulam",
+      "query_id": "8435",
+      "children": [
+        {
+          "id": "LK-531202003",
+          "name": "Mailakudawewa",
+          "query_id": "13771"
+        },
+        {
+          "id": "LK-531202004",
+          "name": "Kambakotte",
+          "query_id": "13772"
+        },
+        {
+          "id": "LK-531202001",
+          "name": "Noochykulam",
+          "query_id": "13773"
+        },
+        {
+          "id": "LK-531202002",
+          "name": "Shanthipuram",
+          "query_id": "13774"
+        },
+        {
+          "id": "LK-531202005",
+          "name": "Jinna Nagar",
+          "query_id": "54182"
+        }
+      ]
+    },
+    {
+      "id": "LK-5312025",
+      "name": "Morawewa South",
+      "query_id": "8436",
+      "children": [
+        {
+          "id": "LK-531202501",
+          "name": "Part of Track 01",
+          "query_id": "13777"
+        },
+        {
+          "id": "LK-531202502",
+          "name": "Part of Track 02",
+          "query_id": "13782"
+        },
+        {
+          "id": "LK-531202503",
+          "name": "Part of Track 4",
+          "query_id": "13785"
+        }
+      ]
+    },
+    {
+      "id": "LK-5312030",
+      "name": "Morawewa North",
+      "query_id": "8437",
+      "children": [
+        {
+          "id": "LK-531203001",
+          "name": "Tract 6",
+          "query_id": "13796"
+        },
+        {
+          "id": "LK-531203002",
+          "name": "D 08",
+          "query_id": "13798"
+        }
+      ]
+    },
+    {
+      "id": "LK-5312035",
+      "name": "Awwai Nagar           ",
+      "query_id": "8438",
+      "children": [
+        {
+          "id": "LK-531203503",
+          "name": "Part of D 05",
+          "query_id": "54813"
+        },
+        {
+          "id": "LK-531203502",
+          "name": "Part of D 07",
+          "query_id": "54184"
+        },
+        {
+          "id": "LK-531203501",
+          "name": "Part of D 06",
+          "query_id": "34664"
+        }
+      ]
+    },
+    {
+      "id": "LK-5312040",
+      "name": "Namalwatta",
+      "query_id": "8439",
+      "children": [
+        {
+          "id": "LK-531204001",
+          "name": "Namalwaththa",
+          "query_id": "13802"
+        }
+      ]
+    },
+    {
+      "id": "LK-5312045",
+      "name": "Kitul Ultuwa",
+      "query_id": "8440",
+      "children": [
+        {
+          "id": "LK-531204503",
+          "name": "Kitul Uituwa",
+          "query_id": "13809"
+        },
+        {
+          "id": "LK-531204502",
+          "name": "Vepankulam",
+          "query_id": "13810"
+        },
+        {
+          "id": "LK-531204501",
+          "name": "Paranamathawachiya",
+          "query_id": "13812"
+        },
+        {
+          "id": "LK-531204504",
+          "name": "Mudaliyar Kulam",
+          "query_id": "13815"
+        }
+      ]
+    },
+    {
+      "id": "LK-5312050",
+      "name": "Morawewa Pankulama",
+      "query_id": "8441",
+      "children": [
+        {
+          "id": "LK-531205002",
+          "name": "Track 02",
+          "query_id": "13817"
+        },
+        {
+          "id": "LK-531205003",
+          "name": "Track 04",
+          "query_id": "13820"
+        },
+        {
+          "id": "LK-531205001",
+          "name": "Pankulam",
+          "query_id": "13822"
+        }
+      ]
+    }
+  ]
+}
