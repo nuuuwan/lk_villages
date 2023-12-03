@@ -14,5 +14,5 @@ class WWW:
         response = requests.post(self.url, data=data, timeout=TIMEOUT)
         content = response.text
         n = len(content) / 1_000_000
-        log.debug(f"POST {self.url} {data} ({n:.3f}MB) complete.")
+        # log.debug(f"POST {self.url} {data} ({n:.3f}MB) complete.")
         return content
