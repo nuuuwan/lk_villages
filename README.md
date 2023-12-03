@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**43,828** Villages from **12,055** GNDs in **287** DSDs (6.709MB), scraped as of *2023-12-04 04:05:03*.
+**44,554** Villages from **12,204** GNDs in **292** DSDs (6.814MB), scraped as of *2023-12-04 04:19:57*.
 
 ## LK-1 - Western
 
@@ -374,3 +374,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-8103](data/villages/LK-8103.json) - Mahiyanganaya
 * [LK-8106](data/villages/LK-8106.json) - Rideemaliyadda
 * [LK-8109](data/villages/LK-8109.json) - Meegahakivula
+* [LK-8112](data/villages/LK-8112.json) - Kandaketiya
+* [LK-8115](data/villages/LK-8115.json) - Soranathota
+* [LK-8118](data/villages/LK-8118.json) - Passara
+* [LK-8119](data/villages/LK-8119.json) - Lunugala
+* [LK-8121](data/villages/LK-8121.json) - Badulla
