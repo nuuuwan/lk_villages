@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**23,590** Villages from **5,960** GNDs in **112** DSDs (3.562MB), scraped as of *2023-12-03 19:05:16*.
+**24,440** Villages from **6,174** GNDs in **117** DSDs (3.689MB), scraped as of *2023-12-03 19:44:12*.
 
 ## LK-1 - Western
 
@@ -147,3 +147,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-3221](data/villages/LK-3221.json) - Welipitiya
 * [LK-3224](data/villages/LK-3224.json) - Malimbada
 * [LK-3227](data/villages/LK-3227.json) - Kamburupitiya
+* [LK-3230](data/villages/LK-3230.json) - Hakmana
+* [LK-3233](data/villages/LK-3233.json) - Kirinda Puhulwella
+* [LK-3236](data/villages/LK-3236.json) - Thihagoda
+* [LK-3239](data/villages/LK-3239.json) - Weligama
+* [LK-3242](data/villages/LK-3242.json) - Matara Four Gravets
