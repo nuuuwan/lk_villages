@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**17,036** Villages from **4,269** GNDs in **72** DSDs (2.571MB), scraped as of *2023-12-03 15:59:44*.
+**18,092** Villages from **4,518** GNDs in **77** DSDs (2.730MB), scraped as of *2023-12-03 16:16:20*.
 
 ## LK-1 - Western
 
@@ -97,3 +97,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 ### LK-23 - Nuwara Eliya
 
 * [LK-2303](data/villages/LK-2303.json) - Kothmale
+* [LK-2306](data/villages/LK-2306.json) - Hanguranketha
+* [LK-2309](data/villages/LK-2309.json) - Walapane
+* [LK-2312](data/villages/LK-2312.json) - Nuwara Eliya
+* [LK-2315](data/villages/LK-2315.json) - Ambagamuwa
+* [LK-2316](data/villages/LK-2316.json) - ❔
