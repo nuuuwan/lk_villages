@@ -1,0 +1,1774 @@
+{
+  "id": "LK-1160",
+  "name": "Kolonnawa",
+  "query_id": "951",
+  "children": [
+    {
+      "id": "LK-1160005",
+      "name": "Wadulla",
+      "query_id": "44",
+      "children": [
+        {
+          "id": "LK-116000501",
+          "name": "Wadulla",
+          "query_id": "45532"
+        },
+        {
+          "id": "LK-116000502",
+          "name": "Wadulla Waththa",
+          "query_id": "45611"
+        },
+        {
+          "id": "LK-116000503",
+          "name": "Kambi Kotuwa",
+          "query_id": "45612"
+        },
+        {
+          "id": "LK-116000504",
+          "name": "Orugoda Pura",
+          "query_id": "45613"
+        },
+        {
+          "id": "LK-116000505",
+          "name": "Garadehipitiya Rd 2/1",
+          "query_id": "45614"
+        },
+        {
+          "id": "LK-116000506",
+          "name": "New Kelani Bridge Rd 2/1",
+          "query_id": "45615"
+        },
+        {
+          "id": "LK-116000507",
+          "name": "Nawagampura 2nd Step",
+          "query_id": "45616"
+        },
+        {
+          "id": "LK-116000508",
+          "name": "New Kelani Pura",
+          "query_id": "45617"
+        },
+        {
+          "id": "LK-116000509",
+          "name": "Victoriya Housing Scheme",
+          "query_id": "45618"
+        },
+        {
+          "id": "LK-116000510",
+          "name": "Wadulla Watha Janapadaya",
+          "query_id": "45619"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160010",
+      "name": "Sedawatta",
+      "query_id": "45",
+      "children": [
+        {
+          "id": "LK-116001001",
+          "name": "Pelawatha",
+          "query_id": "45620"
+        },
+        {
+          "id": "LK-116001002",
+          "name": "Umagiliya Waththa",
+          "query_id": "45621"
+        },
+        {
+          "id": "LK-116001003",
+          "name": "New Kelani Bridge",
+          "query_id": "45622"
+        },
+        {
+          "id": "LK-116001004",
+          "name": "Nawalokapura 1st Step",
+          "query_id": "45623"
+        },
+        {
+          "id": "LK-116001005",
+          "name": "Nawalokapura 2nd Step",
+          "query_id": "45624"
+        },
+        {
+          "id": "LK-116001006",
+          "name": "Nawalokapura 3rd Step",
+          "query_id": "45625"
+        },
+        {
+          "id": "LK-116001007",
+          "name": "Sedawaththa Rd",
+          "query_id": "45626"
+        },
+        {
+          "id": "LK-116001008",
+          "name": "Siripala Pinthu Housing Scheme",
+          "query_id": "45627"
+        },
+        {
+          "id": "LK-116001009",
+          "name": "Thudugala Mw",
+          "query_id": "45628"
+        },
+        {
+          "id": "LK-116001010",
+          "name": "Garadehipitiya Rd 2/1",
+          "query_id": "45629"
+        },
+        {
+          "id": "LK-116001011",
+          "name": "Old Sedawaththa Rd 2/1",
+          "query_id": "45630"
+        },
+        {
+          "id": "LK-116001012",
+          "name": "P.J.Perera Mw 2/1",
+          "query_id": "45631"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160015",
+      "name": "Halmulla",
+      "query_id": "46",
+      "children": [
+        {
+          "id": "LK-116001501",
+          "name": "Kotuwila Main Rd",
+          "query_id": "45632"
+        },
+        {
+          "id": "LK-116001502",
+          "name": "Halmulla Rd",
+          "query_id": "45633"
+        },
+        {
+          "id": "LK-116001503",
+          "name": "Ambagaha Watha",
+          "query_id": "45634"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160020",
+      "name": "Kotuvila",
+      "query_id": "47",
+      "children": [
+        {
+          "id": "LK-116002001",
+          "name": "Temple Rd 2/1",
+          "query_id": "45635"
+        },
+        {
+          "id": "LK-116002002",
+          "name": "Uswaththa Rd 2/1",
+          "query_id": "45636"
+        },
+        {
+          "id": "LK-116002003",
+          "name": "Welewaththa Rd 2/1",
+          "query_id": "45637"
+        },
+        {
+          "id": "LK-116002004",
+          "name": "Kelani nadeegama 1st step",
+          "query_id": "45638"
+        },
+        {
+          "id": "LK-116002005",
+          "name": "Kelani nadeegama 2nd Step",
+          "query_id": "45639"
+        },
+        {
+          "id": "LK-116002006",
+          "name": "Kelani nadeegama 3rd step",
+          "query_id": "45640"
+        },
+        {
+          "id": "LK-116002007",
+          "name": "Kotuwila Main Road",
+          "query_id": "48013"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160025",
+      "name": "Veheragoda",
+      "query_id": "48",
+      "children": [
+        {
+          "id": "LK-116002501",
+          "name": "Kelanitissa gama",
+          "query_id": "45641"
+        },
+        {
+          "id": "LK-116002502",
+          "name": "Weheragoda",
+          "query_id": "45642"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160030",
+      "name": "Orugodawatta",
+      "query_id": "49",
+      "children": [
+        {
+          "id": "LK-116003001",
+          "name": "Orugodawatta",
+          "query_id": "45533"
+        },
+        {
+          "id": "LK-116003002",
+          "name": "Awissawella Rd 2/1",
+          "query_id": "45643"
+        },
+        {
+          "id": "LK-116003003",
+          "name": "New Kelani Bridge Rd 2/1",
+          "query_id": "45644"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160035",
+      "name": "Meethotamulla",
+      "query_id": "50",
+      "children": [
+        {
+          "id": "LK-116003501",
+          "name": "Meethotamulla Rd 2/1",
+          "query_id": "45645"
+        },
+        {
+          "id": "LK-116003502",
+          "name": "C.G.R Land",
+          "query_id": "45646"
+        },
+        {
+          "id": "LK-116003503",
+          "name": "Meethotamulla Lane",
+          "query_id": "45647"
+        },
+        {
+          "id": "LK-116003504",
+          "name": "Vihara Mw 2/1",
+          "query_id": "45648"
+        },
+        {
+          "id": "LK-116003505",
+          "name": "Perera Mw",
+          "query_id": "45649"
+        },
+        {
+          "id": "LK-116003506",
+          "name": "Silva Lane",
+          "query_id": "45650"
+        },
+        {
+          "id": "LK-116003507",
+          "name": "Sri Rahula Rd",
+          "query_id": "45651"
+        },
+        {
+          "id": "LK-116003508",
+          "name": "Dewalaya Rd",
+          "query_id": "45652"
+        },
+        {
+          "id": "LK-116003509",
+          "name": "Wadugodawaththa U.C.Quarters",
+          "query_id": "45653"
+        },
+        {
+          "id": "LK-116003510",
+          "name": "Wadugodawatha",
+          "query_id": "48014"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160040",
+      "name": "Welewaththa",
+      "query_id": "51",
+      "children": [
+        {
+          "id": "LK-116004002",
+          "name": "Kiththampahuwa",
+          "query_id": "55146"
+        },
+        {
+          "id": "LK-116004001",
+          "name": "Welewaththa",
+          "query_id": "55147"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160045",
+      "name": "Kiththampahuwa",
+      "query_id": "52",
+      "children": [
+        {
+          "id": "LK-116004501",
+          "name": "Old Awissawella Rd",
+          "query_id": "45660"
+        },
+        {
+          "id": "LK-116004502",
+          "name": "Jaya Mw",
+          "query_id": "45661"
+        },
+        {
+          "id": "LK-116004503",
+          "name": "Kiththampahuwa Rd 2/1",
+          "query_id": "45662"
+        },
+        {
+          "id": "LK-116004504",
+          "name": "Gothami Mw 2/1",
+          "query_id": "45663"
+        },
+        {
+          "id": "LK-116004505",
+          "name": "Uswaththa Rd 2/1",
+          "query_id": "45664"
+        },
+        {
+          "id": "LK-116004506",
+          "name": "Ranashoora Mw",
+          "query_id": "45665"
+        },
+        {
+          "id": "LK-116004507",
+          "name": "Lansiyawaththa Rd",
+          "query_id": "45666"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160050",
+      "name": "Wennawatta",
+      "query_id": "53",
+      "children": [
+        {
+          "id": "LK-116005001",
+          "name": "Welewatta",
+          "query_id": "45534"
+        },
+        {
+          "id": "LK-116005002",
+          "name": "Ramya Weera Mw",
+          "query_id": "45654"
+        },
+        {
+          "id": "LK-116005003",
+          "name": "Ramya Weera Mw 1st Lane",
+          "query_id": "45655"
+        },
+        {
+          "id": "LK-116005004",
+          "name": "Gothami Mw 2/1",
+          "query_id": "45656"
+        },
+        {
+          "id": "LK-116005005",
+          "name": "Wiwekarama Mw",
+          "query_id": "45657"
+        },
+        {
+          "id": "LK-116005006",
+          "name": "Tiss Amunuwela",
+          "query_id": "45658"
+        },
+        {
+          "id": "LK-116005007",
+          "name": "A.S.P. Housing",
+          "query_id": "45659"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160055",
+      "name": "Mahabuthgamuwa B",
+      "query_id": "54",
+      "children": [
+        {
+          "id": "LK-116005501",
+          "name": "Mahabuttagamuwa ",
+          "query_id": "45535"
+        },
+        {
+          "id": "LK-116005502",
+          "name": "KOhilawaththa welikada Rd 2/1",
+          "query_id": "45667"
+        },
+        {
+          "id": "LK-116005503",
+          "name": "Old Awisswella Rd",
+          "query_id": "45668"
+        },
+        {
+          "id": "LK-116005507",
+          "name": "Weeramal Mw",
+          "query_id": "45669"
+        },
+        {
+          "id": "LK-116005505",
+          "name": "Brendiyawththa Rd",
+          "query_id": "45670"
+        },
+        {
+          "id": "LK-116005506",
+          "name": "Brendiyawththa Rd",
+          "query_id": "45671"
+        },
+        {
+          "id": "LK-116005504",
+          "name": "Ambathle Rd",
+          "query_id": "45672"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160060",
+      "name": "Kuda Buthgamuwa",
+      "query_id": "55",
+      "children": [
+        {
+          "id": "LK-116006001",
+          "name": "Kohilawaththa Welikada Rd 2/1",
+          "query_id": "45673"
+        },
+        {
+          "id": "LK-116006002",
+          "name": "Old Awissawella Rd",
+          "query_id": "45674"
+        },
+        {
+          "id": "LK-116006003",
+          "name": "Kohilawaththa Lane",
+          "query_id": "45675"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160065",
+      "name": "Kelanimulla",
+      "query_id": "56",
+      "children": [
+        {
+          "id": "LK-116006501",
+          "name": "Kelanimulla riverside Road",
+          "query_id": "28742"
+        },
+        {
+          "id": "LK-116006502",
+          "name": "Ambathale Old Rd",
+          "query_id": "28743"
+        },
+        {
+          "id": "LK-116006503",
+          "name": "Sri sumana Mw",
+          "query_id": "28744"
+        },
+        {
+          "id": "LK-116006504",
+          "name": "Belagama ",
+          "query_id": "28745"
+        },
+        {
+          "id": "LK-116006505",
+          "name": "Sri sumana Mw (1/2)",
+          "query_id": "28746"
+        },
+        {
+          "id": "LK-116006506",
+          "name": "Awissawella Rd (1/2)",
+          "query_id": "28747"
+        },
+        {
+          "id": "LK-116006507",
+          "name": "walgama Rd",
+          "query_id": "28748"
+        },
+        {
+          "id": "LK-116006508",
+          "name": "welagama Lane (1/2)",
+          "query_id": "28749"
+        },
+        {
+          "id": "LK-116006509",
+          "name": "Hospital Rd (1/2)",
+          "query_id": "28750"
+        },
+        {
+          "id": "LK-116006510",
+          "name": "Naagahawela Rd (1/2)",
+          "query_id": "28751"
+        },
+        {
+          "id": "LK-116006511",
+          "name": "Belagama Rd",
+          "query_id": "45536"
+        },
+        {
+          "id": "LK-116006512",
+          "name": "Belagama Lane",
+          "query_id": "45537"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160070",
+      "name": "Ambathale",
+      "query_id": "57",
+      "children": [
+        {
+          "id": "LK-116007001",
+          "name": "Ambathale (Parts)",
+          "query_id": "28684"
+        },
+        {
+          "id": "LK-116007002",
+          "name": "Kelani Mulla (Parts)",
+          "query_id": "28685"
+        },
+        {
+          "id": "LK-116007003",
+          "name": "Galwaana ",
+          "query_id": "28691"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160075",
+      "name": "Mulleriyawa North",
+      "query_id": "58",
+      "children": [
+        {
+          "id": "LK-116007501",
+          "name": "Kelani Mulla (1/2)",
+          "query_id": "28680"
+        },
+        {
+          "id": "LK-116007502",
+          "name": "Mulleriyawa (1/2)",
+          "query_id": "28682"
+        },
+        {
+          "id": "LK-116007503",
+          "name": "Kelanimulla 2/1",
+          "query_id": "45676"
+        },
+        {
+          "id": "LK-116007504",
+          "name": "Mulleriyawa 2/1",
+          "query_id": "45677"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160080",
+      "name": "Belagama",
+      "query_id": "59",
+      "children": [
+        {
+          "id": "LK-116008001",
+          "name": "Hospital Rd 2/1",
+          "query_id": "45678"
+        },
+        {
+          "id": "LK-116008002",
+          "name": "Awissawella Rd 2/1",
+          "query_id": "45679"
+        },
+        {
+          "id": "LK-116008003",
+          "name": "Nagahawela Rd",
+          "query_id": "45680"
+        },
+        {
+          "id": "LK-116008004",
+          "name": "Sri Sumana Mw ",
+          "query_id": "45681"
+        },
+        {
+          "id": "LK-116008005",
+          "name": "Belagama Rd",
+          "query_id": "45682"
+        },
+        {
+          "id": "LK-116008006",
+          "name": "Belagama Lane 2/1",
+          "query_id": "45683"
+        },
+        {
+          "id": "LK-116008007",
+          "name": "Galwatha Road",
+          "query_id": "48015"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160085",
+      "name": "Kotikawatta East",
+      "query_id": "60",
+      "children": [
+        {
+          "id": "LK-116008501",
+          "name": "Weliwala Rd",
+          "query_id": "28752"
+        },
+        {
+          "id": "LK-116008502",
+          "name": "Shilananda Mw",
+          "query_id": "28753"
+        },
+        {
+          "id": "LK-116008503",
+          "name": "Mahawathta Rd",
+          "query_id": "28754"
+        },
+        {
+          "id": "LK-116008504",
+          "name": "Radanwaththa",
+          "query_id": "28755"
+        },
+        {
+          "id": "LK-116008505",
+          "name": "Awissawella Rd (1/2)",
+          "query_id": "28756"
+        },
+        {
+          "id": "LK-116008506",
+          "name": "I.D.H Rd  (1/2)",
+          "query_id": "28757"
+        },
+        {
+          "id": "LK-116008510",
+          "name": "I.D.H Doowa",
+          "query_id": "28758"
+        },
+        {
+          "id": "LK-116008507",
+          "name": "Kaduru gaha Waththa Lane",
+          "query_id": "45684"
+        },
+        {
+          "id": "LK-116008508",
+          "name": "Koratuwa RD 1st Lane",
+          "query_id": "45685"
+        },
+        {
+          "id": "LK-116008509",
+          "name": "Nagahawela Road",
+          "query_id": "48016"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160090",
+      "name": "Maha Buthgamuwa A",
+      "query_id": "61",
+      "children": [
+        {
+          "id": "LK-116009001",
+          "name": "Colombo Awissawella Rd Kuda Buthgamuwa 2/1",
+          "query_id": "45686"
+        },
+        {
+          "id": "LK-116009002",
+          "name": "Kohilawaththa Welikada Rd 2/1",
+          "query_id": "45687"
+        },
+        {
+          "id": "LK-116009003",
+          "name": "Kuda Buthgamuwa Maha Buthgamuwa Rd 2/1",
+          "query_id": "45688"
+        },
+        {
+          "id": "LK-116009004",
+          "name": "Maha Buthgamuwa Tempal Rd",
+          "query_id": "45689"
+        },
+        {
+          "id": "LK-116009005",
+          "name": "Wathe Gedara Rd 2/1",
+          "query_id": "45690"
+        },
+        {
+          "id": "LK-116009006",
+          "name": "Colombo Awissawella Rd Maha Buthgamuwa 2/1",
+          "query_id": "45691"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160095",
+      "name": "Maha Buthgamuwa C",
+      "query_id": "62",
+      "children": [
+        {
+          "id": "LK-116009501",
+          "name": "Temple Rd",
+          "query_id": "45692"
+        },
+        {
+          "id": "LK-116009502",
+          "name": "Maha Buthgamuwa",
+          "query_id": "45693"
+        },
+        {
+          "id": "LK-116009503",
+          "name": "R.T' Studio Rd",
+          "query_id": "45694"
+        },
+        {
+          "id": "LK-116009504",
+          "name": "Brendiyawaththa 2/1",
+          "query_id": "45695"
+        },
+        {
+          "id": "LK-116009505",
+          "name": "Polghapitiya",
+          "query_id": "45696"
+        },
+        {
+          "id": "LK-116009506",
+          "name": "Wathe Gedara Rd 2/1",
+          "query_id": "45697"
+        },
+        {
+          "id": "LK-116009507",
+          "name": "Awissawella Rd 2/1",
+          "query_id": "45698"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160100",
+      "name": "Wellampitiya",
+      "query_id": "63",
+      "children": [
+        {
+          "id": "LK-116010001",
+          "name": "Sangabodi Mw",
+          "query_id": "45699"
+        },
+        {
+          "id": "LK-116010002",
+          "name": "Awissawella Rd 2/1",
+          "query_id": "45700"
+        },
+        {
+          "id": "LK-116010003",
+          "name": "Dosthara Waththa",
+          "query_id": "45701"
+        },
+        {
+          "id": "LK-116010004",
+          "name": "Kumaradasa Place",
+          "query_id": "45702"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160105",
+      "name": "Kuriniyawatta",
+      "query_id": "64",
+      "children": [
+        {
+          "id": "LK-116010501",
+          "name": "Awissawella Rd 2/1",
+          "query_id": "45703"
+        },
+        {
+          "id": "LK-116010502",
+          "name": "Pansala Hena Rd 2/1",
+          "query_id": "45704"
+        },
+        {
+          "id": "LK-116010503",
+          "name": "Meethotamulla Rd 2/1",
+          "query_id": "45705"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160110",
+      "name": "Kolonnawa",
+      "query_id": "65",
+      "children": [
+        {
+          "id": "LK-116011001",
+          "name": "Kolonnawa Rd",
+          "query_id": "45706"
+        },
+        {
+          "id": "LK-116011002",
+          "name": "Vihara Mw",
+          "query_id": "45707"
+        },
+        {
+          "id": "LK-116011003",
+          "name": "Nagahamulla Rd 2/1",
+          "query_id": "45708"
+        },
+        {
+          "id": "LK-116011004",
+          "name": "Ganasiri Mw",
+          "query_id": "45709"
+        },
+        {
+          "id": "LK-116011005",
+          "name": "Sugunusara Mw",
+          "query_id": "45710"
+        },
+        {
+          "id": "LK-116011006",
+          "name": "Temple Rd",
+          "query_id": "45711"
+        },
+        {
+          "id": "LK-116011007",
+          "name": "Nagahamulla Lane",
+          "query_id": "45712"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160115",
+      "name": "Dahampura",
+      "query_id": "66",
+      "children": [
+        {
+          "id": "LK-116011501",
+          "name": "Awissawella Rd 2/1",
+          "query_id": "45721"
+        },
+        {
+          "id": "LK-116011502",
+          "name": "Kolonnawa Rd",
+          "query_id": "45722"
+        },
+        {
+          "id": "LK-116011503",
+          "name": "Pansalahena Rd 2/1",
+          "query_id": "45723"
+        },
+        {
+          "id": "LK-116011504",
+          "name": "Jathika Niwasa ldama",
+          "query_id": "45724"
+        },
+        {
+          "id": "LK-116011505",
+          "name": "Pothuwil Kumbura State Land",
+          "query_id": "45725"
+        },
+        {
+          "id": "LK-116011506",
+          "name": "Nagahamulla Rd 2/1",
+          "query_id": "45726"
+        },
+        {
+          "id": "LK-116011507",
+          "name": "Sri Wimalarama Rd",
+          "query_id": "45727"
+        },
+        {
+          "id": "LK-116011508",
+          "name": "Meethotamulla Rd",
+          "query_id": "45728"
+        },
+        {
+          "id": "LK-116011509",
+          "name": "Vihara Mw 2/1",
+          "query_id": "45729"
+        },
+        {
+          "id": "LK-116011511",
+          "name": "Vihara Mawatha",
+          "query_id": "48017"
+        },
+        {
+          "id": "LK-116011510",
+          "name": "Jahena Road",
+          "query_id": "48018"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160120",
+      "name": "Singhapura",
+      "query_id": "67",
+      "children": [
+        {
+          "id": "LK-116012001",
+          "name": "Awissawella Rd 2/1",
+          "query_id": "45713"
+        },
+        {
+          "id": "LK-116012002",
+          "name": "Kolonnawa Rd 2/1",
+          "query_id": "45714"
+        },
+        {
+          "id": "LK-116012003",
+          "name": "Salawaththa Lane",
+          "query_id": "45715"
+        },
+        {
+          "id": "LK-116012004",
+          "name": "Puwakgahawatha Rd",
+          "query_id": "45716"
+        },
+        {
+          "id": "LK-116012005",
+          "name": "Salawaththa Lane",
+          "query_id": "45717"
+        },
+        {
+          "id": "LK-116012006",
+          "name": "G.P.Perera Mw",
+          "query_id": "45718"
+        },
+        {
+          "id": "LK-116012007",
+          "name": "Anandarama Mw",
+          "query_id": "45719"
+        },
+        {
+          "id": "LK-116012008",
+          "name": "Puwakgahawaththa 1st Lane",
+          "query_id": "45720"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160125",
+      "name": "Megoda Kolonnawa",
+      "query_id": "68",
+      "children": [
+        {
+          "id": "LK-116012501",
+          "name": "Megoda Kolonnawa",
+          "query_id": "55148"
+        },
+        {
+          "id": "LK-116012502",
+          "name": "Part of Gnanananda Himi Mawatha",
+          "query_id": "55149"
+        },
+        {
+          "id": "LK-116012503",
+          "name": "Part of Megoda Kolonnawa",
+          "query_id": "55150"
+        },
+        {
+          "id": "LK-116012504",
+          "name": "Part of Awissawella Road",
+          "query_id": "55151"
+        },
+        {
+          "id": "LK-116012505",
+          "name": "Kokamulla",
+          "query_id": "55152"
+        },
+        {
+          "id": "LK-116012506",
+          "name": "Senevirathnaramaya Road",
+          "query_id": "55153"
+        },
+        {
+          "id": "LK-116012507",
+          "name": "Haritha Uyana",
+          "query_id": "55154"
+        },
+        {
+          "id": "LK-116012508",
+          "name": "Araliya Uyana",
+          "query_id": "55155"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160130",
+      "name": "Bopeththa",
+      "query_id": "69",
+      "children": [
+        {
+          "id": "LK-116013001",
+          "name": "Bopeththa",
+          "query_id": "45731"
+        },
+        {
+          "id": "LK-116013002",
+          "name": "Gothatuwa 2/1Part of the ",
+          "query_id": "45732"
+        },
+        {
+          "id": "LK-116013003",
+          "name": "Awissawella Rd 2/1",
+          "query_id": "45733"
+        },
+        {
+          "id": "LK-116013004",
+          "name": "Ambagaha handiya Rd 2/1",
+          "query_id": "45734"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160135",
+      "name": "Batalandahena",
+      "query_id": "70",
+      "children": [
+        {
+          "id": "LK-116013501",
+          "name": "Gothatuwa New Town Kolonnawa Rd 2/1",
+          "query_id": "45735"
+        },
+        {
+          "id": "LK-116013502",
+          "name": "Gothatuwa Ambagha Hndiya Rd 2/1",
+          "query_id": "45736"
+        },
+        {
+          "id": "LK-116013503",
+          "name": "Manigamulla Rd 2/1",
+          "query_id": "45737"
+        },
+        {
+          "id": "LK-116013504",
+          "name": "Batalandahena Houses 2/1",
+          "query_id": "45738"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160140",
+      "name": "Kotikawatta West",
+      "query_id": "71",
+      "children": [
+        {
+          "id": "LK-116014001",
+          "name": "Maharige watha",
+          "query_id": "45739"
+        },
+        {
+          "id": "LK-116014002",
+          "name": "Talghawatha",
+          "query_id": "45740"
+        },
+        {
+          "id": "LK-116014003",
+          "name": "Naghawaththa",
+          "query_id": "45741"
+        },
+        {
+          "id": "LK-116014004",
+          "name": "Meeghawatha Road",
+          "query_id": "45742"
+        },
+        {
+          "id": "LK-116014005",
+          "name": "Keerthi Mw",
+          "query_id": "45743"
+        },
+        {
+          "id": "LK-116014006",
+          "name": "Samagi Mw",
+          "query_id": "45744"
+        },
+        {
+          "id": "LK-116014007",
+          "name": "2/1 Delghawatha Rd ",
+          "query_id": "45745"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160145",
+      "name": "Mulleriyawa South",
+      "query_id": "72",
+      "children": [
+        {
+          "id": "LK-116014501",
+          "name": "Awissawella Rd 1/2",
+          "query_id": "28718"
+        },
+        {
+          "id": "LK-116014502",
+          "name": "Angoda Mental Hospitel Rd",
+          "query_id": "28719"
+        },
+        {
+          "id": "LK-116014503",
+          "name": "Mulleriyawa hospitl Rd",
+          "query_id": "28720"
+        },
+        {
+          "id": "LK-116014504",
+          "name": "Kumara Mw",
+          "query_id": "28721"
+        },
+        {
+          "id": "LK-116014505",
+          "name": "Sri perakumba Mw",
+          "query_id": "28722"
+        },
+        {
+          "id": "LK-116014506",
+          "name": "Godella Mw",
+          "query_id": "28723"
+        },
+        {
+          "id": "LK-116014507",
+          "name": "Chongema Rd",
+          "query_id": "28724"
+        },
+        {
+          "id": "LK-116014508",
+          "name": "Himbutana Rd 2/1",
+          "query_id": "45746"
+        },
+        {
+          "id": "LK-116014509",
+          "name": "Mental Hospital Quarters Angoda",
+          "query_id": "45747"
+        },
+        {
+          "id": "LK-116014510",
+          "name": "Chongama",
+          "query_id": "45748"
+        },
+        {
+          "id": "LK-116014511",
+          "name": "N.T Perera Mw",
+          "query_id": "45749"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160150",
+      "name": "Malgama",
+      "query_id": "73",
+      "children": [
+        {
+          "id": "LK-116015001",
+          "name": "Awissawella Rd",
+          "query_id": "28733"
+        },
+        {
+          "id": "LK-116015002",
+          "name": "Udumulla Rd",
+          "query_id": "28734"
+        },
+        {
+          "id": "LK-116015003",
+          "name": "Himbutana Rd",
+          "query_id": "28735"
+        },
+        {
+          "id": "LK-116015004",
+          "name": "Pethiyagoda Rd",
+          "query_id": "28736"
+        },
+        {
+          "id": "LK-116015005",
+          "name": "Baron Tilakananda Mw",
+          "query_id": "28737"
+        },
+        {
+          "id": "LK-116015006",
+          "name": "Malgema House",
+          "query_id": "28738"
+        },
+        {
+          "id": "LK-116015007",
+          "name": "Shanthi Mw",
+          "query_id": "28739"
+        },
+        {
+          "id": "LK-116015008",
+          "name": "Mahawatha Rd",
+          "query_id": "28740"
+        },
+        {
+          "id": "LK-116015009",
+          "name": "Sri Perakumba Mw",
+          "query_id": "28741"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160155",
+      "name": "Udumulla North",
+      "query_id": "74",
+      "children": [
+        {
+          "id": "LK-116015501",
+          "name": "Awissawella Road",
+          "query_id": "28694"
+        },
+        {
+          "id": "LK-116015502",
+          "name": "Wewa Road",
+          "query_id": "28695"
+        },
+        {
+          "id": "LK-116015503",
+          "name": "Udumulla Road",
+          "query_id": "28698"
+        },
+        {
+          "id": "LK-116015504",
+          "name": "Maligagodella Road",
+          "query_id": "28699"
+        },
+        {
+          "id": "LK-116015505",
+          "name": "Weekanda Rd",
+          "query_id": "28702"
+        },
+        {
+          "id": "LK-116015506",
+          "name": "Water Board Housing Scheme",
+          "query_id": "28705"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160160",
+      "name": "Maligagodella",
+      "query_id": "75",
+      "children": [
+        {
+          "id": "LK-116016001",
+          "name": "Maligagodella Rd",
+          "query_id": "28710"
+        },
+        {
+          "id": "LK-116016002",
+          "name": "Galwaana Thalahena Rd  ",
+          "query_id": "28711"
+        },
+        {
+          "id": "LK-116016003",
+          "name": "Part of the Hospital   Wata Para",
+          "query_id": "45750"
+        },
+        {
+          "id": "LK-116016004",
+          "name": "Rajasinhe Mw",
+          "query_id": "45751"
+        },
+        {
+          "id": "LK-116016005",
+          "name": "Salmal Uyana",
+          "query_id": "45752"
+        },
+        {
+          "id": "LK-116016006",
+          "name": "Kbaragala State Land",
+          "query_id": "45753"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160165",
+      "name": "Rajasinghagama",
+      "query_id": "76",
+      "children": [
+        {
+          "id": "LK-116016501",
+          "name": "Halbarawa",
+          "query_id": "45754"
+        },
+        {
+          "id": "LK-116016502",
+          "name": "Rajasingha Gama",
+          "query_id": "45755"
+        },
+        {
+          "id": "LK-116016503",
+          "name": "Mulleriyawa Hospital Quarters",
+          "query_id": "45756"
+        },
+        {
+          "id": "LK-116016504",
+          "name": "Rajasingha mawatha 1/2",
+          "query_id": "45757"
+        },
+        {
+          "id": "LK-116016505",
+          "name": "Thalahena Rd 1/2",
+          "query_id": "45758"
+        },
+        {
+          "id": "LK-116016506",
+          "name": "Pubudugama",
+          "query_id": "45759"
+        },
+        {
+          "id": "LK-116016507",
+          "name": "Himbutu Uyana",
+          "query_id": "45760"
+        },
+        {
+          "id": "LK-116016508",
+          "name": "Hopital Road 1/2",
+          "query_id": "45761"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160170",
+      "name": "Udumulla South",
+      "query_id": "77",
+      "children": [
+        {
+          "id": "LK-116017001",
+          "name": "Thalahena Rd (1/2)",
+          "query_id": "28706"
+        },
+        {
+          "id": "LK-116017002",
+          "name": "Galwala Hena Rd",
+          "query_id": "28707"
+        },
+        {
+          "id": "LK-116017003",
+          "name": "Bataketiya Rd",
+          "query_id": "28708"
+        },
+        {
+          "id": "LK-116017004",
+          "name": "Thalahena Bodiya Rd (1/2)",
+          "query_id": "28709"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160175",
+      "name": "Himbutana East",
+      "query_id": "78",
+      "children": [
+        {
+          "id": "LK-116017501",
+          "name": "Himbutana Rd",
+          "query_id": "28725"
+        },
+        {
+          "id": "LK-116017502",
+          "name": "Goda udawaththa Rd",
+          "query_id": "28726"
+        },
+        {
+          "id": "LK-116017503",
+          "name": "Jayanthi Mw",
+          "query_id": "28727"
+        },
+        {
+          "id": "LK-116017504",
+          "name": "Menik Agara Waththa",
+          "query_id": "28728"
+        },
+        {
+          "id": "LK-116017506",
+          "name": "Pancha Waththa",
+          "query_id": "28729"
+        },
+        {
+          "id": "LK-116017507",
+          "name": "Udumulla Rd",
+          "query_id": "28730"
+        },
+        {
+          "id": "LK-116017508",
+          "name": "Abinawarama Rd",
+          "query_id": "28731"
+        },
+        {
+          "id": "LK-116017509",
+          "name": "Polwaththa Gunasekara Mw",
+          "query_id": "28732"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160180",
+      "name": "Himbutana West",
+      "query_id": "79",
+      "children": [
+        {
+          "id": "LK-116018001",
+          "name": "Himbutana Lane 1/2",
+          "query_id": "28712"
+        },
+        {
+          "id": "LK-116018002",
+          "name": "Himbutana Rd 1/2",
+          "query_id": "28713"
+        },
+        {
+          "id": "LK-116018003",
+          "name": "Jayanthi Mw 1/2",
+          "query_id": "28714"
+        },
+        {
+          "id": "LK-116018004",
+          "name": "Jayanthi Lane 1/2",
+          "query_id": "28715"
+        },
+        {
+          "id": "LK-116018005",
+          "name": "Angoda Mental Hospital Quartera Rd",
+          "query_id": "28716"
+        },
+        {
+          "id": "LK-116018006",
+          "name": "Nila niwasa para",
+          "query_id": "28717"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160185",
+      "name": "Malpura",
+      "query_id": "80",
+      "children": [
+        {
+          "id": "LK-116018501",
+          "name": "Pragathi Mw",
+          "query_id": "28759"
+        },
+        {
+          "id": "LK-116018502",
+          "name": "Angoda Waththa",
+          "query_id": "28760"
+        },
+        {
+          "id": "LK-116018503",
+          "name": "Hospital Rd (1/2)",
+          "query_id": "28761"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160190",
+      "name": "Gothatuwa New Town",
+      "query_id": "81",
+      "children": [
+        {
+          "id": "LK-116019001",
+          "name": "Kolonnawa Rd 1/2",
+          "query_id": "45762"
+        },
+        {
+          "id": "LK-116019002",
+          "name": "Gothatuwa New Town 1/2",
+          "query_id": "45763"
+        },
+        {
+          "id": "LK-116019003",
+          "name": "Pahala Dodamgha Hena",
+          "query_id": "45764"
+        },
+        {
+          "id": "LK-116019004",
+          "name": "Kotikawaththa Rd 1/2",
+          "query_id": "45765"
+        },
+        {
+          "id": "LK-116019005",
+          "name": "Andihena Rd",
+          "query_id": "45766"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160195",
+      "name": "Kajugahawatta",
+      "query_id": "82",
+      "children": [
+        {
+          "id": "LK-116019501",
+          "name": "Gothatuwa New Town 1/2",
+          "query_id": "45767"
+        },
+        {
+          "id": "LK-116019502",
+          "name": "Kajugahawaththa Housing Scheme",
+          "query_id": "45768"
+        },
+        {
+          "id": "LK-116019503",
+          "name": "Gothtuwa Bogaha Juction Rd 1/2",
+          "query_id": "45769"
+        },
+        {
+          "id": "LK-116019504",
+          "name": "Gothatuwa Bogaha JunctionRd 1/2",
+          "query_id": "45770"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160200",
+      "name": "Gothatuwa",
+      "query_id": "83",
+      "children": [
+        {
+          "id": "LK-116020001",
+          "name": "Gothatuwa",
+          "query_id": "45771"
+        },
+        {
+          "id": "LK-116020002",
+          "name": "Nindahena",
+          "query_id": "45772"
+        },
+        {
+          "id": "LK-116020003",
+          "name": "Elhena",
+          "query_id": "45773"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160205",
+      "name": "Salamulla",
+      "query_id": "84",
+      "children": [
+        {
+          "id": "LK-116020501",
+          "name": "I.D.H Rd",
+          "query_id": "45774"
+        },
+        {
+          "id": "LK-116020502",
+          "name": "Goverment Factory Quarters",
+          "query_id": "45775"
+        },
+        {
+          "id": "LK-116020503",
+          "name": "Gamini Rd Part",
+          "query_id": "45776"
+        },
+        {
+          "id": "LK-116020504",
+          "name": "Pirivena Rd Part",
+          "query_id": "45777"
+        },
+        {
+          "id": "LK-116020505",
+          "name": "Wijaya Rd Part",
+          "query_id": "45778"
+        },
+        {
+          "id": "LK-116020506",
+          "name": "Sudunelum Pura",
+          "query_id": "45779"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160210",
+      "name": "Wijayapura",
+      "query_id": "85",
+      "children": [
+        {
+          "id": "LK-116021001",
+          "name": "Wijaya Rd 1/2",
+          "query_id": "45780"
+        },
+        {
+          "id": "LK-116021002",
+          "name": "Keppetipola Mw 1/2",
+          "query_id": "45781"
+        },
+        {
+          "id": "LK-116021003",
+          "name": "Gajaba Rd 1/2",
+          "query_id": "45782"
+        },
+        {
+          "id": "LK-116021004",
+          "name": "Wijayapura Housing Scheme",
+          "query_id": "45783"
+        },
+        {
+          "id": "LK-116021005",
+          "name": "Jayanthi Mw",
+          "query_id": "45784"
+        },
+        {
+          "id": "LK-116021006",
+          "name": "Kolonnwa Rd 1/2",
+          "query_id": "45785"
+        },
+        {
+          "id": "LK-116021007",
+          "name": "Terance N De Silva Mw",
+          "query_id": "45786"
+        },
+        {
+          "id": "LK-116021008",
+          "name": "U.C Flats",
+          "query_id": "45787"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160215",
+      "name": "Gajabapura",
+      "query_id": "86",
+      "children": [
+        {
+          "id": "LK-116021501",
+          "name": "Perakumba Mw 1/2",
+          "query_id": "45788"
+        },
+        {
+          "id": "LK-116021502",
+          "name": "Kolonnawa Rd 1/2",
+          "query_id": "45789"
+        },
+        {
+          "id": "LK-116021503",
+          "name": "Keppetipola Mw 1/2",
+          "query_id": "45790"
+        },
+        {
+          "id": "LK-116021504",
+          "name": "Abaya Pura",
+          "query_id": "45791"
+        },
+        {
+          "id": "LK-116021505",
+          "name": "Kumarathunga Munidasa Mw",
+          "query_id": "45792"
+        },
+        {
+          "id": "LK-116021506",
+          "name": "Perakumba Lane",
+          "query_id": "45793"
+        },
+        {
+          "id": "LK-116021507",
+          "name": "Wijesingha Mw",
+          "query_id": "45794"
+        },
+        {
+          "id": "LK-116021508",
+          "name": "Samaranayaka Mw",
+          "query_id": "45795"
+        },
+        {
+          "id": "LK-116021509",
+          "name": "Thel Tankiya Rd",
+          "query_id": "45796"
+        },
+        {
+          "id": "LK-116021510",
+          "name": "Gajaba Pura 1/2",
+          "query_id": "45797"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160220",
+      "name": "Madinnagoda",
+      "query_id": "87",
+      "children": [
+        {
+          "id": "LK-116022001",
+          "name": "Madinnagoda",
+          "query_id": "45810"
+        },
+        {
+          "id": "LK-116022002",
+          "name": "Elhena Rd 1/2",
+          "query_id": "45811"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160225",
+      "name": "Elhena",
+      "query_id": "88",
+      "children": [
+        {
+          "id": "LK-116022501",
+          "name": "Moravitiya Rd",
+          "query_id": "45798"
+        },
+        {
+          "id": "LK-116022502",
+          "name": "Elhena Rd 1/2",
+          "query_id": "45799"
+        },
+        {
+          "id": "LK-116022503",
+          "name": "Jaya Mw",
+          "query_id": "45800"
+        },
+        {
+          "id": "LK-116022504",
+          "name": "Buthgamuwa Rd 1/2",
+          "query_id": "45801"
+        },
+        {
+          "id": "LK-116022505",
+          "name": "Gothtuwa Rd 1/2",
+          "query_id": "45802"
+        }
+      ]
+    },
+    {
+      "id": "LK-1160230",
+      "name": "Dodamgahahena",
+      "query_id": "89",
+      "children": [
+        {
+          "id": "LK-116023001",
+          "name": "Buthgamuwa 1/2",
+          "query_id": "45803"
+        },
+        {
+          "id": "LK-116023002",
+          "name": "Ihala Dodamgahahena",
+          "query_id": "45804"
+        },
+        {
+          "id": "LK-116023003",
+          "name": "Balasuriya Waththa",
+          "query_id": "45805"
+        },
+        {
+          "id": "LK-116023004",
+          "name": "Dodamgahahena National Hosing Seheme 1/2",
+          "query_id": "45806"
+        },
+        {
+          "id": "LK-116023005",
+          "name": "Bandaranayaka Pura",
+          "query_id": "45807"
+        },
+        {
+          "id": "LK-116023006",
+          "name": "Kariyawasam Place",
+          "query_id": "45808"
+        },
+        {
+          "id": "LK-116023007",
+          "name": "Higgahawaththa Rd",
+          "query_id": "45809"
+        }
+      ]
+    }
+  ]
+}
