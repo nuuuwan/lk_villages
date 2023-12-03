@@ -73,7 +73,9 @@ class Region:
             if ': ' not in text:
                 continue
             child_query_id = option['value']
-            child_id_prefix, child_name = text.split(': ')
+            DELIM = ': '
+            tokens = text.split(DELIM)
+            child_id_prefix, child_name = tokens[0], DELIM.join(tokens[1:])
             child_id_prefix = child_id_prefix.rjust(child_id_len, '0')
             child_id = self.id + child_id_prefix
             child = Region(child_id, child_name, child_query_id)
