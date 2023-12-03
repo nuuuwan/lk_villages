@@ -1,0 +1,326 @@
+{
+  "id": "LK-5318",
+  "name": "Thambalagamuwa",
+  "query_id": "1140",
+  "children": [
+    {
+      "id": "LK-5318005",
+      "name": "Galmetiyawa North",
+      "query_id": "8484",
+      "children": [
+        {
+          "id": "LK-531800501",
+          "name": "Galmetiyawa",
+          "query_id": "12817"
+        },
+        {
+          "id": "LK-531800502",
+          "name": "Ulpathwewa",
+          "query_id": "12819"
+        },
+        {
+          "id": "LK-531800504",
+          "name": "Lakwijaya Gama",
+          "query_id": "12820"
+        },
+        {
+          "id": "LK-531800505",
+          "name": "Singhapura",
+          "query_id": "12821"
+        },
+        {
+          "id": "LK-531800503",
+          "name": "Suwamimalai",
+          "query_id": "54199"
+        }
+      ]
+    },
+    {
+      "id": "LK-5318010",
+      "name": "Palampataru",
+      "query_id": "8485",
+      "children": [
+        {
+          "id": "LK-531801003",
+          "name": "Jayapura",
+          "query_id": "54195"
+        },
+        {
+          "id": "LK-531801002",
+          "name": "Pathinipuram",
+          "query_id": "12824"
+        },
+        {
+          "id": "LK-531801001",
+          "name": "Barathipuram",
+          "query_id": "12825"
+        }
+      ]
+    },
+    {
+      "id": "LK-5318015",
+      "name": "Puthukkudieruppu",
+      "query_id": "8486",
+      "children": [
+        {
+          "id": "LK-531801501",
+          "name": "Puthukkudieruppu",
+          "query_id": "12828"
+        },
+        {
+          "id": "LK-531801502",
+          "name": "Thelungu Nagar",
+          "query_id": "34104"
+        }
+      ]
+    },
+    {
+      "id": "LK-5318020",
+      "name": "Potkerny",
+      "query_id": "8487",
+      "children": [
+        {
+          "id": "LK-531802001",
+          "name": "Potkerny",
+          "query_id": "12830"
+        }
+      ]
+    },
+    {
+      "id": "LK-5318025",
+      "name": "Meera Nagar",
+      "query_id": "8488",
+      "children": [
+        {
+          "id": "LK-531802502",
+          "name": "Meera Nagar",
+          "query_id": "12832"
+        },
+        {
+          "id": "LK-531802501",
+          "name": "Arfa Nagar",
+          "query_id": "12833"
+        },
+        {
+          "id": "LK-531802503",
+          "name": "Thaib Nagar",
+          "query_id": "12836"
+        }
+      ]
+    },
+    {
+      "id": "LK-5318030",
+      "name": "Siraj Nagar",
+      "query_id": "8489",
+      "children": [
+        {
+          "id": "LK-531803001",
+          "name": "Siraj Nagar",
+          "query_id": "12838"
+        },
+        {
+          "id": "LK-531803003",
+          "name": "Gamunupura",
+          "query_id": "12843"
+        },
+        {
+          "id": "LK-531803002",
+          "name": "Mailthivu",
+          "query_id": "34110"
+        }
+      ]
+    },
+    {
+      "id": "LK-5318035",
+      "name": "Kovil Kudiyiruppu",
+      "query_id": "8490",
+      "children": [
+        {
+          "id": "LK-531803501",
+          "name": "Koviladi",
+          "query_id": "12845"
+        },
+        {
+          "id": "LK-531803502",
+          "name": "Pattimedu",
+          "query_id": "12846"
+        }
+      ]
+    },
+    {
+      "id": "LK-5318040",
+      "name": "Thambalagamuwa",
+      "query_id": "8491",
+      "children": [
+        {
+          "id": "LK-531804001",
+          "name": "kutampuli",
+          "query_id": "12847"
+        },
+        {
+          "id": "LK-531804002",
+          "name": "Sippthithidal",
+          "query_id": "12848"
+        },
+        {
+          "id": "LK-531804012",
+          "name": "Sinnavarnamedu",
+          "query_id": "12849"
+        },
+        {
+          "id": "LK-531804003",
+          "name": "Kallimedu",
+          "query_id": "12850"
+        },
+        {
+          "id": "LK-531804004",
+          "name": "Karachchithidal",
+          "query_id": "12867"
+        },
+        {
+          "id": "LK-531804005",
+          "name": "Warnamedu",
+          "query_id": "12868"
+        },
+        {
+          "id": "LK-531804006",
+          "name": "Kunchadappanthidal",
+          "query_id": "12869"
+        },
+        {
+          "id": "LK-531804007",
+          "name": "Aiyanarthidal",
+          "query_id": "12870"
+        },
+        {
+          "id": "LK-531804008",
+          "name": "Nayanmarthidal",
+          "query_id": "12871"
+        },
+        {
+          "id": "LK-531804009",
+          "name": "Markithidal",
+          "query_id": "12872"
+        },
+        {
+          "id": "LK-531804010",
+          "name": "Nadupirapanthidal",
+          "query_id": "12873"
+        },
+        {
+          "id": "LK-531804011",
+          "name": "Mulliyadi",
+          "query_id": "12875"
+        }
+      ]
+    },
+    {
+      "id": "LK-5318045",
+      "name": "Mollipothana North",
+      "query_id": "8492",
+      "children": [
+        {
+          "id": "LK-531804503",
+          "name": "Thissapura",
+          "query_id": "12851"
+        },
+        {
+          "id": "LK-531804501",
+          "name": "Al-Hijra Nagar",
+          "query_id": "12852"
+        },
+        {
+          "id": "LK-531804502",
+          "name": "Hamediya Nagar",
+          "query_id": "12853"
+        },
+        {
+          "id": "LK-531804505",
+          "name": "Muhamadiya Nagar",
+          "query_id": "12854"
+        },
+        {
+          "id": "LK-531804504",
+          "name": "Keleela",
+          "query_id": "54198"
+        }
+      ]
+    },
+    {
+      "id": "LK-5318050",
+      "name": "Galmetiyawa South",
+      "query_id": "8493",
+      "children": [
+        {
+          "id": "LK-531805002",
+          "name": "Parvipanjan",
+          "query_id": "12855"
+        },
+        {
+          "id": "LK-531805001",
+          "name": "Galmetiyawa South",
+          "query_id": "12857"
+        }
+      ]
+    },
+    {
+      "id": "LK-5318055",
+      "name": "Mollipothana",
+      "query_id": "8494",
+      "children": [
+        {
+          "id": "LK-531805507",
+          "name": "Buhari Nagar South",
+          "query_id": "54197"
+        },
+        {
+          "id": "LK-531805503",
+          "name": "Saliyapura",
+          "query_id": "12860"
+        },
+        {
+          "id": "LK-531805504",
+          "name": "P\u0dca\u0dca\u0dcaerakum Place",
+          "query_id": "12861"
+        },
+        {
+          "id": "LK-531805501",
+          "name": "Sadam Nagar",
+          "query_id": "12862"
+        },
+        {
+          "id": "LK-531805502",
+          "name": "Darusalam",
+          "query_id": "54196"
+        },
+        {
+          "id": "LK-531805506",
+          "name": "Al-Hijra Nagar",
+          "query_id": "12863"
+        },
+        {
+          "id": "LK-531805505",
+          "name": "Buhari Nagar North",
+          "query_id": "12864"
+        }
+      ]
+    },
+    {
+      "id": "LK-5318060",
+      "name": "Mollipothana East",
+      "query_id": "8495",
+      "children": [
+        {
+          "id": "LK-531806001",
+          "name": "Unit - 09",
+          "query_id": "12865"
+        },
+        {
+          "id": "LK-531806002",
+          "name": "Unit-10",
+          "query_id": "12866"
+        }
+      ]
+    }
+  ]
+}

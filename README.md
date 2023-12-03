@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**32,439** Villages from **8,635** GNDs in **202** DSDs (4.945MB), scraped as of *2023-12-03 23:53:01*.
+**33,000** Villages from **8,785** GNDs in **207** DSDs (5.030MB), scraped as of *2023-12-04 00:05:38*.
 
 ## LK-1 - Western
 
@@ -268,3 +268,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-5306](data/villages/LK-5306.json) - Kuchchaveli
 * [LK-5309](data/villages/LK-5309.json) - Gomarankadawala
 * [LK-5312](data/villages/LK-5312.json) - Morawewa
+* [LK-5315](data/villages/LK-5315.json) - Trincomalee Town and Gravets
+* [LK-5318](data/villages/LK-5318.json) - Thambalagamuwa
+* [LK-5321](data/villages/LK-5321.json) - Kanthale
+* [LK-5324](data/villages/LK-5324.json) - Kinniya
+* [LK-5327](data/villages/LK-5327.json) - Muttur

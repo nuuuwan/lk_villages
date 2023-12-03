@@ -1,0 +1,498 @@
+{
+  "id": "LK-5321",
+  "name": "Kantalai",
+  "query_id": "1141",
+  "children": [
+    {
+      "id": "LK-5321005",
+      "name": "Wendrasapura Unit 16",
+      "query_id": "8496",
+      "children": [
+        {
+          "id": "LK-532100501",
+          "name": "Wendrasanpura, Unit 16",
+          "query_id": "14595"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321010",
+      "name": "Ganthalawa, Unit 12",
+      "query_id": "8497",
+      "children": [
+        {
+          "id": "LK-532101001",
+          "name": "Ganthalawa, Unit 12",
+          "query_id": "14597"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321015",
+      "name": "Gantalawa, Unit 11",
+      "query_id": "8498",
+      "children": [
+        {
+          "id": "LK-532101501",
+          "name": "Gantalawa, Unit 11",
+          "query_id": "14590"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321020",
+      "name": "Vaan Ela East",
+      "query_id": "8499",
+      "children": [
+        {
+          "id": "LK-532102001",
+          "name": "Vaan Ela East",
+          "query_id": "14508"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321025",
+      "name": "Vanela West",
+      "query_id": "8500",
+      "children": [
+        {
+          "id": "LK-532102501",
+          "name": "Vaan Ela  West ",
+          "query_id": "14610"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321030",
+      "name": "Pansal Godella",
+      "query_id": "8501",
+      "children": [
+        {
+          "id": "LK-532103001",
+          "name": "Pansal Godella",
+          "query_id": "14612"
+        },
+        {
+          "id": "LK-532103003",
+          "name": "Main road",
+          "query_id": "14614"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321035",
+      "name": "Sooriyapura",
+      "query_id": "8502",
+      "children": [
+        {
+          "id": "LK-532103501",
+          "name": "Sooriyapura",
+          "query_id": "14517"
+        },
+        {
+          "id": "LK-532103502",
+          "name": "Samanala Palama",
+          "query_id": "14519"
+        },
+        {
+          "id": "LK-532103504",
+          "name": "Samagi pura",
+          "query_id": "14521"
+        },
+        {
+          "id": "LK-532103503",
+          "name": "Mahawelipura",
+          "query_id": "14522"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321040",
+      "name": "Jayanthipura ",
+      "query_id": "8503",
+      "children": [
+        {
+          "id": "LK-532104001",
+          "name": "Jayanthipura ",
+          "query_id": "14537"
+        },
+        {
+          "id": "LK-532104002",
+          "name": "Jayanthigama",
+          "query_id": "54797"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321045",
+      "name": "Raja Ela Unit 04",
+      "query_id": "8504",
+      "children": [
+        {
+          "id": "LK-532104501",
+          "name": "Raja Ela Unit 04 ",
+          "query_id": "14581"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321050",
+      "name": "Raja Ela Unit 05",
+      "query_id": "8505",
+      "children": [
+        {
+          "id": "LK-532105001",
+          "name": "Raja Ela Unit 05",
+          "query_id": "14584"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321055",
+      "name": "Wandrasapura Unit 15",
+      "query_id": "8506",
+      "children": [
+        {
+          "id": "LK-532105501",
+          "name": "Wendrasanpura Unit 15",
+          "query_id": "14592"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321060",
+      "name": "Wandrasanpura, Unit 14",
+      "query_id": "8507",
+      "children": [
+        {
+          "id": "LK-532106001",
+          "name": "Wandrasanpura, Unit 14",
+          "query_id": "14483"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321065",
+      "name": "Bhathiya Gama",
+      "query_id": "8508",
+      "children": [
+        {
+          "id": "LK-532106501",
+          "name": "Bhathiyagama",
+          "query_id": "14560"
+        },
+        {
+          "id": "LK-532106502",
+          "name": "Light Road",
+          "query_id": "14562"
+        },
+        {
+          "id": "LK-532106503",
+          "name": "Wew Sirigama",
+          "query_id": "14563"
+        },
+        {
+          "id": "LK-532106504",
+          "name": "Deevara Gama",
+          "query_id": "14565"
+        },
+        {
+          "id": "LK-532106505",
+          "name": "Parakkarama Mawatha",
+          "query_id": "14566"
+        },
+        {
+          "id": "LK-532106508",
+          "name": "6 Side",
+          "query_id": "14568"
+        },
+        {
+          "id": "LK-532106506",
+          "name": "Janasavi Mawatha",
+          "query_id": "14571"
+        },
+        {
+          "id": "LK-532106509",
+          "name": "Jayantha Mawatha",
+          "query_id": "14574"
+        },
+        {
+          "id": "LK-532106507",
+          "name": "Trincomalee Road",
+          "query_id": "53831"
+        },
+        {
+          "id": "LK-532106510",
+          "name": "91 Road",
+          "query_id": "54802"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321070",
+      "name": "Raja Ela Unit 03",
+      "query_id": "8509",
+      "children": [
+        {
+          "id": "LK-532107001",
+          "name": "Raja Ela Unit 03",
+          "query_id": "14486"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321075",
+      "name": "Peraru Unit 02",
+      "query_id": "8510",
+      "children": [
+        {
+          "id": "LK-532107501",
+          "name": "Peraru, Unit 02",
+          "query_id": "14528"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321080",
+      "name": "Peraru East",
+      "query_id": "8511",
+      "children": [
+        {
+          "id": "LK-532108001",
+          "name": "Peraru East",
+          "query_id": "14586"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321085",
+      "name": "Peraru West",
+      "query_id": "8512",
+      "children": [
+        {
+          "id": "LK-532108501",
+          "name": "Peraru West  ",
+          "query_id": "14530"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321090",
+      "name": "Kanthale  Town South",
+      "query_id": "8513",
+      "children": [
+        {
+          "id": "LK-532109001",
+          "name": "Agrabodhi Mawatha",
+          "query_id": "14543"
+        },
+        {
+          "id": "LK-532109002",
+          "name": "Rajaela Road",
+          "query_id": "14546"
+        },
+        {
+          "id": "LK-532109003",
+          "name": "Janatha Mawatha ",
+          "query_id": "14547"
+        },
+        {
+          "id": "LK-532109004",
+          "name": "Gemunu  Mawatha ",
+          "query_id": "14550"
+        },
+        {
+          "id": "LK-532109005",
+          "name": "Leelarathna Mawatha ",
+          "query_id": "14552"
+        },
+        {
+          "id": "LK-532109006",
+          "name": "Majeed Mawatha ",
+          "query_id": "14556"
+        },
+        {
+          "id": "LK-532109007",
+          "name": "Perathuweligama",
+          "query_id": "14557"
+        },
+        {
+          "id": "LK-532109008",
+          "name": "U.C Mawatha",
+          "query_id": "53830"
+        },
+        {
+          "id": "LK-532109009",
+          "name": "Samurdhi Mawatha",
+          "query_id": "54798"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321095",
+      "name": "Kanthale Town",
+      "query_id": "8514",
+      "children": [
+        {
+          "id": "LK-532109501",
+          "name": "Kovilgama",
+          "query_id": "14459"
+        },
+        {
+          "id": "LK-532109502",
+          "name": "Banadaranayaka Mawatha",
+          "query_id": "14462"
+        },
+        {
+          "id": "LK-532109503",
+          "name": "87 Aria",
+          "query_id": "14464"
+        },
+        {
+          "id": "LK-532109504",
+          "name": "Priyantha Mawatha",
+          "query_id": "14466"
+        },
+        {
+          "id": "LK-532109505",
+          "name": "Ariyawansha Mawatha",
+          "query_id": "14470"
+        },
+        {
+          "id": "LK-532109506",
+          "name": "Parakrama Mawatha",
+          "query_id": "14473"
+        },
+        {
+          "id": "LK-532109507",
+          "name": "Kandy Road",
+          "query_id": "14476"
+        },
+        {
+          "id": "LK-532109508",
+          "name": "Trincomalee Road",
+          "query_id": "14480"
+        },
+        {
+          "id": "LK-532109511",
+          "name": "Varakele",
+          "query_id": "54801"
+        },
+        {
+          "id": "LK-532109510",
+          "name": "Dumriya Patumaga",
+          "query_id": "54800"
+        },
+        {
+          "id": "LK-532109509",
+          "name": "Agrabodhi Mawatha",
+          "query_id": "54799"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321100",
+      "name": "Agbopura",
+      "query_id": "8515",
+      "children": [
+        {
+          "id": "LK-532110001",
+          "name": "87 Aria",
+          "query_id": "14492"
+        },
+        {
+          "id": "LK-532110002",
+          "name": "85 Aria ",
+          "query_id": "14493"
+        },
+        {
+          "id": "LK-532110003",
+          "name": "86 Aria",
+          "query_id": "14496"
+        },
+        {
+          "id": "LK-532110004",
+          "name": "Pibedena Gama",
+          "query_id": "14498"
+        },
+        {
+          "id": "LK-532110005",
+          "name": "Peramaduwa Road",
+          "query_id": "14501"
+        },
+        {
+          "id": "LK-532110006",
+          "name": "Agbopura Unit 19",
+          "query_id": "14505"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321105",
+      "name": "Batukachchiya",
+      "query_id": "8516",
+      "children": [
+        {
+          "id": "LK-532110501",
+          "name": "Batukachchiya Village",
+          "query_id": "14598"
+        },
+        {
+          "id": "LK-532110502",
+          "name": "Agbogama",
+          "query_id": "14599"
+        },
+        {
+          "id": "LK-532110503",
+          "name": "Peramaduwa Village ",
+          "query_id": "14600"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321110",
+      "name": "Rajawewa",
+      "query_id": "8517",
+      "children": [
+        {
+          "id": "LK-532111001",
+          "name": "Rajawewa",
+          "query_id": "14602"
+        },
+        {
+          "id": "LK-532111002",
+          "name": "Unit 22 Gemunupura",
+          "query_id": "14603"
+        },
+        {
+          "id": "LK-532111004",
+          "name": "Thalgaswewa Gama",
+          "query_id": "14605"
+        },
+        {
+          "id": "LK-532111005",
+          "name": "Madagama",
+          "query_id": "14606"
+        },
+        {
+          "id": "LK-532111006",
+          "name": "Diwulkelegama",
+          "query_id": "14608"
+        }
+      ]
+    },
+    {
+      "id": "LK-5321115",
+      "name": "Seenipura",
+      "query_id": "8518",
+      "children": [
+        {
+          "id": "LK-532111501",
+          "name": "Seeni pura",
+          "query_id": "14512"
+        }
+      ]
+    }
+  ]
+}
