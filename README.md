@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**3,444** Villages from **484** GNDs in **12** DSDs (0.475MB), scraped as of *2023-12-03 12:08:49*.
+**5,346** Villages from **947** GNDs in **17** DSDs (0.760MB), scraped as of *2023-12-03 12:18:55*.
 
 ## LK-1 - Western
 
@@ -18,3 +18,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-1130](data/villages/LK-1130.json) - Dehiwala
 * [LK-1131](data/villages/LK-1131.json) - Ratmalana
 * [LK-1133](data/villages/LK-1133.json) - Moratuwa
+* [LK-1136](data/villages/LK-1136.json) - Kesbewa
+* [LK-1203](data/villages/LK-1203.json) - Negombo
+* [LK-1206](data/villages/LK-1206.json) - Katana
+* [LK-1209](data/villages/LK-1209.json) - Divulapitiya
+* [LK-1212](data/villages/LK-1212.json) - Mirigama

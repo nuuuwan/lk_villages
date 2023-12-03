@@ -1,0 +1,1573 @@
+{
+  "id": "LK-1203",
+  "name": "Negombo",
+  "query_id": "963",
+  "children": [
+    {
+      "id": "LK-1203005",
+      "name": "Kammalthura",
+      "query_id": "565",
+      "children": [
+        {
+          "id": "LK-120300501",
+          "name": "Poruthota",
+          "query_id": "26363"
+        },
+        {
+          "id": "LK-120300502",
+          "name": "Kammalathotupola",
+          "query_id": "42347"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203010",
+      "name": "Pallansena North",
+      "query_id": "566",
+      "children": [
+        {
+          "id": "LK-120301005",
+          "name": "Duwana",
+          "query_id": "26366"
+        },
+        {
+          "id": "LK-120301006",
+          "name": "Malayandaluwa",
+          "query_id": "42348"
+        },
+        {
+          "id": "LK-120301004",
+          "name": "Part of Pallansena Road ",
+          "query_id": "42349"
+        },
+        {
+          "id": "LK-120301001",
+          "name": "Bandarawaththa ",
+          "query_id": "48479"
+        },
+        {
+          "id": "LK-120301002",
+          "name": "Part of Ovitiyawaththa ",
+          "query_id": "48480"
+        },
+        {
+          "id": "LK-120301003",
+          "name": "Part of Lurdu mawatha ",
+          "query_id": "48481"
+        },
+        {
+          "id": "LK-120301007",
+          "name": "Pallansena Church Road ",
+          "query_id": "48483"
+        },
+        {
+          "id": "LK-120301008",
+          "name": "Garbawasa Church Road ",
+          "query_id": "48484"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203015",
+      "name": "Kochchikade",
+      "query_id": "567",
+      "children": [
+        {
+          "id": "LK-120301501",
+          "name": "Part of Welihena Road ",
+          "query_id": "48485"
+        },
+        {
+          "id": "LK-120301502",
+          "name": "Part of Boundary Road ",
+          "query_id": "48486"
+        },
+        {
+          "id": "LK-120301503",
+          "name": "Soisawaththa (oya road)",
+          "query_id": "48487"
+        },
+        {
+          "id": "LK-120301504",
+          "name": "Part of Pallansena Road",
+          "query_id": "48488"
+        },
+        {
+          "id": "LK-120301505",
+          "name": "Part of Mashalas Road ",
+          "query_id": "48489"
+        },
+        {
+          "id": "LK-120301506",
+          "name": "Part of Chilaw Road ",
+          "query_id": "48490"
+        },
+        {
+          "id": "LK-120301507",
+          "name": "Part of Pathima Road ",
+          "query_id": "48491"
+        },
+        {
+          "id": "LK-120301508",
+          "name": "Public housing scheme",
+          "query_id": "48492"
+        },
+        {
+          "id": "LK-120301509",
+          "name": "Part of Lurdu mawatha",
+          "query_id": "48493"
+        },
+        {
+          "id": "LK-120301510",
+          "name": "Railway housing scheme ",
+          "query_id": "48494"
+        },
+        {
+          "id": "LK-120301511",
+          "name": "Pathima cross Road ",
+          "query_id": "48495"
+        },
+        {
+          "id": "LK-120301512",
+          "name": "Bunt Road ",
+          "query_id": "48496"
+        },
+        {
+          "id": "LK-120301513",
+          "name": "Church Road ",
+          "query_id": "48497"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203020",
+      "name": "Pallansena South",
+      "query_id": "568",
+      "children": [
+        {
+          "id": "LK-120302004",
+          "name": "Part of Poruthota",
+          "query_id": "26369"
+        },
+        {
+          "id": "LK-120302001",
+          "name": "Part of Marshalas Road",
+          "query_id": "48498"
+        },
+        {
+          "id": "LK-120302002",
+          "name": "Part of Rideevalley ",
+          "query_id": "48499"
+        },
+        {
+          "id": "LK-120302003",
+          "name": "Part of Pallansena Road",
+          "query_id": "48500"
+        },
+        {
+          "id": "LK-120302005",
+          "name": "Part of Thakkiya Road ",
+          "query_id": "48501"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203025",
+      "name": "Daluwakotuwa",
+      "query_id": "569",
+      "children": [
+        {
+          "id": "LK-120302501",
+          "name": "Fathimawaththa",
+          "query_id": "26371"
+        },
+        {
+          "id": "LK-120302502",
+          "name": "Kuruswaththa",
+          "query_id": "42350"
+        },
+        {
+          "id": "LK-120302503",
+          "name": "Kuruduwaththa",
+          "query_id": "42351"
+        },
+        {
+          "id": "LK-120302504",
+          "name": "Siriman Waththa",
+          "query_id": "42352"
+        },
+        {
+          "id": "LK-120302512",
+          "name": "Part of Daluwakotuwa",
+          "query_id": "48502"
+        },
+        {
+          "id": "LK-120302509",
+          "name": "Part of Palagathuraya",
+          "query_id": "48503"
+        },
+        {
+          "id": "LK-120302510",
+          "name": "Thiserawaththa",
+          "query_id": "48504"
+        },
+        {
+          "id": "LK-120302511",
+          "name": "Anastan waththa",
+          "query_id": "48505"
+        },
+        {
+          "id": "LK-120302505",
+          "name": "Thakkiya Road ",
+          "query_id": "48506"
+        },
+        {
+          "id": "LK-120302506",
+          "name": "Ridiwally Road ",
+          "query_id": "48507"
+        },
+        {
+          "id": "LK-120302507",
+          "name": "St. Reeta Road ",
+          "query_id": "48508"
+        },
+        {
+          "id": "LK-120302508",
+          "name": "St.Annes Road",
+          "query_id": "48509"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203030",
+      "name": "Palangathure",
+      "query_id": "570",
+      "children": [
+        {
+          "id": "LK-120303001",
+          "name": "Part of Kattuwa ",
+          "query_id": "48510"
+        },
+        {
+          "id": "LK-120303002",
+          "name": "Part of Daluwakotuwa",
+          "query_id": "48511"
+        },
+        {
+          "id": "LK-120303003",
+          "name": "Part of Palangathure ",
+          "query_id": "48512"
+        },
+        {
+          "id": "LK-120303004",
+          "name": "Abdeen Mawatha ",
+          "query_id": "48513"
+        },
+        {
+          "id": "LK-120303005",
+          "name": "St. Annes Lane",
+          "query_id": "48514"
+        },
+        {
+          "id": "LK-120303006",
+          "name": "Station Road ",
+          "query_id": "48515"
+        },
+        {
+          "id": "LK-120303007",
+          "name": "Poruthota Road ",
+          "query_id": "48516"
+        },
+        {
+          "id": "LK-120303008",
+          "name": "St.Annes Road",
+          "query_id": "48517"
+        },
+        {
+          "id": "LK-120303009",
+          "name": "Kattuwa Road",
+          "query_id": "48519"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203035",
+      "name": "Ettukala",
+      "query_id": "571",
+      "children": [
+        {
+          "id": "LK-120303501",
+          "name": "Meegamuwa",
+          "query_id": "26374"
+        },
+        {
+          "id": "LK-120303502",
+          "name": "Cemetary Road",
+          "query_id": "48518"
+        },
+        {
+          "id": "LK-120303503",
+          "name": "St. Joseph Mawatha ",
+          "query_id": "48520"
+        },
+        {
+          "id": "LK-120303504",
+          "name": "St.Jude Mawatha",
+          "query_id": "48521"
+        },
+        {
+          "id": "LK-120303505",
+          "name": "St. Sylvester Road ",
+          "query_id": "48522"
+        },
+        {
+          "id": "LK-120303506",
+          "name": "School Road ",
+          "query_id": "48523"
+        },
+        {
+          "id": "LK-120303507",
+          "name": "Rani Mawatha ",
+          "query_id": "48524"
+        },
+        {
+          "id": "LK-120303508",
+          "name": "Shramadana  Mw",
+          "query_id": "48525"
+        },
+        {
+          "id": "LK-120303509",
+          "name": "St.Anthonies Mawatha ",
+          "query_id": "48526"
+        },
+        {
+          "id": "LK-120303510",
+          "name": "Part of Poruthota Road ",
+          "query_id": "48527"
+        },
+        {
+          "id": "LK-120303511",
+          "name": "Sea street ",
+          "query_id": "48528"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203040",
+      "name": "Daluwakotuwa East",
+      "query_id": "572",
+      "children": [
+        {
+          "id": "LK-120304001",
+          "name": "Cinaman Garden ",
+          "query_id": "48529"
+        },
+        {
+          "id": "LK-120304002",
+          "name": "Pathima Waththa ",
+          "query_id": "48530"
+        },
+        {
+          "id": "LK-120304003",
+          "name": "Janapadaya ",
+          "query_id": "48531"
+        },
+        {
+          "id": "LK-120304004",
+          "name": "Siriman waththa ",
+          "query_id": "48532"
+        },
+        {
+          "id": "LK-120304005",
+          "name": "Subasadaka Mawatha ",
+          "query_id": "48533"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203045",
+      "name": "Kattuwa",
+      "query_id": "573",
+      "children": [
+        {
+          "id": "LK-120304504",
+          "name": "Interseed waththa ",
+          "query_id": "26376"
+        },
+        {
+          "id": "LK-120304502",
+          "name": "St.Jude waththa ",
+          "query_id": "42353"
+        },
+        {
+          "id": "LK-120304501",
+          "name": "Cenchari Garden",
+          "query_id": "42354"
+        },
+        {
+          "id": "LK-120304506",
+          "name": "Arpico Waththa",
+          "query_id": "42355"
+        },
+        {
+          "id": "LK-120304503",
+          "name": "Star Cresent ",
+          "query_id": "48534"
+        },
+        {
+          "id": "LK-120304505",
+          "name": "Pallanchena waththa ",
+          "query_id": "48535"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203050",
+      "name": "Dalupotha East",
+      "query_id": "574",
+      "children": [
+        {
+          "id": "LK-120305001",
+          "name": "Dalupotha ",
+          "query_id": "48536"
+        },
+        {
+          "id": "LK-120305002",
+          "name": "Galkatuwa ",
+          "query_id": "48537"
+        },
+        {
+          "id": "LK-120305003",
+          "name": "Maradana Road",
+          "query_id": "48538"
+        },
+        {
+          "id": "LK-120305004",
+          "name": "Adihata Road ",
+          "query_id": "48539"
+        },
+        {
+          "id": "LK-120305005",
+          "name": "Thimbirigaskatuwa ",
+          "query_id": "48540"
+        },
+        {
+          "id": "LK-120305006",
+          "name": "Pallanchena waththa",
+          "query_id": "48541"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203055",
+      "name": "Dalupotha",
+      "query_id": "575",
+      "children": [
+        {
+          "id": "LK-120305501",
+          "name": "Dalupotha ",
+          "query_id": "48542"
+        },
+        {
+          "id": "LK-120305502",
+          "name": "Deniyawaththa ",
+          "query_id": "48543"
+        },
+        {
+          "id": "LK-120305503",
+          "name": "Pillewa ",
+          "query_id": "48544"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203060",
+      "name": "Kudapaduwa",
+      "query_id": "576",
+      "children": [
+        {
+          "id": "LK-120306001",
+          "name": "Kudapaduwa",
+          "query_id": "26378"
+        },
+        {
+          "id": "LK-120306001",
+          "name": "Abesinghapura housing scheme ",
+          "query_id": "48545"
+        },
+        {
+          "id": "LK-120306002",
+          "name": "St. Anthonys Road",
+          "query_id": "48546"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203065",
+      "name": "Kudapaduwa North",
+      "query_id": "577"
+    },
+    {
+      "id": "LK-1203070",
+      "name": "Kudapaduwa South",
+      "query_id": "578",
+      "children": [
+        {
+          "id": "LK-120307011",
+          "name": "Kudapaduwa Sorth",
+          "query_id": "46645"
+        },
+        {
+          "id": "LK-120307001",
+          "name": "Anderson Road",
+          "query_id": "48547"
+        },
+        {
+          "id": "LK-120307002",
+          "name": "Adnewas Road ",
+          "query_id": "48548"
+        },
+        {
+          "id": "LK-120307003",
+          "name": "Canel Road ",
+          "query_id": "48549"
+        },
+        {
+          "id": "LK-120307004",
+          "name": "Madu Mawatha ",
+          "query_id": "48550"
+        },
+        {
+          "id": "LK-120307005",
+          "name": "Rosari Road ",
+          "query_id": "48551"
+        },
+        {
+          "id": "LK-120307006",
+          "name": "Peter Mendis Road  ",
+          "query_id": "48552"
+        },
+        {
+          "id": "LK-120307007",
+          "name": "Perera place ",
+          "query_id": "48553"
+        },
+        {
+          "id": "LK-120307008",
+          "name": "Chilaw Road ",
+          "query_id": "48554"
+        },
+        {
+          "id": "LK-120307009",
+          "name": "Cemetary Road",
+          "query_id": "48555"
+        },
+        {
+          "id": "LK-120307010",
+          "name": "Thushara Mawatha ",
+          "query_id": "48556"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203075",
+      "name": "Wella Weediya",
+      "query_id": "579",
+      "children": [
+        {
+          "id": "LK-120307501",
+          "name": "Part of Sea street",
+          "query_id": "48557"
+        },
+        {
+          "id": "LK-120307502",
+          "name": "St. Reeta Road ",
+          "query_id": "48558"
+        },
+        {
+          "id": "LK-120307503",
+          "name": "Cardinal Kure Road ",
+          "query_id": "48559"
+        },
+        {
+          "id": "LK-120307504",
+          "name": "St. Joseph Road ",
+          "query_id": "48560"
+        },
+        {
+          "id": "LK-120307505",
+          "name": "Luwis place ",
+          "query_id": "48561"
+        },
+        {
+          "id": "LK-120307506",
+          "name": "Alas Road ",
+          "query_id": "48562"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203080",
+      "name": "Wella Weediya East",
+      "query_id": "580",
+      "children": [
+        {
+          "id": "LK-120308001",
+          "name": "Part of Sea street",
+          "query_id": "48563"
+        },
+        {
+          "id": "LK-120308002",
+          "name": "Part of Luwis place ",
+          "query_id": "48564"
+        },
+        {
+          "id": "LK-120308003",
+          "name": "Part of Anderson Road ",
+          "query_id": "48565"
+        },
+        {
+          "id": "LK-120308004",
+          "name": "Keerthisingha place ",
+          "query_id": "48566"
+        },
+        {
+          "id": "LK-120308005",
+          "name": "Part of Rosary Road ",
+          "query_id": "48567"
+        },
+        {
+          "id": "LK-120308006",
+          "name": "Ramani Mawatha ",
+          "query_id": "48568"
+        },
+        {
+          "id": "LK-120308007",
+          "name": "Canel Road ",
+          "query_id": "48569"
+        },
+        {
+          "id": "LK-120308008",
+          "name": "Canel Lane ",
+          "query_id": "48570"
+        },
+        {
+          "id": "LK-120308009",
+          "name": "Part of Colombo Road",
+          "query_id": "48573"
+        },
+        {
+          "id": "LK-120308010",
+          "name": "Part of Mosques Road",
+          "query_id": "48574"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203085",
+      "name": "Periyamulla",
+      "query_id": "581",
+      "children": [
+        {
+          "id": "LK-120308501",
+          "name": "Periyamulla ",
+          "query_id": "48571"
+        },
+        {
+          "id": "LK-120308502",
+          "name": "Part of Chilaw Road ",
+          "query_id": "48572"
+        },
+        {
+          "id": "LK-120308505",
+          "name": "Main street",
+          "query_id": "48575"
+        },
+        {
+          "id": "LK-120308506",
+          "name": "Ave Maria Road ",
+          "query_id": "48576"
+        },
+        {
+          "id": "LK-120308507",
+          "name": "Nenion Mawatha ",
+          "query_id": "48577"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203090",
+      "name": "Hunupitiya",
+      "query_id": "582",
+      "children": [
+        {
+          "id": "LK-120309001",
+          "name": "Part of Periyamulla ",
+          "query_id": "48578"
+        },
+        {
+          "id": "LK-120309002",
+          "name": "Rahuman Housing Scheme ",
+          "query_id": "48579"
+        },
+        {
+          "id": "LK-120309003",
+          "name": "St. Lasaras Road",
+          "query_id": "48580"
+        },
+        {
+          "id": "LK-120309004",
+          "name": "Part of Meerigama ",
+          "query_id": "48581"
+        },
+        {
+          "id": "LK-120309005",
+          "name": "Rasik Farid Mawatha ",
+          "query_id": "48582"
+        },
+        {
+          "id": "LK-120309006",
+          "name": "Part of Mosques Road",
+          "query_id": "48583"
+        },
+        {
+          "id": "LK-120309007",
+          "name": "Saheed Marikkar Mawatha ",
+          "query_id": "48584"
+        },
+        {
+          "id": "LK-120309008",
+          "name": "Rahumanabath Lane ",
+          "query_id": "48585"
+        },
+        {
+          "id": "LK-120309009",
+          "name": "Part of Weboda Road",
+          "query_id": "48588"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203095",
+      "name": "Angurukaramulla",
+      "query_id": "583",
+      "children": [
+        {
+          "id": "LK-120309501",
+          "name": "Agurukaramulla",
+          "query_id": "46644"
+        },
+        {
+          "id": "LK-120309503",
+          "name": "Jayarathna Road",
+          "query_id": "48586"
+        },
+        {
+          "id": "LK-120309502",
+          "name": "Part of Temple Road ",
+          "query_id": "48587"
+        },
+        {
+          "id": "LK-120309505",
+          "name": "Part of Colombo Road",
+          "query_id": "48590"
+        },
+        {
+          "id": "LK-120309506",
+          "name": "Part of Katuwapitiya ",
+          "query_id": "48591"
+        },
+        {
+          "id": "LK-120309507",
+          "name": "Part of Kimbulapitiya ",
+          "query_id": "48592"
+        },
+        {
+          "id": "LK-120309508",
+          "name": "Mendis Mawatha ",
+          "query_id": "48593"
+        },
+        {
+          "id": "LK-120309509",
+          "name": "Mudalidu Mendis Mawatha ",
+          "query_id": "48594"
+        },
+        {
+          "id": "LK-120309510",
+          "name": "Abesekara Road ",
+          "query_id": "48595"
+        },
+        {
+          "id": "LK-120309511",
+          "name": "Nevil de silva Mawatha ",
+          "query_id": "48596"
+        },
+        {
+          "id": "LK-120309512",
+          "name": "Dudley Senanayaka Mawatha ",
+          "query_id": "48597"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203100",
+      "name": "Udayarthoppuwa",
+      "query_id": "584",
+      "children": [
+        {
+          "id": "LK-120310001",
+          "name": "Part of Grand street ",
+          "query_id": "48598"
+        },
+        {
+          "id": "LK-120310002",
+          "name": "Part of Thillanduwa",
+          "query_id": "48599"
+        },
+        {
+          "id": "LK-120310003",
+          "name": "Part of Kundanwila ",
+          "query_id": "48600"
+        },
+        {
+          "id": "LK-120310004",
+          "name": "Dehimal waththa ",
+          "query_id": "48601"
+        },
+        {
+          "id": "LK-120310005",
+          "name": "Part of Agurukaramulla ",
+          "query_id": "48602"
+        },
+        {
+          "id": "LK-120310006",
+          "name": "Thammita ",
+          "query_id": "48603"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203105",
+      "name": "Wella Weediya South",
+      "query_id": "585",
+      "children": [
+        {
+          "id": "LK-120310507",
+          "name": "Asarappa Road ",
+          "query_id": "42356"
+        },
+        {
+          "id": "LK-120310501",
+          "name": "Part of Alas Road ",
+          "query_id": "48604"
+        },
+        {
+          "id": "LK-120310502",
+          "name": "Sea street",
+          "query_id": "48605"
+        },
+        {
+          "id": "LK-120310503",
+          "name": "Suriya Road",
+          "query_id": "48606"
+        },
+        {
+          "id": "LK-120310504",
+          "name": "Alas Road(Fisheries House)",
+          "query_id": "48607"
+        },
+        {
+          "id": "LK-120310505",
+          "name": "Wisthrin Mawatha ",
+          "query_id": "48608"
+        },
+        {
+          "id": "LK-120310506",
+          "name": "Muththumari Amman Road ",
+          "query_id": "48609"
+        },
+        {
+          "id": "LK-120310508",
+          "name": "Market street",
+          "query_id": "48610"
+        },
+        {
+          "id": "LK-120310509",
+          "name": "Mension place ",
+          "query_id": "48611"
+        },
+        {
+          "id": "LK-120310510",
+          "name": "Part of Chilaw Road",
+          "query_id": "48612"
+        },
+        {
+          "id": "LK-120310511",
+          "name": "Sebastian Road ",
+          "query_id": "48613"
+        },
+        {
+          "id": "LK-120310512",
+          "name": "Western canal Bunt ",
+          "query_id": "48614"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203110",
+      "name": " Munnakkarai North",
+      "query_id": "586",
+      "children": [
+        {
+          "id": "LK-120311001",
+          "name": "Muttakkai North",
+          "query_id": "46642"
+        },
+        {
+          "id": "LK-120311004",
+          "name": "Part of Main street",
+          "query_id": "48615"
+        },
+        {
+          "id": "LK-120311002",
+          "name": "Kuttiduwa",
+          "query_id": "48616"
+        },
+        {
+          "id": "LK-120311003",
+          "name": "Part of Kamachchode",
+          "query_id": "48617"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203115",
+      "name": "Doowa",
+      "query_id": "587",
+      "children": [
+        {
+          "id": "LK-120311502",
+          "name": "Pitipana Street",
+          "query_id": "42357"
+        },
+        {
+          "id": "LK-120311501",
+          "name": "Duwa ",
+          "query_id": "48618"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203120",
+      "name": "Pitipana North",
+      "query_id": "588",
+      "children": [
+        {
+          "id": "LK-120312001",
+          "name": "1 st Island ",
+          "query_id": "48619"
+        },
+        {
+          "id": "LK-120312002",
+          "name": "2 nd Island ",
+          "query_id": "48620"
+        },
+        {
+          "id": "LK-120312003",
+          "name": "Disagewatta ",
+          "query_id": "48621"
+        },
+        {
+          "id": "LK-120312004",
+          "name": "Nelellawatta ",
+          "query_id": "48622"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203125",
+      "name": "Pitipana Central",
+      "query_id": "589",
+      "children": [
+        {
+          "id": "LK-120312501",
+          "name": "Padimankada",
+          "query_id": "42358"
+        },
+        {
+          "id": "LK-120312502",
+          "name": "Kadolkele",
+          "query_id": "42359"
+        },
+        {
+          "id": "LK-120312506",
+          "name": "Part of Marshalas Road",
+          "query_id": "48623"
+        },
+        {
+          "id": "LK-120312507",
+          "name": "Part of Church  Road",
+          "query_id": "48624"
+        },
+        {
+          "id": "LK-120312503",
+          "name": "part of Bsdum Road (Right Side)",
+          "query_id": "48625"
+        },
+        {
+          "id": "LK-120312504",
+          "name": "Wellawatta Road ",
+          "query_id": "48627"
+        },
+        {
+          "id": "LK-120312505",
+          "name": "Part of Pilamna Road",
+          "query_id": "48628"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203130",
+      "name": "Munnakkaraya ",
+      "query_id": "590",
+      "children": [
+        {
+          "id": "LK-120313004",
+          "name": "Wellawatta Road ",
+          "query_id": "48626"
+        },
+        {
+          "id": "LK-120313001",
+          "name": "Part of st.Martin Road ",
+          "query_id": "48629"
+        },
+        {
+          "id": "LK-120313002",
+          "name": "Part of Rejina Road ",
+          "query_id": "48630"
+        },
+        {
+          "id": "LK-120313003",
+          "name": "Mankuliya Road",
+          "query_id": "48631"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203135",
+      "name": "Munnakkarai East",
+      "query_id": "591",
+      "children": [
+        {
+          "id": "LK-120313501",
+          "name": "Rejina Road ",
+          "query_id": "48632"
+        },
+        {
+          "id": "LK-120313502",
+          "name": "Part of St. Nikulathiw Road ",
+          "query_id": "48633"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203140",
+      "name": "Thaladuwa",
+      "query_id": "592",
+      "children": [
+        {
+          "id": "LK-120314001",
+          "name": "1 st part of St. Jude place ",
+          "query_id": "48634"
+        },
+        {
+          "id": "LK-120314002",
+          "name": "2 nd part of st.Jude place ",
+          "query_id": "48635"
+        },
+        {
+          "id": "LK-120314003",
+          "name": "3rd part of st.Jude place ",
+          "query_id": "48636"
+        },
+        {
+          "id": "LK-120314004",
+          "name": "Kadolkelle ii",
+          "query_id": "48637"
+        },
+        {
+          "id": "LK-120314005",
+          "name": "Part of Arch Bishop Nicholas Makas Road ",
+          "query_id": "48638"
+        },
+        {
+          "id": "LK-120314006",
+          "name": "Part of Thaladuwa Road ",
+          "query_id": "48639"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203145",
+      "name": "Udayarthoppuwa South",
+      "query_id": "593",
+      "children": [
+        {
+          "id": "LK-120314501",
+          "name": "Part of Thillanduwa",
+          "query_id": "48640"
+        },
+        {
+          "id": "LK-120314502",
+          "name": "Part of Thaladuwa ",
+          "query_id": "48641"
+        },
+        {
+          "id": "LK-120314503",
+          "name": "part of Jude place ",
+          "query_id": "48642"
+        },
+        {
+          "id": "LK-120314504",
+          "name": "Uppalama watta ",
+          "query_id": "48643"
+        },
+        {
+          "id": "LK-120314505",
+          "name": "Part of Bolawalana (1 st Kurana old)",
+          "query_id": "48644"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203150",
+      "name": "Bolawalana",
+      "query_id": "594",
+      "children": [
+        {
+          "id": "LK-120315001",
+          "name": "Minuwangoda Road",
+          "query_id": "48645"
+        },
+        {
+          "id": "LK-120315002",
+          "name": "konvant Road ",
+          "query_id": "48646"
+        },
+        {
+          "id": "LK-120315003",
+          "name": "Part of Sri wickrama Rajasingha Road ",
+          "query_id": "48647"
+        },
+        {
+          "id": "LK-120315004",
+          "name": "Part of Webada Road ",
+          "query_id": "48648"
+        },
+        {
+          "id": "LK-120315005",
+          "name": "Part of Gunarathna Road ",
+          "query_id": "48649"
+        },
+        {
+          "id": "LK-120315006",
+          "name": "kumarathunga Mawatha ",
+          "query_id": "48650"
+        },
+        {
+          "id": "LK-120315007",
+          "name": "Part of Kimbulapitiya Road ",
+          "query_id": "48651"
+        },
+        {
+          "id": "LK-120315008",
+          "name": "Bolawalana Road ",
+          "query_id": "48652"
+        },
+        {
+          "id": "LK-120315009",
+          "name": "Part of Colombo Road ",
+          "query_id": "48653"
+        },
+        {
+          "id": "LK-120315010",
+          "name": "Part of Thaladuwa Road",
+          "query_id": "48654"
+        },
+        {
+          "id": "LK-120315011",
+          "name": "Aluthwatta ",
+          "query_id": "48655"
+        },
+        {
+          "id": "LK-120315012",
+          "name": "Part of Parakkrama Road ",
+          "query_id": "48656"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203155",
+      "name": "Kurana West",
+      "query_id": "595",
+      "children": [
+        {
+          "id": "LK-120315501",
+          "name": "Part of Colombo Road 2 nd Kurana ",
+          "query_id": "48657"
+        },
+        {
+          "id": "LK-120315502",
+          "name": "Gamini Road-2nd Kurana ",
+          "query_id": "48658"
+        },
+        {
+          "id": "LK-120315503",
+          "name": "Part of Colombo Road-3rd Kurana ",
+          "query_id": "48659"
+        },
+        {
+          "id": "LK-120315504",
+          "name": "part of Vijaya Road ",
+          "query_id": "48660"
+        },
+        {
+          "id": "LK-120315505",
+          "name": "Rathna Road 1 st Lane ",
+          "query_id": "48661"
+        },
+        {
+          "id": "LK-120315506",
+          "name": "Rathna Mawatha ",
+          "query_id": "48662"
+        },
+        {
+          "id": "LK-120315507",
+          "name": "Rosan Mawatha  ",
+          "query_id": "48663"
+        },
+        {
+          "id": "LK-120315508",
+          "name": "Samagi mawatha ",
+          "query_id": "48664"
+        },
+        {
+          "id": "LK-120315509",
+          "name": "Part of st.Anns Road",
+          "query_id": "48665"
+        },
+        {
+          "id": "LK-120315510",
+          "name": "Part of Parakkrama Road",
+          "query_id": "48666"
+        },
+        {
+          "id": "LK-120315511",
+          "name": "Part of Sri wickrama Rajasingha Road",
+          "query_id": "48667"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203160",
+      "name": "Kurana East",
+      "query_id": "596",
+      "children": [
+        {
+          "id": "LK-120316001",
+          "name": "Part of Sri Wickkrama Rajasingha Road-4 th kurana road ",
+          "query_id": "48668"
+        },
+        {
+          "id": "LK-120316002",
+          "name": "Part of Parakkrama Road",
+          "query_id": "48669"
+        },
+        {
+          "id": "LK-120316003",
+          "name": "Part of st.Anns Road",
+          "query_id": "48670"
+        },
+        {
+          "id": "LK-120316004",
+          "name": "Part of Gunarathna Road",
+          "query_id": "48671"
+        },
+        {
+          "id": "LK-120316005",
+          "name": "St. Jude Mawatha",
+          "query_id": "48672"
+        },
+        {
+          "id": "LK-120316006",
+          "name": "Keppetipola Mawatha ",
+          "query_id": "48673"
+        },
+        {
+          "id": "LK-120316007",
+          "name": "Part of 3 rd Kurana of sri wickrama rajasingha Road",
+          "query_id": "48674"
+        },
+        {
+          "id": "LK-120316008",
+          "name": "Mangala Road ",
+          "query_id": "48675"
+        },
+        {
+          "id": "LK-120316009",
+          "name": "Raja Mawatha ",
+          "query_id": "48676"
+        },
+        {
+          "id": "LK-120316010",
+          "name": "part of Vijaya Road",
+          "query_id": "48677"
+        },
+        {
+          "id": "LK-120316011",
+          "name": "Part of Colombo Road-3rd Kurana",
+          "query_id": "48678"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203165",
+      "name": "Siriwardana Pedesa",
+      "query_id": "597",
+      "children": [
+        {
+          "id": "LK-120316501",
+          "name": "thalgahawaththa",
+          "query_id": "42360"
+        },
+        {
+          "id": "LK-120316502",
+          "name": "Kongahawaththa",
+          "query_id": "42361"
+        },
+        {
+          "id": "LK-120316507",
+          "name": "Monakogama",
+          "query_id": "42362"
+        },
+        {
+          "id": "LK-120316504",
+          "name": "Ridimolagama",
+          "query_id": "42363"
+        },
+        {
+          "id": "LK-120316511",
+          "name": "Wedikanda",
+          "query_id": "42364"
+        },
+        {
+          "id": "LK-120316503",
+          "name": "Sripura ",
+          "query_id": "48679"
+        },
+        {
+          "id": "LK-120316512",
+          "name": "Nisaladiya pedesa",
+          "query_id": "48680"
+        },
+        {
+          "id": "LK-120316505",
+          "name": "Redimola watta ",
+          "query_id": "48681"
+        },
+        {
+          "id": "LK-120316506",
+          "name": "Akkara paha Niwasa ",
+          "query_id": "48682"
+        },
+        {
+          "id": "LK-120316508",
+          "name": "Gilbat Mawatha ",
+          "query_id": "48683"
+        },
+        {
+          "id": "LK-120316509",
+          "name": "Dewamatha Road",
+          "query_id": "48684"
+        },
+        {
+          "id": "LK-120316510",
+          "name": "Siriwardana place ",
+          "query_id": "48685"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203170",
+      "name": "South Pitipana East",
+      "query_id": "598",
+      "children": [
+        {
+          "id": "LK-120317001",
+          "name": "Dakunupitipana East",
+          "query_id": "46643"
+        },
+        {
+          "id": "LK-120317012",
+          "name": "Church Road",
+          "query_id": "48686"
+        },
+        {
+          "id": "LK-120317002",
+          "name": "Mahawatta Road ",
+          "query_id": "48687"
+        },
+        {
+          "id": "LK-120317003",
+          "name": "Thelagaha Road ",
+          "query_id": "48688"
+        },
+        {
+          "id": "LK-120317004",
+          "name": "Thalgahawatta Road ",
+          "query_id": "48689"
+        },
+        {
+          "id": "LK-120317005",
+          "name": "Pokunubadawatta Road- polgasthota Road ",
+          "query_id": "48690"
+        },
+        {
+          "id": "LK-120317006",
+          "name": "kithulgaha Road ",
+          "query_id": "48691"
+        },
+        {
+          "id": "LK-120317007",
+          "name": "Maim Road ",
+          "query_id": "48692"
+        },
+        {
+          "id": "LK-120317008",
+          "name": "Kanikka Dewamatha Road ",
+          "query_id": "48693"
+        },
+        {
+          "id": "LK-120317009",
+          "name": "St.Peduru Road, (Midellagaha Road)",
+          "query_id": "48694"
+        },
+        {
+          "id": "LK-120317010",
+          "name": "Jambugahawatta Road ",
+          "query_id": "48695"
+        },
+        {
+          "id": "LK-120317011",
+          "name": "St.Peduru church Road (Thimbirigaha road )",
+          "query_id": "48696"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203175",
+      "name": "Pitipana South",
+      "query_id": "599",
+      "children": [
+        {
+          "id": "LK-120317501",
+          "name": "Part of Aluthkuruwa ",
+          "query_id": "48697"
+        },
+        {
+          "id": "LK-120317502",
+          "name": "Part of Pitipana South",
+          "query_id": "48698"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203180",
+      "name": "Thalahena",
+      "query_id": "600",
+      "children": [
+        {
+          "id": "LK-120318002",
+          "name": "Basiyawaththa",
+          "query_id": "42365"
+        },
+        {
+          "id": "LK-120318001",
+          "name": "Thalahena",
+          "query_id": "48699"
+        },
+        {
+          "id": "LK-120318003",
+          "name": "Singappuruwatta -Thalahena ",
+          "query_id": "48700"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203185",
+      "name": "Dungalpitiya",
+      "query_id": "601",
+      "children": [
+        {
+          "id": "LK-120318501",
+          "name": "Madangaskuduwa",
+          "query_id": "42366"
+        },
+        {
+          "id": "LK-120318503",
+          "name": "Part of Dungalpitiya",
+          "query_id": "48701"
+        },
+        {
+          "id": "LK-120318502",
+          "name": "Part of Dungalpitiya ",
+          "query_id": "48702"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203190",
+      "name": "Seththappaduwa",
+      "query_id": "602",
+      "children": [
+        {
+          "id": "LK-120319001",
+          "name": "Part of Molawatta ",
+          "query_id": "48703"
+        },
+        {
+          "id": "LK-120319002",
+          "name": "Part od Seththappaduwa ",
+          "query_id": "48704"
+        }
+      ]
+    },
+    {
+      "id": "LK-1203195",
+      "name": "Kepungoda",
+      "query_id": "603",
+      "children": [
+        {
+          "id": "LK-120319501",
+          "name": "Kepungoda ",
+          "query_id": "48705"
+        },
+        {
+          "id": "LK-120319502",
+          "name": "Sarakkuwa ",
+          "query_id": "48706"
+        },
+        {
+          "id": "LK-120319503",
+          "name": "Debidiya",
+          "query_id": "48707"
+        },
+        {
+          "id": "LK-120319504",
+          "name": "Civil Guwansewa watta ",
+          "query_id": "48708"
+        }
+      ]
+    }
+  ]
+}
