@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**34,249** Villages from **9,140** GNDs in **217** DSDs (5.220MB), scraped as of *2023-12-04 00:36:02*.
+**35,309** Villages from **9,429** GNDs in **222** DSDs (5.379MB), scraped as of *2023-12-04 00:52:04*.
 
 ## LK-1 - Western
 
@@ -288,3 +288,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-6118](data/villages/LK-6118.json) - Rasnayakapura
 * [LK-6121](data/villages/LK-6121.json) - Nikaweratiya
 * [LK-6124](data/villages/LK-6124.json) - Maho
+* [LK-6127](data/villages/LK-6127.json) - Polpithigama
+* [LK-6130](data/villages/LK-6130.json) - Ibbagamuwa
+* [LK-6133](data/villages/LK-6133.json) - Ganewatta
+* [LK-6136](data/villages/LK-6136.json) - Wariyapola
+* [LK-6139](data/villages/LK-6139.json) - Kobeigane
