@@ -45,7 +45,7 @@ def main():
             dsd = Ent.from_id(dsd_id)
             dsd_name = dsd.name
         except BaseException:
-            dsd_name = 'Unknown'
+            dsd_name = '❔'
         if province_id != previous_province_id:
             previous_province_id = province_id
             province = Ent.from_id(province_id)
