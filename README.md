@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**40,527** Villages from **11,010** GNDs in **257** DSDs (6.189MB), scraped as of *2023-12-04 02:35:47*.
+**41,229** Villages from **11,182** GNDs in **262** DSDs (6.294MB), scraped as of *2023-12-04 02:51:14*.
 
 ## LK-1 - Western
 
@@ -336,3 +336,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 * [LK-7103](data/villages/LK-7103.json) - Padaviya
 * [LK-7106](data/villages/LK-7106.json) - Kebithigollewa
+* [LK-7109](data/villages/LK-7109.json) - Medawachchiya
+* [LK-7112](data/villages/LK-7112.json) - Mahawilachchiya
+* [LK-7115](data/villages/LK-7115.json) - Nuwaragam Palatha Central
+* [LK-7118](data/villages/LK-7118.json) - Rambewa
+* [LK-7121](data/villages/LK-7121.json) - Kahatagasdigiliya
