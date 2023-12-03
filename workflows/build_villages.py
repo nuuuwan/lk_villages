@@ -2,16 +2,17 @@ import os
 import random
 import time
 
-from utils import JSONFile, Log
+from utils import JSONFile, Log, TSVFile
 
 from lk_villages import Region
 from workflows.build_dsds import DSD_DATA_PATH
 
 log = Log('pipeline')
 
-MAX_COMPLETED_RUNS = 5
+MAX_COMPLETED_RUNS = 1
 log.debug(f'🪛{MAX_COMPLETED_RUNS=}')
 DIR_DATA_VILLAGES = os.path.join('data', 'villages')
+ALL_PATH = os.path.join('data', 'villages.tsv')
 
 
 def random_sleep():
@@ -20,7 +21,7 @@ def random_sleep():
     time.sleep(random_t)
 
 
-if __name__ == '__main__':
+def scrape():
     if not os.path.exists(DIR_DATA_VILLAGES):
         os.mkdir(DIR_DATA_VILLAGES)
 
@@ -34,3 +35,23 @@ if __name__ == '__main__':
             n_completed_runs += 1
             if n_completed_runs >= MAX_COMPLETED_RUNS:
                 break
+
+
+def aggregate():
+    data_list = []
+    for file_only in os.listdir(DIR_DATA_VILLAGES):
+        d = JSONFile(os.path.join(DIR_DATA_VILLAGES, file_only)).read()
+        for child in d['children']:
+            data = dict(
+                village_id=child['id'],
+                name=child['name'],
+            )
+            data_list.append(data)
+    data_list = sorted(data_list, key=lambda d: d['village_id'])
+    TSVFile(ALL_PATH).write(data_list)
+    log.debug(f'Wrote {len(data_list)} villages to {ALL_PATH}')
+
+
+if __name__ == '__main__':
+    scrape()
+    aggregate()

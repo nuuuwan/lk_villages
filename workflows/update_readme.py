@@ -3,10 +3,11 @@ import os
 from gig import Ent
 from utils import TIME_FORMAT_TIME, File, JSONFile, Log, Time
 
+from workflows.build_villages import DIR_DATA_VILLAGES
+
 README_PATH = 'README.md'
 
 log = Log('update_readme')
-DIR_DATA_VILLAGES = os.path.join('data', 'villages')
 
 
 def main():
