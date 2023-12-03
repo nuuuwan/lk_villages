@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**24,994** Villages from **6,364** GNDs in **122** DSDs (3.779MB), scraped as of *2023-12-03 19:52:52*.
+**25,659** Villages from **6,616** GNDs in **127** DSDs (3.888MB), scraped as of *2023-12-03 20:06:11*.
 
 ## LK-1 - Western
 
@@ -160,3 +160,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-3303](data/villages/LK-3303.json) - Sooriyawewa
 * [LK-3306](data/villages/LK-3306.json) - Lunugamvehera
 * [LK-3309](data/villages/LK-3309.json) - Thissamaharama
+* [LK-3312](data/villages/LK-3312.json) - Hambantota
+* [LK-3315](data/villages/LK-3315.json) - Ambalantota
+* [LK-3318](data/villages/LK-3318.json) - Angunakolapelessa
+* [LK-3321](data/villages/LK-3321.json) - Weeraketiya
+* [LK-3324](data/villages/LK-3324.json) - Katuwana
