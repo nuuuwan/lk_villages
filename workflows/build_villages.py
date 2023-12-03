@@ -41,11 +41,12 @@ def aggregate():
     data_list = []
     for file_only in os.listdir(DIR_DATA_VILLAGES):
         d = JSONFile(os.path.join(DIR_DATA_VILLAGES, file_only)).read()
-        for child in d['children']:
-            data = dict(
-                village_id=child['id'],
-                name=child['name'],
-            )
+        for gnd in d['children']:
+            for village in gnd.get('children', []):
+                data = dict(
+                    village_id=village['id'],
+                    name=village['name'],
+                )
             data_list.append(data)
     data_list = sorted(data_list, key=lambda d: d['village_id'])
     TSVFile(ALL_PATH).write(data_list)
