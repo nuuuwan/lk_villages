@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**18,986** Villages from **4,767** GNDs in **82** DSDs (2.869MB), scraped as of *2023-12-03 16:36:15*.
+**19,957** Villages from **4,980** GNDs in **87** DSDs (3.009MB), scraped as of *2023-12-03 16:51:37*.
 
 ## LK-1 - Western
 
@@ -112,3 +112,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 ### LK-31 - Galle
 
 * [LK-3103](data/villages/LK-3103.json) - Bentota
+* [LK-3106](data/villages/LK-3106.json) - Balapitiya
+* [LK-3109](data/villages/LK-3109.json) - Karandeniya
+* [LK-3112](data/villages/LK-3112.json) - Elpitiya
+* [LK-3115](data/villages/LK-3115.json) - Niyagama
+* [LK-3118](data/villages/LK-3118.json) - Thawalama
