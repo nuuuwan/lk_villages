@@ -20,7 +20,7 @@ def random_sleep():
 if __name__ == '__main__':
     data_list = JSONFile(DSD_DATA_PATH).read()
     random_data_list = random.sample(data_list, N_SAMPLES)
-    
+
     for d in random_data_list:
         dsd = Region(**d)
         dsd.write()

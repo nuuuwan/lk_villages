@@ -4,11 +4,15 @@ from utils import JSONFile, Log
 
 from lk_villages import Region
 
-P_DSD = 0.1
 DSD_DATA_PATH = os.path.join('data', 'dsds.json')
 log = Log('build_dsd')
 
-if __name__ == '__main__':
+
+def main():
+    if os.path.exists(DSD_DATA_PATH):
+        log.warn(f'DSD data already exists at {DSD_DATA_PATH}. Not building.')
+        return
+
     provinces = Region.provinces()
     data_list = []
     for province in provinces:
@@ -20,3 +24,7 @@ if __name__ == '__main__':
 
     JSONFile(DSD_DATA_PATH).write(data_list)
     log.debug(f'Wrote {len(data_list)} dsd to {DSD_DATA_PATH}')
+
+
+if __name__ == '__main__':
+    main()
