@@ -1,0 +1,1295 @@
+{
+  "id": "LK-2313",
+  "name": "Thalawakale",
+  "query_id": "1303",
+  "children": [
+    {
+      "id": "LK-2313140",
+      "name": "Bogahawatta",
+      "query_id": "4590",
+      "children": [
+        {
+          "id": "LK-231314001",
+          "name": "Bogahawatta ES.Bogahawatta Upper Division",
+          "query_id": "6615"
+        },
+        {
+          "id": "LK-231314002",
+          "name": "Bogahawatta ES.Bogahawatta Lower Division",
+          "query_id": "6616"
+        },
+        {
+          "id": "LK-231314003",
+          "name": "Bogahawatta Bazzar",
+          "query_id": "6617"
+        },
+        {
+          "id": "LK-231314004",
+          "name": "Mount Vernon Es. Dimbulla Lower Division",
+          "query_id": "6618"
+        },
+        {
+          "id": "LK-231314005",
+          "name": "Kelliwatta Estate Kelliwatta Division",
+          "query_id": "6619"
+        },
+        {
+          "id": "LK-231314006",
+          "name": "Mount Vernon Es. Dimbulla Upper Division",
+          "query_id": "38695"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313145",
+      "name": "Mount Vernon",
+      "query_id": "4591",
+      "children": [
+        {
+          "id": "LK-231314501",
+          "name": "Mount Vernon Es. Mount Vernon Middle Division",
+          "query_id": "6626"
+        },
+        {
+          "id": "LK-231314502",
+          "name": "Mount Vernon Bazaar",
+          "query_id": "6627"
+        },
+        {
+          "id": "LK-231314504",
+          "name": "Mount Vernon Es. Mount Vernon Lower Division",
+          "query_id": "34698"
+        },
+        {
+          "id": "LK-231314505",
+          "name": "Mount Vernon Es. Mount Vernon Upper Division",
+          "query_id": "38696"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313120",
+      "name": "Watagoda",
+      "query_id": "4592",
+      "children": [
+        {
+          "id": "LK-231312001",
+          "name": "Samanpura  Gama",
+          "query_id": "6783"
+        },
+        {
+          "id": "LK-231312002",
+          "name": "Watagoda Estate Upper Division",
+          "query_id": "6784"
+        },
+        {
+          "id": "LK-231312003",
+          "name": "Watagoda Estate Lower Division",
+          "query_id": "6785"
+        },
+        {
+          "id": "LK-231312004",
+          "name": "Watagoda Estate Yoxford Division",
+          "query_id": "6786"
+        },
+        {
+          "id": "LK-231312005",
+          "name": "Hollyrood Estate Hollyrood Lower Division",
+          "query_id": "6787"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313155",
+      "name": "Hollyrood",
+      "query_id": "4593",
+      "children": [
+        {
+          "id": "LK-231315501",
+          "name": "Eastern  Hollyrood Watta",
+          "query_id": "6647"
+        },
+        {
+          "id": "LK-231315502",
+          "name": "Devisiripura Colony",
+          "query_id": "6648"
+        },
+        {
+          "id": "LK-231315504",
+          "name": "Thalawakele watta Nanuoya kotasa",
+          "query_id": "52355"
+        },
+        {
+          "id": "LK-231315505",
+          "name": "part of Kothmale road",
+          "query_id": "52356"
+        },
+        {
+          "id": "LK-231315503",
+          "name": "Holltrood Estate Rathnillakelle Division",
+          "query_id": "52354"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313170",
+      "name": "Great Western",
+      "query_id": "4594",
+      "children": [
+        {
+          "id": "LK-231317001",
+          "name": "Great  Western Estate  Great  West  Western Division",
+          "query_id": "6788"
+        },
+        {
+          "id": "LK-231317002",
+          "name": "Great Western Estate Scalpa Division",
+          "query_id": "6789"
+        },
+        {
+          "id": "LK-231317003",
+          "name": "Great Western Estate Lousia Division",
+          "query_id": "6790"
+        },
+        {
+          "id": "LK-231317004",
+          "name": "Hollyrood Estate Upper Division",
+          "query_id": "6791"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313160",
+      "name": "Bearwell",
+      "query_id": "4606",
+      "children": [
+        {
+          "id": "LK-231316001",
+          "name": "Bearwell Estate Bearwell Division",
+          "query_id": "6764"
+        },
+        {
+          "id": "LK-231316002",
+          "name": "Thalawakele Estate Nanuoya  Division",
+          "query_id": "6765"
+        },
+        {
+          "id": "LK-231316003",
+          "name": "Parmerston Estate Rathnagiriya Division",
+          "query_id": "6766"
+        },
+        {
+          "id": "LK-231316004",
+          "name": "Great Western Estate Galkanda Watta Division",
+          "query_id": "6767"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313105",
+      "name": "Kudu Oya",
+      "query_id": "4607",
+      "children": [
+        {
+          "id": "LK-231310501",
+          "name": "Mefild  Part  Of  Mefild    Watta",
+          "query_id": "6768"
+        },
+        {
+          "id": "LK-231310502",
+          "name": "Mayfield Estate Chairmers Division",
+          "query_id": "6769"
+        },
+        {
+          "id": "LK-231310503",
+          "name": "Mayfield Estate Lochiel Division",
+          "query_id": "6770"
+        },
+        {
+          "id": "LK-231310504",
+          "name": "Argile   Estate (A & B)",
+          "query_id": "6771"
+        },
+        {
+          "id": "LK-231310505",
+          "name": "KuduOya  Colony",
+          "query_id": "6772"
+        },
+        {
+          "id": "LK-231310506",
+          "name": "Dharmapura",
+          "query_id": "52375"
+        },
+        {
+          "id": "LK-231310507",
+          "name": "Saumyapura",
+          "query_id": "6774"
+        },
+        {
+          "id": "LK-231310508",
+          "name": "Chrystless Farm Colony",
+          "query_id": "6775"
+        },
+        {
+          "id": "LK-231310509",
+          "name": "Rosita  Sathwa  Gowipala",
+          "query_id": "6776"
+        },
+        {
+          "id": "LK-231310510",
+          "name": "Lokhil  House",
+          "query_id": "6777"
+        },
+        {
+          "id": "LK-231310511",
+          "name": "Colombo Commercial Company",
+          "query_id": "38676"
+        },
+        {
+          "id": "LK-231310512",
+          "name": "Thondamanpura",
+          "query_id": "39986"
+        },
+        {
+          "id": "LK-231310513",
+          "name": "Roshita Livestock Farm",
+          "query_id": "40373"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313115",
+      "name": "Devon",
+      "query_id": "4608",
+      "children": [
+        {
+          "id": "LK-231311502",
+          "name": "St' Clair Colony",
+          "query_id": "6908"
+        },
+        {
+          "id": "LK-231311503",
+          "name": "C.W.M. Estate",
+          "query_id": "6909"
+        },
+        {
+          "id": "LK-231311504",
+          "name": "Drayton Estate St' Andrews Division",
+          "query_id": "6910"
+        },
+        {
+          "id": "LK-231311505",
+          "name": "St' Estate Devon Division",
+          "query_id": "6911"
+        },
+        {
+          "id": "LK-231311507",
+          "name": "St'Clair Estate Sterline Division",
+          "query_id": "6913"
+        },
+        {
+          "id": "LK-231311506",
+          "name": "Devon Bazaar",
+          "query_id": "52369"
+        },
+        {
+          "id": "LK-231311501",
+          "name": "St. clair Estate Devon Division",
+          "query_id": "52368"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313110",
+      "name": "Dimbula",
+      "query_id": "4609",
+      "children": [
+        {
+          "id": "LK-231311001",
+          "name": "Craiglea Estate Craiglea Division",
+          "query_id": "6620"
+        },
+        {
+          "id": "LK-231311002",
+          "name": "Craiglea Estate Forest Creek Division",
+          "query_id": "6621"
+        },
+        {
+          "id": "LK-231311003",
+          "name": "Craiglea Estate Faith Lee  Division",
+          "query_id": "6622"
+        },
+        {
+          "id": "LK-231311004",
+          "name": "Pathana Bazaar",
+          "query_id": "6623"
+        },
+        {
+          "id": "LK-231311005",
+          "name": "P.W.D. Bazaar",
+          "query_id": "6624"
+        },
+        {
+          "id": "LK-231311006",
+          "name": "Dimbula Bazaar",
+          "query_id": "6625"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313130",
+      "name": "Stonycliff",
+      "query_id": "4610",
+      "children": [
+        {
+          "id": "LK-231313004",
+          "name": "Stonycliff Estate",
+          "query_id": "52374"
+        },
+        {
+          "id": "LK-231313002",
+          "name": "Stonycliff Estate",
+          "query_id": "52371"
+        },
+        {
+          "id": "LK-231313003",
+          "name": "Stonycliff Estate",
+          "query_id": "52372"
+        },
+        {
+          "id": "LK-231313001",
+          "name": "Stonycliff Estate",
+          "query_id": "52370"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313125",
+      "name": "Thalawakele",
+      "query_id": "4611",
+      "children": [
+        {
+          "id": "LK-231312502",
+          "name": "Vokar  Rd",
+          "query_id": "6629"
+        },
+        {
+          "id": "LK-231312508",
+          "name": "Middleton Estate new Housing scheme",
+          "query_id": "52367"
+        },
+        {
+          "id": "LK-231312505",
+          "name": "Nuwaraeliya Road",
+          "query_id": "52366"
+        },
+        {
+          "id": "LK-231312504",
+          "name": "Kumaragama Pedesa",
+          "query_id": "52365"
+        },
+        {
+          "id": "LK-231312506",
+          "name": "Gunananda  Pura",
+          "query_id": "6633"
+        },
+        {
+          "id": "LK-231312507",
+          "name": "Part of  Middleton Estate",
+          "query_id": "6634"
+        },
+        {
+          "id": "LK-231312503",
+          "name": "Hatton Road",
+          "query_id": "52364"
+        },
+        {
+          "id": "LK-231312509",
+          "name": "Thalawakele Estate Thalawakele Division",
+          "query_id": "6636"
+        },
+        {
+          "id": "LK-231312510",
+          "name": "Thalawakele Estate New Housing Scheme",
+          "query_id": "6637"
+        },
+        {
+          "id": "LK-231312511",
+          "name": "Hemachandara  Mawatha",
+          "query_id": "6638"
+        },
+        {
+          "id": "LK-231312512",
+          "name": "Thalawakale  Watta",
+          "query_id": "6639"
+        },
+        {
+          "id": "LK-231312513",
+          "name": "Midltonwatta",
+          "query_id": "6640"
+        },
+        {
+          "id": "LK-231312501",
+          "name": "Kothmale Road",
+          "query_id": "52363"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313100",
+      "name": "Kotagala",
+      "query_id": "4612",
+      "children": [
+        {
+          "id": "LK-231310001",
+          "name": "Bathiya  Pura",
+          "query_id": "6598"
+        },
+        {
+          "id": "LK-231310002",
+          "name": "Harrigton Colony",
+          "query_id": "6599"
+        },
+        {
+          "id": "LK-231310003",
+          "name": "Wootan Bazaar",
+          "query_id": "6600"
+        },
+        {
+          "id": "LK-231310004",
+          "name": "Charring Cloos Colony",
+          "query_id": "6601"
+        },
+        {
+          "id": "LK-231310005",
+          "name": "Rosita  Bazar",
+          "query_id": "6602"
+        },
+        {
+          "id": "LK-231310006",
+          "name": "Rosita  Housing  Scheme",
+          "query_id": "6603"
+        },
+        {
+          "id": "LK-231310007",
+          "name": "Drayton  Colany",
+          "query_id": "6604"
+        },
+        {
+          "id": "LK-231310008",
+          "name": "Wanigasekarapura",
+          "query_id": "6605"
+        },
+        {
+          "id": "LK-231310009",
+          "name": "Wootan   Watta B",
+          "query_id": "6606"
+        },
+        {
+          "id": "LK-231310010",
+          "name": "Harinton  Watta",
+          "query_id": "6607"
+        },
+        {
+          "id": "LK-231310011",
+          "name": "Kotagala Town",
+          "query_id": "38669"
+        },
+        {
+          "id": "LK-231310012",
+          "name": "Stonycliff Colony",
+          "query_id": "38670"
+        },
+        {
+          "id": "LK-231310013",
+          "name": "Wishnupuram",
+          "query_id": "38671"
+        },
+        {
+          "id": "LK-231310014",
+          "name": "Ekamuthugama Colony",
+          "query_id": "38672"
+        },
+        {
+          "id": "LK-231310015",
+          "name": "Harrington Estate Harrington Division",
+          "query_id": "38673"
+        },
+        {
+          "id": "LK-231310016",
+          "name": "Woottan Estate A ",
+          "query_id": "38674"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313135",
+      "name": "Dreton",
+      "query_id": "4613",
+      "children": [
+        {
+          "id": "LK-231313501",
+          "name": "Part of the Dreton",
+          "query_id": "6612"
+        },
+        {
+          "id": "LK-231313502",
+          "name": "Dreton Estate kotasak",
+          "query_id": "6613"
+        },
+        {
+          "id": "LK-231313503",
+          "name": "Derryclare  Estate",
+          "query_id": "6614"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313165",
+      "name": "Yulefield",
+      "query_id": "4614",
+      "children": [
+        {
+          "id": "LK-231316501",
+          "name": "Yulefield Estate Kotagalkele Division",
+          "query_id": "6778"
+        },
+        {
+          "id": "LK-231316502",
+          "name": "Yulefield Estate Yulefield Division",
+          "query_id": "6779"
+        },
+        {
+          "id": "LK-231316503",
+          "name": "Yulefield Estate Yathanside Division",
+          "query_id": "6780"
+        },
+        {
+          "id": "LK-231316504",
+          "name": "Yulefield Estate Division",
+          "query_id": "6781"
+        },
+        {
+          "id": "LK-231316505",
+          "name": "Chrystlesfarm Estate",
+          "query_id": "6782"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313150",
+      "name": "Coombewood",
+      "query_id": "4615",
+      "children": [
+        {
+          "id": "LK-231315001",
+          "name": "St' Clair Estate Glenmera Division",
+          "query_id": "6641"
+        },
+        {
+          "id": "LK-231315002",
+          "name": "Troup Estate",
+          "query_id": "6642"
+        },
+        {
+          "id": "LK-231315003",
+          "name": "Logie Estate Coombewood Divion",
+          "query_id": "6643"
+        },
+        {
+          "id": "LK-231315004",
+          "name": "Troop Colony",
+          "query_id": "6644"
+        },
+        {
+          "id": "LK-231315005",
+          "name": "Thalawakele Estate Katukele Divion",
+          "query_id": "6645"
+        },
+        {
+          "id": "LK-231315006",
+          "name": "Troup Estate Korin Division",
+          "query_id": "6646"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313005",
+      "name": "Lindula",
+      "query_id": "4616",
+      "children": [
+        {
+          "id": "LK-231300501",
+          "name": "Logie Estate Logie Division",
+          "query_id": "6672"
+        },
+        {
+          "id": "LK-231300502",
+          "name": "Bearwell Estate Belgreviya Division",
+          "query_id": "6673"
+        },
+        {
+          "id": "LK-231300503",
+          "name": "Bearwell Estate Belgreviya Division",
+          "query_id": "6674"
+        },
+        {
+          "id": "LK-231300504",
+          "name": "Logie Estate Logie Division",
+          "query_id": "6675"
+        },
+        {
+          "id": "LK-231300506",
+          "name": "Agarapathana Road",
+          "query_id": "52378"
+        },
+        {
+          "id": "LK-231300507",
+          "name": "Waltrim Estate Lindula Division",
+          "query_id": "38599"
+        },
+        {
+          "id": "LK-231300505",
+          "name": "Lindulla Town",
+          "query_id": "52377"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313045",
+      "name": "Waltrim",
+      "query_id": "4618",
+      "children": [
+        {
+          "id": "LK-231304501",
+          "name": "Mattakelle Estate Mattakelle division",
+          "query_id": "6676"
+        },
+        {
+          "id": "LK-231304502",
+          "name": "St'Coombs Estate",
+          "query_id": "6677"
+        },
+        {
+          "id": "LK-231304503",
+          "name": "Tea  Research  Institute",
+          "query_id": "6678"
+        },
+        {
+          "id": "LK-231304504",
+          "name": "Waltrim Estate Waltrim Division",
+          "query_id": "6679"
+        },
+        {
+          "id": "LK-231304505",
+          "name": "Waltrim Estate Conon Division",
+          "query_id": "38697"
+        },
+        {
+          "id": "LK-231304506",
+          "name": "Waltrim Estate Kowalena Division",
+          "query_id": "38698"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313030",
+      "name": "Nagasena",
+      "query_id": "4640",
+      "children": [
+        {
+          "id": "LK-231303001",
+          "name": "Diyanilla Kele Kadawediya",
+          "query_id": "6653"
+        },
+        {
+          "id": "LK-231303002",
+          "name": "Walaha Colony",
+          "query_id": "6655"
+        },
+        {
+          "id": "LK-231303003",
+          "name": "Walaha Bazaar",
+          "query_id": "38681"
+        },
+        {
+          "id": "LK-231303009",
+          "name": "Agarakanda Estate Fashifern Division",
+          "query_id": "38683"
+        },
+        {
+          "id": "LK-231303006",
+          "name": "Nagasena Bazaar",
+          "query_id": "38685"
+        },
+        {
+          "id": "LK-231303007",
+          "name": "Walaha Estate",
+          "query_id": "38686"
+        },
+        {
+          "id": "LK-231303009",
+          "name": "Tilicoultry Estate",
+          "query_id": "38688"
+        },
+        {
+          "id": "LK-231303008",
+          "name": "Thalankanda Estate",
+          "query_id": "52402"
+        },
+        {
+          "id": "LK-231303004",
+          "name": "Fairfield Estate",
+          "query_id": "52401"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313035",
+      "name": "Eildonhall",
+      "query_id": "4641",
+      "children": [
+        {
+          "id": "LK-231303501",
+          "name": "Ekamuthugama Colony",
+          "query_id": "6659"
+        },
+        {
+          "id": "LK-231303502",
+          "name": "Ferham Estate",
+          "query_id": "6660"
+        },
+        {
+          "id": "LK-231303503",
+          "name": "Eildonhall Estate",
+          "query_id": "6661"
+        },
+        {
+          "id": "LK-231303504",
+          "name": "Eildonhall Bazaar",
+          "query_id": "6662"
+        },
+        {
+          "id": "LK-231303505",
+          "name": "Maussaalla  Estate",
+          "query_id": "6663"
+        },
+        {
+          "id": "LK-231303506",
+          "name": "Till Coultry Estate Mousella Upper Division",
+          "query_id": "6664"
+        },
+        {
+          "id": "LK-231303507",
+          "name": "Till Coultry Estate Mousella Lower Division",
+          "query_id": "6665"
+        },
+        {
+          "id": "LK-231303508",
+          "name": "Diyanillakale  Estate",
+          "query_id": "6666"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313040",
+      "name": "Rahanwatta",
+      "query_id": "4642",
+      "children": [
+        {
+          "id": "LK-231304001",
+          "name": "Bambarakelly Estate Rahanwatta Division",
+          "query_id": "6667"
+        },
+        {
+          "id": "LK-231304002",
+          "name": "Ferham Estate Meldon Division",
+          "query_id": "6668"
+        },
+        {
+          "id": "LK-231304003",
+          "name": "Meldon Estate (Private)",
+          "query_id": "6669"
+        },
+        {
+          "id": "LK-231304004",
+          "name": "Bambarakelly Estate Factory Division",
+          "query_id": "6670"
+        },
+        {
+          "id": "LK-231304005",
+          "name": "Oddington Estate",
+          "query_id": "6671"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313080",
+      "name": "Balmoral",
+      "query_id": "4643",
+      "children": [
+        {
+          "id": "LK-231308001",
+          "name": "Balmoral Estate Balmoral Division",
+          "query_id": "6820"
+        },
+        {
+          "id": "LK-231308002",
+          "name": "Bambarakele Estate Upper Cranley  Division",
+          "query_id": "6821"
+        },
+        {
+          "id": "LK-231308003",
+          "name": "Balmoral Estate Lower Cranley Division",
+          "query_id": "6822"
+        },
+        {
+          "id": "LK-231308004",
+          "name": "Bambarakele Estate Dell Division",
+          "query_id": "6823"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313010",
+      "name": "Hallbrook",
+      "query_id": "4644",
+      "children": [
+        {
+          "id": "LK-231301001",
+          "name": "Hallbrook Town",
+          "query_id": "34694"
+        },
+        {
+          "id": "LK-231301002",
+          "name": "Henfold Estate Agra Divison",
+          "query_id": "34695"
+        },
+        {
+          "id": "LK-231301003",
+          "name": "Hauteville Estate Agaton  Divison",
+          "query_id": "34696"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313070",
+      "name": "Henfold",
+      "query_id": "4645",
+      "children": [
+        {
+          "id": "LK-231307001",
+          "name": "Menfold Estate Maraya Division",
+          "query_id": "6832"
+        },
+        {
+          "id": "LK-231307002",
+          "name": "Meraya  Town",
+          "query_id": "6833"
+        },
+        {
+          "id": "LK-231307003",
+          "name": "Henfold Estate Calidonia Division",
+          "query_id": "6834"
+        },
+        {
+          "id": "LK-231307004",
+          "name": "Henfold Estate Glenegle Division",
+          "query_id": "6835"
+        },
+        {
+          "id": "LK-231307005",
+          "name": "Glanis  Part",
+          "query_id": "6836"
+        },
+        {
+          "id": "LK-231307006",
+          "name": "Henfold Estate St. Regulas Division",
+          "query_id": "6837"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313065",
+      "name": "Thangakele",
+      "query_id": "4646",
+      "children": [
+        {
+          "id": "LK-231306501",
+          "name": "Thangakele  Estate Thangakele  Lower Division",
+          "query_id": "6828"
+        },
+        {
+          "id": "LK-231306502",
+          "name": "Thangakele  Estate  Thangakelle upper  Division",
+          "query_id": "6829"
+        },
+        {
+          "id": "LK-231306503",
+          "name": "Thangakele  Estate simru Upper Division",
+          "query_id": "6830"
+        },
+        {
+          "id": "LK-231306504",
+          "name": "Thangakele Estate simru lower Division",
+          "query_id": "6831"
+        },
+        {
+          "id": "LK-231306505",
+          "name": "Thangakele Estate Calsay Division",
+          "query_id": "38524"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313060",
+      "name": "Lippakelle",
+      "query_id": "4652",
+      "children": [
+        {
+          "id": "LK-231306001",
+          "name": "Lippakelle Estate Elgin Division",
+          "query_id": "6824"
+        },
+        {
+          "id": "LK-231306002",
+          "name": "Lippakelle Estate Lippakelle Division",
+          "query_id": "6825"
+        },
+        {
+          "id": "LK-231306003",
+          "name": "Macduff Estate",
+          "query_id": "6826"
+        },
+        {
+          "id": "LK-231306004",
+          "name": "Uwakele Estate ",
+          "query_id": "6827"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313025",
+      "name": "Dayagama West",
+      "query_id": "4653",
+      "children": [
+        {
+          "id": "LK-231302501",
+          "name": "Dayagama  West  Estate    Part 2",
+          "query_id": "6694"
+        },
+        {
+          "id": "LK-231302502",
+          "name": "Dayagama  West  Estate  Part  3",
+          "query_id": "6695"
+        },
+        {
+          "id": "LK-231302503",
+          "name": "Dayagama  West    Estate  Part  4",
+          "query_id": "6696"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313085",
+      "name": "Sandrinhem",
+      "query_id": "4654",
+      "children": [
+        {
+          "id": "LK-231308501",
+          "name": "Dayagama Bazaar",
+          "query_id": "6684"
+        },
+        {
+          "id": "LK-231308502",
+          "name": "Dayagama West Estate 1st Division",
+          "query_id": "6685"
+        },
+        {
+          "id": "LK-231308503",
+          "name": "Sandrinham Estate Erawell Division",
+          "query_id": "6686"
+        },
+        {
+          "id": "LK-231308504",
+          "name": "Poysland Estate",
+          "query_id": "6687"
+        },
+        {
+          "id": "LK-231308505",
+          "name": "Sandrinham Estate Sandrinham Division",
+          "query_id": "6688"
+        },
+        {
+          "id": "LK-231308506",
+          "name": "Terbet Farm",
+          "query_id": "38528"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313050",
+      "name": "Glasgow",
+      "query_id": "4655",
+      "children": [
+        {
+          "id": "LK-231305001",
+          "name": "Agarapathana Bazaar and Colony",
+          "query_id": "6792"
+        },
+        {
+          "id": "LK-231305002",
+          "name": "Glasgow Estate Agra Uva Division",
+          "query_id": "6793"
+        },
+        {
+          "id": "LK-231305003",
+          "name": "Glasgow Estate  Upper Division",
+          "query_id": "6794"
+        },
+        {
+          "id": "LK-231305004",
+          "name": "Glasgow Estate Nithsdalve Division",
+          "query_id": "6795"
+        },
+        {
+          "id": "LK-231305005",
+          "name": "Glasgow Estate Lower Division",
+          "query_id": "6796"
+        },
+        {
+          "id": "LK-231305006",
+          "name": "Holmwood Estate Sutton A Division",
+          "query_id": "6797"
+        },
+        {
+          "id": "LK-231305007",
+          "name": "Hauteville Estate Huttville Division",
+          "query_id": "6798"
+        },
+        {
+          "id": "LK-231305008",
+          "name": "Sutton B Estate (Private)",
+          "query_id": "38527"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313075",
+      "name": "Braemore",
+      "query_id": "4656",
+      "children": [
+        {
+          "id": "LK-231307501",
+          "name": "Hauteville Estate Fresh Water Division",
+          "query_id": "6816"
+        },
+        {
+          "id": "LK-231307502",
+          "name": "Hauteville Estate St. George Division",
+          "query_id": "6817"
+        },
+        {
+          "id": "LK-231307503",
+          "name": "Hauteville Estate Woodlake Division",
+          "query_id": "6818"
+        },
+        {
+          "id": "LK-231307504",
+          "name": "Hauteville Estate Breamore Division",
+          "query_id": "6819"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313055",
+      "name": "Albian",
+      "query_id": "4657",
+      "children": [
+        {
+          "id": "LK-231305501",
+          "name": "Alnian  Watta",
+          "query_id": "6810"
+        },
+        {
+          "id": "LK-231305502",
+          "name": "Albian Estate Preston Division",
+          "query_id": "6811"
+        },
+        {
+          "id": "LK-231305503",
+          "name": "Albian Estate Thornfield Division",
+          "query_id": "6812"
+        },
+        {
+          "id": "LK-231305504",
+          "name": "Belmoral Estate Clydesdale Division",
+          "query_id": "6813"
+        },
+        {
+          "id": "LK-231305505",
+          "name": "Albian Estate Aedlow Division",
+          "query_id": "6814"
+        },
+        {
+          "id": "LK-231305507",
+          "name": "Albian Estate Albian Division",
+          "query_id": "38517"
+        },
+        {
+          "id": "LK-231305508",
+          "name": "Albian Estate New preston Division",
+          "query_id": "38518"
+        },
+        {
+          "id": "LK-231305509",
+          "name": "Albian Estate St.Margret Division",
+          "query_id": "38519"
+        },
+        {
+          "id": "LK-231305510",
+          "name": "st. Margret Estate",
+          "query_id": "38521"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313015",
+      "name": "Elbedda",
+      "query_id": "4658",
+      "children": [
+        {
+          "id": "LK-231301501",
+          "name": "Glaneline Bazzar",
+          "query_id": "6802"
+        },
+        {
+          "id": "LK-231301502",
+          "name": "New Portmore Glanelyon Divison",
+          "query_id": "6803"
+        },
+        {
+          "id": "LK-231301503",
+          "name": "New  Portmore Estate Aldourie Divison",
+          "query_id": "6804"
+        },
+        {
+          "id": "LK-231301504",
+          "name": "Torrington Estate Steir Divison",
+          "query_id": "6805"
+        },
+        {
+          "id": "LK-231301506",
+          "name": "Torrington Estate Agra  Elbedda Division",
+          "query_id": "6807"
+        },
+        {
+          "id": "LK-231301507",
+          "name": "Torrington Estate Torrington  Divison",
+          "query_id": "6808"
+        },
+        {
+          "id": "LK-231301508",
+          "name": "Torrington Estate Mossent Division",
+          "query_id": "6809"
+        },
+        {
+          "id": "LK-231301509",
+          "name": "Aona Estate ( PVT )",
+          "query_id": "38679"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313020",
+      "name": "Agarapathana",
+      "query_id": "4659",
+      "children": [
+        {
+          "id": "LK-231302001",
+          "name": "Holmwood Estate Part",
+          "query_id": "6799"
+        },
+        {
+          "id": "LK-231302002",
+          "name": "Bopathtalawa  Walagambapura",
+          "query_id": "6800"
+        },
+        {
+          "id": "LK-231302003",
+          "name": "Bopathtalawa Farm",
+          "query_id": "6801"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313095",
+      "name": "Weverly",
+      "query_id": "4660",
+      "children": [
+        {
+          "id": "LK-231309501",
+          "name": "Dayagama  West  Colony",
+          "query_id": "6697"
+        },
+        {
+          "id": "LK-231309502",
+          "name": "Weverly Estate Mornington Lower Division",
+          "query_id": "6698"
+        },
+        {
+          "id": "LK-231309503",
+          "name": "Weverly Estate Mornington  Upper Division",
+          "query_id": "6699"
+        },
+        {
+          "id": "LK-231309504",
+          "name": "Waverrly Estate Weverly Division",
+          "query_id": "6700"
+        },
+        {
+          "id": "LK-231309505",
+          "name": "Weverly Estate Aedelly Division",
+          "query_id": "6701"
+        },
+        {
+          "id": "LK-231309506",
+          "name": "Wewarli Estate Potmore Division",
+          "query_id": "6702"
+        }
+      ]
+    },
+    {
+      "id": "LK-2313090",
+      "name": "Dayagama East",
+      "query_id": "4661",
+      "children": [
+        {
+          "id": "LK-231309001",
+          "name": "Dayagama East Estate 1st Division",
+          "query_id": "6689"
+        },
+        {
+          "id": "LK-231309002",
+          "name": "Dayagama  East  Estate 2nd Division",
+          "query_id": "6690"
+        },
+        {
+          "id": "LK-231309003",
+          "name": "Dayagama  East  Estate 3rd Division",
+          "query_id": "6691"
+        },
+        {
+          "id": "LK-231309004",
+          "name": "Dayagama  West Estate 6th Division",
+          "query_id": "6692"
+        },
+        {
+          "id": "LK-231309005",
+          "name": "Dayagama  West Estate 5th Division",
+          "query_id": "6693"
+        }
+      ]
+    }
+  ]
+}

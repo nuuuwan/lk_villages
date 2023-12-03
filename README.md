@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**18,092** Villages from **4,518** GNDs in **77** DSDs (2.730MB), scraped as of *2023-12-03 16:16:20*.
+**18,986** Villages from **4,767** GNDs in **82** DSDs (2.869MB), scraped as of *2023-12-03 16:36:15*.
 
 ## LK-1 - Western
 
@@ -97,8 +97,18 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 ### LK-23 - Nuwara Eliya
 
 * [LK-2303](data/villages/LK-2303.json) - Kothmale
+* [LK-2304](data/villages/LK-2304.json) - ❔
 * [LK-2306](data/villages/LK-2306.json) - Hanguranketha
+* [LK-2307](data/villages/LK-2307.json) - ❔
 * [LK-2309](data/villages/LK-2309.json) - Walapane
+* [LK-2310](data/villages/LK-2310.json) - ❔
 * [LK-2312](data/villages/LK-2312.json) - Nuwara Eliya
+* [LK-2313](data/villages/LK-2313.json) - ❔
 * [LK-2315](data/villages/LK-2315.json) - Ambagamuwa
 * [LK-2316](data/villages/LK-2316.json) - ❔
+
+## LK-3 - Southern
+
+### LK-31 - Galle
+
+* [LK-3103](data/villages/LK-3103.json) - Bentota
