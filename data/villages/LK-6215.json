@@ -1,0 +1,941 @@
+{
+  "id": "LK-6215",
+  "name": "Puttalam",
+  "query_id": "1180",
+  "children": [
+    {
+      "id": "LK-6215005",
+      "name": "Manalthivu",
+      "query_id": "10320",
+      "children": [
+        {
+          "id": "LK-621500503",
+          "name": "Manalthivu",
+          "query_id": "22850"
+        },
+        {
+          "id": "LK-621500509",
+          "name": "Aliyaweli",
+          "query_id": "44215"
+        },
+        {
+          "id": "LK-621500501",
+          "name": "Anaikutti",
+          "query_id": "44210"
+        },
+        {
+          "id": "LK-621500508",
+          "name": "Mulliweli",
+          "query_id": "44211"
+        },
+        {
+          "id": "LK-621500507",
+          "name": "Arivichchenei",
+          "query_id": "44212"
+        },
+        {
+          "id": "LK-621500506",
+          "name": "Vilukkai",
+          "query_id": "44213"
+        },
+        {
+          "id": "LK-621500505",
+          "name": "Weppamadu",
+          "query_id": "44214"
+        },
+        {
+          "id": "LK-621500502",
+          "name": "Seguwanthivu",
+          "query_id": "44216"
+        },
+        {
+          "id": "LK-621500504",
+          "name": "Semaveli North",
+          "query_id": "50414"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215010",
+      "name": "Sirambiadiya",
+      "query_id": "10321",
+      "children": [
+        {
+          "id": "LK-621501001",
+          "name": "Sirambiadiya",
+          "query_id": "44270"
+        },
+        {
+          "id": "LK-621501002",
+          "name": "Ihala Manaveriya",
+          "query_id": "44271"
+        },
+        {
+          "id": "LK-621501003",
+          "name": "Pahala Manaveriya",
+          "query_id": "44275"
+        },
+        {
+          "id": "LK-621501002",
+          "name": "Asirigama",
+          "query_id": "50415"
+        },
+        {
+          "id": "LK-621501003",
+          "name": "Sinnanagawilluwa",
+          "query_id": "50416"
+        },
+        {
+          "id": "LK-621501004",
+          "name": "07 Acres",
+          "query_id": "50417"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215015",
+      "name": "Sella Kandal",
+      "query_id": "10322",
+      "children": [
+        {
+          "id": "LK-621501504",
+          "name": "Sellakandal",
+          "query_id": "22869"
+        },
+        {
+          "id": "LK-621501501",
+          "name": "Ihala Manaveriya",
+          "query_id": "44221"
+        },
+        {
+          "id": "LK-621501502",
+          "name": "Pahala Manaveriya",
+          "query_id": "50418"
+        },
+        {
+          "id": "LK-621501503",
+          "name": "Pandigala",
+          "query_id": "50419"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215020",
+      "name": "Nelumwewa",
+      "query_id": "10323",
+      "children": [
+        {
+          "id": "LK-621502001",
+          "name": "Nelumwewa",
+          "query_id": "22877"
+        },
+        {
+          "id": "LK-621502002",
+          "name": "Hasthipura",
+          "query_id": "44249"
+        },
+        {
+          "id": "LK-621502003",
+          "name": "Pubudugama",
+          "query_id": "44251"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215025",
+      "name": "Marikkar Street",
+      "query_id": "10324",
+      "children": [
+        {
+          "id": "LK-621502501",
+          "name": "Marikkar Street(Division No 05)",
+          "query_id": "22887"
+        },
+        {
+          "id": "LK-621502502",
+          "name": "Seemaweli",
+          "query_id": "44365"
+        },
+        {
+          "id": "LK-621502503",
+          "name": "Seththupallama",
+          "query_id": "44370"
+        },
+        {
+          "id": "LK-621502505",
+          "name": "Part of Chetty Street",
+          "query_id": "44373"
+        },
+        {
+          "id": "LK-621502506",
+          "name": "Vettukulam",
+          "query_id": "44377"
+        },
+        {
+          "id": "LK-621502507",
+          "name": "Udayaweli",
+          "query_id": "44379"
+        },
+        {
+          "id": "LK-621502508",
+          "name": "Near the Pari Appa Mosque",
+          "query_id": "44382"
+        },
+        {
+          "id": "LK-621502509",
+          "name": "Part of Nedumkulam",
+          "query_id": "44384"
+        },
+        {
+          "id": "LK-621502504",
+          "name": "Thambapanni",
+          "query_id": "50420"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215030",
+      "name": "Mullipuram",
+      "query_id": "10325",
+      "children": [
+        {
+          "id": "LK-621503001",
+          "name": "Mullipuram",
+          "query_id": "22883"
+        },
+        {
+          "id": "LK-621503004",
+          "name": "Kurusadi",
+          "query_id": "44325"
+        },
+        {
+          "id": "LK-621503003",
+          "name": "Pandavei",
+          "query_id": "44326"
+        },
+        {
+          "id": "LK-621503002",
+          "name": "Vettalai",
+          "query_id": "44330"
+        },
+        {
+          "id": "LK-621503005",
+          "name": "Kolany",
+          "query_id": "44331"
+        },
+        {
+          "id": "LK-621503003",
+          "name": "Makkalpuram",
+          "query_id": "50421"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215035",
+      "name": "Pudukudiruppuwa",
+      "query_id": "10326",
+      "children": [
+        {
+          "id": "LK-621503501",
+          "name": "Pudukudiruppuwa",
+          "query_id": "22895"
+        },
+        {
+          "id": "LK-621503502",
+          "name": "Part of J.P. Lane",
+          "query_id": "44438"
+        },
+        {
+          "id": "LK-621503503",
+          "name": "Part of 5th Lane ",
+          "query_id": "44440"
+        },
+        {
+          "id": "LK-621503505",
+          "name": "Nagoor Mosque Road",
+          "query_id": "44442"
+        },
+        {
+          "id": "LK-621503506",
+          "name": "9th Cross Street",
+          "query_id": "44444"
+        },
+        {
+          "id": "LK-621503507",
+          "name": "10 th Cross Street",
+          "query_id": "44445"
+        },
+        {
+          "id": "LK-621503508",
+          "name": "11th Cross Street",
+          "query_id": "44446"
+        },
+        {
+          "id": "LK-621503509",
+          "name": "12th Cross Street",
+          "query_id": "44448"
+        },
+        {
+          "id": "LK-621503509",
+          "name": "Sea Road",
+          "query_id": "44449"
+        },
+        {
+          "id": "LK-621503512",
+          "name": "Part of Casim Lane",
+          "query_id": "44451"
+        },
+        {
+          "id": "LK-621503513",
+          "name": "Part of Mannar Road",
+          "query_id": "44452"
+        },
+        {
+          "id": "LK-621503510",
+          "name": "Part of Western Saltern Road",
+          "query_id": "50422"
+        },
+        {
+          "id": "LK-621503511",
+          "name": "Part of Ibunu Badudha Road",
+          "query_id": "50423"
+        },
+        {
+          "id": "LK-621503504",
+          "name": "Part of 6th Lane",
+          "query_id": "50424"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215040",
+      "name": "Puttalam East",
+      "query_id": "10327",
+      "children": [
+        {
+          "id": "LK-621504010",
+          "name": "Puttalam East(Division No 04)",
+          "query_id": "22885"
+        },
+        {
+          "id": "LK-621504001",
+          "name": "Sawivapura",
+          "query_id": "44334"
+        },
+        {
+          "id": "LK-621504003",
+          "name": "Kadumayankulam",
+          "query_id": "44336"
+        },
+        {
+          "id": "LK-621504002",
+          "name": "Kochchimadutharawa",
+          "query_id": "44337"
+        },
+        {
+          "id": "LK-621504009",
+          "name": "Kadayakulam",
+          "query_id": "44339"
+        },
+        {
+          "id": "LK-621504005",
+          "name": "Sembukulam",
+          "query_id": "44342"
+        },
+        {
+          "id": "LK-621504004",
+          "name": "Nedumkulam",
+          "query_id": "44344"
+        },
+        {
+          "id": "LK-621504008",
+          "name": "Alhasan Village",
+          "query_id": "44345"
+        },
+        {
+          "id": "LK-621504006",
+          "name": "Manalgundru",
+          "query_id": "44350"
+        },
+        {
+          "id": "LK-621504008",
+          "name": "Semmandaluwa",
+          "query_id": "44358"
+        },
+        {
+          "id": "LK-621504011",
+          "name": "Nagamaduchcholai",
+          "query_id": "50425"
+        },
+        {
+          "id": "LK-621504007",
+          "name": "Thambapanni",
+          "query_id": "50426"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215045",
+      "name": "Chenaikudirippuwa",
+      "query_id": "10328",
+      "children": [
+        {
+          "id": "LK-621504512",
+          "name": "Chenaikudiruppuwa(Division No.03)",
+          "query_id": "22879"
+        },
+        {
+          "id": "LK-621504502",
+          "name": "Christopher Estate",
+          "query_id": "44283"
+        },
+        {
+          "id": "LK-621504515",
+          "name": "A part of Samagi Mawatha ",
+          "query_id": "44287"
+        },
+        {
+          "id": "LK-621504507",
+          "name": "Suwagama",
+          "query_id": "44290"
+        },
+        {
+          "id": "LK-621504503",
+          "name": "Baristarpura",
+          "query_id": "44292"
+        },
+        {
+          "id": "LK-621504510",
+          "name": "Abayapura",
+          "query_id": "44297"
+        },
+        {
+          "id": "LK-621504511",
+          "name": "Sabastian Munipura",
+          "query_id": "44306"
+        },
+        {
+          "id": "LK-621504505",
+          "name": "Jayabima",
+          "query_id": "44308"
+        },
+        {
+          "id": "LK-621504501",
+          "name": "Araliya Uyana",
+          "query_id": "44311"
+        },
+        {
+          "id": "LK-621504510",
+          "name": "Maha Willuwa",
+          "query_id": "44317"
+        },
+        {
+          "id": "LK-621504509",
+          "name": "Punchiwilluwa Watta",
+          "query_id": "44320"
+        },
+        {
+          "id": "LK-621504504",
+          "name": "Baristar Uyana",
+          "query_id": "50427"
+        },
+        {
+          "id": "LK-621504506",
+          "name": "Arachchivilluwa",
+          "query_id": "50428"
+        },
+        {
+          "id": "LK-621504508",
+          "name": "Willuwa Watta",
+          "query_id": "50429"
+        },
+        {
+          "id": "LK-621504513",
+          "name": "Mullai Nagar",
+          "query_id": "50430"
+        },
+        {
+          "id": "LK-621504514",
+          "name": "Part of Josephvaz Mawatha",
+          "query_id": "50431"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215050",
+      "name": "Thilladiya",
+      "query_id": "10329",
+      "children": [
+        {
+          "id": "LK-621505001",
+          "name": "Thilladiya(Division No 02)",
+          "query_id": "22899"
+        },
+        {
+          "id": "LK-621505002",
+          "name": "Punchi Arachchiwillu",
+          "query_id": "44456"
+        },
+        {
+          "id": "LK-621505003",
+          "name": "Part of Outer Circle Road",
+          "query_id": "44458"
+        },
+        {
+          "id": "LK-621505004",
+          "name": "Nindeniya",
+          "query_id": "44461"
+        },
+        {
+          "id": "LK-621505005",
+          "name": "Madara Uyana",
+          "query_id": "44462"
+        },
+        {
+          "id": "LK-621505006",
+          "name": "Anapulla Uththuwa",
+          "query_id": "44464"
+        },
+        {
+          "id": "LK-621505007",
+          "name": "Paramandaluwa",
+          "query_id": "50432"
+        },
+        {
+          "id": "LK-621505008",
+          "name": "Part of Colombo Road",
+          "query_id": "50433"
+        },
+        {
+          "id": "LK-621505009",
+          "name": "A part of Kurunegala Road",
+          "query_id": "50434"
+        },
+        {
+          "id": "LK-621505010",
+          "name": "Mill Road",
+          "query_id": "50435"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215055",
+      "name": "Puttalam South",
+      "query_id": "10330",
+      "children": [
+        {
+          "id": "LK-621505501",
+          "name": "Puttalam South(Division No 01)",
+          "query_id": "22897"
+        },
+        {
+          "id": "LK-621505502",
+          "name": "Good Shed Road",
+          "query_id": "50436"
+        },
+        {
+          "id": "LK-621505503",
+          "name": "Service Road",
+          "query_id": "50437"
+        },
+        {
+          "id": "LK-621505504",
+          "name": "Ananda Mawatha",
+          "query_id": "50438"
+        },
+        {
+          "id": "LK-621505505",
+          "name": "A part of Colombo Road",
+          "query_id": "50439"
+        },
+        {
+          "id": "LK-621505506",
+          "name": "Part of Outer Circle Road",
+          "query_id": "50440"
+        },
+        {
+          "id": "LK-621505507",
+          "name": "Costa Mawatha",
+          "query_id": "50441"
+        },
+        {
+          "id": "LK-621505508",
+          "name": "Jaya Mawatha",
+          "query_id": "50442"
+        },
+        {
+          "id": "LK-621505509",
+          "name": "Part of Josephvaz Mawatha",
+          "query_id": "50443"
+        },
+        {
+          "id": "LK-621505510",
+          "name": "A part of Kurunegala Road",
+          "query_id": "50444"
+        },
+        {
+          "id": "LK-621505511",
+          "name": "Part of Anuradhapura Road",
+          "query_id": "50445"
+        },
+        {
+          "id": "LK-621505512",
+          "name": "Kolitha Tissa Mawatha",
+          "query_id": "50446"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215060",
+      "name": "Old Jumma Mosque ",
+      "query_id": "10331",
+      "children": [
+        {
+          "id": "LK-621506001",
+          "name": "Kanganikkulam",
+          "query_id": "22889"
+        },
+        {
+          "id": "LK-621506002",
+          "name": "Part of 2 & 3 Cross Street",
+          "query_id": "44398"
+        },
+        {
+          "id": "LK-621506003",
+          "name": "Part of Chetty Street",
+          "query_id": "44399"
+        },
+        {
+          "id": "LK-621506004",
+          "name": "Part of Marikkar Street",
+          "query_id": "44400"
+        },
+        {
+          "id": "LK-621506005",
+          "name": "Part of Poles Road",
+          "query_id": "44401"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215065",
+      "name": "Puttalam North",
+      "query_id": "10332",
+      "children": [
+        {
+          "id": "LK-621506501",
+          "name": "Puttalam North",
+          "query_id": "22882"
+        },
+        {
+          "id": "LK-621506501",
+          "name": "Part of Mannar Street",
+          "query_id": "50447"
+        },
+        {
+          "id": "LK-621506502",
+          "name": "5th Cross Street",
+          "query_id": "50448"
+        },
+        {
+          "id": "LK-621506503",
+          "name": "Part of J.P. Lane",
+          "query_id": "50449"
+        },
+        {
+          "id": "LK-621506504",
+          "name": "Part of Casim Lane",
+          "query_id": "50450"
+        },
+        {
+          "id": "LK-621506505",
+          "name": "4th Cross Street",
+          "query_id": "50451"
+        },
+        {
+          "id": "LK-621506506",
+          "name": "Part of 3rd Cross Street",
+          "query_id": "50452"
+        },
+        {
+          "id": "LK-621506507",
+          "name": "North Road",
+          "query_id": "50453"
+        },
+        {
+          "id": "LK-621506508",
+          "name": "Part of Ibunu Badudha Road",
+          "query_id": "50454"
+        },
+        {
+          "id": "LK-621506509",
+          "name": "Part of Chettiveethi",
+          "query_id": "50455"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215070",
+      "name": "Periyapalli Kudiruppuwa",
+      "query_id": "10333",
+      "children": [
+        {
+          "id": "LK-621507001",
+          "name": "1,2,3 Cross Street",
+          "query_id": "22891"
+        },
+        {
+          "id": "LK-621507002",
+          "name": "Part of Kurunagala Road",
+          "query_id": "44425"
+        },
+        {
+          "id": "LK-621507003",
+          "name": "Part of Mannar Road",
+          "query_id": "44427"
+        },
+        {
+          "id": "LK-621507004",
+          "name": "Major Mosque Road",
+          "query_id": "44430"
+        },
+        {
+          "id": "LK-621507005",
+          "name": "Part of Chetty Street",
+          "query_id": "44431"
+        },
+        {
+          "id": "LK-621507006",
+          "name": "Sea Road",
+          "query_id": "44432"
+        },
+        {
+          "id": "LK-621507006",
+          "name": "Part of Ibunu Badudha Road",
+          "query_id": "50456"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215075",
+      "name": "Rathmalyaya",
+      "query_id": "10334",
+      "children": [
+        {
+          "id": "LK-621507501",
+          "name": "Rathmalyaya",
+          "query_id": "22901"
+        },
+        {
+          "id": "LK-621507503",
+          "name": "Adapanavillu",
+          "query_id": "44465"
+        },
+        {
+          "id": "LK-621507502",
+          "name": "Periyakulam",
+          "query_id": "44467"
+        },
+        {
+          "id": "LK-621507504",
+          "name": "Periyakulam South",
+          "query_id": "44469"
+        },
+        {
+          "id": "LK-621507505",
+          "name": "Pankulam",
+          "query_id": "50457"
+        },
+        {
+          "id": "LK-621507506",
+          "name": "Al Cassim City",
+          "query_id": "50458"
+        },
+        {
+          "id": "LK-621507507",
+          "name": "Y.M.B.A. Town",
+          "query_id": "50459"
+        },
+        {
+          "id": "LK-621507508",
+          "name": "Hijrath Puram",
+          "query_id": "50460"
+        },
+        {
+          "id": "LK-621507509",
+          "name": "Arafa Nagar",
+          "query_id": "50461"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215080",
+      "name": "Thammannagama",
+      "query_id": "10335",
+      "children": [
+        {
+          "id": "LK-621508001",
+          "name": "Thammannagama",
+          "query_id": "22874"
+        },
+        {
+          "id": "LK-621508002",
+          "name": "Maduragama",
+          "query_id": "44230"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215085",
+      "name": "Kalladiya",
+      "query_id": "10336",
+      "children": [
+        {
+          "id": "LK-621508501",
+          "name": "Kalladiya",
+          "query_id": "22871"
+        },
+        {
+          "id": "LK-621508502",
+          "name": "Sinhapura",
+          "query_id": "44226"
+        },
+        {
+          "id": "LK-621508503",
+          "name": "Samagigama",
+          "query_id": "44227"
+        },
+        {
+          "id": "LK-621508505",
+          "name": "Kiraloya",
+          "query_id": "44228"
+        },
+        {
+          "id": "LK-621508506",
+          "name": "Agoda Kiraloya",
+          "query_id": "44229"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215090",
+      "name": "Bodhirajapura",
+      "query_id": "10337",
+      "children": [
+        {
+          "id": "LK-621509001",
+          "name": "Bodhirajapura",
+          "query_id": "22865"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215095",
+      "name": "Attavilluwa",
+      "query_id": "10338",
+      "children": [
+        {
+          "id": "LK-621509502",
+          "name": "Attavilluwa Middle Class Land",
+          "query_id": "22856"
+        },
+        {
+          "id": "LK-621509501",
+          "name": "Attawilluwa Cement Factory Quarters ",
+          "query_id": "44217"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215100",
+      "name": "Palavi",
+      "query_id": "10339",
+      "children": [
+        {
+          "id": "LK-621510001",
+          "name": "Palavi",
+          "query_id": "22853"
+        },
+        {
+          "id": "LK-621510002",
+          "name": "Wanniyathivu",
+          "query_id": "44222"
+        },
+        {
+          "id": "LK-621510004",
+          "name": "Thalgaskanda",
+          "query_id": "44223"
+        },
+        {
+          "id": "LK-621510005",
+          "name": "Budhhigaminipura",
+          "query_id": "44224"
+        },
+        {
+          "id": "LK-621510006",
+          "name": "Periyakulam South",
+          "query_id": "44225"
+        },
+        {
+          "id": "LK-621510003",
+          "name": "Pachchakadumundel",
+          "query_id": "50462"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215105",
+      "name": "Pottuvilluwa",
+      "query_id": "10340",
+      "children": [
+        {
+          "id": "LK-621510501",
+          "name": "Pottuvilluwa",
+          "query_id": "22868"
+        },
+        {
+          "id": "LK-621510502",
+          "name": "Akkarakala",
+          "query_id": "50463"
+        },
+        {
+          "id": "LK-621510501",
+          "name": "Nagavilluwa",
+          "query_id": "44220"
+        }
+      ]
+    },
+    {
+      "id": "LK-6215110",
+      "name": "Attavilluwa Central",
+      "query_id": "10341",
+      "children": [
+        {
+          "id": "LK-621511001",
+          "name": "Attawilluwa Central",
+          "query_id": "22863"
+        },
+        {
+          "id": "LK-621511002",
+          "name": "Uttara Attawilluwa ",
+          "query_id": "44218"
+        },
+        {
+          "id": "LK-621511003",
+          "name": "Suhadagama",
+          "query_id": "44219"
+        },
+        {
+          "id": "LK-621511004",
+          "name": "Akkarayaya",
+          "query_id": "50464"
+        },
+        {
+          "id": "LK-621511005",
+          "name": "Middle Class Land",
+          "query_id": "50465"
+        }
+      ]
+    }
+  ]
+}

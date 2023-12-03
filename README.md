@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**38,795** Villages from **10,495** GNDs in **242** DSDs (5.919MB), scraped as of *2023-12-04 01:53:22*.
+**39,447** Villages from **10,627** GNDs in **247** DSDs (6.012MB), scraped as of *2023-12-04 02:04:35*.
 
 ## LK-1 - Western
 
@@ -316,3 +316,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-6203](data/villages/LK-6203.json) - Kalpitiya
 * [LK-6206](data/villages/LK-6206.json) - Vanathawilluwa
 * [LK-6209](data/villages/LK-6209.json) - Karuwalagaswewa
+* [LK-6212](data/villages/LK-6212.json) - Nawagattegama
+* [LK-6215](data/villages/LK-6215.json) - Puttalam
+* [LK-6218](data/villages/LK-6218.json) - Mundel
+* [LK-6221](data/villages/LK-6221.json) - Mahakumbukkadawala
+* [LK-6224](data/villages/LK-6224.json) - Anamaduwa
