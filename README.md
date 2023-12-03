@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**41,229** Villages from **11,182** GNDs in **262** DSDs (6.294MB), scraped as of *2023-12-04 02:51:14*.
+**41,759** Villages from **11,334** GNDs in **267** DSDs (6.377MB), scraped as of *2023-12-04 03:04:49*.
 
 ## LK-1 - Western
 
@@ -341,3 +341,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-7115](data/villages/LK-7115.json) - Nuwaragam Palatha Central
 * [LK-7118](data/villages/LK-7118.json) - Rambewa
 * [LK-7121](data/villages/LK-7121.json) - Kahatagasdigiliya
+* [LK-7124](data/villages/LK-7124.json) - Horowpothana
+* [LK-7127](data/villages/LK-7127.json) - Galenbindunuwewa
+* [LK-7130](data/villages/LK-7130.json) - Mihinthale
+* [LK-7133](data/villages/LK-7133.json) - Nuwaragam Palatha East
+* [LK-7136](data/villages/LK-7136.json) - Nachchaduwa
