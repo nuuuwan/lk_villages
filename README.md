@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**47,296** Villages from **12,811** GNDs in **307** DSDs (7.214MB), scraped as of *2023-12-04 05:05:04*.
+**47,715** Villages from **12,927** GNDs in **312** DSDs (7.278MB), scraped as of *2023-12-04 05:19:19*.
 
 ## LK-1 - Western
 
@@ -397,3 +397,13 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-8218](data/villages/LK-8218.json) - Badalkumbura
 * [LK-8221](data/villages/LK-8221.json) - Wellawaya
 * [LK-8224](data/villages/LK-8224.json) - Buttala
+* [LK-8227](data/villages/LK-8227.json) - Katharagama
+* [LK-8230](data/villages/LK-8230.json) - Thanamalvila
+* [LK-8233](data/villages/LK-8233.json) - Sevanagala
+
+## LK-9 - Sabaragamuwa
+
+### LK-91 - Ratnapura
+
+* [LK-9103](data/villages/LK-9103.json) - Eheliyagoda
+* [LK-9106](data/villages/LK-9106.json) - Kuruvita
