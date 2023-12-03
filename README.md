@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**31,868** Villages from **8,437** GNDs in **192** DSDs (4.852MB), scraped as of *2023-12-03 23:19:18*.
+**32,231** Villages from **8,569** GNDs in **197** DSDs (4.912MB), scraped as of *2023-12-03 23:35:15*.
 
 ## LK-1 - Western
 
@@ -255,3 +255,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-5230](data/villages/LK-5230.json) - Ninthavur
 * [LK-5233](data/villages/LK-5233.json) - Addalachchenai
 * [LK-5234](data/villages/LK-5234.json) - Irakkamam
+* [LK-5236](data/villages/LK-5236.json) - Akkaraipattu
+* [LK-5239](data/villages/LK-5239.json) - Alayadiwembu
+* [LK-5242](data/villages/LK-5242.json) - Damana
+* [LK-5245](data/villages/LK-5245.json) - Thirukkovil
+* [LK-5248](data/villages/LK-5248.json) - Pothuvil

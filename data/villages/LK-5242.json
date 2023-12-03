@@ -1,0 +1,828 @@
+{
+  "id": "LK-5242",
+  "name": "Damana",
+  "query_id": "1131",
+  "children": [
+    {
+      "id": "LK-5242005",
+      "name": "Keenawatta",
+      "query_id": "8293",
+      "children": [
+        {
+          "id": "LK-524200504",
+          "name": "Village 9",
+          "query_id": "34276"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242010",
+      "name": "Muwangala",
+      "query_id": "8294",
+      "children": [
+        {
+          "id": "LK-524201001",
+          "name": "Grama 02",
+          "query_id": "9756"
+        },
+        {
+          "id": "LK-524201002",
+          "name": "Grama 03",
+          "query_id": "9757"
+        },
+        {
+          "id": "LK-524201003",
+          "name": "Grama 06",
+          "query_id": "9758"
+        },
+        {
+          "id": "LK-524201004",
+          "name": "Old Army Camp",
+          "query_id": "34278"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242015",
+      "name": "Galmaduwa",
+      "query_id": "8295",
+      "children": [
+        {
+          "id": "LK-524201501",
+          "name": "Grama 04",
+          "query_id": "9760"
+        },
+        {
+          "id": "LK-524201503",
+          "name": "Galmaduwa",
+          "query_id": "9761"
+        },
+        {
+          "id": "LK-524201502",
+          "name": "Village 05",
+          "query_id": "53847"
+        },
+        {
+          "id": "LK-524201504",
+          "name": "Old Sugar Cane Farm",
+          "query_id": "34279"
+        },
+        {
+          "id": "LK-524201505",
+          "name": "Arunodayagama",
+          "query_id": "34280"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242020",
+      "name": "Uksiripura",
+      "query_id": "8296",
+      "children": [
+        {
+          "id": "LK-524202001",
+          "name": "Grama 01",
+          "query_id": "9763"
+        },
+        {
+          "id": "LK-524202002",
+          "name": "Grama 07",
+          "query_id": "9764"
+        },
+        {
+          "id": "LK-524202003",
+          "name": "Grama 08",
+          "query_id": "9765"
+        },
+        {
+          "id": "LK-524202004",
+          "name": "Arunapura",
+          "query_id": "9766"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242025",
+      "name": "Helagampura",
+      "query_id": "8297",
+      "children": [
+        {
+          "id": "LK-524202501",
+          "name": "15th Mile Post",
+          "query_id": "9768"
+        },
+        {
+          "id": "LK-524202502",
+          "name": "14th Mile Post",
+          "query_id": "9769"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242030",
+      "name": "Karalewa",
+      "query_id": "8298",
+      "children": [
+        {
+          "id": "LK-524203001",
+          "name": "Market Place",
+          "query_id": "9770"
+        },
+        {
+          "id": "LK-524203002",
+          "name": "Hingurana Town",
+          "query_id": "9771"
+        },
+        {
+          "id": "LK-524203003",
+          "name": "Samagipura",
+          "query_id": "9772"
+        },
+        {
+          "id": "LK-524203004",
+          "name": "Sugar Industrial Place",
+          "query_id": "9773"
+        },
+        {
+          "id": "LK-524203005",
+          "name": "Pasal Place",
+          "query_id": "9774"
+        },
+        {
+          "id": "LK-524203006",
+          "name": "Pansal Place",
+          "query_id": "9775"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242035",
+      "name": "Hingurana",
+      "query_id": "8299",
+      "children": [
+        {
+          "id": "LK-524203501",
+          "name": "Paranigama - Hingurana",
+          "query_id": "34283"
+        },
+        {
+          "id": "LK-524203502",
+          "name": "Ilukpitiya",
+          "query_id": "34284"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242040",
+      "name": "Diviyagala",
+      "query_id": "8300",
+      "children": [
+        {
+          "id": "LK-524204001",
+          "name": "03rd Bridge",
+          "query_id": "9776"
+        },
+        {
+          "id": "LK-524204002",
+          "name": "02nd Bridge",
+          "query_id": "9777"
+        },
+        {
+          "id": "LK-524204003",
+          "name": "Diviyagala",
+          "query_id": "9778"
+        },
+        {
+          "id": "LK-524204004",
+          "name": "Weerapitiya",
+          "query_id": "34281"
+        },
+        {
+          "id": "LK-524204005",
+          "name": "40 Yaya",
+          "query_id": "34282"
+        },
+        {
+          "id": "LK-524204006",
+          "name": "Donthapitiya",
+          "query_id": "53846"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242045",
+      "name": "Padagoda",
+      "query_id": "8301",
+      "children": [
+        {
+          "id": "LK-524204501",
+          "name": "Padagoda Peranigama",
+          "query_id": "9779"
+        },
+        {
+          "id": "LK-524204502",
+          "name": "Moragahapallama",
+          "query_id": "9780"
+        },
+        {
+          "id": "LK-524204503",
+          "name": "Mahawala",
+          "query_id": "34286"
+        },
+        {
+          "id": "LK-524204504",
+          "name": "Lihinipura",
+          "query_id": "34287"
+        },
+        {
+          "id": "LK-524204505",
+          "name": "Galleleyaya",
+          "query_id": "34288"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242050",
+      "name": "Pahalalanda",
+      "query_id": "8302",
+      "children": [
+        {
+          "id": "LK-524205001",
+          "name": "Pahalalanda",
+          "query_id": "9781"
+        },
+        {
+          "id": "LK-524205002",
+          "name": "Karana",
+          "query_id": "9782"
+        },
+        {
+          "id": "LK-524205003",
+          "name": "Pahalalanda Temple Division",
+          "query_id": "34289"
+        },
+        {
+          "id": "LK-524205004",
+          "name": "20 Yaya",
+          "query_id": "34290"
+        },
+        {
+          "id": "LK-524205005",
+          "name": "3/8 Yaya",
+          "query_id": "34291"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242055",
+      "name": "Hindakalugama",
+      "query_id": "8303",
+      "children": [
+        {
+          "id": "LK-524205501",
+          "name": "Hindakalugama",
+          "query_id": "9783"
+        },
+        {
+          "id": "LK-524205502",
+          "name": "Galapamula",
+          "query_id": "9784"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242060",
+      "name": "Kalugolla",
+      "query_id": "8304",
+      "children": [
+        {
+          "id": "LK-524206001",
+          "name": "Kalugolla",
+          "query_id": "9785"
+        },
+        {
+          "id": "LK-524206002",
+          "name": "Galoyapallama",
+          "query_id": "9786"
+        },
+        {
+          "id": "LK-524206003",
+          "name": "Japan Malwaththa",
+          "query_id": "34292"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242065",
+      "name": "Dewalahida",
+      "query_id": "8305",
+      "children": [
+        {
+          "id": "LK-524206501",
+          "name": "Dewalahinda",
+          "query_id": "9787"
+        },
+        {
+          "id": "LK-524206502",
+          "name": "Keselwatta",
+          "query_id": "9788"
+        },
+        {
+          "id": "LK-524206503",
+          "name": "Aluthela",
+          "query_id": "9789"
+        },
+        {
+          "id": "LK-524206504",
+          "name": "Meegahapallama",
+          "query_id": "9790"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242070",
+      "name": "Koknahara",
+      "query_id": "8306",
+      "children": [
+        {
+          "id": "LK-524207001",
+          "name": "Koknahara",
+          "query_id": "9791"
+        },
+        {
+          "id": "LK-524207002",
+          "name": "Kulun Eka",
+          "query_id": "34328"
+        },
+        {
+          "id": "LK-524207003",
+          "name": "5th Post",
+          "query_id": "34329"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242075",
+      "name": "Moragahapallama",
+      "query_id": "8307",
+      "children": [
+        {
+          "id": "LK-524207501",
+          "name": "31 A Janapadaya",
+          "query_id": "9792"
+        },
+        {
+          "id": "LK-524207502",
+          "name": "4th Bridgh Upper Division",
+          "query_id": "34330"
+        },
+        {
+          "id": "LK-524207503",
+          "name": "5th Bridgh Upper Division",
+          "query_id": "34331"
+        },
+        {
+          "id": "LK-524207504",
+          "name": "Moragahapallama",
+          "query_id": "34332"
+        },
+        {
+          "id": "LK-524207505",
+          "name": "Dahathunewala",
+          "query_id": "34333"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242080",
+      "name": "Damana",
+      "query_id": "8308",
+      "children": [
+        {
+          "id": "LK-524208001",
+          "name": "Damana",
+          "query_id": "9793"
+        },
+        {
+          "id": "LK-524208002",
+          "name": "40 Yaya",
+          "query_id": "9794"
+        },
+        {
+          "id": "LK-524208003",
+          "name": "Galakanada",
+          "query_id": "9795"
+        },
+        {
+          "id": "LK-524208004",
+          "name": "Malayadiya",
+          "query_id": "9796"
+        },
+        {
+          "id": "LK-524208005",
+          "name": "Keenawaththa - Peranigama",
+          "query_id": "34334"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242085",
+      "name": "Alahena",
+      "query_id": "8309",
+      "children": [
+        {
+          "id": "LK-524208501",
+          "name": "Alahena",
+          "query_id": "9797"
+        },
+        {
+          "id": "LK-524208502",
+          "name": "Waralanda",
+          "query_id": "34335"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242090",
+      "name": "Madawalalanda",
+      "query_id": "8310",
+      "children": [
+        {
+          "id": "LK-524209001",
+          "name": "Madawalalanada",
+          "query_id": "9801"
+        },
+        {
+          "id": "LK-524209002",
+          "name": "26 A Janapadaya",
+          "query_id": "34336"
+        },
+        {
+          "id": "LK-524209003",
+          "name": "Araliyalanda",
+          "query_id": "34337"
+        },
+        {
+          "id": "LK-524209004",
+          "name": "Malayadi Farm",
+          "query_id": "34338"
+        },
+        {
+          "id": "LK-524209005",
+          "name": "Peramaha",
+          "query_id": "34339"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242095",
+      "name": "Madana",
+      "query_id": "8311",
+      "children": [
+        {
+          "id": "LK-524209501",
+          "name": "Ambalanoya Junction",
+          "query_id": "9802"
+        },
+        {
+          "id": "LK-524209502",
+          "name": "Madana",
+          "query_id": "9803"
+        },
+        {
+          "id": "LK-524209503",
+          "name": "Pansal Watta",
+          "query_id": "9804"
+        },
+        {
+          "id": "LK-524209504",
+          "name": "16 Cannel",
+          "query_id": "34356"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242100",
+      "name": "Eggaloya",
+      "query_id": "8312",
+      "children": [
+        {
+          "id": "LK-524210001",
+          "name": "Eggaloya ",
+          "query_id": "9805"
+        },
+        {
+          "id": "LK-524210002",
+          "name": "Y. S. S.",
+          "query_id": "9806"
+        },
+        {
+          "id": "LK-524210003",
+          "name": "Wani Ella",
+          "query_id": "34340"
+        },
+        {
+          "id": "LK-524210004",
+          "name": "Temple Place",
+          "query_id": "34341"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242105",
+      "name": "Kethsirigama",
+      "query_id": "8313",
+      "children": [
+        {
+          "id": "LK-524210501",
+          "name": "Kethsirigama Upper Division",
+          "query_id": "9807"
+        },
+        {
+          "id": "LK-524210502",
+          "name": "Kethsirigama Lower Division",
+          "query_id": "34342"
+        },
+        {
+          "id": "LK-524210503",
+          "name": "Henyaya",
+          "query_id": "34343"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242110",
+      "name": "Galkanda",
+      "query_id": "8314",
+      "children": [
+        {
+          "id": "LK-524211001",
+          "name": "Galkanda",
+          "query_id": "9808"
+        },
+        {
+          "id": "LK-524211002",
+          "name": "100 Fieald",
+          "query_id": "34344"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242115",
+      "name": "Pallanoya",
+      "query_id": "8315",
+      "children": [
+        {
+          "id": "LK-524211501",
+          "name": "Pallanaoya",
+          "query_id": "9799"
+        },
+        {
+          "id": "LK-524211502",
+          "name": "Demataella",
+          "query_id": "9800"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242120",
+      "name": "Kivulegama",
+      "query_id": "8316",
+      "children": [
+        {
+          "id": "LK-524212001",
+          "name": "Kivulegama",
+          "query_id": "9810"
+        },
+        {
+          "id": "LK-524212002",
+          "name": "farmhouse",
+          "query_id": "9811"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242125",
+      "name": "Thimbirigolla",
+      "query_id": "8317",
+      "children": [
+        {
+          "id": "LK-524212501",
+          "name": "Thimbirigolla",
+          "query_id": "34345"
+        },
+        {
+          "id": "LK-524212502",
+          "name": "Y. S. S.",
+          "query_id": "34346"
+        },
+        {
+          "id": "LK-524212503",
+          "name": "Kumbukhinna",
+          "query_id": "34347"
+        },
+        {
+          "id": "LK-524212504",
+          "name": "Udagama",
+          "query_id": "34348"
+        },
+        {
+          "id": "LK-524212505",
+          "name": "Aluthkeella",
+          "query_id": "34349"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242130",
+      "name": "Ambalanoya",
+      "query_id": "8318",
+      "children": [
+        {
+          "id": "LK-524213001",
+          "name": "Ambalanoya",
+          "query_id": "9812"
+        },
+        {
+          "id": "LK-524213002",
+          "name": "Wanagama",
+          "query_id": "9813"
+        },
+        {
+          "id": "LK-524213003",
+          "name": "Neeththa",
+          "query_id": "9814"
+        },
+        {
+          "id": "LK-524213004",
+          "name": "Fisheries Village",
+          "query_id": "34350"
+        },
+        {
+          "id": "LK-524213005",
+          "name": "127 Place",
+          "query_id": "34351"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242135",
+      "name": "Veheragala",
+      "query_id": "8319",
+      "children": [
+        {
+          "id": "LK-524213501",
+          "name": "19.A Colony",
+          "query_id": "9815"
+        },
+        {
+          "id": "LK-524213502",
+          "name": "Pothana",
+          "query_id": "34352"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242140",
+      "name": "18A . Janapadaya",
+      "query_id": "8320",
+      "children": [
+        {
+          "id": "LK-524214001",
+          "name": "18A . Janapadaya",
+          "query_id": "9816"
+        },
+        {
+          "id": "LK-524214002",
+          "name": "Ambalantharu",
+          "query_id": "9817"
+        },
+        {
+          "id": "LK-524214003",
+          "name": "18 A. Colony Upper Division",
+          "query_id": "34353"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242145",
+      "name": "Thottama",
+      "query_id": "8321",
+      "children": [
+        {
+          "id": "LK-524214501",
+          "name": "Thottama - Peranigama",
+          "query_id": "9818"
+        },
+        {
+          "id": "LK-524214502",
+          "name": "Mahanagapura upper village",
+          "query_id": "9819"
+        },
+        {
+          "id": "LK-524214503",
+          "name": "Mahanagapura lower village",
+          "query_id": "9820"
+        },
+        {
+          "id": "LK-524214504",
+          "name": "Manthottam",
+          "query_id": "34354"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242150",
+      "name": "Kumana",
+      "query_id": "8322",
+      "children": [
+        {
+          "id": "LK-524215001",
+          "name": "2 C Colony",
+          "query_id": "9821"
+        },
+        {
+          "id": "LK-524215002",
+          "name": "Kumana",
+          "query_id": "9822"
+        },
+        {
+          "id": "LK-524215003",
+          "name": "Mariyakanda",
+          "query_id": "9823"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242155",
+      "name": "Wadinagala",
+      "query_id": "8323",
+      "children": [
+        {
+          "id": "LK-524215501",
+          "name": "Karabana",
+          "query_id": "9824"
+        },
+        {
+          "id": "LK-524215502",
+          "name": "Wadinagala",
+          "query_id": "9825"
+        },
+        {
+          "id": "LK-524215503",
+          "name": "Jayanthipura",
+          "query_id": "9826"
+        },
+        {
+          "id": "LK-524215504",
+          "name": "Polgas Ara",
+          "query_id": "9827"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242160",
+      "name": "Pannalgama",
+      "query_id": "8324",
+      "children": [
+        {
+          "id": "LK-524216001",
+          "name": "Kuruduwatta",
+          "query_id": "9829"
+        },
+        {
+          "id": "LK-524216002",
+          "name": "Pannalgama 1/C Janapadaya",
+          "query_id": "9830"
+        }
+      ]
+    },
+    {
+      "id": "LK-5242165",
+      "name": "Bakmitiyawa",
+      "query_id": "8325",
+      "children": [
+        {
+          "id": "LK-524216501",
+          "name": "Mirahala",
+          "query_id": "9831"
+        },
+        {
+          "id": "LK-524216502",
+          "name": "Kubukgolla",
+          "query_id": "9832"
+        },
+        {
+          "id": "LK-524216503",
+          "name": "Bakmitiyawa",
+          "query_id": "9833"
+        },
+        {
+          "id": "LK-524216504",
+          "name": "Kiwlewatta",
+          "query_id": "9834"
+        }
+      ]
+    }
+  ]
+}

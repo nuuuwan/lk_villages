@@ -1,0 +1,257 @@
+{
+  "id": "LK-5248",
+  "name": "Pothuvil",
+  "query_id": "1133",
+  "children": [
+    {
+      "id": "LK-5248005",
+      "name": "Sangaman Kandy",
+      "query_id": "8348",
+      "children": [
+        {
+          "id": "LK-524800501",
+          "name": "Manalchchenai",
+          "query_id": "9868"
+        }
+      ]
+    },
+    {
+      "id": "LK-5248010",
+      "name": "Sinna Ulla",
+      "query_id": "8349",
+      "children": [
+        {
+          "id": "LK-524801001",
+          "name": "Sinna Ulla-East",
+          "query_id": "9870"
+        },
+        {
+          "id": "LK-524801002",
+          "name": "Pasarichchenai",
+          "query_id": "9871"
+        },
+        {
+          "id": "LK-524801003",
+          "name": "Kudakkalli",
+          "query_id": "53943"
+        }
+      ]
+    },
+    {
+      "id": "LK-5248015",
+      "name": "Sinna Puthukudiruppu",
+      "query_id": "8350"
+    },
+    {
+      "id": "LK-5248020",
+      "name": "Victor Estate Unit 2",
+      "query_id": "8351"
+    },
+    {
+      "id": "LK-5248025",
+      "name": "Vattivelly",
+      "query_id": "8352",
+      "children": [
+        {
+          "id": "LK-524802501",
+          "name": "Kiraval Kuli",
+          "query_id": "9875"
+        }
+      ]
+    },
+    {
+      "id": "LK-5248030",
+      "name": "Victor Estate Unit 1",
+      "query_id": "8353"
+    },
+    {
+      "id": "LK-5248035",
+      "name": "Razak Moulana Nagar",
+      "query_id": "8354"
+    },
+    {
+      "id": "LK-5248040",
+      "name": "Sarvothayapuram",
+      "query_id": "8355",
+      "children": [
+        {
+          "id": "LK-524804001",
+          "name": "Mailagas Thoattam",
+          "query_id": "9881"
+        },
+        {
+          "id": "LK-524804002",
+          "name": "Pasarichchenai North",
+          "query_id": "53940"
+        },
+        {
+          "id": "LK-524804003",
+          "name": "Savalai",
+          "query_id": "53941"
+        },
+        {
+          "id": "LK-524804004",
+          "name": "Sinna Ulla",
+          "query_id": "53942"
+        }
+      ]
+    },
+    {
+      "id": "LK-5248045",
+      "name": "Pothuvil 02 - Unit II",
+      "query_id": "8356"
+    },
+    {
+      "id": "LK-5248050",
+      "name": "Kundumadu",
+      "query_id": "8357"
+    },
+    {
+      "id": "LK-5248055",
+      "name": "Pothuvil 01  - Unit II",
+      "query_id": "8358",
+      "children": [
+        {
+          "id": "LK-524805501",
+          "name": "Pothuvil 02",
+          "query_id": "9886"
+        },
+        {
+          "id": "LK-524805502",
+          "name": "Unit II",
+          "query_id": "9887"
+        }
+      ]
+    },
+    {
+      "id": "LK-5248060",
+      "name": "Pakkiyawathe Unit 2",
+      "query_id": "8359"
+    },
+    {
+      "id": "LK-5248065",
+      "name": "Pasarichchenai",
+      "query_id": "8360"
+    },
+    {
+      "id": "LK-5248070",
+      "name": "Pottuvil Town",
+      "query_id": "8361"
+    },
+    {
+      "id": "LK-5248075",
+      "name": "Pakkiyawatta Unit 1",
+      "query_id": "8362"
+    },
+    {
+      "id": "LK-5248080",
+      "name": "Komari Unit 02",
+      "query_id": "8363"
+    },
+    {
+      "id": "LK-5248085",
+      "name": "Komari unit 01",
+      "query_id": "8364"
+    },
+    {
+      "id": "LK-5248090",
+      "name": "Kalappukattu",
+      "query_id": "8365",
+      "children": [
+        {
+          "id": "LK-524809001",
+          "name": "Bushra Nagar",
+          "query_id": "9900"
+        },
+        {
+          "id": "LK-524809002",
+          "name": "Ashraff Nagar",
+          "query_id": "9901"
+        }
+      ]
+    },
+    {
+      "id": "LK-5248095",
+      "name": "Jalaldeen Square",
+      "query_id": "8366"
+    },
+    {
+      "id": "LK-5248100",
+      "name": "Hithayapuram Unit 2",
+      "query_id": "8367"
+    },
+    {
+      "id": "LK-5248105",
+      "name": "Hithayapuram Unit1",
+      "query_id": "8368",
+      "children": [
+        {
+          "id": "LK-524810501",
+          "name": "Kottukkal",
+          "query_id": "9905"
+        }
+      ]
+    },
+    {
+      "id": "LK-5248110",
+      "name": "Kanakar Kiramam",
+      "query_id": "8369"
+    },
+    {
+      "id": "LK-5248115",
+      "name": "Hijra Nagar",
+      "query_id": "8370",
+      "children": [
+        {
+          "id": "LK-524811501",
+          "name": "Siriya",
+          "query_id": "9909"
+        },
+        {
+          "id": "LK-524811502",
+          "name": "Rottai",
+          "query_id": "9910"
+        }
+      ]
+    },
+    {
+      "id": "LK-5248120",
+      "name": "Pottuvil 01 - Unit I",
+      "query_id": "8371",
+      "children": [
+        {
+          "id": "LK-524812001",
+          "name": "Pothuvil 01 Unit 1",
+          "query_id": "9911"
+        },
+        {
+          "id": "LK-524812002",
+          "name": "Unit I",
+          "query_id": "9912"
+        }
+      ]
+    },
+    {
+      "id": "LK-5248125",
+      "name": "Madhuranchenai",
+      "query_id": "8372",
+      "children": [
+        {
+          "id": "LK-524812501",
+          "name": "Madhuranchenai",
+          "query_id": "9913"
+        }
+      ]
+    },
+    {
+      "id": "LK-5248130",
+      "name": "Inspector Etham",
+      "query_id": "8373"
+    },
+    {
+      "id": "LK-5248135",
+      "name": "Pottuvil 02 -  Unit 1",
+      "query_id": "8374"
+    }
+  ]
+}
