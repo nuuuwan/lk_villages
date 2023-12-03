@@ -1,0 +1,572 @@
+{
+  "id": "LK-4133",
+  "name": "Nallur",
+  "query_id": "1081",
+  "children": [
+    {
+      "id": "LK-4133025",
+      "name": "Ariyalai South West(East)",
+      "query_id": "7128",
+      "children": [
+        {
+          "id": "LK-413302501",
+          "name": "Maniyar Thoddam",
+          "query_id": "24581"
+        },
+        {
+          "id": "LK-413302502",
+          "name": "Uthayapuram",
+          "query_id": "24582"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133010",
+      "name": "Ariyalai East",
+      "query_id": "7129",
+      "children": [
+        {
+          "id": "LK-413301001",
+          "name": "Navalady",
+          "query_id": "24584"
+        },
+        {
+          "id": "LK-413301002",
+          "name": "Poompugar",
+          "query_id": "24587"
+        },
+        {
+          "id": "LK-413301003",
+          "name": "Ariyalai Munanku ",
+          "query_id": "24588"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133015",
+      "name": "Ariyalai North West",
+      "query_id": "7130",
+      "children": [
+        {
+          "id": "LK-413301501",
+          "name": "Kalaimagal",
+          "query_id": "24591"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133020",
+      "name": "Ariyalai Center West",
+      "query_id": "7131",
+      "children": [
+        {
+          "id": "LK-413302001",
+          "name": "Ariyalai East (Part)",
+          "query_id": "24595"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133005",
+      "name": "Ariyalai South West",
+      "query_id": "7132",
+      "children": [
+        {
+          "id": "LK-413300501",
+          "name": "Ariyalai East ( Part )",
+          "query_id": "24597"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133030",
+      "name": "Ariyalai Centre North",
+      "query_id": "7133",
+      "children": [
+        {
+          "id": "LK-413303001",
+          "name": "Ariyalai West part ",
+          "query_id": "24601"
+        },
+        {
+          "id": "LK-413303002",
+          "name": "Chaliyapiddy",
+          "query_id": "24602"
+        },
+        {
+          "id": "LK-413303003",
+          "name": "Siruchemmany",
+          "query_id": "24603"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133035",
+      "name": "Ariyalai Centre",
+      "query_id": "7134",
+      "children": [
+        {
+          "id": "LK-413303501",
+          "name": "Ariyalai East (Part)",
+          "query_id": "24604"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133040",
+      "name": "Ariyalai Center South",
+      "query_id": "7135",
+      "children": [
+        {
+          "id": "LK-413304001",
+          "name": "Ariyalai",
+          "query_id": "24608"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133045",
+      "name": "Iyanar Kovilady",
+      "query_id": "7136",
+      "children": [
+        {
+          "id": "LK-413304501",
+          "name": "Vannarpannai East (Part)",
+          "query_id": "24822"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133050",
+      "name": "Vannarpannai North",
+      "query_id": "7137",
+      "children": [
+        {
+          "id": "LK-413305001",
+          "name": "Vannarpannai East (Part)",
+          "query_id": "24823"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133055",
+      "name": "Vannarponnai North West",
+      "query_id": "7138",
+      "children": [
+        {
+          "id": "LK-413305501",
+          "name": "Vannarpannai North  (Part)",
+          "query_id": "24824"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133060",
+      "name": "Vannarpannai North East ( Part )",
+      "query_id": "7139",
+      "children": [
+        {
+          "id": "LK-413306001",
+          "name": "Nallur (Part)",
+          "query_id": "24826"
+        },
+        {
+          "id": "LK-413306002",
+          "name": "Vannarapannai West (part)",
+          "query_id": "24827"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133065",
+      "name": "Vannarponnai N.E.(South)",
+      "query_id": "7140",
+      "children": [
+        {
+          "id": "LK-413306501",
+          "name": "Kantharmadam (Part)",
+          "query_id": "24828"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133070",
+      "name": "Kantharmadam North West ",
+      "query_id": "7141",
+      "children": [
+        {
+          "id": "LK-413307001",
+          "name": "Kantharmadam (Part)",
+          "query_id": "24829"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133075",
+      "name": "Kantharmadam North East (Part)",
+      "query_id": "7142",
+      "children": [
+        {
+          "id": "LK-413307501",
+          "name": "Kantharmadam (Part)",
+          "query_id": "24830"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133080",
+      "name": "Kantharmadam South West",
+      "query_id": "7143",
+      "children": [
+        {
+          "id": "LK-413308001",
+          "name": "Kantharmadam (Part)",
+          "query_id": "24831"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133085",
+      "name": "Kantharmadam South East",
+      "query_id": "7144",
+      "children": [
+        {
+          "id": "LK-413308501",
+          "name": "Kantharmadam (Part)",
+          "query_id": "24832"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133090",
+      "name": "Nallur North",
+      "query_id": "7145",
+      "children": [
+        {
+          "id": "LK-413309001",
+          "name": "Nalllur (Part)",
+          "query_id": "24833"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133095",
+      "name": "Nallur Rajadaniya",
+      "query_id": "7146",
+      "children": [
+        {
+          "id": "LK-413309501",
+          "name": "Nallur (Part)",
+          "query_id": "24834"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133100",
+      "name": "Nallur South",
+      "query_id": "7147",
+      "children": [
+        {
+          "id": "LK-413310001",
+          "name": "Kailasapillair kovilady part",
+          "query_id": "24835"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133105",
+      "name": "Sangiliyanthoppu",
+      "query_id": "7148",
+      "children": [
+        {
+          "id": "LK-413310501",
+          "name": "Sangiliyanthoppu",
+          "query_id": "24836"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133110",
+      "name": "Thirunelvelly West",
+      "query_id": "7149",
+      "children": [
+        {
+          "id": "LK-413311001",
+          "name": "Thirunelvely West",
+          "query_id": "24837"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133115",
+      "name": "Thirunelvely Centre South",
+      "query_id": "7150",
+      "children": [
+        {
+          "id": "LK-413311501",
+          "name": "Thirunelvely Centre South",
+          "query_id": "24838"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133120",
+      "name": "Thirunelvely  South East",
+      "query_id": "7151",
+      "children": [
+        {
+          "id": "LK-413312001",
+          "name": "Mudamavady",
+          "query_id": "24839"
+        },
+        {
+          "id": "LK-413312002",
+          "name": "Senguntha",
+          "query_id": "24840"
+        },
+        {
+          "id": "LK-413312003",
+          "name": "Poothavarayar  Kovil",
+          "query_id": "24841"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133125",
+      "name": "Thirunelve\u200dly North East",
+      "query_id": "7152",
+      "children": [
+        {
+          "id": "LK-413312501",
+          "name": "Thirunelvely North East",
+          "query_id": "24842"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133130",
+      "name": "Thirunelvelly Centre North",
+      "query_id": "7153",
+      "children": [
+        {
+          "id": "LK-413313001",
+          "name": "Thirunelvelly North East",
+          "query_id": "24843"
+        },
+        {
+          "id": "LK-413313002",
+          "name": "Thirunelvely village  Extension scheme",
+          "query_id": "24844"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133135",
+      "name": "Kondavil North West",
+      "query_id": "7154",
+      "children": [
+        {
+          "id": "LK-413313501",
+          "name": "Kondavil North West",
+          "query_id": "24845"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133140",
+      "name": "Kondavil South West",
+      "query_id": "7155",
+      "children": [
+        {
+          "id": "LK-413314001",
+          "name": "Kondavil South West",
+          "query_id": "24846"
+        },
+        {
+          "id": "LK-413314002",
+          "name": "Nandavil (Part)",
+          "query_id": "24847"
+        },
+        {
+          "id": "LK-413314003",
+          "name": "Uppumadam",
+          "query_id": "24848"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133145",
+      "name": "Kondavil Centre  West",
+      "query_id": "7156",
+      "children": [
+        {
+          "id": "LK-413314501",
+          "name": "Kondavil Centre West",
+          "query_id": "24849"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133150",
+      "name": "Kondavil Centre  East",
+      "query_id": "7157",
+      "children": [
+        {
+          "id": "LK-413315001",
+          "name": "Kondavil Centre East",
+          "query_id": "24850"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133155",
+      "name": "Kondavil North East",
+      "query_id": "7158",
+      "children": [
+        {
+          "id": "LK-413315501",
+          "name": "Kondavil North",
+          "query_id": "24851"
+        },
+        {
+          "id": "LK-413315502",
+          "name": "Nanthavil (Part)",
+          "query_id": "24852"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133160",
+      "name": "Kondavil South East",
+      "query_id": "7159",
+      "children": [
+        {
+          "id": "LK-413316001",
+          "name": "Kondavil South East",
+          "query_id": "24853"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133165",
+      "name": "Kokuvil North East",
+      "query_id": "7160",
+      "children": [
+        {
+          "id": "LK-413316501",
+          "name": "Kokuvil North East",
+          "query_id": "24854"
+        },
+        {
+          "id": "LK-413316502",
+          "name": "Nanthavil (Part)",
+          "query_id": "24855"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133170",
+      "name": "Kokuvil East",
+      "query_id": "7161",
+      "children": [
+        {
+          "id": "LK-413317001",
+          "name": "Kokuvil East",
+          "query_id": "24856"
+        },
+        {
+          "id": "LK-413317002",
+          "name": "Konavalai",
+          "query_id": "24857"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133175",
+      "name": "Kokuvil South East",
+      "query_id": "7162",
+      "children": [
+        {
+          "id": "LK-413317501",
+          "name": "Thalaiyady",
+          "query_id": "24858"
+        },
+        {
+          "id": "LK-413317502",
+          "name": "Pirampady",
+          "query_id": "24859"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133180",
+      "name": "Kokuvil North West",
+      "query_id": "7163",
+      "children": [
+        {
+          "id": "LK-413318001",
+          "name": "Kokuvil North West",
+          "query_id": "24860"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133185",
+      "name": "Kokuvil West",
+      "query_id": "7164",
+      "children": [
+        {
+          "id": "LK-413318501",
+          "name": "Kokuvil  West",
+          "query_id": "24861"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133190",
+      "name": "Kokuvil Centre East",
+      "query_id": "7165",
+      "children": [
+        {
+          "id": "LK-413319001",
+          "name": "Kokuvil Centre East",
+          "query_id": "24862"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133195",
+      "name": "Kokuvil South West",
+      "query_id": "7166",
+      "children": [
+        {
+          "id": "LK-413319501",
+          "name": "Gandhigi",
+          "query_id": "24863"
+        },
+        {
+          "id": "LK-413319502",
+          "name": "Keniyadi",
+          "query_id": "24864"
+        },
+        {
+          "id": "LK-413319503",
+          "name": "Iyanar kovilady",
+          "query_id": "24865"
+        }
+      ]
+    },
+    {
+      "id": "LK-4133200",
+      "name": "Kokuvil Centre West",
+      "query_id": "7167",
+      "children": [
+        {
+          "id": "LK-413320001",
+          "name": "Kokuvil Centre West",
+          "query_id": "24866"
+        }
+      ]
+    }
+  ]
+}

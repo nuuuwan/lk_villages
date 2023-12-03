@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**26,958** Villages from **7,013** GNDs in **137** DSDs (4.092MB), scraped as of *2023-12-03 20:35:34*.
+**27,532** Villages from **7,201** GNDs in **142** DSDs (4.184MB), scraped as of *2023-12-03 20:52:27*.
 
 ## LK-1 - Western
 
@@ -180,3 +180,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-4112](data/villages/LK-4112.json) - Valikamam North (Tellipallai)
 * [LK-4115](data/villages/LK-4115.json) - Valikamam South (Uduvil)
 * [LK-4118](data/villages/LK-4118.json) - Valikamam East (Kopay)
+* [LK-4121](data/villages/LK-4121.json) - Vadamaradchi South-West (Karaveddy)
+* [LK-4124](data/villages/LK-4124.json) - Vadamaradchi East
+* [LK-4127](data/villages/LK-4127.json) - Vadamaradchi North (Point Pedro)
+* [LK-4130](data/villages/LK-4130.json) - Thenmaradchi (Chavakachcheri)
+* [LK-4133](data/villages/LK-4133.json) - Nallur
