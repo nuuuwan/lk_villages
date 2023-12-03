@@ -1,0 +1,867 @@
+{
+  "id": "LK-8209",
+  "name": "Medagama",
+  "query_id": "1238",
+  "children": [
+    {
+      "id": "LK-8209005",
+      "name": "Pothubandana",
+      "query_id": "12405",
+      "children": [
+        {
+          "id": "LK-820900501",
+          "name": "Pothubaddana",
+          "query_id": "29964"
+        },
+        {
+          "id": "LK-820900502",
+          "name": "Hewendeniya",
+          "query_id": "52497"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209010",
+      "name": "Yakunnawa",
+      "query_id": "12406",
+      "children": [
+        {
+          "id": "LK-820901002",
+          "name": "Wayadena",
+          "query_id": "52501"
+        },
+        {
+          "id": "LK-820901004",
+          "name": "Yakunnawa west ",
+          "query_id": "29963"
+        },
+        {
+          "id": "LK-820901003",
+          "name": "Yakunnawa East",
+          "query_id": "52502"
+        },
+        {
+          "id": "LK-820901001",
+          "name": "Dunumawa",
+          "query_id": "52499"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209015",
+      "name": "Bendiyawa",
+      "query_id": "12407",
+      "children": [
+        {
+          "id": "LK-820901503",
+          "name": "Pattiyawatta",
+          "query_id": "52505"
+        },
+        {
+          "id": "LK-820901502",
+          "name": "Gangodawatta",
+          "query_id": "52504"
+        },
+        {
+          "id": "LK-820901501",
+          "name": "Bendiyawa",
+          "query_id": "29960"
+        },
+        {
+          "id": "LK-820901504",
+          "name": "Thittawel kivula",
+          "query_id": "52507"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209020",
+      "name": "Kotabowa",
+      "query_id": "12408",
+      "children": [
+        {
+          "id": "LK-820902002",
+          "name": "Aluthwela",
+          "query_id": "52510"
+        },
+        {
+          "id": "LK-820902003",
+          "name": "Galahabedda",
+          "query_id": "52511"
+        },
+        {
+          "id": "LK-820902005",
+          "name": "Dewalegoda",
+          "query_id": "52514"
+        },
+        {
+          "id": "LK-820902004",
+          "name": "Morandawa",
+          "query_id": "52513"
+        },
+        {
+          "id": "LK-820902006",
+          "name": "Dimbuldena",
+          "query_id": "52516"
+        },
+        {
+          "id": "LK-820902001",
+          "name": "Kotabowa",
+          "query_id": "29959"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209025",
+      "name": "Godigamuwa",
+      "query_id": "12409",
+      "children": [
+        {
+          "id": "LK-820902502",
+          "name": "Kotabowa part",
+          "query_id": "52517"
+        },
+        {
+          "id": "LK-820902501",
+          "name": "Godigamuwa",
+          "query_id": "29965"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209030",
+      "name": "Senpathigama",
+      "query_id": "12410",
+      "children": [
+        {
+          "id": "LK-820903002",
+          "name": "Palle welipitiya",
+          "query_id": "52518"
+        },
+        {
+          "id": "LK-820903001",
+          "name": "Senpathigama",
+          "query_id": "29962"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209035",
+      "name": "Iwela",
+      "query_id": "12411",
+      "children": [
+        {
+          "id": "LK-820903502",
+          "name": "Karanemma",
+          "query_id": "52521"
+        },
+        {
+          "id": "LK-820903501",
+          "name": "Aiwela",
+          "query_id": "29967"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209040",
+      "name": "Senapathiya",
+      "query_id": "12412",
+      "children": [
+        {
+          "id": "LK-820904001",
+          "name": "Senapathiya",
+          "query_id": "29966"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209045",
+      "name": "Bibilamulla",
+      "query_id": "12413",
+      "children": [
+        {
+          "id": "LK-820904502",
+          "name": "Poodalumulla",
+          "query_id": "52522"
+        },
+        {
+          "id": "LK-820904503",
+          "name": "Badalagammana",
+          "query_id": "52523"
+        },
+        {
+          "id": "LK-820904501",
+          "name": "Bibilamulla",
+          "query_id": "29968"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209050",
+      "name": "Nannapurawa",
+      "query_id": "12414",
+      "children": [
+        {
+          "id": "LK-820905005",
+          "name": "Welipitiya",
+          "query_id": "52527"
+        },
+        {
+          "id": "LK-820905004",
+          "name": "Keenalanda",
+          "query_id": "52526"
+        },
+        {
+          "id": "LK-820905002",
+          "name": "Ambanporuwa",
+          "query_id": "52524"
+        },
+        {
+          "id": "LK-820905001",
+          "name": "Nannapurawa",
+          "query_id": "29958"
+        },
+        {
+          "id": "LK-820905003",
+          "name": "Dahamgama Road",
+          "query_id": "52525"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209055",
+      "name": "Dahamgama",
+      "query_id": "12415",
+      "children": [
+        {
+          "id": "LK-820905502",
+          "name": "Aratumedilla",
+          "query_id": "52528"
+        },
+        {
+          "id": "LK-820905503",
+          "name": "Morabedda",
+          "query_id": "52529"
+        },
+        {
+          "id": "LK-820905501",
+          "name": "Dahamgama",
+          "query_id": "29961"
+        },
+        {
+          "id": "LK-820905504",
+          "name": "Pallearawa",
+          "query_id": "52530"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209060",
+      "name": "Kalugahawadiya",
+      "query_id": "12416",
+      "children": [
+        {
+          "id": "LK-820906003",
+          "name": "Dewalegoda",
+          "query_id": "52534"
+        },
+        {
+          "id": "LK-820906001",
+          "name": "Kaligahawadiya",
+          "query_id": "52532"
+        },
+        {
+          "id": "LK-820906002",
+          "name": "Thungalthota",
+          "query_id": "52533"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209065",
+      "name": "Koongolla",
+      "query_id": "12417",
+      "children": [
+        {
+          "id": "LK-820906502",
+          "name": "Puranwela",
+          "query_id": "52531"
+        },
+        {
+          "id": "LK-820906501",
+          "name": "Kongolla",
+          "query_id": "29969"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209070",
+      "name": "Diviyapola",
+      "query_id": "12418",
+      "children": [
+        {
+          "id": "LK-820907001",
+          "name": "Diviyapola",
+          "query_id": "29971"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209075",
+      "name": "Kohukumbura",
+      "query_id": "12419",
+      "children": [
+        {
+          "id": "LK-820907502",
+          "name": "Dalawagalla",
+          "query_id": "52535"
+        },
+        {
+          "id": "LK-820907504",
+          "name": "Alupotha",
+          "query_id": "52537"
+        },
+        {
+          "id": "LK-820907501",
+          "name": "Kohukumbura",
+          "query_id": "29973"
+        },
+        {
+          "id": "LK-820907503",
+          "name": "Nahangoda",
+          "query_id": "52536"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209080",
+      "name": "Nugamura",
+      "query_id": "12420",
+      "children": [
+        {
+          "id": "LK-820908002",
+          "name": "Pahala Nugamura",
+          "query_id": "52538"
+        },
+        {
+          "id": "LK-820908001",
+          "name": "Hela Nugamura",
+          "query_id": "29975"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209085",
+      "name": "Ellekoona",
+      "query_id": "12421",
+      "children": [
+        {
+          "id": "LK-820908503",
+          "name": "Kaddamuwawa",
+          "query_id": "52540"
+        },
+        {
+          "id": "LK-820908502",
+          "name": "Bogahawela",
+          "query_id": "52539"
+        },
+        {
+          "id": "LK-820908501",
+          "name": "Ellekoona",
+          "query_id": "29976"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209090",
+      "name": "Dahagoniya",
+      "query_id": "12422",
+      "children": [
+        {
+          "id": "LK-820909001",
+          "name": "Dahagoniya",
+          "query_id": "29972"
+        },
+        {
+          "id": "LK-820909002",
+          "name": "Miyanakandura Gama",
+          "query_id": "52541"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209095",
+      "name": "Monarawana",
+      "query_id": "12423",
+      "children": [
+        {
+          "id": "LK-820909502",
+          "name": "Nakkalagoda",
+          "query_id": "52542"
+        },
+        {
+          "id": "LK-820909501",
+          "name": "Monarawana",
+          "query_id": "29970"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209100",
+      "name": "Mellagama",
+      "query_id": "12424",
+      "children": [
+        {
+          "id": "LK-820910003",
+          "name": "Malgasthalawa",
+          "query_id": "52553"
+        },
+        {
+          "id": "LK-820910004",
+          "name": "Kahatiyanwela",
+          "query_id": "52554"
+        },
+        {
+          "id": "LK-820910002",
+          "name": "Dambakenella",
+          "query_id": "52552"
+        },
+        {
+          "id": "LK-820910001",
+          "name": "Mellagama",
+          "query_id": "52550"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209105",
+      "name": "Thambana",
+      "query_id": "12425",
+      "children": [
+        {
+          "id": "LK-820910503",
+          "name": "Karametiya",
+          "query_id": "52549"
+        },
+        {
+          "id": "LK-820910502",
+          "name": "Palle Thambana",
+          "query_id": "52548"
+        },
+        {
+          "id": "LK-820910501",
+          "name": "Uda Thambana",
+          "query_id": "52547"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209110",
+      "name": "Thimbiriya",
+      "query_id": "12426",
+      "children": [
+        {
+          "id": "LK-820911005",
+          "name": "Pitiyawatta",
+          "query_id": "52546"
+        },
+        {
+          "id": "LK-820911003",
+          "name": "2 kanuwa",
+          "query_id": "52544"
+        },
+        {
+          "id": "LK-820911004",
+          "name": "Polgahawela",
+          "query_id": "52545"
+        },
+        {
+          "id": "LK-820911002",
+          "name": "1 kanuwa",
+          "query_id": "52543"
+        },
+        {
+          "id": "LK-820911001",
+          "name": "Thimbiriya",
+          "query_id": "29980"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209115",
+      "name": "Medagama",
+      "query_id": "12427",
+      "children": [
+        {
+          "id": "LK-820911501",
+          "name": "Medagama",
+          "query_id": "29979"
+        },
+        {
+          "id": "LK-820911502",
+          "name": "Meegahawagura",
+          "query_id": "52555"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209120",
+      "name": "Elhena",
+      "query_id": "12428",
+      "children": [
+        {
+          "id": "LK-820912001",
+          "name": "Elhena",
+          "query_id": "29974"
+        },
+        {
+          "id": "LK-820912002",
+          "name": "Kalagahawaka",
+          "query_id": "52556"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209125",
+      "name": "Pitadeniya",
+      "query_id": "12429",
+      "children": [
+        {
+          "id": "LK-820912501",
+          "name": "Pitadeniya",
+          "query_id": "29978"
+        },
+        {
+          "id": "LK-820912502",
+          "name": "Udawela",
+          "query_id": "52557"
+        },
+        {
+          "id": "LK-820912503",
+          "name": "Hela Arawa",
+          "query_id": "52558"
+        },
+        {
+          "id": "LK-820912504",
+          "name": "Tangalpitiya",
+          "query_id": "52559"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209130",
+      "name": "Kinnaraboowa",
+      "query_id": "12430",
+      "children": [
+        {
+          "id": "LK-820913001",
+          "name": "Kinnarabowa",
+          "query_id": "29983"
+        },
+        {
+          "id": "LK-820913005",
+          "name": "Panikkawatta",
+          "query_id": "52563"
+        },
+        {
+          "id": "LK-820913004",
+          "name": "Piyawinna",
+          "query_id": "52562"
+        },
+        {
+          "id": "LK-820913003",
+          "name": "Mulathalawa",
+          "query_id": "52561"
+        },
+        {
+          "id": "LK-820913002",
+          "name": "Bokulkumbura",
+          "query_id": "52560"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209135",
+      "name": "Ilukkumbura",
+      "query_id": "12431",
+      "children": [
+        {
+          "id": "LK-820913501",
+          "name": "Ilukkumbura",
+          "query_id": "29981"
+        },
+        {
+          "id": "LK-820913506",
+          "name": "Ranminigama",
+          "query_id": "52568"
+        },
+        {
+          "id": "LK-820913504",
+          "name": "Nilwalagoda",
+          "query_id": "52566"
+        },
+        {
+          "id": "LK-820913503",
+          "name": "Galaha",
+          "query_id": "52565"
+        },
+        {
+          "id": "LK-820913502",
+          "name": "Alanmulla",
+          "query_id": "52564"
+        },
+        {
+          "id": "LK-820913505",
+          "name": "Badullagolla",
+          "query_id": "52567"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209140",
+      "name": "Bakinigahawela",
+      "query_id": "12432",
+      "children": [
+        {
+          "id": "LK-820914001",
+          "name": "Bakinigahawela",
+          "query_id": "29977"
+        },
+        {
+          "id": "LK-820914002",
+          "name": "Bakinigahawela street",
+          "query_id": "52569"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209145",
+      "name": "Pubbara",
+      "query_id": "12433",
+      "children": [
+        {
+          "id": "LK-820914503",
+          "name": "Meegasthenna",
+          "query_id": "52572"
+        },
+        {
+          "id": "LK-820914505",
+          "name": "Horagaswatta",
+          "query_id": "52574"
+        },
+        {
+          "id": "LK-820914502",
+          "name": "Rathupaha",
+          "query_id": "52571"
+        },
+        {
+          "id": "LK-820914504",
+          "name": "Tenwatta",
+          "query_id": "52573"
+        },
+        {
+          "id": "LK-820914501",
+          "name": "Dewalegoda",
+          "query_id": "52570"
+        },
+        {
+          "id": "LK-820914506",
+          "name": "Mahadamana",
+          "query_id": "52575"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209150",
+      "name": "Polgahapitiya",
+      "query_id": "12434",
+      "children": [
+        {
+          "id": "LK-820915001",
+          "name": "Polgahapitiya",
+          "query_id": "52576"
+        },
+        {
+          "id": "LK-820915002",
+          "name": "Dehigaha Arawa",
+          "query_id": "52577"
+        },
+        {
+          "id": "LK-820915003",
+          "name": "Udagangoda",
+          "query_id": "52578"
+        },
+        {
+          "id": "LK-820915004",
+          "name": "Moragahamada",
+          "query_id": "52579"
+        },
+        {
+          "id": "LK-820915005",
+          "name": "Dibiyagas Ara",
+          "query_id": "52580"
+        },
+        {
+          "id": "LK-820915006",
+          "name": "Kanegalamulla",
+          "query_id": "52581"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209155",
+      "name": "Kendawinna",
+      "query_id": "12435",
+      "children": [
+        {
+          "id": "LK-820915501",
+          "name": "Kandavinna",
+          "query_id": "52582"
+        },
+        {
+          "id": "LK-820915502",
+          "name": "Mahagangoda",
+          "query_id": "52583"
+        },
+        {
+          "id": "LK-820915503",
+          "name": "Koongahalanda",
+          "query_id": "52584"
+        },
+        {
+          "id": "LK-820915504",
+          "name": "Yatiella",
+          "query_id": "52585"
+        },
+        {
+          "id": "LK-820915505",
+          "name": "Iththagala",
+          "query_id": "52586"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209160",
+      "name": "Alana",
+      "query_id": "12436",
+      "children": [
+        {
+          "id": "LK-820916001",
+          "name": "Alana",
+          "query_id": "29982"
+        },
+        {
+          "id": "LK-820916002",
+          "name": "Eriyagahamada",
+          "query_id": "52588"
+        },
+        {
+          "id": "LK-820916003",
+          "name": "Koswatta",
+          "query_id": "52589"
+        },
+        {
+          "id": "LK-820916004",
+          "name": "Ehelagahawadiya",
+          "query_id": "52591"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209165",
+      "name": "Raththanadeniaya",
+      "query_id": "12437",
+      "children": [
+        {
+          "id": "LK-820916501",
+          "name": "Rattanadeniya",
+          "query_id": "52593"
+        },
+        {
+          "id": "LK-820916502",
+          "name": "Dehigahapitiya",
+          "query_id": "52594"
+        },
+        {
+          "id": "LK-820916503",
+          "name": "Horagolla",
+          "query_id": "52595"
+        },
+        {
+          "id": "LK-820916504",
+          "name": "Aragawatta",
+          "query_id": "52596"
+        },
+        {
+          "id": "LK-820916505",
+          "name": "Wewmada",
+          "query_id": "52597"
+        },
+        {
+          "id": "LK-820916506",
+          "name": "Hewandowa",
+          "query_id": "52598"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209170",
+      "name": "Amunekandura",
+      "query_id": "12438",
+      "children": [
+        {
+          "id": "LK-820917001",
+          "name": "Amune Kandura",
+          "query_id": "52599"
+        },
+        {
+          "id": "LK-820917002",
+          "name": "15 kanuwa",
+          "query_id": "52600"
+        },
+        {
+          "id": "LK-820917003",
+          "name": "17 kanuwa",
+          "query_id": "52601"
+        },
+        {
+          "id": "LK-820917004",
+          "name": "Nelligolla",
+          "query_id": "52602"
+        }
+      ]
+    },
+    {
+      "id": "LK-8209175",
+      "name": "Keenagoda",
+      "query_id": "12439",
+      "children": [
+        {
+          "id": "LK-820917501",
+          "name": "Keenagoda",
+          "query_id": "52603"
+        },
+        {
+          "id": "LK-820917502",
+          "name": "Egodagama",
+          "query_id": "52604"
+        },
+        {
+          "id": "LK-820917503",
+          "name": "Usgamuyaya",
+          "query_id": "52605"
+        },
+        {
+          "id": "LK-820917504",
+          "name": "Maduthenna",
+          "query_id": "52606"
+        },
+        {
+          "id": "LK-820917505",
+          "name": "Polgahakandura",
+          "query_id": "52607"
+        }
+      ]
+    }
+  ]
+}

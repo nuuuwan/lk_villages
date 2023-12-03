@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**45,727** Villages from **12,460** GNDs in **297** DSDs (6.986MB), scraped as of *2023-12-04 04:36:52*.
+**46,475** Villages from **12,638** GNDs in **302** DSDs (7.096MB), scraped as of *2023-12-04 04:53:00*.
 
 ## LK-1 - Western
 
@@ -384,3 +384,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-8130](data/villages/LK-8130.json) - Welimada
 * [LK-8133](data/villages/LK-8133.json) - Bandarawela
 * [LK-8136](data/villages/LK-8136.json) - Ella
+* [LK-8139](data/villages/LK-8139.json) - Haputale
+* [LK-8142](data/villages/LK-8142.json) - Haldummulla
+
+### LK-82 - Moneragala
+
+* [LK-8203](data/villages/LK-8203.json) - Bibile
+* [LK-8206](data/villages/LK-8206.json) - Madulla
+* [LK-8209](data/villages/LK-8209.json) - Medagama
