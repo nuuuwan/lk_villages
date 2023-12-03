@@ -30,7 +30,14 @@ def scrape():
     n_completed_runs = 0
     for d in data_list:
         dsd = Region(**d)
-        if dsd.write():
+
+        is_complete = False
+        try:
+            is_complete = dsd.write()
+        except Exception as e:
+            log.error(f'Failed to write {d}: {e}')
+
+        if is_complete:
             random_sleep()
             n_completed_runs += 1
             if n_completed_runs >= MAX_COMPLETED_RUNS:
