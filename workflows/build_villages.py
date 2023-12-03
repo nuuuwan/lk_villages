@@ -8,7 +8,7 @@ from workflows.build_dsds import DSD_DATA_PATH
 
 log = Log('pipeline')
 
-MAX_COMPLETED_RUNS = 1
+MAX_COMPLETED_RUNS = 5
 log.debug(f'🪛{MAX_COMPLETED_RUNS=}')
 
 
