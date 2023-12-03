@@ -1,0 +1,1340 @@
+{
+  "id": "LK-2133",
+  "name": "Harispattuwa",
+  "query_id": "1000",
+  "children": [
+    {
+      "id": "LK-2133005",
+      "name": "Amuwandeniya",
+      "query_id": "3089",
+      "children": [
+        {
+          "id": "LK-213300501",
+          "name": "Uda Ihagama",
+          "query_id": "12753"
+        },
+        {
+          "id": "LK-213300502",
+          "name": "Gallellagama",
+          "query_id": "12754"
+        },
+        {
+          "id": "LK-213300503",
+          "name": "Part of the Godapalawatta ",
+          "query_id": "12755"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133010",
+      "name": "Doranegama",
+      "query_id": "3090",
+      "children": [
+        {
+          "id": "LK-213301001",
+          "name": "Magurudeniya Gama ",
+          "query_id": "12750"
+        },
+        {
+          "id": "LK-213301002",
+          "name": "Doranegama ",
+          "query_id": "12751"
+        },
+        {
+          "id": "LK-213301003",
+          "name": "Magurudeniya colony",
+          "query_id": "12752"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133015",
+      "name": "Ihagama",
+      "query_id": "3091",
+      "children": [
+        {
+          "id": "LK-213301501",
+          "name": "Ihagama",
+          "query_id": "12756"
+        },
+        {
+          "id": "LK-213301502",
+          "name": "Part of Panahetipola ",
+          "query_id": "12757"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133020",
+      "name": "Medawala",
+      "query_id": "3092",
+      "children": [
+        {
+          "id": "LK-213302001",
+          "name": "Madawela",
+          "query_id": "12746"
+        },
+        {
+          "id": "LK-213302002",
+          "name": "Godapolawatta",
+          "query_id": "54713"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133025",
+      "name": "Angoda",
+      "query_id": "3093",
+      "children": [
+        {
+          "id": "LK-213302501",
+          "name": "Angoda",
+          "query_id": "12747"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133030",
+      "name": "Dembaralawa",
+      "query_id": "3094",
+      "children": [
+        {
+          "id": "LK-213303001",
+          "name": "Panahetipola",
+          "query_id": "12748"
+        },
+        {
+          "id": "LK-213303002",
+          "name": "Part of Bothota ",
+          "query_id": "12749"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133035",
+      "name": "Bothota",
+      "query_id": "3095",
+      "children": [
+        {
+          "id": "LK-213303501",
+          "name": "Part of the Bothota",
+          "query_id": "12744"
+        },
+        {
+          "id": "LK-213303502",
+          "name": "Dodamthenna",
+          "query_id": "12745"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133040",
+      "name": "Attaragama East",
+      "query_id": "3096",
+      "children": [
+        {
+          "id": "LK-213304001",
+          "name": "Ranwalagama",
+          "query_id": "12739"
+        },
+        {
+          "id": "LK-213304002",
+          "name": "Part of the Kaluwana colony",
+          "query_id": "12740"
+        },
+        {
+          "id": "LK-213304003",
+          "name": "Gorakagas Anga",
+          "query_id": "12741"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133045",
+      "name": "Attaragama",
+      "query_id": "3097",
+      "children": [
+        {
+          "id": "LK-213304501",
+          "name": "Makotiyawattagama",
+          "query_id": "12737"
+        },
+        {
+          "id": "LK-213304502",
+          "name": "Kotuwatenna",
+          "query_id": "12738"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133050",
+      "name": "Gonigoda-Palkumbura",
+      "query_id": "3098",
+      "children": [
+        {
+          "id": "LK-213305001",
+          "name": "Part of the Ulladupitiyagama",
+          "query_id": "12705"
+        },
+        {
+          "id": "LK-213305002",
+          "name": "Part of the  Gonigoda village ",
+          "query_id": "12707"
+        },
+        {
+          "id": "LK-213305003",
+          "name": "Palkumburagama",
+          "query_id": "12708"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133055",
+      "name": "Gonigoda",
+      "query_id": "3099",
+      "children": [
+        {
+          "id": "LK-213305501",
+          "name": "Gonigoda",
+          "query_id": "12703"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133060",
+      "name": "Attaragama South",
+      "query_id": "3100",
+      "children": [
+        {
+          "id": "LK-213306001",
+          "name": "Dekinda",
+          "query_id": "12742"
+        },
+        {
+          "id": "LK-213306002",
+          "name": "Harankahawatanna",
+          "query_id": "12743"
+        },
+        {
+          "id": "LK-213306003",
+          "name": "Part of the kaluwana",
+          "query_id": "54714"
+        },
+        {
+          "id": "LK-213306004",
+          "name": "Part of the aththaragama",
+          "query_id": "54715"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133065",
+      "name": "Hapugoda",
+      "query_id": "3101",
+      "children": [
+        {
+          "id": "LK-213306501",
+          "name": "Hapugodagama",
+          "query_id": "12558"
+        },
+        {
+          "id": "LK-213306502",
+          "name": "Pallebokalawelagama",
+          "query_id": "12559"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133070",
+      "name": "Udabokalawela",
+      "query_id": "3102",
+      "children": [
+        {
+          "id": "LK-213307001",
+          "name": "Udabokalawela",
+          "query_id": "12550"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133075",
+      "name": "Rajapihilla",
+      "query_id": "3103",
+      "children": [
+        {
+          "id": "LK-213307501",
+          "name": "Rajapihilla Gama ",
+          "query_id": "12666"
+        },
+        {
+          "id": "LK-213307502",
+          "name": "Part of the Endarutenna Village ",
+          "query_id": "12668"
+        },
+        {
+          "id": "LK-213307503",
+          "name": "Part of the Ulladupitiya ",
+          "query_id": "12669"
+        },
+        {
+          "id": "LK-213307504",
+          "name": "Part of the Attaragama village ",
+          "query_id": "12670"
+        },
+        {
+          "id": "LK-213307505",
+          "name": "Hapugoda village ",
+          "query_id": "12671"
+        },
+        {
+          "id": "LK-213307506",
+          "name": "Pattiyawatta village",
+          "query_id": "51596"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133080",
+      "name": "Ulladupitiya East",
+      "query_id": "3104",
+      "children": [
+        {
+          "id": "LK-213308001",
+          "name": "13 Colony",
+          "query_id": "12697"
+        },
+        {
+          "id": "LK-213308002",
+          "name": "Part of the Ulladupitiya village ",
+          "query_id": "12698"
+        },
+        {
+          "id": "LK-213308003",
+          "name": "15 Colony",
+          "query_id": "54716"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133085",
+      "name": "Ulladupitiya West",
+      "query_id": "3105",
+      "children": [
+        {
+          "id": "LK-213308501",
+          "name": "Balawathgoda",
+          "query_id": "12699"
+        },
+        {
+          "id": "LK-213308502",
+          "name": "Udapitiya ",
+          "query_id": "12700"
+        },
+        {
+          "id": "LK-213308503",
+          "name": "Pattiyagoda",
+          "query_id": "12701"
+        },
+        {
+          "id": "LK-213308504",
+          "name": "Ulladupitiya",
+          "query_id": "12702"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133090",
+      "name": "Arambegama",
+      "query_id": "3106",
+      "children": [
+        {
+          "id": "LK-213309001",
+          "name": "Beragama",
+          "query_id": "12718"
+        },
+        {
+          "id": "LK-213309002",
+          "name": "Arambegama",
+          "query_id": "12719"
+        },
+        {
+          "id": "LK-213309003",
+          "name": "Part of the Aladeniya",
+          "query_id": "12720"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133095",
+      "name": "Aladeniya",
+      "query_id": "3107",
+      "children": [
+        {
+          "id": "LK-213309501",
+          "name": "Part of the Aladeniyagama",
+          "query_id": "12721"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133100",
+      "name": "Hedeniya",
+      "query_id": "3108",
+      "children": [
+        {
+          "id": "LK-213310001",
+          "name": "Hedeniya  ",
+          "query_id": "12722"
+        },
+        {
+          "id": "LK-213310002",
+          "name": "Part of the Aladeniya village",
+          "query_id": "51598"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133105",
+      "name": "Rajasinhagama",
+      "query_id": "3109",
+      "children": [
+        {
+          "id": "LK-213310501",
+          "name": "Part of the Rajasinhagama",
+          "query_id": "12731"
+        },
+        {
+          "id": "LK-213310502",
+          "name": "Girandeniya village",
+          "query_id": "51600"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133110",
+      "name": "Palkumbura",
+      "query_id": "3110",
+      "children": [
+        {
+          "id": "LK-213311001",
+          "name": "Bolagalawatta",
+          "query_id": "12726"
+        },
+        {
+          "id": "LK-213311002",
+          "name": "Palkumbura",
+          "query_id": "12727"
+        },
+        {
+          "id": "LK-213311003",
+          "name": "Rilagalawatta",
+          "query_id": "12728"
+        },
+        {
+          "id": "LK-213311004",
+          "name": "Part of the Rajasinhagama",
+          "query_id": "12729"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133115",
+      "name": "Narangoda",
+      "query_id": "3111",
+      "children": [
+        {
+          "id": "LK-213311501",
+          "name": "Narangoda ",
+          "query_id": "12724"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133120",
+      "name": "Kurundugolla",
+      "query_id": "3112",
+      "children": [
+        {
+          "id": "LK-213312001",
+          "name": "Kurundugolla",
+          "query_id": "12725"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133125",
+      "name": "Viguhumpola",
+      "query_id": "3113",
+      "children": [
+        {
+          "id": "LK-213312501",
+          "name": "Viguhumpola",
+          "query_id": "12714"
+        },
+        {
+          "id": "LK-213312502",
+          "name": "Part of the Aladeniyagama",
+          "query_id": "12715"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133130",
+      "name": "Hiriyalagammana",
+      "query_id": "3114",
+      "children": [
+        {
+          "id": "LK-213313001",
+          "name": "Barigama",
+          "query_id": "12653"
+        },
+        {
+          "id": "LK-213313002",
+          "name": "Part of teh thiththapajjala",
+          "query_id": "12654"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133135",
+      "name": "Thittapajjala",
+      "query_id": "3115",
+      "children": [
+        {
+          "id": "LK-213313501",
+          "name": "Part of the Thittapajjala village ",
+          "query_id": "12660"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133140",
+      "name": "Thittapajjala North",
+      "query_id": "3116",
+      "children": [
+        {
+          "id": "LK-213314001",
+          "name": "Part of the Thiththapajjala village ",
+          "query_id": "12665"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133145",
+      "name": "Nugawela",
+      "query_id": "3117",
+      "children": [
+        {
+          "id": "LK-213314501",
+          "name": "Nugawela",
+          "query_id": "12640"
+        },
+        {
+          "id": "LK-213314502",
+          "name": "Part of the Mapamadulla",
+          "query_id": "12642"
+        },
+        {
+          "id": "LK-213314503",
+          "name": "Part of the Ulladupitiya",
+          "query_id": "12643"
+        },
+        {
+          "id": "LK-213314504",
+          "name": "Part of the Thiththapajjala",
+          "query_id": "12644"
+        },
+        {
+          "id": "LK-213314505",
+          "name": "Partof theEmbulpuraya village",
+          "query_id": "12645"
+        },
+        {
+          "id": "LK-213314507",
+          "name": "Werallagama",
+          "query_id": "12646"
+        },
+        {
+          "id": "LK-213314506",
+          "name": "Yakunkelipitiya",
+          "query_id": "54717"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133150",
+      "name": "Batuambe",
+      "query_id": "3118",
+      "children": [
+        {
+          "id": "LK-213315001",
+          "name": "Batuambe village ",
+          "query_id": "12648"
+        },
+        {
+          "id": "LK-213315002",
+          "name": "Part of the Ambulpuraya village",
+          "query_id": "51604"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133155",
+      "name": "Endaruthenna",
+      "query_id": "3119",
+      "children": [
+        {
+          "id": "LK-213315501",
+          "name": "Part of the Endaruthenna village ",
+          "query_id": "12649"
+        },
+        {
+          "id": "LK-213315503",
+          "name": "Part of the Ulladupitiya ",
+          "query_id": "12651"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133160",
+      "name": "Embulpure",
+      "query_id": "3120",
+      "children": [
+        {
+          "id": "LK-213316001",
+          "name": "PArt of the Embulpure village",
+          "query_id": "12647"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133165",
+      "name": "Uduwawala West",
+      "query_id": "3121",
+      "children": [
+        {
+          "id": "LK-213316501",
+          "name": "Part of the Uduwawala",
+          "query_id": "12518"
+        },
+        {
+          "id": "LK-213316502",
+          "name": "Balagolla ",
+          "query_id": "12522"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133170",
+      "name": "Uduwawala North",
+      "query_id": "3122",
+      "children": [
+        {
+          "id": "LK-213317001",
+          "name": "Part of the Uduwawala",
+          "query_id": "12519"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133175",
+      "name": "Pallebokalawela",
+      "query_id": "3123",
+      "children": [
+        {
+          "id": "LK-213317501",
+          "name": "Bokalawela",
+          "query_id": "12549"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133180",
+      "name": "Ranawana West",
+      "query_id": "3124",
+      "children": [
+        {
+          "id": "LK-213318001",
+          "name": "Part of the Ranawana village",
+          "query_id": "12562"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133185",
+      "name": "Ranawana East",
+      "query_id": "3125",
+      "children": [
+        {
+          "id": "LK-213318501",
+          "name": "Owathenna village",
+          "query_id": "12552"
+        },
+        {
+          "id": "LK-213318502",
+          "name": "Part of the Ranawana village",
+          "query_id": "12553"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133190",
+      "name": "Uduwawala East",
+      "query_id": "3126",
+      "children": [
+        {
+          "id": "LK-213319001",
+          "name": "Part of the Uduwawala ",
+          "query_id": "12521"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133195",
+      "name": "Senarathgama North",
+      "query_id": "3127",
+      "children": [
+        {
+          "id": "LK-213319501",
+          "name": "Ihala Senarathgama ",
+          "query_id": "12465"
+        },
+        {
+          "id": "LK-213319502",
+          "name": "Nikatanna village ",
+          "query_id": "12466"
+        },
+        {
+          "id": "LK-213319503",
+          "name": "Bakmeeanga colony",
+          "query_id": "12467"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133200",
+      "name": "Wathuwala",
+      "query_id": "3128",
+      "children": [
+        {
+          "id": "LK-213320001",
+          "name": "Wathuwala village",
+          "query_id": "12696"
+        },
+        {
+          "id": "LK-213320002",
+          "name": "Korawakkawa",
+          "query_id": "51606"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133205",
+      "name": "Uyanwatta",
+      "query_id": "3129",
+      "children": [
+        {
+          "id": "LK-213320502",
+          "name": "Part of the wathuwala village",
+          "query_id": "54718"
+        },
+        {
+          "id": "LK-213320501",
+          "name": "Uyanwatta village",
+          "query_id": "12695"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133210",
+      "name": "Dadahogama",
+      "query_id": "3130",
+      "children": [
+        {
+          "id": "LK-213321001",
+          "name": "Dadahogama",
+          "query_id": "12586"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133215",
+      "name": "Mapamadulla",
+      "query_id": "3131",
+      "children": [
+        {
+          "id": "LK-213321501",
+          "name": "Mapamadulla",
+          "query_id": "12636"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133220",
+      "name": "Malagammana",
+      "query_id": "3132",
+      "children": [
+        {
+          "id": "LK-213322001",
+          "name": "Malagammana",
+          "query_id": "12637"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133225",
+      "name": "Ruwanpuraya",
+      "query_id": "3133",
+      "children": [
+        {
+          "id": "LK-213322501",
+          "name": "Ruwanpuraya",
+          "query_id": "12659"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133230",
+      "name": "Kurunduwatta",
+      "query_id": "3134",
+      "children": [
+        {
+          "id": "LK-213323001",
+          "name": "Kurunduwatta colony",
+          "query_id": "12657"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133235",
+      "name": "Ihala Karanduwawala",
+      "query_id": "3135",
+      "children": [
+        {
+          "id": "LK-213323501",
+          "name": "Karanduwawala Upper",
+          "query_id": "12730"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133240",
+      "name": "Pahala Karanduwawala",
+      "query_id": "3136",
+      "children": [
+        {
+          "id": "LK-213324001",
+          "name": "Karaduwawala lower",
+          "query_id": "12732"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133245",
+      "name": "Owathenna",
+      "query_id": "3137",
+      "children": [
+        {
+          "id": "LK-213324501",
+          "name": "Palagalawatta",
+          "query_id": "12733"
+        },
+        {
+          "id": "LK-213324502",
+          "name": "Liyangaha colony",
+          "query_id": "12734"
+        },
+        {
+          "id": "LK-213324503",
+          "name": "No 09  colony",
+          "query_id": "12735"
+        },
+        {
+          "id": "LK-213324504",
+          "name": "Owathanna colony",
+          "query_id": "12736"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133250",
+      "name": "Yahalathenna West",
+      "query_id": "3138",
+      "children": [
+        {
+          "id": "LK-213325001",
+          "name": "Yahalathenna West",
+          "query_id": "12652"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133255",
+      "name": "Yahalathenna Kanda",
+      "query_id": "3139",
+      "children": [
+        {
+          "id": "LK-213325501",
+          "name": "Yahalathenna kanda",
+          "query_id": "12655"
+        },
+        {
+          "id": "LK-213325502",
+          "name": "Yahalathenna colony",
+          "query_id": "12656"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133260",
+      "name": "Kulugammana",
+      "query_id": "3140",
+      "children": [
+        {
+          "id": "LK-213326001",
+          "name": "Kulugammana",
+          "query_id": "12629"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133265",
+      "name": "Uguressapitiya",
+      "query_id": "3141",
+      "children": [
+        {
+          "id": "LK-213326501",
+          "name": "Uguressapitiya",
+          "query_id": "12462"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133270",
+      "name": "Senarathgama South",
+      "query_id": "3142",
+      "children": [
+        {
+          "id": "LK-213327001",
+          "name": "Senerathgama South",
+          "query_id": "12468"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133275",
+      "name": "Kondadeniya",
+      "query_id": "3143",
+      "children": [
+        {
+          "id": "LK-213327501",
+          "name": "Kondadeniya ",
+          "query_id": "12470"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133280",
+      "name": "Etamurungagoda",
+      "query_id": "3144",
+      "children": [
+        {
+          "id": "LK-213328001",
+          "name": "Etamurungagoda colony",
+          "query_id": "12531"
+        },
+        {
+          "id": "LK-213328002",
+          "name": "Part of the Yatiwawala village ",
+          "query_id": "12533"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133285",
+      "name": "Yatiwawala",
+      "query_id": "3145",
+      "children": [
+        {
+          "id": "LK-213328501",
+          "name": "Part of the Yatiwawala village",
+          "query_id": "12529"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133290",
+      "name": "Katugasthota",
+      "query_id": "3146",
+      "children": [
+        {
+          "id": "LK-213329001",
+          "name": "Menikkumbura",
+          "query_id": "12544"
+        },
+        {
+          "id": "LK-213329003",
+          "name": "Part of the katugasthota new town",
+          "query_id": "54720"
+        },
+        {
+          "id": "LK-213329002",
+          "name": "Sappu kade waththa",
+          "query_id": "54719"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133295",
+      "name": "Inigala",
+      "query_id": "3147",
+      "children": [
+        {
+          "id": "LK-213329501",
+          "name": "Inigala",
+          "query_id": "12524"
+        },
+        {
+          "id": "LK-213329502",
+          "name": "Etamurungagoda colony",
+          "query_id": "12525"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133300",
+      "name": "Rathmale",
+      "query_id": "3148",
+      "children": [
+        {
+          "id": "LK-213330001",
+          "name": "Rathmale Village",
+          "query_id": "12506"
+        },
+        {
+          "id": "LK-213330002",
+          "name": "Part of the Kondadeniya Village",
+          "query_id": "12507"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133305",
+      "name": "Hamangoda North",
+      "query_id": "3149",
+      "children": [
+        {
+          "id": "LK-213330501",
+          "name": "Hamangoda North",
+          "query_id": "12583"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133310",
+      "name": "Hamangoda South",
+      "query_id": "3150",
+      "children": [
+        {
+          "id": "LK-213331001",
+          "name": "Ritigahapela",
+          "query_id": "12584"
+        },
+        {
+          "id": "LK-213331002",
+          "name": "Part of the Uggalla Village ",
+          "query_id": "12585"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133315",
+      "name": "Uggalla",
+      "query_id": "3151",
+      "children": [
+        {
+          "id": "LK-213331501",
+          "name": "Uggalla",
+          "query_id": "12460"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133320",
+      "name": "Udadoolwala",
+      "query_id": "3152",
+      "children": [
+        {
+          "id": "LK-213332001",
+          "name": "Udaduulwala",
+          "query_id": "12602"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133325",
+      "name": "Kurundugahamada",
+      "query_id": "3153",
+      "children": [
+        {
+          "id": "LK-213332501",
+          "name": "Kurundugahamada",
+          "query_id": "12630"
+        },
+        {
+          "id": "LK-213332502",
+          "name": "Part of the Duulwala",
+          "query_id": "12632"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133330",
+      "name": "Seewaleekanda",
+      "query_id": "3154",
+      "children": [
+        {
+          "id": "LK-213333001",
+          "name": "Seewalikanda",
+          "query_id": "12626"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133335",
+      "name": "Mahatenna",
+      "query_id": "3155",
+      "children": [
+        {
+          "id": "LK-213333501",
+          "name": "Mahatanna watta",
+          "query_id": "12634"
+        },
+        {
+          "id": "LK-213333502",
+          "name": "Mhathanna colony",
+          "query_id": "12635"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133340",
+      "name": "Bulathgolla",
+      "query_id": "3156",
+      "children": [
+        {
+          "id": "LK-213334001",
+          "name": "Bulathgolla Village",
+          "query_id": "12613"
+        },
+        {
+          "id": "LK-213334002",
+          "name": "Kottala Village",
+          "query_id": "12614"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133345",
+      "name": "Yatihalagala Udagama",
+      "query_id": "3157",
+      "children": [
+        {
+          "id": "LK-213334501",
+          "name": "Yati/ Udagama",
+          "query_id": "12624"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133350",
+      "name": "Pahala Doolwala",
+      "query_id": "3158",
+      "children": [
+        {
+          "id": "LK-213335001",
+          "name": "Pahala Doolwala",
+          "query_id": "12609"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133355",
+      "name": "Udamulla",
+      "query_id": "3159",
+      "children": [
+        {
+          "id": "LK-213335501",
+          "name": "Udamulla",
+          "query_id": "12569"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133360",
+      "name": "Gohagoda",
+      "query_id": "3160",
+      "children": [
+        {
+          "id": "LK-213336001",
+          "name": "Gohagoda",
+          "query_id": "12459"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133365",
+      "name": "Wegiriya",
+      "query_id": "3161",
+      "children": [
+        {
+          "id": "LK-213336501",
+          "name": "Part of the kondadeniya",
+          "query_id": "12511"
+        },
+        {
+          "id": "LK-213336504",
+          "name": "Nugegoda",
+          "query_id": "51609"
+        },
+        {
+          "id": "LK-213336505",
+          "name": "Part of the Polwaththagama",
+          "query_id": "51610"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133370",
+      "name": "Polwatta",
+      "query_id": "3162",
+      "children": [
+        {
+          "id": "LK-213337001",
+          "name": "Polwatta",
+          "query_id": "12517"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133375",
+      "name": "Madapathagama",
+      "query_id": "3163",
+      "children": [
+        {
+          "id": "LK-213337501",
+          "name": "Madapathagama",
+          "query_id": "51611"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133380",
+      "name": "Banwelgolla",
+      "query_id": "3164",
+      "children": [
+        {
+          "id": "LK-213338001",
+          "name": "Banwelgolla",
+          "query_id": "12457"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133385",
+      "name": "Narangaskumbura",
+      "query_id": "3165",
+      "children": [
+        {
+          "id": "LK-213338501",
+          "name": "Narangaskumbura",
+          "query_id": "12458"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133390",
+      "name": "Pallemulla",
+      "query_id": "3166",
+      "children": [
+        {
+          "id": "LK-213339001",
+          "name": "Pallemulla",
+          "query_id": "12456"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133395",
+      "name": "Hal Pallegama",
+      "query_id": "3167",
+      "children": [
+        {
+          "id": "LK-213339501",
+          "name": "Hal Pallegama",
+          "query_id": "12575"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133400",
+      "name": "Bogahakanda",
+      "query_id": "3168",
+      "children": [
+        {
+          "id": "LK-213340001",
+          "name": "Bogahakanda",
+          "query_id": "12590"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133405",
+      "name": "Yatihalagala Pallegama",
+      "query_id": "3169",
+      "children": [
+        {
+          "id": "LK-213340501",
+          "name": "Yati Pallegama",
+          "query_id": "12596"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133410",
+      "name": "Haloluwa",
+      "query_id": "3170",
+      "children": [
+        {
+          "id": "LK-213341001",
+          "name": "Halloluwa",
+          "query_id": "12582"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133415",
+      "name": "Kumburegedara",
+      "query_id": "3171",
+      "children": [
+        {
+          "id": "LK-213341501",
+          "name": "Kumburegedara ",
+          "query_id": "12604"
+        }
+      ]
+    },
+    {
+      "id": "LK-2133420",
+      "name": "Waratenna",
+      "query_id": "3172",
+      "children": [
+        {
+          "id": "LK-213342002",
+          "name": "Waratanna colony",
+          "query_id": "12595"
+        }
+      ]
+    }
+  ]
+}

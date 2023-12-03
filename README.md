@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**12,467** Villages from **2,842** GNDs in **47** DSDs (1.843MB), scraped as of *2023-12-03 14:16:02*.
+**13,616** Villages from **3,220** GNDs in **52** DSDs (2.029MB), scraped as of *2023-12-03 14:38:36*.
 
 ## LK-1 - Western
 
@@ -66,3 +66,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-2115](data/villages/LK-2115.json) - Panvila
 * [LK-2118](data/villages/LK-2118.json) - Udadumbara
 * [LK-2121](data/villages/LK-2121.json) - Minipe
+* [LK-2124](data/villages/LK-2124.json) - Medadumbara
+* [LK-2127](data/villages/LK-2127.json) - Kundasale
+* [LK-2130](data/villages/LK-2130.json) - Kandy Four Gravets & Gangawata Korale
+* [LK-2133](data/villages/LK-2133.json) - Harispattuwa
+* [LK-2134](data/villages/LK-2134.json) - Hatharaliyadda
