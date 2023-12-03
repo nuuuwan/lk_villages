@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**43,103** Villages from **11,875** GNDs in **282** DSDs (6.602MB), scraped as of *2023-12-04 03:53:35*.
+**43,828** Villages from **12,055** GNDs in **287** DSDs (6.709MB), scraped as of *2023-12-04 04:05:03*.
 
 ## LK-1 - Western
 
@@ -364,3 +364,13 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-7209](data/villages/LK-7209.json) - Lankapura
 * [LK-7210](data/villages/LK-7210.json) - Welikanda
 * [LK-7212](data/villages/LK-7212.json) - Dimbulagala
+* [LK-7215](data/villages/LK-7215.json) - Thamankaduwa
+* [LK-7218](data/villages/LK-7218.json) - Elahera
+
+## LK-8 - Uva
+
+### LK-81 - Badulla
+
+* [LK-8103](data/villages/LK-8103.json) - Mahiyanganaya
+* [LK-8106](data/villages/LK-8106.json) - Rideemaliyadda
+* [LK-8109](data/villages/LK-8109.json) - Meegahakivula
