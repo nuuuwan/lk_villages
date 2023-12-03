@@ -1,0 +1,501 @@
+{
+  "id": "LK-3128",
+  "name": "Waduramba",
+  "query_id": "1298",
+  "children": [
+    {
+      "id": "LK-3128010",
+      "name": "Weihena",
+      "query_id": "5101",
+      "children": [
+        {
+          "id": "LK-312801001",
+          "name": "Gahalakoladeniya",
+          "query_id": "2768"
+        },
+        {
+          "id": "LK-312801002",
+          "name": "Berlsaldeniya",
+          "query_id": "2769"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128055",
+      "name": "Polgahavila",
+      "query_id": "5103",
+      "children": [
+        {
+          "id": "LK-312805501",
+          "name": "Polgahawila",
+          "query_id": "2796"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128005",
+      "name": "Indurupathvila",
+      "query_id": "5104",
+      "children": [
+        {
+          "id": "LK-312800501",
+          "name": "Indurupathvila",
+          "query_id": "2760"
+        },
+        {
+          "id": "LK-312800502",
+          "name": "Kosgahakanda",
+          "query_id": "2761"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128065",
+      "name": "Kirindalahena",
+      "query_id": "5119",
+      "children": [
+        {
+          "id": "LK-312806501",
+          "name": "Kirindalahena",
+          "query_id": "2800"
+        },
+        {
+          "id": "LK-312806502",
+          "name": "Mahadeniya",
+          "query_id": "2801"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128045",
+      "name": "Pahala Lelwala",
+      "query_id": "5120",
+      "children": [
+        {
+          "id": "LK-312804501",
+          "name": "Pahala Lelwala North",
+          "query_id": "2793"
+        },
+        {
+          "id": "LK-312804502",
+          "name": "Pahala Lelwala South",
+          "query_id": "2794"
+        },
+        {
+          "id": "LK-312804503",
+          "name": "Lelwala Watta",
+          "query_id": "33959"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128030",
+      "name": "Ihala Lelwala",
+      "query_id": "5121",
+      "children": [
+        {
+          "id": "LK-312803001",
+          "name": "Ihala  Lelwala North",
+          "query_id": "2788"
+        },
+        {
+          "id": "LK-312803002",
+          "name": "Ihala  Lelwala South",
+          "query_id": "51578"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128035",
+      "name": "Kumbalamalahena",
+      "query_id": "5122",
+      "children": [
+        {
+          "id": "LK-312803501",
+          "name": "Kumbalamalahena",
+          "query_id": "2789"
+        },
+        {
+          "id": "LK-312803503",
+          "name": "Yowun Gammanaya",
+          "query_id": "51580"
+        },
+        {
+          "id": "LK-312803502",
+          "name": "Hindapothdeniya",
+          "query_id": "51579"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128100",
+      "name": "Wanduramba",
+      "query_id": "5123",
+      "children": [
+        {
+          "id": "LK-312810001",
+          "name": "Wanduramba North",
+          "query_id": "2908"
+        },
+        {
+          "id": "LK-312810002",
+          "name": "Magahena",
+          "query_id": "2909"
+        },
+        {
+          "id": "LK-312810003",
+          "name": "Thunkatiwila",
+          "query_id": "2910"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128110",
+      "name": "Gulugahakanda",
+      "query_id": "5124",
+      "children": [
+        {
+          "id": "LK-312811001",
+          "name": "Manomaniya",
+          "query_id": "2911"
+        },
+        {
+          "id": "LK-312811002",
+          "name": "Nehinigala",
+          "query_id": "2912"
+        },
+        {
+          "id": "LK-312811003",
+          "name": "Gulugaha Kanda",
+          "query_id": "2913"
+        },
+        {
+          "id": "LK-312811004",
+          "name": "Kosgoda  Kanda",
+          "query_id": "2914"
+        },
+        {
+          "id": "LK-312811005",
+          "name": "Magahena",
+          "query_id": "2915"
+        },
+        {
+          "id": "LK-312811006",
+          "name": "Gulugahakanda Watta",
+          "query_id": "2916"
+        },
+        {
+          "id": "LK-312811007",
+          "name": "Dola Aramba",
+          "query_id": "51581"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128040",
+      "name": "Panvila",
+      "query_id": "5125",
+      "children": [
+        {
+          "id": "LK-312804002",
+          "name": "Lelwala Watta",
+          "query_id": "2791"
+        },
+        {
+          "id": "LK-312804001",
+          "name": "Panvila",
+          "query_id": "2792"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128050",
+      "name": "Kokawala",
+      "query_id": "5126",
+      "children": [
+        {
+          "id": "LK-312805001",
+          "name": "Kokawala",
+          "query_id": "2795"
+        },
+        {
+          "id": "LK-312805002",
+          "name": "Part of the Warakapitikanda",
+          "query_id": "51582"
+        },
+        {
+          "id": "LK-312805003",
+          "name": "Part of Lelwala Estate",
+          "query_id": "51583"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128070",
+      "name": "Meda Keembiya",
+      "query_id": "5138",
+      "children": [
+        {
+          "id": "LK-312807001",
+          "name": "Mada Keembiya",
+          "query_id": "2818"
+        },
+        {
+          "id": "LK-312807002",
+          "name": "Magamulana",
+          "query_id": "2819"
+        },
+        {
+          "id": "LK-312807003",
+          "name": "Warakapiti Kanda",
+          "query_id": "2820"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128060",
+      "name": "Deiyandara",
+      "query_id": "5139",
+      "children": [
+        {
+          "id": "LK-312806001",
+          "name": "Deiyandara",
+          "query_id": "2797"
+        },
+        {
+          "id": "LK-312806002",
+          "name": "Keembi Kanda",
+          "query_id": "2798"
+        },
+        {
+          "id": "LK-312806003",
+          "name": "Kothegoda",
+          "query_id": "2799"
+        },
+        {
+          "id": "LK-312806004",
+          "name": "Ilukmandiya",
+          "query_id": "51597"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128105",
+      "name": "Wanduramba South",
+      "query_id": "5140",
+      "children": [
+        {
+          "id": "LK-312810501",
+          "name": "Waduramba South",
+          "query_id": "2917"
+        },
+        {
+          "id": "LK-312810502",
+          "name": "Ilagotu  Kanda",
+          "query_id": "2918"
+        },
+        {
+          "id": "LK-312810503",
+          "name": "Part  Of  The  Panvila",
+          "query_id": "2919"
+        },
+        {
+          "id": "LK-312810504",
+          "name": "Devidsan watta",
+          "query_id": "2920"
+        },
+        {
+          "id": "LK-312810505",
+          "name": "Part of Naththewela",
+          "query_id": "51599"
+        },
+        {
+          "id": "LK-312810506",
+          "name": "Part of Thunthativila",
+          "query_id": "51601"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128025",
+      "name": "Thalawa",
+      "query_id": "5141",
+      "children": [
+        {
+          "id": "LK-312802501",
+          "name": "Thalawa",
+          "query_id": "2786"
+        },
+        {
+          "id": "LK-312802502",
+          "name": "Part  of  The  Pilidola",
+          "query_id": "2787"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128015",
+      "name": "Mabotuwana",
+      "query_id": "5142",
+      "children": [
+        {
+          "id": "LK-312801501",
+          "name": "Mabotuwana",
+          "query_id": "2784"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128020",
+      "name": "Nattewela",
+      "query_id": "5143",
+      "children": [
+        {
+          "id": "LK-312802001",
+          "name": "Nattewela",
+          "query_id": "2785"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128085",
+      "name": "Thiruwanaketiya",
+      "query_id": "5144",
+      "children": [
+        {
+          "id": "LK-312808501",
+          "name": "Thiruwanaketiya",
+          "query_id": "2825"
+        },
+        {
+          "id": "LK-312808502",
+          "name": "Millagas Udumulla",
+          "query_id": "2826"
+        },
+        {
+          "id": "LK-312808503",
+          "name": "Thanahena",
+          "query_id": "2827"
+        },
+        {
+          "id": "LK-312808504",
+          "name": "Hathhawula Watta",
+          "query_id": "51602"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128080",
+      "name": "Pitiharawa",
+      "query_id": "5145",
+      "children": [
+        {
+          "id": "LK-312808001",
+          "name": "Pitiharawa",
+          "query_id": "2823"
+        },
+        {
+          "id": "LK-312808002",
+          "name": "Kothegoda",
+          "query_id": "2824"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128075",
+      "name": "Meda Keembiya East",
+      "query_id": "5146",
+      "children": [
+        {
+          "id": "LK-312807501",
+          "name": "Mapalabedda",
+          "query_id": "2821"
+        },
+        {
+          "id": "LK-312807502",
+          "name": "Palligoda",
+          "query_id": "2822"
+        },
+        {
+          "id": "LK-312807503",
+          "name": "Delgahawalakanda",
+          "query_id": "51603"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128095",
+      "name": "Ihala Keembiya South",
+      "query_id": "5147",
+      "children": [
+        {
+          "id": "LK-312809501",
+          "name": "Palligoda",
+          "query_id": "2886"
+        },
+        {
+          "id": "LK-312809502",
+          "name": "Puwakgashena",
+          "query_id": "2887"
+        },
+        {
+          "id": "LK-312809503",
+          "name": "Mananthanna",
+          "query_id": "2888"
+        },
+        {
+          "id": "LK-312809504",
+          "name": "Kosgahahena",
+          "query_id": "2889"
+        },
+        {
+          "id": "LK-312809505",
+          "name": "Nagahahena",
+          "query_id": "2890"
+        },
+        {
+          "id": "LK-312809506",
+          "name": "Pitadeniya",
+          "query_id": "2891"
+        }
+      ]
+    },
+    {
+      "id": "LK-3128090",
+      "name": "Ihala Keembiya",
+      "query_id": "5148",
+      "children": [
+        {
+          "id": "LK-312809001",
+          "name": "Weewaragoda",
+          "query_id": "2880"
+        },
+        {
+          "id": "LK-312809002",
+          "name": "48  Kanda",
+          "query_id": "2881"
+        },
+        {
+          "id": "LK-312809003",
+          "name": "Ihala Keembiya",
+          "query_id": "2882"
+        },
+        {
+          "id": "LK-312809004",
+          "name": "Wattahena",
+          "query_id": "2883"
+        },
+        {
+          "id": "LK-312809005",
+          "name": "Thuwakkudehena",
+          "query_id": "2884"
+        },
+        {
+          "id": "LK-312809006",
+          "name": "Enasalhena",
+          "query_id": "2885"
+        }
+      ]
+    }
+  ]
+}
