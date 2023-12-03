@@ -2,11 +2,15 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**1855** Villages from **546** GNDs in **15** DSDs, scraped as of *2023-12-03 10:59:25*.
+**3095** Villages from **765** GNDs in **19** DSDs, scraped as of *2023-12-03 11:19:23*.
 
 ## LK-1 - Western
 
+* [LK-1112](data/villages/LK-1112.json) - Homagama
+* [LK-1130](data/villages/LK-1130.json) - Dehiwala
 * [LK-1131](data/villages/LK-1131.json) - Ratmalana
+* [LK-1160](data/villages/LK-1160.json) - ❔
+* [LK-1190](data/villages/LK-1190.json) - ❔
 
 ## LK-2 - Central
 
@@ -16,15 +20,15 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ## LK-3 - Southern
 
-* [LK-3128](data/villages/LK-3128.json) - Unknown
+* [LK-3128](data/villages/LK-3128.json) - ❔
 * [LK-3318](data/villages/LK-3318.json) - Angunakolapelessa
-* [LK-3390](data/villages/LK-3390.json) - Unknown
+* [LK-3390](data/villages/LK-3390.json) - ❔
 
 ## LK-4 - Northern
 
-* [LK-4145](data/villages/LK-4145.json) - Unknown
-* [LK-4290](data/villages/LK-4290.json) - Unknown
-* [LK-4530](data/villages/LK-4530.json) - Unknown
+* [LK-4145](data/villages/LK-4145.json) - ❔
+* [LK-4290](data/villages/LK-4290.json) - ❔
+* [LK-4530](data/villages/LK-4530.json) - ❔
 
 ## LK-6 - North Western
 
@@ -38,4 +42,4 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ## LK-9 - Sabaragamuwa
 
-* [LK-9260](data/villages/LK-9260.json) - Unknown
+* [LK-9260](data/villages/LK-9260.json) - ❔
