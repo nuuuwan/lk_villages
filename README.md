@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**23,009** Villages from **5,780** GNDs in **107** DSDs (3.470MB), scraped as of *2023-12-03 18:54:08*.
+**23,590** Villages from **5,960** GNDs in **112** DSDs (3.562MB), scraped as of *2023-12-03 19:05:16*.
 
 ## LK-1 - Western
 
@@ -142,3 +142,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-3206](data/villages/LK-3206.json) - Kotapola
 * [LK-3209](data/villages/LK-3209.json) - Pasgoda
 * [LK-3212](data/villages/LK-3212.json) - Mulatiyana
+* [LK-3215](data/villages/LK-3215.json) - Athuraliya
+* [LK-3218](data/villages/LK-3218.json) - Akuressa
+* [LK-3221](data/villages/LK-3221.json) - Welipitiya
+* [LK-3224](data/villages/LK-3224.json) - Malimbada
+* [LK-3227](data/villages/LK-3227.json) - Kamburupitiya
