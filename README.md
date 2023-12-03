@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**35,309** Villages from **9,429** GNDs in **222** DSDs (5.379MB), scraped as of *2023-12-04 00:52:04*.
+**36,040** Villages from **9,653** GNDs in **227** DSDs (5.491MB), scraped as of *2023-12-04 01:05:42*.
 
 ## LK-1 - Western
 
@@ -293,3 +293,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-6133](data/villages/LK-6133.json) - Ganewatta
 * [LK-6136](data/villages/LK-6136.json) - Wariyapola
 * [LK-6139](data/villages/LK-6139.json) - Kobeigane
+* [LK-6142](data/villages/LK-6142.json) - Bingiriya
+* [LK-6145](data/villages/LK-6145.json) - Panduwasnuwara West
+* [LK-6148](data/villages/LK-6148.json) - Panduwasnuwara East
+* [LK-6149](data/villages/LK-6149.json) - Bamunakotuwa
+* [LK-6151](data/villages/LK-6151.json) - Maspotha
