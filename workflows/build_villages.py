@@ -13,7 +13,7 @@ log.debug(f'🪛{N_SAMPLES=}')
 
 
 def random_sleep():
-    random_t = random.random() * 1
+    random_t = random.random() * 10 + 10
     log.debug(f"😴Sleeping for {random_t:.3f} seconds.")
     time.sleep(random_t)
 
