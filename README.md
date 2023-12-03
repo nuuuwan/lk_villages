@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**28,031** Villages from **7,323** GNDs in **147** DSDs (4.258MB), scraped as of *2023-12-03 21:04:28*.
+**28,691** Villages from **7,447** GNDs in **152** DSDs (4.351MB), scraped as of *2023-12-03 21:19:10*.
 
 ## LK-1 - Western
 
@@ -193,3 +193,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 ### LK-42 - Mannar
 
 * [LK-4203](data/villages/LK-4203.json) - Mannar Town
+* [LK-4206](data/villages/LK-4206.json) - Manthai West
+* [LK-4209](data/villages/LK-4209.json) - Madhu
+* [LK-4212](data/villages/LK-4212.json) - Nanattan
+* [LK-4215](data/villages/LK-4215.json) - Musali
+
+### LK-43 - Vavuniya
+
+* [LK-4303](data/villages/LK-4303.json) - Vavuniya North
