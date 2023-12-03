@@ -1,5 +1,6 @@
 import os
 
+from gig import Ent
 from utils import TIME_FORMAT_TIME, File, JSONFile, Log, Time
 
 README_PATH = 'README.md'
@@ -40,13 +41,19 @@ def main():
     for file_only in sorted(file_only_list):
         dsd_id = file_only.split('.')[0]
         province_id = dsd_id[:4]
+        try:
+            dsd = Ent.from_id(dsd_id)
+            dsd_name = dsd.name
+        except BaseException:
+            dsd_name = 'Unknown'
         if province_id != previous_province_id:
             previous_province_id = province_id
+            province = Ent.from_id(province_id)
             lines.append('')
-            lines.append(f'## {province_id}')
+            lines.append(f'## {province_id} - {province.name}')
             lines.append('')
         lines.append(
-            f'* [{dsd_id}]({os.path.join(DIR_DATA_VILLAGES, file_only)})'
+            f'* [{dsd_id}]({os.path.join(DIR_DATA_VILLAGES, file_only)}) - {dsd_name}'
         )
 
     File(README_PATH).write_lines(lines)
