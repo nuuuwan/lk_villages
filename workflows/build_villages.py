@@ -9,7 +9,7 @@ from workflows.build_dsds import DSD_DATA_PATH
 log = Log('pipeline')
 
 N_SAMPLES = 5
-log.debug(f'{N_SAMPLES=}')
+log.debug(f'🪛{N_SAMPLES=}')
 
 
 def random_sleep():
