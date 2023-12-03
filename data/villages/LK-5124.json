@@ -1,0 +1,268 @@
+{
+  "id": "LK-5124",
+  "name": "Kattankudy",
+  "query_id": "1110",
+  "children": [
+    {
+      "id": "LK-5124005",
+      "name": "Kattankudy Division 1",
+      "query_id": "7728",
+      "children": [
+        {
+          "id": "LK-512400501",
+          "name": "Kattankudy 1",
+          "query_id": "16635"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124010",
+      "name": " Kattankudy 1 south",
+      "query_id": "7729",
+      "children": [
+        {
+          "id": "LK-512401001",
+          "name": " Kattankudy 1 south",
+          "query_id": "16636"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124015",
+      "name": "Kattankudy 2",
+      "query_id": "7730",
+      "children": [
+        {
+          "id": "LK-512401501",
+          "name": "Kattankudy 2",
+          "query_id": "16644"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124020",
+      "name": " Kattankudy 2 North",
+      "query_id": "7731",
+      "children": [
+        {
+          "id": "LK-512402001",
+          "name": "Kattankudy 2 North",
+          "query_id": "16646"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124025",
+      "name": "New Kattankudy Div. North",
+      "query_id": "7732",
+      "children": [
+        {
+          "id": "LK-512402501",
+          "name": "New Kattankudy North",
+          "query_id": "16647"
+        },
+        {
+          "id": "LK-512402502",
+          "name": "Buduriya Town ",
+          "query_id": "34538"
+        },
+        {
+          "id": "LK-512402503",
+          "name": "Rizvi Town",
+          "query_id": "34539"
+        },
+        {
+          "id": "LK-512402504",
+          "name": "Fareed Town ",
+          "query_id": "34540"
+        },
+        {
+          "id": "LK-512402505",
+          "name": "Firthous Town part",
+          "query_id": "34541"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124030",
+      "name": "New Kattankudy South",
+      "query_id": "7733",
+      "children": [
+        {
+          "id": "LK-512403001",
+          "name": "New Kattankudy South",
+          "query_id": "16645"
+        },
+        {
+          "id": "LK-512403002",
+          "name": "Thaqwa Town ",
+          "query_id": "34542"
+        },
+        {
+          "id": "LK-512403003",
+          "name": "Firthous Town part ",
+          "query_id": "34543"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124035",
+      "name": "Kattankudy 3 East",
+      "query_id": "7734",
+      "children": [
+        {
+          "id": "LK-512403501",
+          "name": "Kattankudy 3 East",
+          "query_id": "16640"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124040",
+      "name": "Kattankudy 3",
+      "query_id": "7735",
+      "children": [
+        {
+          "id": "LK-512404001",
+          "name": "Kattankudy 3",
+          "query_id": "16639"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124045",
+      "name": "165 A Div.3 West Kattankudy ",
+      "query_id": "7736",
+      "children": [
+        {
+          "id": "LK-512404501",
+          "name": " Kattankudy 3 West ",
+          "query_id": "16638"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124050",
+      "name": "Kattankudy 4 West ",
+      "query_id": "7737",
+      "children": [
+        {
+          "id": "LK-512405001",
+          "name": "Kattankudy 4 West ",
+          "query_id": "16642"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124055",
+      "name": "Division 04, Kattankudy ",
+      "query_id": "7738",
+      "children": [
+        {
+          "id": "LK-512405501",
+          "name": "Kattankudy 4",
+          "query_id": "16641"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124060",
+      "name": " Kattankudy 6 south",
+      "query_id": "7739",
+      "children": [
+        {
+          "id": "LK-512406001",
+          "name": " Kattankudy 6 south",
+          "query_id": "16637"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124065",
+      "name": "New Kattankudy West",
+      "query_id": "7740",
+      "children": [
+        {
+          "id": "LK-512406501",
+          "name": "New Kattankudy  West",
+          "query_id": "16651"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124070",
+      "name": "New Kattankudy East",
+      "query_id": "7741",
+      "children": [
+        {
+          "id": "LK-512407002",
+          "name": "Anvar Town",
+          "query_id": "34544"
+        },
+        {
+          "id": "LK-512407003",
+          "name": "Abrar Town",
+          "query_id": "34545"
+        },
+        {
+          "id": "LK-512407004",
+          "name": "Nuraniya Mawatha ",
+          "query_id": "34546"
+        },
+        {
+          "id": "LK-512407001",
+          "name": "New Kattankudy East",
+          "query_id": "52953"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124075",
+      "name": "Kattankudy Division 6 South",
+      "query_id": "7742",
+      "children": [
+        {
+          "id": "LK-512407501",
+          "name": "Kattankudy 6",
+          "query_id": "16648"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124080",
+      "name": " Kattankudy 6 west ",
+      "query_id": "7743",
+      "children": [
+        {
+          "id": "LK-512408001",
+          "name": " Kattankudy 6 west ",
+          "query_id": "16649"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124085",
+      "name": "Kattankudy 5",
+      "query_id": "7744",
+      "children": [
+        {
+          "id": "LK-512408501",
+          "name": "Kattankudy 5",
+          "query_id": "16652"
+        }
+      ]
+    },
+    {
+      "id": "LK-5124090",
+      "name": "Div.05, South Kattankudy ",
+      "query_id": "7745",
+      "children": [
+        {
+          "id": "LK-512409001",
+          "name": " Kattankudy 5 south",
+          "query_id": "16650"
+        }
+      ]
+    }
+  ]
+}

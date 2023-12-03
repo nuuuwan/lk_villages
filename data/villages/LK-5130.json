@@ -1,0 +1,645 @@
+{
+  "id": "LK-5130",
+  "name": "Manmunai South-West",
+  "query_id": "1112",
+  "children": [
+    {
+      "id": "LK-5130005",
+      "name": "Munaikkadu West Part",
+      "query_id": "7773",
+      "children": [
+        {
+          "id": "LK-513000501",
+          "name": "Munaikkadu West",
+          "query_id": "16611"
+        },
+        {
+          "id": "LK-513000502",
+          "name": "Echchangkadu",
+          "query_id": "34194"
+        },
+        {
+          "id": "LK-513000503",
+          "name": "Thuraiyadi",
+          "query_id": "34195"
+        },
+        {
+          "id": "LK-513000504",
+          "name": "Vannarvaddai",
+          "query_id": "34196"
+        },
+        {
+          "id": "LK-513000505",
+          "name": "Koviladitheru",
+          "query_id": "54306"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130010",
+      "name": "Munaikkadu North",
+      "query_id": "7774",
+      "children": [
+        {
+          "id": "LK-513001001",
+          "name": "Munaikkadu North Part",
+          "query_id": "16613"
+        },
+        {
+          "id": "LK-513001002",
+          "name": "Puththaditheru",
+          "query_id": "34199"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130015",
+      "name": "Munaikadu East",
+      "query_id": "7775",
+      "children": [
+        {
+          "id": "LK-513001501",
+          "name": "Munaikkadu East part",
+          "query_id": "16610"
+        },
+        {
+          "id": "LK-513001502",
+          "name": "Gnanamuthu Sathukam",
+          "query_id": "34193"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130020",
+      "name": "Muthalaikkudah West",
+      "query_id": "7776",
+      "children": [
+        {
+          "id": "LK-513002001",
+          "name": "Muthalaikkudah West Part",
+          "query_id": "16605"
+        },
+        {
+          "id": "LK-513002002",
+          "name": "Thalaiyaditheru",
+          "query_id": "16606"
+        },
+        {
+          "id": "LK-513002003",
+          "name": "Palarthurai",
+          "query_id": "34192"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130025",
+      "name": "Muthalaikkudah",
+      "query_id": "7777",
+      "children": [
+        {
+          "id": "LK-513002501",
+          "name": "Muthalaikkudah West Part",
+          "query_id": "16604"
+        },
+        {
+          "id": "LK-513002502",
+          "name": "Kurinchinagar",
+          "query_id": "16609"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130035",
+      "name": "Mahiladithivu South",
+      "query_id": "7778",
+      "children": [
+        {
+          "id": "LK-513003501",
+          "name": "Mahiladithivu South Part",
+          "query_id": "16602"
+        },
+        {
+          "id": "LK-513003502",
+          "name": "Arasaiyadi",
+          "query_id": "34190"
+        },
+        {
+          "id": "LK-513003503",
+          "name": "Mahilai kolany",
+          "query_id": "34191"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130030",
+      "name": "Mahiladithivu ",
+      "query_id": "7779",
+      "children": [
+        {
+          "id": "LK-513003001",
+          "name": "Mahiladitivu Part",
+          "query_id": "16603"
+        },
+        {
+          "id": "LK-513003004",
+          "name": "Chenaikudijiruppu",
+          "query_id": "34188"
+        },
+        {
+          "id": "LK-513003005",
+          "name": "Kaddupaththai",
+          "query_id": "34189"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130040",
+      "name": "Kokkadichcholai",
+      "query_id": "7780",
+      "children": [
+        {
+          "id": "LK-513004001",
+          "name": "Kokkaddichcholai Part",
+          "query_id": "16614"
+        },
+        {
+          "id": "LK-513004002",
+          "name": "Suraddaiyankudah",
+          "query_id": "34200"
+        },
+        {
+          "id": "LK-513004003",
+          "name": "Thalaiyadivalavu",
+          "query_id": "34201"
+        },
+        {
+          "id": "LK-513004004",
+          "name": "Chenaivalavu",
+          "query_id": "34202"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130045",
+      "name": "Munaikkadu South",
+      "query_id": "7781",
+      "children": [
+        {
+          "id": "LK-513004501",
+          "name": "Navalady theru",
+          "query_id": "16612"
+        },
+        {
+          "id": "LK-513004502",
+          "name": "Mavaditheru",
+          "query_id": "34197"
+        },
+        {
+          "id": "LK-513004503",
+          "name": "Housing Scheam",
+          "query_id": "34198"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130050",
+      "name": "Kokkadichcholai South",
+      "query_id": "7782",
+      "children": [
+        {
+          "id": "LK-513005001",
+          "name": "Kokkadichcholai South",
+          "query_id": "16615"
+        },
+        {
+          "id": "LK-513005002",
+          "name": "Karumpukalai",
+          "query_id": "34203"
+        },
+        {
+          "id": "LK-513005003",
+          "name": "Veddukulam",
+          "query_id": "34204"
+        },
+        {
+          "id": "LK-513005004",
+          "name": "Navatkaadu",
+          "query_id": "34205"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130055",
+      "name": "Pandariyavelly",
+      "query_id": "7783",
+      "children": [
+        {
+          "id": "LK-513005501",
+          "name": "Pandariyaweli Part",
+          "query_id": "16599"
+        },
+        {
+          "id": "LK-513005502",
+          "name": "Padiyandaweli",
+          "query_id": "16600"
+        },
+        {
+          "id": "LK-513005503",
+          "name": "Kilathivu",
+          "query_id": "34185"
+        },
+        {
+          "id": "LK-513005504",
+          "name": "Kudiyiruppu",
+          "query_id": "43319"
+        },
+        {
+          "id": "LK-513005505",
+          "name": "Chenaikudiyiruppu",
+          "query_id": "43320"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130060",
+      "name": "Arasaditivu North",
+      "query_id": "7784",
+      "children": [
+        {
+          "id": "LK-513006001",
+          "name": "Arasaditivu North Part",
+          "query_id": "16597"
+        },
+        {
+          "id": "LK-513006003",
+          "name": "Veddukadu",
+          "query_id": "34184"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130065",
+      "name": "Paddippalai",
+      "query_id": "7785",
+      "children": [
+        {
+          "id": "LK-513006501",
+          "name": "Paddippalai",
+          "query_id": "16594"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130070",
+      "name": "Kuluvinamadu",
+      "query_id": "7786",
+      "children": [
+        {
+          "id": "LK-513007001",
+          "name": "Kuluvinamadu Part",
+          "query_id": "16626"
+        },
+        {
+          "id": "LK-513007002",
+          "name": "Kollanullai",
+          "query_id": "16627"
+        },
+        {
+          "id": "LK-513007003",
+          "name": "Thevilamunai",
+          "query_id": "16628"
+        },
+        {
+          "id": "LK-513007004",
+          "name": "Kallirakkam",
+          "query_id": "34213"
+        },
+        {
+          "id": "LK-513007005",
+          "name": "Kaththalaichenai",
+          "query_id": "34215"
+        },
+        {
+          "id": "LK-513007006",
+          "name": "Mandarrachenai",
+          "query_id": "34216"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130075",
+      "name": "Arasaditivu",
+      "query_id": "7787",
+      "children": [
+        {
+          "id": "LK-513007501",
+          "name": "Arasaditivu",
+          "query_id": "16586"
+        },
+        {
+          "id": "LK-513007502",
+          "name": "Kodaimedu",
+          "query_id": "34181"
+        },
+        {
+          "id": "LK-513007503",
+          "name": "Vaikalkaddu",
+          "query_id": "34182"
+        },
+        {
+          "id": "LK-513007504",
+          "name": "Puthunager",
+          "query_id": "34183"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130080",
+      "name": "Kadukkamunai",
+      "query_id": "7788",
+      "children": [
+        {
+          "id": "LK-513008001",
+          "name": "Kadukkamunai Part",
+          "query_id": "16587"
+        },
+        {
+          "id": "LK-513008002",
+          "name": "Arulnesapuram",
+          "query_id": "16589"
+        },
+        {
+          "id": "LK-513008003",
+          "name": "Navatkadu",
+          "query_id": "16590"
+        },
+        {
+          "id": "LK-513008004",
+          "name": "Vaatkaddu",
+          "query_id": "16591"
+        },
+        {
+          "id": "LK-513008005",
+          "name": "Sothayankaddu",
+          "query_id": "16592"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130085",
+      "name": "Ampilanthurai North",
+      "query_id": "7789",
+      "children": [
+        {
+          "id": "LK-513008501",
+          "name": "Thivukudiyiruppu",
+          "query_id": "16582"
+        },
+        {
+          "id": "LK-513008502",
+          "name": "Chennaikadu",
+          "query_id": "34175"
+        },
+        {
+          "id": "LK-513008503",
+          "name": "Navatkadu",
+          "query_id": "34176"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130090",
+      "name": "Ampilanthurai",
+      "query_id": "7790",
+      "children": [
+        {
+          "id": "LK-513009001",
+          "name": "Nagamunai",
+          "query_id": "16572"
+        },
+        {
+          "id": "LK-513009002",
+          "name": "Nadukudiyiruppu",
+          "query_id": "43318"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130095",
+      "name": "Ampilanthurai West",
+      "query_id": "7791",
+      "children": [
+        {
+          "id": "LK-513009501",
+          "name": "Valaichchenai",
+          "query_id": "16574"
+        },
+        {
+          "id": "LK-513009502",
+          "name": "Sinnamadhu",
+          "query_id": "16576"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130100",
+      "name": "Katchenai",
+      "query_id": "7792",
+      "children": [
+        {
+          "id": "LK-513010001",
+          "name": "Katchenai Part",
+          "query_id": "16583"
+        },
+        {
+          "id": "LK-513010002",
+          "name": "Muppadu acer",
+          "query_id": "16584"
+        },
+        {
+          "id": "LK-513010003",
+          "name": "Chenaivaddai",
+          "query_id": "16585"
+        },
+        {
+          "id": "LK-513010004",
+          "name": "Neelantamadu",
+          "query_id": "34177"
+        },
+        {
+          "id": "LK-513010005",
+          "name": "Aththiyamunmari",
+          "query_id": "34178"
+        },
+        {
+          "id": "LK-513010006",
+          "name": "Kudah",
+          "query_id": "34179"
+        },
+        {
+          "id": "LK-513010007",
+          "name": "Sinnamadu",
+          "query_id": "34180"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130105",
+      "name": "Mavadimunmaari",
+      "query_id": "7793",
+      "children": [
+        {
+          "id": "LK-513010501",
+          "name": "Mavadimunmari Part",
+          "query_id": "16616"
+        },
+        {
+          "id": "LK-513010502",
+          "name": "Viduthikal",
+          "query_id": "16617"
+        },
+        {
+          "id": "LK-513010503",
+          "name": "Vaddiyamadu -1",
+          "query_id": "16618"
+        },
+        {
+          "id": "LK-513010506",
+          "name": "Nediyamadu",
+          "query_id": "54307"
+        },
+        {
+          "id": "LK-513010504",
+          "name": "Vaaikkaalpalam",
+          "query_id": "34206"
+        },
+        {
+          "id": "LK-513010505",
+          "name": "Thalavaayekinatrady",
+          "query_id": "34207"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130110",
+      "name": "Thanthamalai",
+      "query_id": "7794",
+      "children": [
+        {
+          "id": "LK-513011001",
+          "name": "Katkudah",
+          "query_id": "16619"
+        },
+        {
+          "id": "LK-513011002",
+          "name": "Natpathuvaddi",
+          "query_id": "16620"
+        },
+        {
+          "id": "LK-513011003",
+          "name": "Nellikkadhu",
+          "query_id": "16621"
+        },
+        {
+          "id": "LK-513011004",
+          "name": "Veerakadu",
+          "query_id": "16622"
+        },
+        {
+          "id": "LK-513011005",
+          "name": "Muthalaimadhu",
+          "query_id": "16623"
+        },
+        {
+          "id": "LK-513011006",
+          "name": "Aththuchenai",
+          "query_id": "16624"
+        },
+        {
+          "id": "LK-513011007",
+          "name": "Makkaladiyuttu",
+          "query_id": "16625"
+        },
+        {
+          "id": "LK-513011008",
+          "name": "Retpana",
+          "query_id": "34208"
+        },
+        {
+          "id": "LK-513011009",
+          "name": "Aliyarrakulam",
+          "query_id": "34209"
+        },
+        {
+          "id": "LK-513011010",
+          "name": "Manmalai",
+          "query_id": "34210"
+        },
+        {
+          "id": "LK-513011011",
+          "name": "Korukapuliyuttu",
+          "query_id": "34211"
+        },
+        {
+          "id": "LK-513011012",
+          "name": "Idumbankulam",
+          "query_id": "34212"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130115",
+      "name": "Kachchakodi",
+      "query_id": "7795",
+      "children": [
+        {
+          "id": "LK-513011505",
+          "name": "Karuvachcholai",
+          "query_id": "54309"
+        },
+        {
+          "id": "LK-513011504",
+          "name": "Pulugunawa",
+          "query_id": "54308"
+        },
+        {
+          "id": "LK-513011501",
+          "name": "Kachchaikody Suwamimalai",
+          "query_id": "16630"
+        },
+        {
+          "id": "LK-513011502",
+          "name": "Keviliyamadhu-23",
+          "query_id": "16631"
+        },
+        {
+          "id": "LK-513011503",
+          "name": "Keviliyamadhu 24",
+          "query_id": "16632"
+        }
+      ]
+    },
+    {
+      "id": "LK-5130120",
+      "name": "Panichchiyadimunmari",
+      "query_id": "7796",
+      "children": [
+        {
+          "id": "LK-513012001",
+          "name": "Panchchaiyadimunmari",
+          "query_id": "16633"
+        },
+        {
+          "id": "LK-513012002",
+          "name": "Paththarrakulam",
+          "query_id": "16634"
+        },
+        {
+          "id": "LK-513012003",
+          "name": "Vaddiyamadu",
+          "query_id": "34217"
+        }
+      ]
+    }
+  ]
+}

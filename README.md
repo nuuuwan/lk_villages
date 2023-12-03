@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**30,808** Villages from **7,922** GNDs in **172** DSDs (4.662MB), scraped as of *2023-12-03 22:19:51*.
+**31,204** Villages from **8,079** GNDs in **177** DSDs (4.730MB), scraped as of *2023-12-03 22:35:34*.
 
 ## LK-1 - Western
 
@@ -232,3 +232,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-5115](data/villages/LK-5115.json) - Eravur Town
 * [LK-5118](data/villages/LK-5118.json) - Manmunai North
 * [LK-5121](data/villages/LK-5121.json) - Manmunai West
+* [LK-5124](data/villages/LK-5124.json) - Kattankudy
+* [LK-5127](data/villages/LK-5127.json) - Manmunai Pattu (Araipattai)
+* [LK-5130](data/villages/LK-5130.json) - Manmunai South-West
+* [LK-5133](data/villages/LK-5133.json) - Porativu Pattu
+* [LK-5136](data/villages/LK-5136.json) - Manmunai South & Eruvil pattu
