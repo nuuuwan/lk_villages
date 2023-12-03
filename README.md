@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**19,957** Villages from **4,980** GNDs in **87** DSDs (3.009MB), scraped as of *2023-12-03 16:51:37*.
+**20,702** Villages from **5,171** GNDs in **92** DSDs (3.121MB), scraped as of *2023-12-03 17:05:46*.
 
 ## LK-1 - Western
 
@@ -117,3 +117,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-3112](data/villages/LK-3112.json) - Elpitiya
 * [LK-3115](data/villages/LK-3115.json) - Niyagama
 * [LK-3118](data/villages/LK-3118.json) - Thawalama
+* [LK-3121](data/villages/LK-3121.json) - Neluwa
+* [LK-3124](data/villages/LK-3124.json) - Nagoda
+* [LK-3127](data/villages/LK-3127.json) - Baddegama
+* [LK-3130](data/villages/LK-3130.json) - Welivitiya-Divithura
+* [LK-3133](data/villages/LK-3133.json) - Ambalangoda
