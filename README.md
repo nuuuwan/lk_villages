@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**16,206** Villages from **4,019** GNDs in **67** DSDs (2.440MB), scraped as of *2023-12-03 15:37:02*.
+**17,036** Villages from **4,269** GNDs in **72** DSDs (2.571MB), scraped as of *2023-12-03 15:59:44*.
 
 ## LK-1 - Western
 
@@ -89,3 +89,11 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-2215](data/villages/LK-2215.json) - Yatawatta
 * [LK-2218](data/villages/LK-2218.json) - Matale
 * [LK-2221](data/villages/LK-2221.json) - Ambanganga Korale
+* [LK-2224](data/villages/LK-2224.json) - Laggala-Pallegama
+* [LK-2227](data/villages/LK-2227.json) - Wilgamuwa
+* [LK-2230](data/villages/LK-2230.json) - Rattota
+* [LK-2233](data/villages/LK-2233.json) - Ukuwela
+
+### LK-23 - Nuwara Eliya
+
+* [LK-2303](data/villages/LK-2303.json) - Kothmale
