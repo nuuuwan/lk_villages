@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**41,759** Villages from **11,334** GNDs in **267** DSDs (6.377MB), scraped as of *2023-12-04 03:04:49*.
+**42,203** Villages from **11,497** GNDs in **272** DSDs (6.449MB), scraped as of *2023-12-04 03:19:53*.
 
 ## LK-1 - Western
 
@@ -346,3 +346,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-7130](data/villages/LK-7130.json) - Mihinthale
 * [LK-7133](data/villages/LK-7133.json) - Nuwaragam Palatha East
 * [LK-7136](data/villages/LK-7136.json) - Nachchaduwa
+* [LK-7139](data/villages/LK-7139.json) - Nochchiyagama
+* [LK-7142](data/villages/LK-7142.json) - Rajanganaya
+* [LK-7145](data/villages/LK-7145.json) - Thambuttegama
+* [LK-7148](data/villages/LK-7148.json) - Thalawa
+* [LK-7151](data/villages/LK-7151.json) - Thirappane
