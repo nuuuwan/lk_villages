@@ -36,12 +36,12 @@ jobs:
         python workflows/build_dsds.py
 
 
-    - name: State 1) build_villages
+    - name: Stage 1) build_villages
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/build_villages.py
 
-    - name: State 2) update_readme
+    - name: Stage 2) update_readme
       run: |
         export PYTHONPATH="$PYTHONPATH:./src"
         python workflows/update_readme.py
