@@ -1,0 +1,532 @@
+{
+  "id": "LK-2221",
+  "name": "Ambanganga Korale",
+  "query_id": "1016",
+  "children": [
+    {
+      "id": "LK-2221005",
+      "name": "Kumbaloluwa",
+      "query_id": "4015",
+      "children": [
+        {
+          "id": "LK-222100504",
+          "name": "Mesland Estate",
+          "query_id": "54290"
+        },
+        {
+          "id": "LK-222100501",
+          "name": "Magallewagama",
+          "query_id": "37036"
+        },
+        {
+          "id": "LK-222100502",
+          "name": "Moragahamadagama",
+          "query_id": "37037"
+        },
+        {
+          "id": "LK-222100503",
+          "name": "Kumbaloluwagama",
+          "query_id": "37038"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221010",
+      "name": "Gammaduwa",
+      "query_id": "4016",
+      "children": [
+        {
+          "id": "LK-222101001",
+          "name": "Nagalawaththa Colony",
+          "query_id": "36986"
+        },
+        {
+          "id": "LK-222101002",
+          "name": "Akkara 20 Yaya Colony",
+          "query_id": "36987"
+        },
+        {
+          "id": "LK-222101003",
+          "name": "Gammaduwagama",
+          "query_id": "36988"
+        },
+        {
+          "id": "LK-222101004",
+          "name": "Gammaduwa Estate Karagahathenna Divsion",
+          "query_id": "36989"
+        },
+        {
+          "id": "LK-222101005",
+          "name": "Gammaduwa Estate Lower Division ",
+          "query_id": "36990"
+        },
+        {
+          "id": "LK-222101006",
+          "name": "Gammaduwa Estate - Upper Division",
+          "query_id": "36991"
+        },
+        {
+          "id": "LK-222101007",
+          "name": "Nagalawatta Nagalawatta Division",
+          "query_id": "36993"
+        },
+        {
+          "id": "LK-222101008",
+          "name": "Nagalawatta Inguruwatta Division",
+          "query_id": "36994"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221015",
+      "name": "Kalugalthenna",
+      "query_id": "4017",
+      "children": [
+        {
+          "id": "LK-222101501",
+          "name": "Kalugalthenna",
+          "query_id": "37043"
+        },
+        {
+          "id": "LK-222101502",
+          "name": "Kudaoya Colony",
+          "query_id": "37044"
+        },
+        {
+          "id": "LK-222101503",
+          "name": "Kudaoya Watta",
+          "query_id": "37045"
+        },
+        {
+          "id": "LK-222101504",
+          "name": "Spreen Mount Estate",
+          "query_id": "37046"
+        },
+        {
+          "id": "LK-222101505",
+          "name": "Part of the Opalgala Watta Kudaoya",
+          "query_id": "37047"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221020",
+      "name": "Naguliyadda",
+      "query_id": "4018",
+      "children": [
+        {
+          "id": "LK-222102001",
+          "name": "Luckyland Estate",
+          "query_id": "37048"
+        },
+        {
+          "id": "LK-222102002",
+          "name": "Naguliyadda Estate",
+          "query_id": "37049"
+        },
+        {
+          "id": "LK-222102003",
+          "name": "Naguliyaddagama",
+          "query_id": "37050"
+        },
+        {
+          "id": "LK-222102004",
+          "name": "Opalgala Estate Pallethenna",
+          "query_id": "37051"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221025",
+      "name": "Kosgolla",
+      "query_id": "4019",
+      "children": [
+        {
+          "id": "LK-222102501",
+          "name": "Dambalagala",
+          "query_id": "37028"
+        },
+        {
+          "id": "LK-222102502",
+          "name": "Ihala Delpawana",
+          "query_id": "37029"
+        },
+        {
+          "id": "LK-222102503",
+          "name": "Kosgolla",
+          "query_id": "37030"
+        },
+        {
+          "id": "LK-222102504",
+          "name": "Pahala Delpawana",
+          "query_id": "37031"
+        },
+        {
+          "id": "LK-222102505",
+          "name": "Dambagahamuduna",
+          "query_id": "37032"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221030",
+      "name": "Imbulgolla",
+      "query_id": "4020",
+      "children": [
+        {
+          "id": "LK-222103001",
+          "name": "Udawelagama",
+          "query_id": "37039"
+        },
+        {
+          "id": "LK-222103002",
+          "name": "Pilapitiyawatta Colony",
+          "query_id": "37040"
+        },
+        {
+          "id": "LK-222103003",
+          "name": "Imbulgollagama",
+          "query_id": "37041"
+        },
+        {
+          "id": "LK-222103004",
+          "name": "Kumbaloluwa Estate",
+          "query_id": "37042"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221035",
+      "name": "Ranmuthugama",
+      "query_id": "4021",
+      "children": [
+        {
+          "id": "LK-222103501",
+          "name": "Loluwelagama",
+          "query_id": "37033"
+        },
+        {
+          "id": "LK-222103502",
+          "name": "Ranmuthugama",
+          "query_id": "37034"
+        },
+        {
+          "id": "LK-222103503",
+          "name": "Jesarwatta Side",
+          "query_id": "37035"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221040",
+      "name": "Raithalawa",
+      "query_id": "4022",
+      "children": [
+        {
+          "id": "LK-222104001",
+          "name": "Jesarwatta Side",
+          "query_id": "37024"
+        },
+        {
+          "id": "LK-222104002",
+          "name": "Raithalawa",
+          "query_id": "37025"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221045",
+      "name": "Tibbatukanatha",
+      "query_id": "4023",
+      "children": [
+        {
+          "id": "LK-222104501",
+          "name": "Mirishena Colony",
+          "query_id": "37001"
+        },
+        {
+          "id": "LK-222104502",
+          "name": "Thibbatukanatha Colony",
+          "query_id": "37002"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221050",
+      "name": "Palle Aswedduma",
+      "query_id": "4024",
+      "children": [
+        {
+          "id": "LK-222105001",
+          "name": "Welikanda Colony",
+          "query_id": "37054"
+        },
+        {
+          "id": "LK-222105002",
+          "name": "Palleasweddumagama",
+          "query_id": "37055"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221055",
+      "name": "Pallethenna",
+      "query_id": "4025",
+      "children": [
+        {
+          "id": "LK-222105501",
+          "name": "Pallethennagama",
+          "query_id": "37052"
+        },
+        {
+          "id": "LK-222105502",
+          "name": "Pallethenna Colony",
+          "query_id": "37053"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221060",
+      "name": "Pussella",
+      "query_id": "4026",
+      "children": [
+        {
+          "id": "LK-222106001",
+          "name": "Lesly Estate",
+          "query_id": "36995"
+        },
+        {
+          "id": "LK-222106002",
+          "name": "Pussella",
+          "query_id": "36996"
+        },
+        {
+          "id": "LK-222106003",
+          "name": "Uda Aswedduma",
+          "query_id": "36997"
+        },
+        {
+          "id": "LK-222106004",
+          "name": "Rajamale Estate",
+          "query_id": "36998"
+        },
+        {
+          "id": "LK-222106005",
+          "name": "Kohilawatta",
+          "query_id": "36999"
+        },
+        {
+          "id": "LK-222106006",
+          "name": "Opalgala Estate Opalgala Division",
+          "query_id": "37000"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221065",
+      "name": "Sirangahawatta",
+      "query_id": "4027",
+      "children": [
+        {
+          "id": "LK-222106501",
+          "name": "Sirangahawatta",
+          "query_id": "37003"
+        },
+        {
+          "id": "LK-222106502",
+          "name": "Raththota Estate Colony",
+          "query_id": "37004"
+        },
+        {
+          "id": "LK-222106503",
+          "name": "Paragahamada",
+          "query_id": "37005"
+        },
+        {
+          "id": "LK-222106504",
+          "name": "Opalgala Estate Elagala Division",
+          "query_id": "37006"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221070",
+      "name": "Kaudagammana",
+      "query_id": "4028",
+      "children": [
+        {
+          "id": "LK-222107001",
+          "name": "Dummalagolla",
+          "query_id": "37007"
+        },
+        {
+          "id": "LK-222107002",
+          "name": "Kaudagammana Estate",
+          "query_id": "37008"
+        },
+        {
+          "id": "LK-222107003",
+          "name": "Kaudagammana Colony",
+          "query_id": "37009"
+        },
+        {
+          "id": "LK-222107004",
+          "name": "Kaudagammana Gama",
+          "query_id": "37010"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221075",
+      "name": "Narangolla",
+      "query_id": "4029",
+      "children": [
+        {
+          "id": "LK-222107501",
+          "name": "Narangolla",
+          "query_id": "37056"
+        },
+        {
+          "id": "LK-222107502",
+          "name": "Ehelagasthenna",
+          "query_id": "37057"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221080",
+      "name": "Hunukete",
+      "query_id": "4030",
+      "children": [
+        {
+          "id": "LK-222108001",
+          "name": "Polwatta Colony",
+          "query_id": "37058"
+        },
+        {
+          "id": "LK-222108002",
+          "name": "Rattotamale Colony",
+          "query_id": "37059"
+        },
+        {
+          "id": "LK-222108003",
+          "name": "Opalgala Colony",
+          "query_id": "37060"
+        },
+        {
+          "id": "LK-222108004",
+          "name": "Hunuketegama",
+          "query_id": "37061"
+        },
+        {
+          "id": "LK-222108005",
+          "name": "Rattotamale Estate",
+          "query_id": "37062"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221085",
+      "name": "Metihakka",
+      "query_id": "4031",
+      "children": [
+        {
+          "id": "LK-222108501",
+          "name": "Matihakkagama",
+          "query_id": "37019"
+        },
+        {
+          "id": "LK-222108502",
+          "name": "Hapugaspitiya Estate 71 Division",
+          "query_id": "37020"
+        },
+        {
+          "id": "LK-222108503",
+          "name": "Arunachalam Colony",
+          "query_id": "37021"
+        },
+        {
+          "id": "LK-222108504",
+          "name": "Pallamagama",
+          "query_id": "37022"
+        },
+        {
+          "id": "LK-222108505",
+          "name": "Hapugaspitiya Estate Side",
+          "query_id": "37023"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221090",
+      "name": "Aluthwela",
+      "query_id": "4032",
+      "children": [
+        {
+          "id": "LK-222109001",
+          "name": "Hunuketa Ela Gama",
+          "query_id": "37012"
+        },
+        {
+          "id": "LK-222109002",
+          "name": "Kukurumana Gama",
+          "query_id": "37013"
+        },
+        {
+          "id": "LK-222109003",
+          "name": "Wetakoluhena Gama",
+          "query_id": "37014"
+        },
+        {
+          "id": "LK-222109004",
+          "name": "Aluthwela Gama",
+          "query_id": "37015"
+        },
+        {
+          "id": "LK-222109005",
+          "name": "Rose Watta",
+          "query_id": "37016"
+        },
+        {
+          "id": "LK-222109006",
+          "name": "Hapugaspitiya Estate  Side ",
+          "query_id": "37017"
+        },
+        {
+          "id": "LK-222109007",
+          "name": "Mallagaha Maditta Estate",
+          "query_id": "37018"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221095",
+      "name": "Cloda",
+      "query_id": "4033",
+      "children": [
+        {
+          "id": "LK-222109501",
+          "name": "Cloda West Colony",
+          "query_id": "37011"
+        }
+      ]
+    },
+    {
+      "id": "LK-2221100",
+      "name": "Gurubabila",
+      "query_id": "4034",
+      "children": [
+        {
+          "id": "LK-222110001",
+          "name": "Cloda East Colony",
+          "query_id": "37026"
+        },
+        {
+          "id": "LK-222110002",
+          "name": "Gurubebila",
+          "query_id": "37027"
+        }
+      ]
+    }
+  ]
+}

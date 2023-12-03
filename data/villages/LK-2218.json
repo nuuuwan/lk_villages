@@ -1,0 +1,1661 @@
+{
+  "id": "LK-2218",
+  "name": "Matale",
+  "query_id": "1015",
+  "children": [
+    {
+      "id": "LK-2218005",
+      "name": "Narangamuwa",
+      "query_id": "3963",
+      "children": [
+        {
+          "id": "LK-221800501",
+          "name": "Narangamuwa",
+          "query_id": "35058"
+        },
+        {
+          "id": "LK-221800502",
+          "name": "Hunugalpitiya",
+          "query_id": "35060"
+        },
+        {
+          "id": "LK-221800503",
+          "name": "Wewathanna",
+          "query_id": "35061"
+        },
+        {
+          "id": "LK-221800504",
+          "name": "Ahalepola watta",
+          "query_id": "35062"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218010",
+      "name": "Madawala Ulpatha",
+      "query_id": "3964",
+      "children": [
+        {
+          "id": "LK-221801001",
+          "name": "Mdawala Ulpatha gama",
+          "query_id": "35064"
+        },
+        {
+          "id": "LK-221801002",
+          "name": "Nalanda watta",
+          "query_id": "35065"
+        },
+        {
+          "id": "LK-221801003",
+          "name": "Germen watta",
+          "query_id": "35066"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218015",
+      "name": "Thalagasyaya",
+      "query_id": "3965",
+      "children": [
+        {
+          "id": "LK-221801501",
+          "name": "Thalagasyaya gama",
+          "query_id": "35070"
+        },
+        {
+          "id": "LK-221801502",
+          "name": "Maharaja watta",
+          "query_id": "35120"
+        },
+        {
+          "id": "LK-221801503",
+          "name": "Wadagolla gama",
+          "query_id": "35121"
+        },
+        {
+          "id": "LK-221801504",
+          "name": "Artismale",
+          "query_id": "35122"
+        },
+        {
+          "id": "LK-221801505",
+          "name": "Godawela",
+          "query_id": "35124"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218020",
+      "name": "Madawala",
+      "query_id": "3966",
+      "children": [
+        {
+          "id": "LK-221802001",
+          "name": "Madavala gama",
+          "query_id": "35160"
+        },
+        {
+          "id": "LK-221802002",
+          "name": "Muslim gama",
+          "query_id": "35161"
+        },
+        {
+          "id": "LK-221802003",
+          "name": "Ketawala Gama",
+          "query_id": "35166"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218025",
+      "name": "Rajjammana",
+      "query_id": "3967",
+      "children": [
+        {
+          "id": "LK-221802501",
+          "name": "Rajjammana ",
+          "query_id": "35168"
+        },
+        {
+          "id": "LK-221802502",
+          "name": "Thalgahakotuwa ",
+          "query_id": "35174"
+        },
+        {
+          "id": "LK-221802503",
+          "name": "Rajjammana watta",
+          "query_id": "35177"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218030",
+      "name": "Moragahamada",
+      "query_id": "3968",
+      "children": [
+        {
+          "id": "LK-221803001",
+          "name": "Moragahamada colony",
+          "query_id": "35184"
+        },
+        {
+          "id": "LK-221803002",
+          "name": "Hathamunagala watta",
+          "query_id": "35188"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218035",
+      "name": "Hathamunagala",
+      "query_id": "3969",
+      "children": [
+        {
+          "id": "LK-221803501",
+          "name": "Hathamunagala gama",
+          "query_id": "35194"
+        },
+        {
+          "id": "LK-221803502",
+          "name": "Hathamunagala colony",
+          "query_id": "35198"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218040",
+      "name": "Ankanda",
+      "query_id": "3970",
+      "children": [
+        {
+          "id": "LK-221804001",
+          "name": "Ankanda",
+          "query_id": "35203"
+        },
+        {
+          "id": "LK-221804002",
+          "name": "Diggala",
+          "query_id": "35205"
+        },
+        {
+          "id": "LK-221804003",
+          "name": "Ankanda watta",
+          "query_id": "35208"
+        },
+        {
+          "id": "LK-221804004",
+          "name": "Hapugahalanda watta",
+          "query_id": "35216"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218045",
+      "name": "Puwakpitiya",
+      "query_id": "3971",
+      "children": [
+        {
+          "id": "LK-221804501",
+          "name": "Puwakpitiya",
+          "query_id": "35221"
+        },
+        {
+          "id": "LK-221804502",
+          "name": "Uduwaradamuna",
+          "query_id": "35224"
+        },
+        {
+          "id": "LK-221804503",
+          "name": "Pallewaradamuna",
+          "query_id": "35230"
+        },
+        {
+          "id": "LK-221804504",
+          "name": "Ambanganga watta",
+          "query_id": "35233"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218050",
+      "name": "Walliwela",
+      "query_id": "3972",
+      "children": [
+        {
+          "id": "LK-221805001",
+          "name": "Walliwela",
+          "query_id": "35238"
+        },
+        {
+          "id": "LK-221805002",
+          "name": "Galwadukumbura egodagama",
+          "query_id": "35244"
+        },
+        {
+          "id": "LK-221805003",
+          "name": "Mersland Watta ",
+          "query_id": "35250"
+        },
+        {
+          "id": "LK-221805004",
+          "name": "Kaudupelella -portion ",
+          "query_id": "35253"
+        },
+        {
+          "id": "LK-221805005",
+          "name": "Singhamahayaya watta ",
+          "query_id": "35258"
+        },
+        {
+          "id": "LK-221805006",
+          "name": "Sunrise gardens ",
+          "query_id": "35259"
+        },
+        {
+          "id": "LK-221805007",
+          "name": "Asiri uyana",
+          "query_id": "35260"
+        },
+        {
+          "id": "LK-221805008",
+          "name": "Kalugolla watta ",
+          "query_id": "35261"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218055",
+      "name": "Galwadukumbura",
+      "query_id": "3973",
+      "children": [
+        {
+          "id": "LK-221805501",
+          "name": "Galwadukumbura",
+          "query_id": "35271"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218060",
+      "name": "Dombawela",
+      "query_id": "3974",
+      "children": [
+        {
+          "id": "LK-221806001",
+          "name": "Dimbulgahakotuwa",
+          "query_id": "35277"
+        },
+        {
+          "id": "LK-221806002",
+          "name": "Dodangolla",
+          "query_id": "35279"
+        },
+        {
+          "id": "LK-221806003",
+          "name": "Dombawela",
+          "query_id": "35283"
+        },
+        {
+          "id": "LK-221806004",
+          "name": "Kawatayamuna watta",
+          "query_id": "35290"
+        },
+        {
+          "id": "LK-221806005",
+          "name": "Inwaleen watta",
+          "query_id": "35297"
+        },
+        {
+          "id": "LK-221806006",
+          "name": "Puwakgahagala gama",
+          "query_id": "35299"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218065",
+      "name": "Kawatayamuna",
+      "query_id": "3975",
+      "children": [
+        {
+          "id": "LK-221806501",
+          "name": "Kawatayamuna",
+          "query_id": "35305"
+        },
+        {
+          "id": "LK-221806502",
+          "name": "Oliscomb Colony (Portion)",
+          "query_id": "35308"
+        },
+        {
+          "id": "LK-221806503",
+          "name": "Kongahamula (portion)",
+          "query_id": "35312"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218070",
+      "name": "Eriyagolla",
+      "query_id": "3976",
+      "children": [
+        {
+          "id": "LK-221807001",
+          "name": "Eriyagolla",
+          "query_id": "35315"
+        },
+        {
+          "id": "LK-221807002",
+          "name": "Lognagar colony",
+          "query_id": "35317"
+        },
+        {
+          "id": "LK-221807003",
+          "name": "Silani colony",
+          "query_id": "35321"
+        },
+        {
+          "id": "LK-221807004",
+          "name": "Menik watta ",
+          "query_id": "35325"
+        },
+        {
+          "id": "LK-221807005",
+          "name": "Koongahamula",
+          "query_id": "35327"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218075",
+      "name": "Imbulandanda",
+      "query_id": "3977",
+      "children": [
+        {
+          "id": "LK-221807501",
+          "name": "Imbulandanda ",
+          "query_id": "35334"
+        },
+        {
+          "id": "LK-221807503",
+          "name": "Nildiya uyana(portion)",
+          "query_id": "35337"
+        },
+        {
+          "id": "LK-221807504",
+          "name": "Randiya Uyana(portion)",
+          "query_id": "35340"
+        },
+        {
+          "id": "LK-221807505",
+          "name": "Koongahamula (portion)",
+          "query_id": "51838"
+        },
+        {
+          "id": "LK-221807502",
+          "name": "Halangoda watta",
+          "query_id": "51837"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218080",
+      "name": "Golahenwatta",
+      "query_id": "3978",
+      "children": [
+        {
+          "id": "LK-221808001",
+          "name": "Golehen watta ",
+          "query_id": "35359"
+        },
+        {
+          "id": "LK-221808002",
+          "name": "Kirulagama",
+          "query_id": "35361"
+        },
+        {
+          "id": "LK-221808003",
+          "name": "Koongahamula(portion)",
+          "query_id": "35362"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218085",
+      "name": "Parana Dombawela",
+      "query_id": "3979",
+      "children": [
+        {
+          "id": "LK-221808501",
+          "name": "Parana Dombawela gama ",
+          "query_id": "35365"
+        },
+        {
+          "id": "LK-221808502",
+          "name": "Makulussa colony",
+          "query_id": "35366"
+        },
+        {
+          "id": "LK-221808503",
+          "name": "Hilton New Colony",
+          "query_id": "35367"
+        },
+        {
+          "id": "LK-221808505",
+          "name": "Makulussa watta",
+          "query_id": "35370"
+        },
+        {
+          "id": "LK-221808504",
+          "name": "Hilton Old Colony",
+          "query_id": "51839"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218090",
+      "name": "Ellepola",
+      "query_id": "3980",
+      "children": [
+        {
+          "id": "LK-221809001",
+          "name": "Ellepola gama",
+          "query_id": "35371"
+        },
+        {
+          "id": "LK-221809002",
+          "name": "Hilton watta ",
+          "query_id": "35373"
+        },
+        {
+          "id": "LK-221809003",
+          "name": "Allepola watta",
+          "query_id": "35374"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218095",
+      "name": "Palapathwela",
+      "query_id": "3981",
+      "children": [
+        {
+          "id": "LK-221809510",
+          "name": "Sakura Uyana",
+          "query_id": "54860"
+        },
+        {
+          "id": "LK-221809511",
+          "name": "Araliya Uyana",
+          "query_id": "54861"
+        },
+        {
+          "id": "LK-221809512",
+          "name": "Meliban Watta",
+          "query_id": "54862"
+        },
+        {
+          "id": "LK-221809513",
+          "name": "Highway Park",
+          "query_id": "54863"
+        },
+        {
+          "id": "LK-221809507",
+          "name": "Randiya Uyana Portion",
+          "query_id": "54857"
+        },
+        {
+          "id": "LK-221809508",
+          "name": "Nildiya Uyana Portion",
+          "query_id": "54858"
+        },
+        {
+          "id": "LK-221809509",
+          "name": "Sampath Uyana",
+          "query_id": "54859"
+        },
+        {
+          "id": "LK-221809503",
+          "name": "Wawinna",
+          "query_id": "35376"
+        },
+        {
+          "id": "LK-221809502",
+          "name": "Wawanna watta",
+          "query_id": "35379"
+        },
+        {
+          "id": "LK-221809501",
+          "name": "Palapathwala ",
+          "query_id": "35380"
+        },
+        {
+          "id": "LK-221809504",
+          "name": "Oliscomb watta",
+          "query_id": "35382"
+        },
+        {
+          "id": "LK-221809505",
+          "name": "Udugama Road",
+          "query_id": "54855"
+        },
+        {
+          "id": "LK-221809506",
+          "name": "Samaerset Park",
+          "query_id": "54856"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218100",
+      "name": "Kottagoda",
+      "query_id": "3982",
+      "children": [
+        {
+          "id": "LK-221810001",
+          "name": "Kottegoda",
+          "query_id": "35386"
+        },
+        {
+          "id": "LK-221810002",
+          "name": "Rose watta Portion",
+          "query_id": "35388"
+        },
+        {
+          "id": "LK-221810003",
+          "name": "Thalamure gama ",
+          "query_id": "35389"
+        },
+        {
+          "id": "LK-221810004",
+          "name": "Imbulandanda(portion)",
+          "query_id": "35390"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218105",
+      "name": "Owalapolwatta",
+      "query_id": "3983",
+      "children": [
+        {
+          "id": "LK-221810501",
+          "name": "Owalapolwatta",
+          "query_id": "35396"
+        },
+        {
+          "id": "LK-221810502",
+          "name": "Matale watta(portion)",
+          "query_id": "35397"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218110",
+      "name": "Mekulgaharuppa",
+      "query_id": "3984",
+      "children": [
+        {
+          "id": "LK-221811001",
+          "name": "Makulgaharuppa",
+          "query_id": "35398"
+        },
+        {
+          "id": "LK-221811002",
+          "name": "Sappu watta",
+          "query_id": "35401"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218115",
+      "name": "Udugama",
+      "query_id": "3985",
+      "children": [
+        {
+          "id": "LK-221811501",
+          "name": "Udugama",
+          "query_id": "35402"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218120",
+      "name": "Kirigalpotta",
+      "query_id": "3986",
+      "children": [
+        {
+          "id": "LK-221812001",
+          "name": "Kirigalpoththa",
+          "query_id": "35405"
+        },
+        {
+          "id": "LK-221812002",
+          "name": "Thotagamuwa",
+          "query_id": "35407"
+        },
+        {
+          "id": "LK-221812003",
+          "name": "Beeridewala (portion)",
+          "query_id": "35409"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218125",
+      "name": "Dunkalawatta",
+      "query_id": "3987",
+      "children": [
+        {
+          "id": "LK-221812501",
+          "name": "Matale watta (portion)",
+          "query_id": "35413"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218130",
+      "name": "Dorakumbura",
+      "query_id": "3988",
+      "children": [
+        {
+          "id": "LK-221813001",
+          "name": "Dorakumbura",
+          "query_id": "35418"
+        },
+        {
+          "id": "LK-221813002",
+          "name": "Kanangamuwa",
+          "query_id": "35420"
+        },
+        {
+          "id": "LK-221813003",
+          "name": "Dunuke watta",
+          "query_id": "35422"
+        },
+        {
+          "id": "LK-221813004",
+          "name": "Dostara watta (somas Land)",
+          "query_id": "35426"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218135",
+      "name": "Beeridewala",
+      "query_id": "3989",
+      "children": [
+        {
+          "id": "LK-221813501",
+          "name": "First colony",
+          "query_id": "35432"
+        },
+        {
+          "id": "LK-221813502",
+          "name": "Second Colony",
+          "query_id": "35433"
+        },
+        {
+          "id": "LK-221813503",
+          "name": "Beeride wala(portion)",
+          "query_id": "35435"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218140",
+      "name": "Aluvihare",
+      "query_id": "3990",
+      "children": [
+        {
+          "id": "LK-221814001",
+          "name": "Trincomalee street ",
+          "query_id": "35438"
+        },
+        {
+          "id": "LK-221814002",
+          "name": "Sir Richard aluvihare mawatha ",
+          "query_id": "35439"
+        },
+        {
+          "id": "LK-221814003",
+          "name": "Aluvihare watta",
+          "query_id": "35441"
+        },
+        {
+          "id": "LK-221814004",
+          "name": "Dikiriya para (portion)",
+          "query_id": "35443"
+        },
+        {
+          "id": "LK-221814005",
+          "name": "Samandawa para",
+          "query_id": "35444"
+        },
+        {
+          "id": "LK-221814006",
+          "name": "Sumangala mawatha",
+          "query_id": "35446"
+        },
+        {
+          "id": "LK-221814007",
+          "name": "Deevilla para(Beeridewala Road)",
+          "query_id": "35450"
+        },
+        {
+          "id": "LK-221814008",
+          "name": "Sri Saranankara Mawatha",
+          "query_id": "35452"
+        },
+        {
+          "id": "LK-221814010",
+          "name": "Widuhal mawatha",
+          "query_id": "35455"
+        },
+        {
+          "id": "LK-221814009",
+          "name": "Pivithuru Mawatha",
+          "query_id": "51841"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218145",
+      "name": "Dikkiriya",
+      "query_id": "3991",
+      "children": [
+        {
+          "id": "LK-221814501",
+          "name": "Dikkiriya  Colony",
+          "query_id": "35458"
+        },
+        {
+          "id": "LK-221814503",
+          "name": "Jayawardana Mawatha (Portion)",
+          "query_id": "35461"
+        },
+        {
+          "id": "LK-221814504",
+          "name": "Sampath Uyana ",
+          "query_id": "35462"
+        },
+        {
+          "id": "LK-221814505",
+          "name": "Dikkiriya Watta",
+          "query_id": "35463"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218150",
+      "name": "Parawatta",
+      "query_id": "3992",
+      "children": [
+        {
+          "id": "LK-221815001",
+          "name": "Parawatta Colony",
+          "query_id": "35475"
+        },
+        {
+          "id": "LK-221815002",
+          "name": "Meelathgama",
+          "query_id": "35476"
+        },
+        {
+          "id": "LK-221815003",
+          "name": "Dikkiriya Watta",
+          "query_id": "35477"
+        },
+        {
+          "id": "LK-221815004",
+          "name": "Rattota Road(portion)",
+          "query_id": "35478"
+        },
+        {
+          "id": "LK-221815005",
+          "name": "I.D.H.Road -Nikakotuwa watta",
+          "query_id": "35479"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218155",
+      "name": "Kaludewala",
+      "query_id": "3993",
+      "children": [
+        {
+          "id": "LK-221815501",
+          "name": "Rattota Road (Portion)",
+          "query_id": "35481"
+        },
+        {
+          "id": "LK-221815502",
+          "name": "First Lane",
+          "query_id": "35482"
+        },
+        {
+          "id": "LK-221815503",
+          "name": "Second Land",
+          "query_id": "35483"
+        },
+        {
+          "id": "LK-221815504",
+          "name": "River Side Road",
+          "query_id": "35484"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218160",
+      "name": "Mandandawala",
+      "query_id": "3994",
+      "children": [
+        {
+          "id": "LK-221816001",
+          "name": "Rattota Road -Portion",
+          "query_id": "35485"
+        },
+        {
+          "id": "LK-221816002",
+          "name": "Trincomalee Street -Portion",
+          "query_id": "35486"
+        },
+        {
+          "id": "LK-221816003",
+          "name": "Temple Road",
+          "query_id": "35487"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218165",
+      "name": "Bogahakotuwa",
+      "query_id": "3995",
+      "children": [
+        {
+          "id": "LK-221816501",
+          "name": "Harasgama Road(portion)",
+          "query_id": "35488"
+        },
+        {
+          "id": "LK-221816502",
+          "name": "Ihala Harasgama Road",
+          "query_id": "35489"
+        },
+        {
+          "id": "LK-221816503",
+          "name": "Agalawatta Harasgama Road (portion)",
+          "query_id": "35490"
+        },
+        {
+          "id": "LK-221816504",
+          "name": "Agalawatta Road",
+          "query_id": "35491"
+        },
+        {
+          "id": "LK-221816505",
+          "name": "Bogahakotuwa Road",
+          "query_id": "35557"
+        },
+        {
+          "id": "LK-221816506",
+          "name": "King Street portion",
+          "query_id": "35564"
+        },
+        {
+          "id": "LK-221816507",
+          "name": "Narankotuwa Road",
+          "query_id": "35566"
+        },
+        {
+          "id": "LK-221816508",
+          "name": "Epitamulla Mawatha  (Richard pamunuwa first Lane",
+          "query_id": "35584"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218170",
+      "name": "Harasgama",
+      "query_id": "3996",
+      "children": [
+        {
+          "id": "LK-221817001",
+          "name": "Adilechchami watta ",
+          "query_id": "35587"
+        },
+        {
+          "id": "LK-221817002",
+          "name": "Agalawatta(portion)",
+          "query_id": "35588"
+        },
+        {
+          "id": "LK-221817004",
+          "name": "Ihala Harasgama",
+          "query_id": "35590"
+        },
+        {
+          "id": "LK-221817005",
+          "name": "Harasgama colony",
+          "query_id": "35591"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218175",
+      "name": "Kandegedara",
+      "query_id": "3997",
+      "children": [
+        {
+          "id": "LK-221817501",
+          "name": "Kandegedara ",
+          "query_id": "35593"
+        },
+        {
+          "id": "LK-221817502",
+          "name": "Wilsheyar watta",
+          "query_id": "35595"
+        },
+        {
+          "id": "LK-221817503",
+          "name": "Agalawatta (portion)",
+          "query_id": "35597"
+        },
+        {
+          "id": "LK-221817504",
+          "name": "Polwattaheena",
+          "query_id": "35599"
+        },
+        {
+          "id": "LK-221817505",
+          "name": "Kandegedara  Colony",
+          "query_id": "35602"
+        },
+        {
+          "id": "LK-221817506",
+          "name": "Agalawatta Colony",
+          "query_id": "35605"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218180",
+      "name": "Malwatta",
+      "query_id": "3998",
+      "children": [
+        {
+          "id": "LK-221818001",
+          "name": "Uparis place (portion) ",
+          "query_id": "35616"
+        },
+        {
+          "id": "LK-221818002",
+          "name": "Agalawatta Road ",
+          "query_id": "35617"
+        },
+        {
+          "id": "LK-221818003",
+          "name": "Vihara Para (portion)",
+          "query_id": "35619"
+        },
+        {
+          "id": "LK-221818004",
+          "name": "Bomaluwa para (portion)",
+          "query_id": "35620"
+        },
+        {
+          "id": "LK-221818005",
+          "name": "Agalawatta Cross Road (portion) ",
+          "query_id": "35622"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218185",
+      "name": "Vihara Road",
+      "query_id": "3999",
+      "children": [
+        {
+          "id": "LK-221818501",
+          "name": "Uparis Place (portion)",
+          "query_id": "35626"
+        },
+        {
+          "id": "LK-221818502",
+          "name": "Agalawatta Road(portion)",
+          "query_id": "35629"
+        },
+        {
+          "id": "LK-221818503",
+          "name": "Bomaluwa Road(portion)",
+          "query_id": "35631"
+        },
+        {
+          "id": "LK-221818504",
+          "name": "Vihara Para (portion)",
+          "query_id": "35634"
+        },
+        {
+          "id": "LK-221818505",
+          "name": "Mahadevata para 1",
+          "query_id": "35636"
+        },
+        {
+          "id": "LK-221818506",
+          "name": "Meewattakumbura Road",
+          "query_id": "35637"
+        },
+        {
+          "id": "LK-221818507",
+          "name": "Mahdewata Lane ",
+          "query_id": "35639"
+        },
+        {
+          "id": "LK-221818508",
+          "name": "Deevala Lane",
+          "query_id": "35641"
+        },
+        {
+          "id": "LK-221818509",
+          "name": "King Street (portion)",
+          "query_id": "35645"
+        },
+        {
+          "id": "LK-221818510",
+          "name": "Harasgama Road",
+          "query_id": "35646"
+        },
+        {
+          "id": "LK-221818511",
+          "name": "Mahadevata para 2",
+          "query_id": "35648"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218190",
+      "name": "Muslim Town",
+      "query_id": "4000",
+      "children": [
+        {
+          "id": "LK-221819001",
+          "name": "Trincomalee Sreet (portion)",
+          "query_id": "35649"
+        },
+        {
+          "id": "LK-221819002",
+          "name": "Rose Street (portion)",
+          "query_id": "35650"
+        },
+        {
+          "id": "LK-221819003",
+          "name": "King Street (portion)",
+          "query_id": "35653"
+        },
+        {
+          "id": "LK-221819004",
+          "name": "Harison Johns Road (portion)",
+          "query_id": "35656"
+        },
+        {
+          "id": "LK-221819006",
+          "name": "Moolandapitiya Road ",
+          "query_id": "35658"
+        },
+        {
+          "id": "LK-221819007",
+          "name": "Moolandapitiya Lane",
+          "query_id": "35659"
+        },
+        {
+          "id": "LK-221819008",
+          "name": "Godapola Road ",
+          "query_id": "35660"
+        },
+        {
+          "id": "LK-221819009",
+          "name": "Clinic Road",
+          "query_id": "35661"
+        },
+        {
+          "id": "LK-221819010",
+          "name": "Broady Veediya",
+          "query_id": "35664"
+        },
+        {
+          "id": "LK-221819011",
+          "name": "Hetti Veediya /Mosque street ",
+          "query_id": "35666"
+        },
+        {
+          "id": "LK-221819012",
+          "name": "Muhandiram Road",
+          "query_id": "35668"
+        },
+        {
+          "id": "LK-221819013",
+          "name": "Ismail Lane",
+          "query_id": "35670"
+        },
+        {
+          "id": "LK-221819014",
+          "name": "Husen mawatha portion ",
+          "query_id": "35674"
+        },
+        {
+          "id": "LK-221819005",
+          "name": "Gongawela  Road (Portion)",
+          "query_id": "35677"
+        },
+        {
+          "id": "LK-221819015",
+          "name": "Tharalanda Road",
+          "query_id": "35678"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218195",
+      "name": "Oya Pahala",
+      "query_id": "4001",
+      "children": [
+        {
+          "id": "LK-221819501",
+          "name": "Hussain Mawatha  (portion)",
+          "query_id": "35682"
+        },
+        {
+          "id": "LK-221819502",
+          "name": "Pape Line Road",
+          "query_id": "35685"
+        },
+        {
+          "id": "LK-221819503",
+          "name": "Bridge  Road",
+          "query_id": "35687"
+        },
+        {
+          "id": "LK-221819504",
+          "name": "Bandarapola Road",
+          "query_id": "35689"
+        },
+        {
+          "id": "LK-221819505",
+          "name": "Dole Road(\u0da0\u0daf\u0dbb\u0d91\u0dc3\u0daf\u0db6)",
+          "query_id": "35693"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218200",
+      "name": "Gongawala",
+      "query_id": "4002",
+      "children": [
+        {
+          "id": "LK-221820001",
+          "name": "Trincomalee Street (portion)",
+          "query_id": "35696"
+        },
+        {
+          "id": "LK-221820002",
+          "name": "King Street (portion)",
+          "query_id": "35698"
+        },
+        {
+          "id": "LK-221820003",
+          "name": "Prince Street",
+          "query_id": "35701"
+        },
+        {
+          "id": "LK-221820004",
+          "name": "Rose Street (portion)",
+          "query_id": "35702"
+        },
+        {
+          "id": "LK-221820005",
+          "name": "Gongawela Road (portion)",
+          "query_id": "35704"
+        },
+        {
+          "id": "LK-221820006",
+          "name": "Harrison Johns Road (portion)",
+          "query_id": "35707"
+        },
+        {
+          "id": "LK-221820007",
+          "name": "Dole Road (portion)",
+          "query_id": "35709"
+        },
+        {
+          "id": "LK-221820008",
+          "name": "Dole watta ",
+          "query_id": "35710"
+        },
+        {
+          "id": "LK-221820009",
+          "name": "Hussain Lane",
+          "query_id": "35712"
+        },
+        {
+          "id": "LK-221820010",
+          "name": "Hussain Mawatha  (portion)",
+          "query_id": "35714"
+        },
+        {
+          "id": "LK-221820011",
+          "name": "Station Road ",
+          "query_id": "35715"
+        },
+        {
+          "id": "LK-221820012",
+          "name": "Akkaramale watta ",
+          "query_id": "35721"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218205",
+      "name": "Sinhala Town",
+      "query_id": "4003",
+      "children": [
+        {
+          "id": "LK-221820501",
+          "name": "Malwatta Road ",
+          "query_id": "35724"
+        },
+        {
+          "id": "LK-221820502",
+          "name": "Dharmapala Mawata",
+          "query_id": "35725"
+        },
+        {
+          "id": "LK-221820503",
+          "name": "Kachcheri Road ",
+          "query_id": "35727"
+        },
+        {
+          "id": "LK-221820504",
+          "name": "King Street (portion)",
+          "query_id": "35728"
+        },
+        {
+          "id": "LK-221820505",
+          "name": "Kandegedara Road (portion)",
+          "query_id": "35731"
+        },
+        {
+          "id": "LK-221820506",
+          "name": "Hulangamuwa Road (portion)",
+          "query_id": "35732"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218210",
+      "name": "Dodamdeniya",
+      "query_id": "4004",
+      "children": [
+        {
+          "id": "LK-221821001",
+          "name": "Dodamdeniya Circular Road",
+          "query_id": "35736"
+        },
+        {
+          "id": "LK-221821002",
+          "name": "Dodamdeniya Gama",
+          "query_id": "35737"
+        },
+        {
+          "id": "LK-221821003",
+          "name": "Dodamdeniya Road",
+          "query_id": "35739"
+        },
+        {
+          "id": "LK-221821004",
+          "name": "Kadawath gama",
+          "query_id": "35740"
+        },
+        {
+          "id": "LK-221821005",
+          "name": "Hulangamuwa Road (portion)",
+          "query_id": "35742"
+        },
+        {
+          "id": "LK-221821006",
+          "name": "Hannaskanda",
+          "query_id": "35743"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218215",
+      "name": "Hulangamuwa South",
+      "query_id": "4005",
+      "children": [
+        {
+          "id": "LK-221821501",
+          "name": "Hulangamuwa Road (portion)",
+          "query_id": "35746"
+        },
+        {
+          "id": "LK-221821502",
+          "name": "Maladumpotha Road (portion)",
+          "query_id": "35747"
+        },
+        {
+          "id": "LK-221821503",
+          "name": "Hettiya watta  Road",
+          "query_id": "35749"
+        },
+        {
+          "id": "LK-221821504",
+          "name": "Nagolla Road (portion)",
+          "query_id": "35753"
+        },
+        {
+          "id": "LK-221821505",
+          "name": "Hulangamuwa gama ",
+          "query_id": "35755"
+        },
+        {
+          "id": "LK-221821506",
+          "name": "Nidahas Mawatha(portion)",
+          "query_id": "35756"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218220",
+      "name": "Hulangamuwa North",
+      "query_id": "4006",
+      "children": [
+        {
+          "id": "LK-221822001",
+          "name": "Hulangamuwa Road (portion)",
+          "query_id": "35761"
+        },
+        {
+          "id": "LK-221822002",
+          "name": "Maligathanna Road",
+          "query_id": "35763"
+        },
+        {
+          "id": "LK-221822003",
+          "name": "Walagamba place",
+          "query_id": "35764"
+        },
+        {
+          "id": "LK-221822004",
+          "name": "Viduhal Place",
+          "query_id": "35765"
+        },
+        {
+          "id": "LK-221822005",
+          "name": "Nagolla Road (portion)",
+          "query_id": "35766"
+        },
+        {
+          "id": "LK-221822006",
+          "name": "Maladumpoth Road (portion)",
+          "query_id": "35767"
+        },
+        {
+          "id": "LK-221822007",
+          "name": "Pulleyar Kovil Road",
+          "query_id": "35768"
+        },
+        {
+          "id": "LK-221822008",
+          "name": "Park Road",
+          "query_id": "35769"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218225",
+      "name": "Diyabubula",
+      "query_id": "4007",
+      "children": [
+        {
+          "id": "LK-221822501",
+          "name": "Kandy Road (portion)",
+          "query_id": "35853"
+        },
+        {
+          "id": "LK-221822502",
+          "name": "Park Road",
+          "query_id": "35854"
+        },
+        {
+          "id": "LK-221822503",
+          "name": "Nagolla Road (portion)",
+          "query_id": "35855"
+        },
+        {
+          "id": "LK-221822504",
+          "name": "Hospital Road",
+          "query_id": "35856"
+        },
+        {
+          "id": "LK-221822505",
+          "name": "Government Quarters ",
+          "query_id": "35857"
+        },
+        {
+          "id": "LK-221822506",
+          "name": "Gongawela Road (portion)",
+          "query_id": "35858"
+        },
+        {
+          "id": "LK-221822502",
+          "name": "Higgolla Mawatha (portion)",
+          "query_id": "51845"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218230",
+      "name": "Maligatenna",
+      "query_id": "4008",
+      "children": [
+        {
+          "id": "LK-221823001",
+          "name": "M.C.Road (portion)",
+          "query_id": "35859"
+        },
+        {
+          "id": "LK-221823002",
+          "name": "Mihindu Mawatha",
+          "query_id": "35860"
+        },
+        {
+          "id": "LK-221823003",
+          "name": "Nagolla Road(portion)",
+          "query_id": "35861"
+        },
+        {
+          "id": "LK-221823004",
+          "name": "M.C.Road Housing Scheme",
+          "query_id": "35862"
+        },
+        {
+          "id": "LK-221823005",
+          "name": "Samagi Mawatha",
+          "query_id": "35863"
+        },
+        {
+          "id": "LK-221823006",
+          "name": "Higgolla Mawatha(portion)",
+          "query_id": "35864"
+        },
+        {
+          "id": "LK-221823007",
+          "name": "Sangananda Mawatha ",
+          "query_id": "35865"
+        },
+        {
+          "id": "LK-221823008",
+          "name": "Rahula Mawatha",
+          "query_id": "35866"
+        },
+        {
+          "id": "LK-221823009",
+          "name": "Seewali Mawatha",
+          "query_id": "35867"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218235",
+      "name": "Nagolla",
+      "query_id": "4009",
+      "children": [
+        {
+          "id": "LK-221823501",
+          "name": "Nagolla Gama Road",
+          "query_id": "35868"
+        },
+        {
+          "id": "LK-221823502",
+          "name": "Nagolla Road (portion)",
+          "query_id": "35869"
+        },
+        {
+          "id": "LK-221823503",
+          "name": "M.C.Road (portion)",
+          "query_id": "35870"
+        },
+        {
+          "id": "LK-221823504",
+          "name": "Meladumpotha Road (portion)",
+          "query_id": "35871"
+        },
+        {
+          "id": "LK-221823505",
+          "name": "Pulleyar Kovil Road (portion)",
+          "query_id": "51846"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218240",
+      "name": "Pandivita",
+      "query_id": "4010",
+      "children": [
+        {
+          "id": "LK-221824001",
+          "name": "Pandiwita Ihalagama",
+          "query_id": "35873"
+        },
+        {
+          "id": "LK-221824002",
+          "name": "Ududeniya Road",
+          "query_id": "35874"
+        },
+        {
+          "id": "LK-221824003",
+          "name": "Kaluwalgoda",
+          "query_id": "35875"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218245",
+      "name": "Pandivita Welagama",
+      "query_id": "4011",
+      "children": [
+        {
+          "id": "LK-221824501",
+          "name": "Pandiwita Colony ",
+          "query_id": "35876"
+        },
+        {
+          "id": "LK-221824502",
+          "name": "Paaluwatta Village",
+          "query_id": "35877"
+        },
+        {
+          "id": "LK-221824503",
+          "name": "Pandiwita Waelagama",
+          "query_id": "35878"
+        },
+        {
+          "id": "LK-221824504",
+          "name": "Gonamada",
+          "query_id": "35879"
+        },
+        {
+          "id": "LK-221824505",
+          "name": "Paluwatta Model Housing",
+          "query_id": "35880"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218250",
+      "name": "Kotuwegedara North",
+      "query_id": "4012",
+      "children": [
+        {
+          "id": "LK-221825001",
+          "name": "Kotuwegedara Gama",
+          "query_id": "35881"
+        },
+        {
+          "id": "LK-221825002",
+          "name": "Kotuwegedara gama(portion)",
+          "query_id": "35882"
+        },
+        {
+          "id": "LK-221825003",
+          "name": "Waduramulla Gama",
+          "query_id": "35883"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218255",
+      "name": "Koombiyangoda",
+      "query_id": "4013",
+      "children": [
+        {
+          "id": "LK-221825501",
+          "name": "Koombiyangoda ",
+          "query_id": "35884"
+        },
+        {
+          "id": "LK-221825502",
+          "name": "Kotuwegedara Road",
+          "query_id": "35885"
+        },
+        {
+          "id": "LK-221825503",
+          "name": "Paluwatta Gama (portion)",
+          "query_id": "35886"
+        },
+        {
+          "id": "LK-221825504",
+          "name": "National Housing ",
+          "query_id": "35887"
+        }
+      ]
+    },
+    {
+      "id": "LK-2218260",
+      "name": "Kotuwegedara South",
+      "query_id": "4014",
+      "children": [
+        {
+          "id": "LK-221826001",
+          "name": "Kotuwegedara A Colony",
+          "query_id": "35888"
+        },
+        {
+          "id": "LK-221826002",
+          "name": "Kotuwegedara B Colony",
+          "query_id": "35889"
+        }
+      ]
+    }
+  ]
+}
