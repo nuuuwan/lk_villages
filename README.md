@@ -2,7 +2,7 @@
 
 Scrapes information about villages from http://moha.gov.lk:8090.
 
-**10,725** Villages from **2,359** GNDs in **37** DSDs (1.577MB), scraped as of *2023-12-03 13:38:10*.
+**11,736** Villages from **2,630** GNDs in **42** DSDs (1.730MB), scraped as of *2023-12-03 13:59:23*.
 
 ## LK-1 - Western
 
@@ -51,3 +51,13 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-1324](data/villages/LK-1324.json) - Beruwala
 * [LK-1327](data/villages/LK-1327.json) - Dodangoda
 * [LK-1330](data/villages/LK-1330.json) - Mathugama
+* [LK-1333](data/villages/LK-1333.json) - Agalawatta
+* [LK-1336](data/villages/LK-1336.json) - Palindanuwara
+* [LK-1339](data/villages/LK-1339.json) - Walallavita
+
+## LK-2 - Central
+
+### LK-21 - Kandy
+
+* [LK-2103](data/villages/LK-2103.json) - Thumpane
+* [LK-2106](data/villages/LK-2106.json) - Pujapitiya
