@@ -1,0 +1,541 @@
+{
+  "id": "LK-5215",
+  "name": "Ampara",
+  "query_id": "1120",
+  "children": [
+    {
+      "id": "LK-5215005",
+      "name": "Dambethalawa",
+      "query_id": "7990",
+      "children": [
+        {
+          "id": "LK-521500501",
+          "name": "Part of Dabethalava Village",
+          "query_id": "9251"
+        },
+        {
+          "id": "LK-521500502",
+          "name": "Namaloya 10 B coloney",
+          "query_id": "9252"
+        },
+        {
+          "id": "LK-521500503",
+          "name": "Remaining part of Dabethalava Village",
+          "query_id": "9253"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215010",
+      "name": "Samapura",
+      "query_id": "7991",
+      "children": [
+        {
+          "id": "LK-521501001",
+          "name": "Kamhal Place ",
+          "query_id": "9255"
+        },
+        {
+          "id": "LK-521501002",
+          "name": "Suduwella",
+          "query_id": "9256"
+        },
+        {
+          "id": "LK-521501003",
+          "name": "Hadi Place",
+          "query_id": "9258"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215015",
+      "name": "Karangawa",
+      "query_id": "7992",
+      "children": [
+        {
+          "id": "LK-521501501",
+          "name": "Karangawa village",
+          "query_id": "9260"
+        },
+        {
+          "id": "LK-521501502",
+          "name": "Sayanagara Place",
+          "query_id": "9262"
+        },
+        {
+          "id": "LK-521501503",
+          "name": "Rajawawa Village",
+          "query_id": "9267"
+        },
+        {
+          "id": "LK-521501504",
+          "name": "Uhana Para Ithiri Kotasa",
+          "query_id": "34307"
+        },
+        {
+          "id": "LK-521501505",
+          "name": "Rajaye Sewaka Niwasa Padasa",
+          "query_id": "34308"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215020",
+      "name": "Gemunupura",
+      "query_id": "7993",
+      "children": [
+        {
+          "id": "LK-521502001",
+          "name": "Gamunupura Gama Kotasak",
+          "query_id": "9269"
+        },
+        {
+          "id": "LK-521502002",
+          "name": "D. S. Senanayake Jathika Pasala Place",
+          "query_id": "9272"
+        },
+        {
+          "id": "LK-521502003",
+          "name": "Jalasapaum Place",
+          "query_id": "9273"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215025",
+      "name": "Thissapura",
+      "query_id": "7994",
+      "children": [
+        {
+          "id": "LK-521502501",
+          "name": "Tissapura",
+          "query_id": "9274"
+        },
+        {
+          "id": "LK-521502502",
+          "name": "Wijitha pura",
+          "query_id": "9275"
+        },
+        {
+          "id": "LK-521502503",
+          "name": "Gamunupura Kotasak",
+          "query_id": "9276"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215030",
+      "name": "Nawagampura",
+      "query_id": "7995",
+      "children": [
+        {
+          "id": "LK-521503001",
+          "name": "Nawagampura",
+          "query_id": "9280"
+        },
+        {
+          "id": "LK-521503002",
+          "name": "Piriwena Padasa",
+          "query_id": "34301"
+        },
+        {
+          "id": "LK-521503003",
+          "name": "Karmanthapura",
+          "query_id": "34302"
+        },
+        {
+          "id": "LK-521503004",
+          "name": "Dayapura",
+          "query_id": "34303"
+        },
+        {
+          "id": "LK-521503005",
+          "name": "Kalmuna Para",
+          "query_id": "34304"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215035",
+      "name": "Senanayakepura",
+      "query_id": "7996",
+      "children": [
+        {
+          "id": "LK-521503501",
+          "name": "Karmika Place",
+          "query_id": "9284"
+        },
+        {
+          "id": "LK-521503502",
+          "name": "Eragama road",
+          "query_id": "9286"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215040",
+      "name": "Jayawardhanapura",
+      "query_id": "7997",
+      "children": [
+        {
+          "id": "LK-521504001",
+          "name": "Jayawardanapura",
+          "query_id": "9289"
+        },
+        {
+          "id": "LK-521504002",
+          "name": "Dammarathana Mawatha",
+          "query_id": "9292"
+        },
+        {
+          "id": "LK-521504003",
+          "name": "Budangala Para Kotasak",
+          "query_id": "9293"
+        },
+        {
+          "id": "LK-521504004",
+          "name": "Markat Place",
+          "query_id": "9296"
+        },
+        {
+          "id": "LK-521504005",
+          "name": "Sri Dammarathana Mawathe Kotasak",
+          "query_id": "34298"
+        },
+        {
+          "id": "LK-521504006",
+          "name": "Dutugamunu Mawathe Kotasak",
+          "query_id": "34309"
+        },
+        {
+          "id": "LK-521504007",
+          "name": "Degagamini Mawathe Kotasak",
+          "query_id": "34310"
+        },
+        {
+          "id": "LK-521504008",
+          "name": "Nawa Nagaraye Kotasak",
+          "query_id": "34311"
+        },
+        {
+          "id": "LK-521504009",
+          "name": "Darmapala Mawathe Kotasak",
+          "query_id": "34312"
+        },
+        {
+          "id": "LK-521504010",
+          "name": "Kerthi Mawatha",
+          "query_id": "34313"
+        },
+        {
+          "id": "LK-521504011",
+          "name": "Saddathissa Mawatha",
+          "query_id": "34314"
+        },
+        {
+          "id": "LK-521504012",
+          "name": "Senanayaka Widiye Kotasak",
+          "query_id": "34315"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215045",
+      "name": "Indrasarapura",
+      "query_id": "7998",
+      "children": [
+        {
+          "id": "LK-521504501",
+          "name": "Galkanda Mawatha",
+          "query_id": "9298"
+        },
+        {
+          "id": "LK-521504502",
+          "name": "New Town",
+          "query_id": "9423"
+        },
+        {
+          "id": "LK-521504503",
+          "name": "Kadaweediye kotasak",
+          "query_id": "9425"
+        },
+        {
+          "id": "LK-521504504",
+          "name": "D' S' Senanayake Weediye Kotasak",
+          "query_id": "34299"
+        },
+        {
+          "id": "LK-521504505",
+          "name": "Sri Dammarathana Mawathe Kotasak",
+          "query_id": "34300"
+        },
+        {
+          "id": "LK-521504506",
+          "name": "Degagamini Mawathe Kotasak",
+          "query_id": "34319"
+        },
+        {
+          "id": "LK-521504507",
+          "name": "Nidahas Mawatha",
+          "query_id": "34320"
+        },
+        {
+          "id": "LK-521504508",
+          "name": "Pandukabaya Mawatha",
+          "query_id": "34321"
+        },
+        {
+          "id": "LK-521504509",
+          "name": "Pandukabaya Mawatha",
+          "query_id": "34322"
+        },
+        {
+          "id": "LK-521504510",
+          "name": "Dharmapala Mawathe Kotasak",
+          "query_id": "34323"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215050",
+      "name": "Mihindupura",
+      "query_id": "7999",
+      "children": [
+        {
+          "id": "LK-521505001",
+          "name": "Mihindupura",
+          "query_id": "9429"
+        },
+        {
+          "id": "LK-521505002",
+          "name": "Parana govipola",
+          "query_id": "9430"
+        },
+        {
+          "id": "LK-521505003",
+          "name": "12 Kanuwa Udaya pura",
+          "query_id": "9432"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215055",
+      "name": "Saddhathissapura",
+      "query_id": "8000",
+      "children": [
+        {
+          "id": "LK-521505504",
+          "name": "Piriwena Place ",
+          "query_id": "9441"
+        },
+        {
+          "id": "LK-521505501",
+          "name": "Darmapala Mawathe Kotasak gama",
+          "query_id": "9443"
+        },
+        {
+          "id": "LK-521505503",
+          "name": "Hospital Place",
+          "query_id": "34316"
+        },
+        {
+          "id": "LK-521505505",
+          "name": "Kalmune Para Wampasa Kotasa",
+          "query_id": "34317"
+        },
+        {
+          "id": "LK-521505502",
+          "name": "Union Road Village",
+          "query_id": "34318"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215060",
+      "name": "Kotavehera",
+      "query_id": "8001",
+      "children": [
+        {
+          "id": "LK-521506001",
+          "name": "Kotawehera",
+          "query_id": "9445"
+        },
+        {
+          "id": "LK-521506002",
+          "name": "A. C. Camp",
+          "query_id": "9447"
+        },
+        {
+          "id": "LK-521506003",
+          "name": "Army Kandawura Padasa",
+          "query_id": "9452"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215065",
+      "name": "Paragahakele East",
+      "query_id": "8002",
+      "children": [
+        {
+          "id": "LK-521506501",
+          "name": "Paragahakale East Village",
+          "query_id": "9454"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215070",
+      "name": "Paragahakele West",
+      "query_id": "8003",
+      "children": [
+        {
+          "id": "LK-521507002",
+          "name": "Galkoriya (Kossapola)",
+          "query_id": "9463"
+        },
+        {
+          "id": "LK-521507001",
+          "name": "Paragakele West Village",
+          "query_id": "9464"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215075",
+      "name": "Ambagahawella",
+      "query_id": "8004",
+      "children": [
+        {
+          "id": "LK-521507501",
+          "name": "Part of Namaloya 7 B colony",
+          "query_id": "9465"
+        },
+        {
+          "id": "LK-521507502",
+          "name": "Namaloya 8 B Colony",
+          "query_id": "9466"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215080",
+      "name": "Ambamalthalawa",
+      "query_id": "8005",
+      "children": [
+        {
+          "id": "LK-521508002",
+          "name": "Namaloya 7 B Colony Kotasak",
+          "query_id": "53803"
+        },
+        {
+          "id": "LK-521508001",
+          "name": "Namaloya 6 B Colony",
+          "query_id": "9470"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215085",
+      "name": "Namalthalawa",
+      "query_id": "8006",
+      "children": [
+        {
+          "id": "LK-521508501",
+          "name": "Namalthalawa Village",
+          "query_id": "9471"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215090",
+      "name": "Namal Oya 02",
+      "query_id": "8007",
+      "children": [
+        {
+          "id": "LK-521509001",
+          "name": "Namaloya 2 B Galle Part",
+          "query_id": "9472"
+        },
+        {
+          "id": "LK-521509002",
+          "name": "Namaloya 2 B Colombo Part",
+          "query_id": "9473"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215105",
+      "name": "Wavinna South",
+      "query_id": "8009",
+      "children": [
+        {
+          "id": "LK-521510502",
+          "name": "Wawinna south village Itiri Kotasa",
+          "query_id": "34295"
+        },
+        {
+          "id": "LK-521510501",
+          "name": "Wawinna South Village Kotasak",
+          "query_id": "34296"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215100",
+      "name": "Wavinna North",
+      "query_id": "8010",
+      "children": [
+        {
+          "id": "LK-521510001",
+          "name": "Wawinna North Village",
+          "query_id": "34297"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215110",
+      "name": "Namal Oya (i)",
+      "query_id": "8011",
+      "children": [
+        {
+          "id": "LK-521511001",
+          "name": "Upper Land Village",
+          "query_id": "9504"
+        },
+        {
+          "id": "LK-521511002",
+          "name": "Namaloya 3 / 4 B Colony Kotasak Gama",
+          "query_id": "34325"
+        }
+      ]
+    },
+    {
+      "id": "LK-5215095",
+      "name": "Polwaga coloney ",
+      "query_id": "14026",
+      "children": [
+        {
+          "id": "LK-521509501",
+          "name": "3B Janapadaya",
+          "query_id": "55441"
+        },
+        {
+          "id": "LK-521509504",
+          "name": "NamalUyana",
+          "query_id": "55442"
+        },
+        {
+          "id": "LK-521509503",
+          "name": "HRS Area",
+          "query_id": "55443"
+        },
+        {
+          "id": "LK-521509502",
+          "name": "4B Janapadaya",
+          "query_id": "55444"
+        }
+      ]
+    }
+  ]
+}

@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**31,538** Villages from **8,156** GNDs in **182** DSDs (4.779MB), scraped as of *2023-12-03 22:51:04*.
+**31,752** Villages from **8,334** GNDs in **187** DSDs (4.826MB), scraped as of *2023-12-03 23:05:08*.
 
 ## LK-1 - Western
 
@@ -245,3 +245,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-5203](data/villages/LK-5203.json) - Dehiattakandiya
 * [LK-5206](data/villages/LK-5206.json) - Padiyathalawa
 * [LK-5209](data/villages/LK-5209.json) - Mahaoya
+* [LK-5212](data/villages/LK-5212.json) - Uhana
+* [LK-5215](data/villages/LK-5215.json) - Ampara
+* [LK-5216](data/villages/LK-5216.json) - Navithanveli
+* [LK-5218](data/villages/LK-5218.json) - Samanthurai
+* [LK-5224](data/villages/LK-5224.json) - Kalmunai

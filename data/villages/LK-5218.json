@@ -1,0 +1,346 @@
+{
+  "id": "LK-5218",
+  "name": "Samanthurai",
+  "query_id": "1122",
+  "children": [
+    {
+      "id": "LK-5218005",
+      "name": "Veeramunai 04",
+      "query_id": "8032"
+    },
+    {
+      "id": "LK-5218010",
+      "name": "Sammanthurai 08",
+      "query_id": "8033",
+      "children": [
+        {
+          "id": "LK-521801001",
+          "name": "Part of Sammanthurai",
+          "query_id": "55470"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218015",
+      "name": "Sammanthurai 06",
+      "query_id": "8034",
+      "children": [
+        {
+          "id": "LK-521801501",
+          "name": "Part of Sammanthurai",
+          "query_id": "55468"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218020",
+      "name": "Sammanthurai Tamil Div.01",
+      "query_id": "8035"
+    },
+    {
+      "id": "LK-5218025",
+      "name": "Sammanthurai Tamil Div.04",
+      "query_id": "8036"
+    },
+    {
+      "id": "LK-5218030",
+      "name": "Sammanthurai Tamil Div.02",
+      "query_id": "8037"
+    },
+    {
+      "id": "LK-5218035",
+      "name": "Sammanthurai 01",
+      "query_id": "8038",
+      "children": [
+        {
+          "id": "LK-521803501",
+          "name": "Part of Sammanthurai",
+          "query_id": "55463"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218040",
+      "name": "Sammanthurai 02",
+      "query_id": "8039",
+      "children": [
+        {
+          "id": "LK-521804001",
+          "name": "Part of Sammanthurai",
+          "query_id": "55464"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218045",
+      "name": "Sammanthurai 05",
+      "query_id": "8040",
+      "children": [
+        {
+          "id": "LK-521804501",
+          "name": "Part of Sammanthurai",
+          "query_id": "55467"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218050",
+      "name": "Karuwaddukal 01",
+      "query_id": "8041"
+    },
+    {
+      "id": "LK-5218055",
+      "name": "Karuwaddukal 03",
+      "query_id": "8042"
+    },
+    {
+      "id": "LK-5218060",
+      "name": "Karuwaddukal 02",
+      "query_id": "8043"
+    },
+    {
+      "id": "LK-5218065",
+      "name": "Sammanthurai 11",
+      "query_id": "8044",
+      "children": [
+        {
+          "id": "LK-521806501",
+          "name": "Part of Sammanthurai",
+          "query_id": "55473"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218070",
+      "name": "Sammanthurai 10",
+      "query_id": "8045",
+      "children": [
+        {
+          "id": "LK-521807001",
+          "name": "Part of Sammanthurai",
+          "query_id": "55472"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218075",
+      "name": "Sammanthurai 09",
+      "query_id": "8046",
+      "children": [
+        {
+          "id": "LK-521807501",
+          "name": "Part of Sammanthurai",
+          "query_id": "55471"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218080",
+      "name": "Sammanthurai 07",
+      "query_id": "8047",
+      "children": [
+        {
+          "id": "LK-521808001",
+          "name": "Part of Sammanthurai",
+          "query_id": "55469"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218085",
+      "name": "Sammanthurai 04",
+      "query_id": "8048",
+      "children": [
+        {
+          "id": "LK-521808501",
+          "name": "Part of Sammanthurai",
+          "query_id": "55466"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218090",
+      "name": "Sammanthurai Tamil Div.03",
+      "query_id": "8049"
+    },
+    {
+      "id": "LK-5218095",
+      "name": "Maddakalaputharavai 02",
+      "query_id": "8050"
+    },
+    {
+      "id": "LK-5218100",
+      "name": "Maddakalaputharavai 01",
+      "query_id": "8051"
+    },
+    {
+      "id": "LK-5218105",
+      "name": "Sammanthurai 03",
+      "query_id": "8052",
+      "children": [
+        {
+          "id": "LK-521810501",
+          "name": "Part of Sammanthurai",
+          "query_id": "55465"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218110",
+      "name": "Veeramunai 03",
+      "query_id": "8053"
+    },
+    {
+      "id": "LK-5218115",
+      "name": "Veeramunai 02",
+      "query_id": "8054"
+    },
+    {
+      "id": "LK-5218120",
+      "name": "Veeramunai 01",
+      "query_id": "8055"
+    },
+    {
+      "id": "LK-5218125",
+      "name": "Sammanthurai 12",
+      "query_id": "8056",
+      "children": [
+        {
+          "id": "LK-521812501",
+          "name": "Part of Sammanthurai",
+          "query_id": "55474"
+        }
+      ]
+    },
+    {
+      "id": "LK-5218130",
+      "name": "Malwatte 02",
+      "query_id": "8057"
+    },
+    {
+      "id": "LK-5218135",
+      "name": "Block 'J' East 01",
+      "query_id": "8058"
+    },
+    {
+      "id": "LK-5218140",
+      "name": "Block 'J' West 02",
+      "query_id": "8059"
+    },
+    {
+      "id": "LK-5218145",
+      "name": "Kallarichchel 02",
+      "query_id": "8060"
+    },
+    {
+      "id": "LK-5218150",
+      "name": "Block 'J' West 01",
+      "query_id": "8061"
+    },
+    {
+      "id": "LK-5218155",
+      "name": "Kallarichchel 03",
+      "query_id": "8062"
+    },
+    {
+      "id": "LK-5218160",
+      "name": "Udanga 01",
+      "query_id": "8063"
+    },
+    {
+      "id": "LK-5218165",
+      "name": "Udanga 02",
+      "query_id": "8064"
+    },
+    {
+      "id": "LK-5218170",
+      "name": "Vilinayadi 01",
+      "query_id": "8065"
+    },
+    {
+      "id": "LK-5218175",
+      "name": "Sennelgramam 01",
+      "query_id": "8066"
+    },
+    {
+      "id": "LK-5218180",
+      "name": "Sennelgramam 02",
+      "query_id": "8067"
+    },
+    {
+      "id": "LK-5218185",
+      "name": "Block 'J' East 03",
+      "query_id": "8068"
+    },
+    {
+      "id": "LK-5218190",
+      "name": "Block 'J' East 02",
+      "query_id": "8069"
+    },
+    {
+      "id": "LK-5218195",
+      "name": "Malayadikiramam 01",
+      "query_id": "8070"
+    },
+    {
+      "id": "LK-5218200",
+      "name": "Malayadikiramam 03",
+      "query_id": "8071"
+    },
+    {
+      "id": "LK-5218205",
+      "name": "Malwatte 03",
+      "query_id": "8072"
+    },
+    {
+      "id": "LK-5218210",
+      "name": "Malwatte 01",
+      "query_id": "8073"
+    },
+    {
+      "id": "LK-5218215",
+      "name": "Malkampiddy",
+      "query_id": "8074"
+    },
+    {
+      "id": "LK-5218220",
+      "name": "Malayadikiramam 04",
+      "query_id": "8075"
+    },
+    {
+      "id": "LK-5218225",
+      "name": "Malayadikiramam 02",
+      "query_id": "8076"
+    },
+    {
+      "id": "LK-5218230",
+      "name": "Vilinayadi 02",
+      "query_id": "8077"
+    },
+    {
+      "id": "LK-5218235",
+      "name": "Vilinayadi 03",
+      "query_id": "8078"
+    },
+    {
+      "id": "LK-5218245",
+      "name": "Valathapitty 02",
+      "query_id": "8079"
+    },
+    {
+      "id": "LK-5218250",
+      "name": "Valathapitty 01",
+      "query_id": "8080"
+    },
+    {
+      "id": "LK-5218255",
+      "name": "Malwatte 04",
+      "query_id": "8081"
+    },
+    {
+      "id": "LK-5218240",
+      "name": "Kallarichchel 01",
+      "query_id": "13977"
+    }
+  ]
+}
