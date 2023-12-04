@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**50,254** Villages from **13,407** GNDs in **327** DSDs (7.639MB), scraped as of *2023-12-04 06:20:24*.
+**51,158** Villages from **13,701** GNDs in **332** DSDs (7.781MB), scraped as of *2023-12-04 07:01:20*.
 
 ## LK-1 - Western
 
@@ -411,6 +411,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-9112](data/villages/LK-9112.json) - Ratnapura
 * [LK-9115](data/villages/LK-9115.json) - Imbulpe
 * [LK-9118](data/villages/LK-9118.json) - Balangoda
+* [LK-9119](data/villages/LK-9119.json) - ❔
 * [LK-9121](data/villages/LK-9121.json) - Opanayake
 * [LK-9124](data/villages/LK-9124.json) - Pelmadulla
 * [LK-9127](data/villages/LK-9127.json) - Elapatha
@@ -422,3 +423,10 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-9145](data/villages/LK-9145.json) - Weligepola
 * [LK-9148](data/villages/LK-9148.json) - Embilipitiya
 * [LK-9151](data/villages/LK-9151.json) - Kolonna
+
+### LK-92 - Kegalle
+
+* [LK-9203](data/villages/LK-9203.json) - Rambukkana
+* [LK-9206](data/villages/LK-9206.json) - Mawanella
+* [LK-9209](data/villages/LK-9209.json) - Aranayaka
+* [LK-9212](data/villages/LK-9212.json) - Kegalle
