@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**52,153** Villages from **13,927** GNDs in **337** DSDs (7.926MB), scraped as of *2023-12-04 07:22:35*.
+**52,488** Villages from **13,992** GNDs in **339** DSDs (7.973MB), scraped as of *2023-12-04 07:45:08*.
 
 ## LK-1 - Western
 
@@ -435,3 +435,5 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-9221](data/villages/LK-9221.json) - Ruwanwella
 * [LK-9224](data/villages/LK-9224.json) - Bulathkohupitiya
 * [LK-9227](data/villages/LK-9227.json) - Yatiyanthota
+* [LK-9230](data/villages/LK-9230.json) - Dehiovita
+* [LK-9233](data/villages/LK-9233.json) - Deraniyagala
