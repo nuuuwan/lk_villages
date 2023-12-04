@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**49,401** Villages from **13,243** GNDs in **322** DSDs (7.518MB), scraped as of *2023-12-04 05:59:14*.
+**50,254** Villages from **13,407** GNDs in **327** DSDs (7.639MB), scraped as of *2023-12-04 06:20:24*.
 
 ## LK-1 - Western
 
@@ -417,3 +417,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-9130](data/villages/LK-9130.json) - Ayagama
 * [LK-9133](data/villages/LK-9133.json) - Kalawana
 * [LK-9136](data/villages/LK-9136.json) - Nivithigala
+* [LK-9139](data/villages/LK-9139.json) - Kahawatta
+* [LK-9142](data/villages/LK-9142.json) - Godakawela
+* [LK-9145](data/villages/LK-9145.json) - Weligepola
+* [LK-9148](data/villages/LK-9148.json) - Embilipitiya
+* [LK-9151](data/villages/LK-9151.json) - Kolonna
