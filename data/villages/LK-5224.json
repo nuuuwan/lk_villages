@@ -1,0 +1,353 @@
+{
+  "id": "LK-5224",
+  "name": "Kalmunai",
+  "query_id": "1123",
+  "children": [
+    {
+      "id": "LK-5224005",
+      "name": "Periyaneelavanai Muslim Section 01",
+      "query_id": "8086",
+      "children": [
+        {
+          "id": "LK-522400501",
+          "name": "Periyaneelavani",
+          "query_id": "54017"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224010",
+      "name": "Periyaneelavanai Muslim Section 02",
+      "query_id": "8087",
+      "children": [
+        {
+          "id": "LK-522401001",
+          "name": "Periyaneelavani",
+          "query_id": "54018"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224015",
+      "name": "Maruthamunai 01",
+      "query_id": "8088",
+      "children": [
+        {
+          "id": "LK-522401501",
+          "name": "Maruthamunai",
+          "query_id": "54011"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224020",
+      "name": "Maruthamunai 02",
+      "query_id": "8089",
+      "children": [
+        {
+          "id": "LK-522402001",
+          "name": "Maruthamunai",
+          "query_id": "54012"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224025",
+      "name": "Maruthamunai 03",
+      "query_id": "8090",
+      "children": [
+        {
+          "id": "LK-522402501",
+          "name": "Maruthamunai",
+          "query_id": "54013"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224030",
+      "name": "Maruthamunai 04",
+      "query_id": "8091",
+      "children": [
+        {
+          "id": "LK-522403001",
+          "name": "Maruthamunai",
+          "query_id": "54014"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224035",
+      "name": "Maruthamunai 05",
+      "query_id": "8092",
+      "children": [
+        {
+          "id": "LK-522403501",
+          "name": "Maruthamunai",
+          "query_id": "54015"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224040",
+      "name": "Maruthamunai 06",
+      "query_id": "8093",
+      "children": [
+        {
+          "id": "LK-522404001",
+          "name": "Maruthamunai",
+          "query_id": "54016"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224070",
+      "name": "Islamabad & Kalmunai Town",
+      "query_id": "8104"
+    },
+    {
+      "id": "LK-5224055",
+      "name": "Natpittimunai Muslim Division 01",
+      "query_id": "8107",
+      "children": [
+        {
+          "id": "LK-522405501",
+          "name": "Natpittimunai",
+          "query_id": "54003"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224050",
+      "name": "Natpittimunai Muslim Division 02",
+      "query_id": "8108",
+      "children": [
+        {
+          "id": "LK-522405001",
+          "name": "Natpittimunai",
+          "query_id": "54004"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224045",
+      "name": "Natpittimanai Muslim Division 03",
+      "query_id": "8109",
+      "children": [
+        {
+          "id": "LK-522404501",
+          "name": "Natpittimunai",
+          "query_id": "54005"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224065",
+      "name": "Natpittimunai Muslim Division 04",
+      "query_id": "8112",
+      "children": [
+        {
+          "id": "LK-522406501",
+          "name": "Natpittimunai",
+          "query_id": "54007"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224060",
+      "name": "Natpittimunai Muslim Division 05",
+      "query_id": "8113",
+      "children": [
+        {
+          "id": "LK-522406001",
+          "name": "Natpittimunai",
+          "query_id": "54010"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224075",
+      "name": "Kalmunai Muslim Section",
+      "query_id": "8125",
+      "children": [
+        {
+          "id": "LK-522407501",
+          "name": "Kalmunai",
+          "query_id": "54001"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224080",
+      "name": "Kalmunaikudy 01",
+      "query_id": "8126",
+      "children": [
+        {
+          "id": "LK-522408001",
+          "name": "Kalmunaikudy",
+          "query_id": "53987"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224090",
+      "name": "Kalmunaikudy 02",
+      "query_id": "8127",
+      "children": [
+        {
+          "id": "LK-522409001",
+          "name": "Kalmunaikudy",
+          "query_id": "53988"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224095",
+      "name": "Kalmunaikudy 04",
+      "query_id": "8128",
+      "children": [
+        {
+          "id": "LK-522409501",
+          "name": "Kalmunaikudy",
+          "query_id": "53990"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224085",
+      "name": "Kalmunaikudy 03",
+      "query_id": "8129",
+      "children": [
+        {
+          "id": "LK-522408501",
+          "name": "Kalmunaikudy",
+          "query_id": "53989"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224100",
+      "name": "Kalmunaikudy 05",
+      "query_id": "8130",
+      "children": [
+        {
+          "id": "LK-522410001",
+          "name": "Kalmunaikudy",
+          "query_id": "53991"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224105",
+      "name": "Kalmunaikudy 06",
+      "query_id": "8131",
+      "children": [
+        {
+          "id": "LK-522410501",
+          "name": "Kalmunaikudy",
+          "query_id": "53992"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224120",
+      "name": "Kalmunaikudy 07",
+      "query_id": "8132",
+      "children": [
+        {
+          "id": "LK-522412001",
+          "name": "Kalmunaikudy",
+          "query_id": "53993"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224110",
+      "name": "Kalmunaikudy 08",
+      "query_id": "8133",
+      "children": [
+        {
+          "id": "LK-522411001",
+          "name": "Kalmunaikudy",
+          "query_id": "53994"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224115",
+      "name": "Kalmunaikudy 09",
+      "query_id": "8134",
+      "children": [
+        {
+          "id": "LK-522411501",
+          "name": "Kalmunaikudy",
+          "query_id": "53995"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224125",
+      "name": "Kalmunaikudy 10",
+      "query_id": "8135",
+      "children": [
+        {
+          "id": "LK-522412501",
+          "name": "Kalmunaikudy",
+          "query_id": "53996"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224130",
+      "name": "Kalmunaikudy 11",
+      "query_id": "8136",
+      "children": [
+        {
+          "id": "LK-522413001",
+          "name": "Kalmunaikudy",
+          "query_id": "53997"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224135",
+      "name": "Kalmunaikudy 12",
+      "query_id": "8137",
+      "children": [
+        {
+          "id": "LK-522413501",
+          "name": "Kalmunaikudy",
+          "query_id": "53998"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224140",
+      "name": "Kalmunaikudy 13",
+      "query_id": "8138",
+      "children": [
+        {
+          "id": "LK-522414001",
+          "name": "Kalmunaikudy",
+          "query_id": "53999"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224145",
+      "name": "Kalmunaikudy 14",
+      "query_id": "8139",
+      "children": [
+        {
+          "id": "LK-522414501",
+          "name": "Kalmunaikudy",
+          "query_id": "54000"
+        }
+      ]
+    },
+    {
+      "id": "LK-5224205",
+      "name": "Pandirippu\u20101",
+      "query_id": "14207"
+    }
+  ]
+}

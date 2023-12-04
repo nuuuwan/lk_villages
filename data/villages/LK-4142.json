@@ -1,0 +1,174 @@
+{
+  "id": "LK-4142",
+  "name": "Delft",
+  "query_id": "1084",
+  "children": [
+    {
+      "id": "LK-4142005",
+      "name": "Delft West",
+      "query_id": "7226",
+      "children": [
+        {
+          "id": "LK-414200502",
+          "name": "Koddaikkadu",
+          "query_id": "18830"
+        },
+        {
+          "id": "LK-414200503",
+          "name": "Koruvandu",
+          "query_id": "18831"
+        },
+        {
+          "id": "LK-414200501",
+          "name": "Panankani",
+          "query_id": "53054"
+        },
+        {
+          "id": "LK-414200504",
+          "name": "Neluvini",
+          "query_id": "53055"
+        }
+      ]
+    },
+    {
+      "id": "LK-4142010",
+      "name": "Delft South",
+      "query_id": "7227",
+      "children": [
+        {
+          "id": "LK-414201003",
+          "name": "Sarappiddy",
+          "query_id": "18829"
+        },
+        {
+          "id": "LK-414201001",
+          "name": "Puthukkudiyiruppu",
+          "query_id": "18832"
+        },
+        {
+          "id": "LK-414201002",
+          "name": "Ampikaipuram",
+          "query_id": "53056"
+        },
+        {
+          "id": "LK-414201004",
+          "name": "Muthaliyarkulam",
+          "query_id": "53057"
+        },
+        {
+          "id": "LK-414201005",
+          "name": "Murukuchchi",
+          "query_id": "53058"
+        },
+        {
+          "id": "LK-414201006",
+          "name": "Kalaavarai",
+          "query_id": "53059"
+        },
+        {
+          "id": "LK-414201007",
+          "name": "Nedunkulam",
+          "query_id": "53060"
+        }
+      ]
+    },
+    {
+      "id": "LK-4142015",
+      "name": "Delft Centre West",
+      "query_id": "7228",
+      "children": [
+        {
+          "id": "LK-414201503",
+          "name": "Thomaiyar",
+          "query_id": "18833"
+        },
+        {
+          "id": "LK-414201501",
+          "name": "Seekiriyampallam",
+          "query_id": "18834"
+        },
+        {
+          "id": "LK-414201502",
+          "name": "Yahappar",
+          "query_id": "53061"
+        },
+        {
+          "id": "LK-414201504",
+          "name": "Yoothathevu",
+          "query_id": "53062"
+        },
+        {
+          "id": "LK-414201505",
+          "name": "Vettukali",
+          "query_id": "53063"
+        }
+      ]
+    },
+    {
+      "id": "LK-4142020",
+      "name": "Delft Centre",
+      "query_id": "7229",
+      "children": [
+        {
+          "id": "LK-414202003",
+          "name": "Kurunagar west",
+          "query_id": "18835"
+        },
+        {
+          "id": "LK-414202001",
+          "name": "Perukkady Gramam ",
+          "query_id": "18836"
+        },
+        {
+          "id": "LK-414202002",
+          "name": "Yuvinayar Gramam",
+          "query_id": "53064"
+        }
+      ]
+    },
+    {
+      "id": "LK-4142025",
+      "name": "Delft Center East",
+      "query_id": "7230",
+      "children": [
+        {
+          "id": "LK-414202501",
+          "name": "Matha Kiramam",
+          "query_id": "18837"
+        },
+        {
+          "id": "LK-414202502",
+          "name": "Pidariyambal Kiramam",
+          "query_id": "18838"
+        }
+      ]
+    },
+    {
+      "id": "LK-4142030",
+      "name": "Delft East",
+      "query_id": "7231",
+      "children": [
+        {
+          "id": "LK-414203002",
+          "name": "Sebanayagapuram",
+          "query_id": "18839"
+        },
+        {
+          "id": "LK-414203004",
+          "name": "Aalamavanam",
+          "query_id": "18840"
+        },
+        {
+          "id": "LK-414203001",
+          "name": "Mavili",
+          "query_id": "18841"
+        },
+        {
+          "id": "LK-414203003",
+          "name": "Kavolaiyampalai",
+          "query_id": "18842"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,841 @@
+{
+  "id": "LK-6248",
+  "name": "Dankotuwa",
+  "query_id": "1191",
+  "children": [
+    {
+      "id": "LK-6248005",
+      "name": "Bothalegama",
+      "query_id": "10729",
+      "children": [
+        {
+          "id": "LK-624800501",
+          "name": "Bothalegama",
+          "query_id": "22228"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248010",
+      "name": "Kirimetiyana East",
+      "query_id": "10730",
+      "children": [
+        {
+          "id": "LK-624801001",
+          "name": "Kirimetiyana East",
+          "query_id": "22225"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248015",
+      "name": "Thulawala",
+      "query_id": "10731",
+      "children": [
+        {
+          "id": "LK-624801501",
+          "name": "Thulawala",
+          "query_id": "22224"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248020",
+      "name": "Hundirapola",
+      "query_id": "10732",
+      "children": [
+        {
+          "id": "LK-624802001",
+          "name": "Hundirapola",
+          "query_id": "22220"
+        },
+        {
+          "id": "LK-624802002",
+          "name": "Kaliyawadana",
+          "query_id": "22221"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248025",
+      "name": "Pothuwatawana",
+      "query_id": "10733",
+      "children": [
+        {
+          "id": "LK-624802501",
+          "name": "Pothuwatawana",
+          "query_id": "22219"
+        },
+        {
+          "id": "LK-624802502",
+          "name": "Melwaththa Colony",
+          "query_id": "44500"
+        },
+        {
+          "id": "LK-624802503",
+          "name": "Madawalapitiya Colony",
+          "query_id": "44504"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248030",
+      "name": "Lihiriyagama",
+      "query_id": "10734",
+      "children": [
+        {
+          "id": "LK-624803001",
+          "name": "Lihiriyagama",
+          "query_id": "22217"
+        },
+        {
+          "id": "LK-624803002",
+          "name": "Jayagama Colony",
+          "query_id": "44506"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248035",
+      "name": "Kahatavila  East",
+      "query_id": "10735",
+      "children": [
+        {
+          "id": "LK-624803501",
+          "name": "Kahatavila East",
+          "query_id": "22223"
+        },
+        {
+          "id": "LK-624803502",
+          "name": "Mahayaya Watta",
+          "query_id": "44511"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248040",
+      "name": "Kahatavila West",
+      "query_id": "10736",
+      "children": [
+        {
+          "id": "LK-624804001",
+          "name": "Kahatavila West",
+          "query_id": "22222"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248045",
+      "name": "Meda Kirimetiyana",
+      "query_id": "10737",
+      "children": [
+        {
+          "id": "LK-624804501",
+          "name": "Meda Kirimetiyana",
+          "query_id": "22226"
+        },
+        {
+          "id": "LK-624804502",
+          "name": "Nelumvila Colony",
+          "query_id": "44509"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248050",
+      "name": "Kirimetiyana North",
+      "query_id": "10738",
+      "children": [
+        {
+          "id": "LK-624805001",
+          "name": "Kirimetiyana North",
+          "query_id": "22229"
+        },
+        {
+          "id": "LK-624805002",
+          "name": "Dhabarerawatta Akkara 60 Colony",
+          "query_id": "44912"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248055",
+      "name": "Kirimetiyana West",
+      "query_id": "10739",
+      "children": [
+        {
+          "id": "LK-624805501",
+          "name": "Kirimetiyana West",
+          "query_id": "22231"
+        },
+        {
+          "id": "LK-624805502",
+          "name": "Dhabrerawatta Akkara 60 Colony",
+          "query_id": "44913"
+        },
+        {
+          "id": "LK-624805503",
+          "name": "Kattupilamukkalana Colony",
+          "query_id": "44914"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248060",
+      "name": "Kirimetiyana South",
+      "query_id": "10740",
+      "children": [
+        {
+          "id": "LK-624806001",
+          "name": "Kirimetiyana South",
+          "query_id": "22230"
+        },
+        {
+          "id": "LK-624806002",
+          "name": "Werellawatta Colony",
+          "query_id": "44915"
+        },
+        {
+          "id": "LK-624806003",
+          "name": "Iddamalpuraya",
+          "query_id": "44916"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248065",
+      "name": "Pansal Junction",
+      "query_id": "10741",
+      "children": [
+        {
+          "id": "LK-624806501",
+          "name": "Pansal Junction",
+          "query_id": "22227"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248070",
+      "name": "Haldanduwana North",
+      "query_id": "10742",
+      "children": [
+        {
+          "id": "LK-624807001",
+          "name": "Haldanduwana North",
+          "query_id": "22232"
+        },
+        {
+          "id": "LK-624807002",
+          "name": "Samagiwatta Colony",
+          "query_id": "44917"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248075",
+      "name": "Mellawa",
+      "query_id": "10743",
+      "children": [
+        {
+          "id": "LK-624807501",
+          "name": "Mellawa",
+          "query_id": "22218"
+        },
+        {
+          "id": "LK-624807502",
+          "name": "Kahattavila Watta",
+          "query_id": "44918"
+        },
+        {
+          "id": "LK-624807503",
+          "name": "Millagahawatta Colony",
+          "query_id": "44919"
+        },
+        {
+          "id": "LK-624807504",
+          "name": "Koshena North Colony",
+          "query_id": "44920"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248080",
+      "name": "Ihala Bujjampola",
+      "query_id": "10744",
+      "children": [
+        {
+          "id": "LK-624808001",
+          "name": "Ihala Bujjampola",
+          "query_id": "22241"
+        },
+        {
+          "id": "LK-624808002",
+          "name": "Posath Colony",
+          "query_id": "44921"
+        },
+        {
+          "id": "LK-624808003",
+          "name": "Budhgampala",
+          "query_id": "44922"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248085",
+      "name": "Pahala Bujjampala",
+      "query_id": "10745",
+      "children": [
+        {
+          "id": "LK-624808501",
+          "name": "Pahala Bujjampala",
+          "query_id": "22240"
+        },
+        {
+          "id": "LK-624808502",
+          "name": "Dhamunnakara",
+          "query_id": "44923"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248090",
+      "name": "Haldanduwana West",
+      "query_id": "10746",
+      "children": [
+        {
+          "id": "LK-624809001",
+          "name": "Haldanduwana West",
+          "query_id": "22237"
+        },
+        {
+          "id": "LK-624809002",
+          "name": "Bodiyapura Colony",
+          "query_id": "44924"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248095",
+      "name": "Meda Haldanduwana",
+      "query_id": "10747",
+      "children": [
+        {
+          "id": "LK-624809501",
+          "name": "Meda Haldanduwana",
+          "query_id": "22235"
+        },
+        {
+          "id": "LK-624809502",
+          "name": "Wijayagama",
+          "query_id": "22236"
+        },
+        {
+          "id": "LK-624809503",
+          "name": "Pansal Godella",
+          "query_id": "44925"
+        },
+        {
+          "id": "LK-624809504",
+          "name": "Wijayagama Colony",
+          "query_id": "44926"
+        },
+        {
+          "id": "LK-624809505",
+          "name": "Karunawan Watta Colony",
+          "query_id": "44927"
+        },
+        {
+          "id": "LK-624809506",
+          "name": "Nugahahena Colony",
+          "query_id": "44928"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248100",
+      "name": "Katukenda East",
+      "query_id": "10748",
+      "children": [
+        {
+          "id": "LK-624810001",
+          "name": "Katukenda East",
+          "query_id": "22256"
+        },
+        {
+          "id": "LK-624810002",
+          "name": "Mawatta Colony",
+          "query_id": "44930"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248105",
+      "name": "Meda Katukenda",
+      "query_id": "10749",
+      "children": [
+        {
+          "id": "LK-624810501",
+          "name": "Meda Katukenda",
+          "query_id": "22258"
+        },
+        {
+          "id": "LK-624810502",
+          "name": "Mawatta Colony",
+          "query_id": "44933"
+        },
+        {
+          "id": "LK-624810503",
+          "name": "Saama Colony",
+          "query_id": "44934"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248110",
+      "name": "Gonavila North",
+      "query_id": "10750",
+      "children": [
+        {
+          "id": "LK-624811001",
+          "name": "Gonavila North",
+          "query_id": "22259"
+        },
+        {
+          "id": "LK-624811002",
+          "name": "Kiragara",
+          "query_id": "44937"
+        },
+        {
+          "id": "LK-624811002",
+          "name": "Pitakara Medikele",
+          "query_id": "44941"
+        },
+        {
+          "id": "LK-624811002",
+          "name": "Pitakara Medikele",
+          "query_id": "44942"
+        },
+        {
+          "id": "LK-624811002",
+          "name": "Pitakara Medikele",
+          "query_id": "44943"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248115",
+      "name": "Meda Gonavila",
+      "query_id": "10751",
+      "children": [
+        {
+          "id": "LK-624811501",
+          "name": "Meda Gonavila",
+          "query_id": "22261"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248120",
+      "name": "Katukenda West",
+      "query_id": "10752",
+      "children": [
+        {
+          "id": "LK-624812001",
+          "name": "Katukenda West",
+          "query_id": "22257"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248125",
+      "name": "Dankotuwa West",
+      "query_id": "10753",
+      "children": [
+        {
+          "id": "LK-624812501",
+          "name": "Dankotuwa West",
+          "query_id": "22253"
+        },
+        {
+          "id": "LK-624812504",
+          "name": "Pitagara ",
+          "query_id": "44945"
+        },
+        {
+          "id": "LK-624812503",
+          "name": "Medikele",
+          "query_id": "44946"
+        },
+        {
+          "id": "LK-624812502",
+          "name": "Sethsiri Uyana",
+          "query_id": "44947"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248130",
+      "name": "Dankotuwa North",
+      "query_id": "10754",
+      "children": [
+        {
+          "id": "LK-624813001",
+          "name": "Dankotuwa North",
+          "query_id": "22250"
+        },
+        {
+          "id": "LK-624813002",
+          "name": "Sethsiri Uyana",
+          "query_id": "44948"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248135",
+      "name": "Ihala Dummalakotuwa",
+      "query_id": "10755",
+      "children": [
+        {
+          "id": "LK-624813501",
+          "name": "Ihala Dummalakotuwa",
+          "query_id": "22254"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248140",
+      "name": "Haldanduwana South",
+      "query_id": "10756",
+      "children": [
+        {
+          "id": "LK-624814001",
+          "name": "Haldanduwana South",
+          "query_id": "22233"
+        },
+        {
+          "id": "LK-624814002",
+          "name": "Mavathagama Colony",
+          "query_id": "22234"
+        },
+        {
+          "id": "LK-624814003",
+          "name": "Bogahawatta Colony",
+          "query_id": "45310"
+        },
+        {
+          "id": "LK-624814004",
+          "name": "hikgahahena Janapadaya",
+          "query_id": "45311"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248145",
+      "name": "Pahala Mohottimulla",
+      "query_id": "10757",
+      "children": [
+        {
+          "id": "LK-624814501",
+          "name": "Pahala Mohottimulla",
+          "query_id": "22239"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248150",
+      "name": "Ihala Mohottimulla",
+      "query_id": "10758",
+      "children": [
+        {
+          "id": "LK-624815001",
+          "name": "Ihala Mohottimulla",
+          "query_id": "22238"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248155",
+      "name": "Sendiriyamulla",
+      "query_id": "10759",
+      "children": [
+        {
+          "id": "LK-624815501",
+          "name": "Sendiriyamulla",
+          "query_id": "22216"
+        },
+        {
+          "id": "LK-624815502",
+          "name": "Edambagaha Watta",
+          "query_id": "45057"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248160",
+      "name": "Singakkuliya",
+      "query_id": "10760",
+      "children": [
+        {
+          "id": "LK-624816001",
+          "name": "Singakkuliya",
+          "query_id": "22215"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248165",
+      "name": "Kaluwachchimulla",
+      "query_id": "10761",
+      "children": [
+        {
+          "id": "LK-624816501",
+          "name": "Kaluwachchimulla",
+          "query_id": "22214"
+        },
+        {
+          "id": "LK-624816502",
+          "name": "Kebella vitta gama",
+          "query_id": "45063"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248170",
+      "name": "Motemulla",
+      "query_id": "10762",
+      "children": [
+        {
+          "id": "LK-624817001",
+          "name": "Motemulla",
+          "query_id": "22245"
+        },
+        {
+          "id": "LK-624817002",
+          "name": "Keranwatta Junction",
+          "query_id": "45067"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248175",
+      "name": "Etiyawala North",
+      "query_id": "10763",
+      "children": [
+        {
+          "id": "LK-624817501",
+          "name": "Etiyawala North",
+          "query_id": "22242"
+        },
+        {
+          "id": "LK-624817502",
+          "name": "Daluwela",
+          "query_id": "22243"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248180",
+      "name": "Pahala Dummalakotuwa",
+      "query_id": "10764",
+      "children": [
+        {
+          "id": "LK-624818001",
+          "name": "Pahala Dummalakotuwa",
+          "query_id": "22255"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248185",
+      "name": "Dankotuwa East",
+      "query_id": "10765",
+      "children": [
+        {
+          "id": "LK-624818501",
+          "name": "Dankotuwa East",
+          "query_id": "22252"
+        },
+        {
+          "id": "LK-624818502",
+          "name": "Walaw Watta",
+          "query_id": "45073"
+        },
+        {
+          "id": "LK-624818503",
+          "name": "Kebellawahena Junction",
+          "query_id": "45077"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248190",
+      "name": "Dankotuwa South",
+      "query_id": "10766",
+      "children": [
+        {
+          "id": "LK-624819001",
+          "name": "Dankotuwa South",
+          "query_id": "22251"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248195",
+      "name": "Gonavila South",
+      "query_id": "10767",
+      "children": [
+        {
+          "id": "LK-624819501",
+          "name": "Gonavila South",
+          "query_id": "22260"
+        },
+        {
+          "id": "LK-624819502",
+          "name": "MananThure",
+          "query_id": "45108"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248200",
+      "name": "Godella",
+      "query_id": "10768",
+      "children": [
+        {
+          "id": "LK-624820001",
+          "name": "Godella",
+          "query_id": "22248"
+        },
+        {
+          "id": "LK-624820002",
+          "name": "Odara Thambaravila",
+          "query_id": "45109"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248205",
+      "name": "Morukkuliya",
+      "query_id": "10769",
+      "children": [
+        {
+          "id": "LK-624820501",
+          "name": "Morukkuliya",
+          "query_id": "22249"
+        },
+        {
+          "id": "LK-624820502",
+          "name": "Dhivulgaha Watta Colony",
+          "query_id": "45110"
+        },
+        {
+          "id": "LK-624820503",
+          "name": "Peethara Watta Colony",
+          "query_id": "45111"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248210",
+      "name": "Metikotuwa",
+      "query_id": "10770",
+      "children": [
+        {
+          "id": "LK-624821001",
+          "name": "Metikotuwa",
+          "query_id": "22246"
+        },
+        {
+          "id": "LK-624821002",
+          "name": "Mahagedara Watta Colony",
+          "query_id": "45119"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248215",
+      "name": "Thamarakuliya",
+      "query_id": "10771",
+      "children": [
+        {
+          "id": "LK-624821501",
+          "name": "Thamarakuliya",
+          "query_id": "22247"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248220",
+      "name": "Etiyawala South",
+      "query_id": "10772",
+      "children": [
+        {
+          "id": "LK-624822001",
+          "name": "Etiyawala South",
+          "query_id": "22244"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248225",
+      "name": "Jankurawela",
+      "query_id": "10773",
+      "children": [
+        {
+          "id": "LK-624822501",
+          "name": "Jankurawela",
+          "query_id": "22212"
+        },
+        {
+          "id": "LK-624822502",
+          "name": "Galwaka",
+          "query_id": "22213"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248230",
+      "name": "Yogiyana",
+      "query_id": "10774",
+      "children": [
+        {
+          "id": "LK-624823001",
+          "name": "Yogiyana",
+          "query_id": "22210"
+        },
+        {
+          "id": "LK-624823002",
+          "name": "Kudavila",
+          "query_id": "22211"
+        },
+        {
+          "id": "LK-624823003",
+          "name": "Wekada",
+          "query_id": "45127"
+        }
+      ]
+    },
+    {
+      "id": "LK-6248235",
+      "name": "Dikwela",
+      "query_id": "10775",
+      "children": [
+        {
+          "id": "LK-624823501",
+          "name": "Dikwela",
+          "query_id": "22208"
+        },
+        {
+          "id": "LK-624823502",
+          "name": "Pitakotuwa",
+          "query_id": "22209"
+        },
+        {
+          "id": "LK-624823503",
+          "name": "Meda Godella",
+          "query_id": "45129"
+        }
+      ]
+    }
+  ]
+}

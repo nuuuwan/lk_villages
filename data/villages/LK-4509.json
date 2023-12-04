@@ -1,0 +1,1171 @@
+{
+  "id": "LK-4509",
+  "name": "Karachchi",
+  "query_id": "1101",
+  "children": [
+    {
+      "id": "LK-4509005",
+      "name": "Akkarayan kulam",
+      "query_id": "7526",
+      "children": [
+        {
+          "id": "LK-450900501",
+          "name": "Akkarayankulam East",
+          "query_id": "6921"
+        },
+        {
+          "id": "LK-450900502",
+          "name": "Akkarajankulam West ",
+          "query_id": "6922"
+        },
+        {
+          "id": "LK-450900503",
+          "name": "Akkarajankulam Main  Street",
+          "query_id": "6923"
+        },
+        {
+          "id": "LK-450900504",
+          "name": "Akkarayankulam Centre",
+          "query_id": "34121"
+        },
+        {
+          "id": "LK-450900505",
+          "name": "Housing Scheme of Fifty H.S",
+          "query_id": "34122"
+        },
+        {
+          "id": "LK-450900506",
+          "name": "Gengatharan Kudieruppu",
+          "query_id": "34123"
+        },
+        {
+          "id": "LK-450900507",
+          "name": "Emmas Nagar",
+          "query_id": "34124"
+        },
+        {
+          "id": "LK-450900508",
+          "name": "Supas Kudieruppu",
+          "query_id": "39673"
+        },
+        {
+          "id": "LK-450900509",
+          "name": "Karithas Kudieruppu",
+          "query_id": "39674"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509060",
+      "name": "Kili Town",
+      "query_id": "7527",
+      "children": [
+        {
+          "id": "LK-450906001",
+          "name": "Kachcheryadi",
+          "query_id": "6959"
+        },
+        {
+          "id": "LK-450906002",
+          "name": "Paravipanchan",
+          "query_id": "6960"
+        },
+        {
+          "id": "LK-450906003",
+          "name": "Karadipokku",
+          "query_id": "6961"
+        },
+        {
+          "id": "LK-450906004",
+          "name": "Kannankoviladi",
+          "query_id": "39733"
+        },
+        {
+          "id": "LK-450906006",
+          "name": "Navenapuram",
+          "query_id": "39736"
+        },
+        {
+          "id": "LK-450906007",
+          "name": "Iyanarkoviladi",
+          "query_id": "39737"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509120",
+      "name": "Ramanathapuram",
+      "query_id": "7528",
+      "children": [
+        {
+          "id": "LK-450912001",
+          "name": "Puthukadu",
+          "query_id": "7014"
+        },
+        {
+          "id": "LK-450912002",
+          "name": "Ramanathapuram  Unit  -  6",
+          "query_id": "7015"
+        },
+        {
+          "id": "LK-450912002",
+          "name": "Alady",
+          "query_id": "7016"
+        },
+        {
+          "id": "LK-450912003",
+          "name": "Ramanathapuram",
+          "query_id": "39740"
+        },
+        {
+          "id": "LK-450912004",
+          "name": "New Chivic Center",
+          "query_id": "39742"
+        },
+        {
+          "id": "LK-450912005",
+          "name": "Alakapury Kudiyiruppu",
+          "query_id": "39744"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509200",
+      "name": "Vaddakachchi",
+      "query_id": "7529",
+      "children": [
+        {
+          "id": "LK-450920001",
+          "name": "Vaddakachchi",
+          "query_id": "7002"
+        },
+        {
+          "id": "LK-450920001",
+          "name": "Hudson Road",
+          "query_id": "7003"
+        },
+        {
+          "id": "LK-450920002",
+          "name": "Arumukam  Street",
+          "query_id": "7004"
+        },
+        {
+          "id": "LK-450920003",
+          "name": "05 Housing Scheme",
+          "query_id": "34135"
+        },
+        {
+          "id": "LK-450920004",
+          "name": "Udaithakandy",
+          "query_id": "34136"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509205",
+      "name": "Vannerikulam",
+      "query_id": "7530",
+      "children": [
+        {
+          "id": "LK-450920501",
+          "name": "Kugnsukulam",
+          "query_id": "6914"
+        },
+        {
+          "id": "LK-450920502",
+          "name": "Thikkai",
+          "query_id": "34125"
+        },
+        {
+          "id": "LK-450920503",
+          "name": "Iyanarpuram",
+          "query_id": "34126"
+        },
+        {
+          "id": "LK-450920504",
+          "name": "Soolai",
+          "query_id": "39665"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509010",
+      "name": "Ampalkulam",
+      "query_id": "13928",
+      "children": [
+        {
+          "id": "LK-450901001",
+          "name": "Dept.  Road",
+          "query_id": "6943"
+        },
+        {
+          "id": "LK-450901001",
+          "name": "Ampalkulam",
+          "query_id": "6944"
+        },
+        {
+          "id": "LK-450901002",
+          "name": "Ananthanakar",
+          "query_id": "6945"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509015",
+      "name": "Ampalnakar",
+      "query_id": "13929",
+      "children": [
+        {
+          "id": "LK-450901501",
+          "name": "Shanthapuram",
+          "query_id": "6953"
+        },
+        {
+          "id": "LK-450901502",
+          "name": "Thiruvaijaru Ladies Scheme",
+          "query_id": "6954"
+        },
+        {
+          "id": "LK-450901503",
+          "name": "Thiruvaijaru Third part",
+          "query_id": "39730"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509020",
+      "name": "Anaivilunthaankulam",
+      "query_id": "13930",
+      "children": [
+        {
+          "id": "LK-450902001",
+          "name": "Vannerikulam  Main  Street",
+          "query_id": "6915"
+        },
+        {
+          "id": "LK-450902001",
+          "name": "Anaivilunthan",
+          "query_id": "6916"
+        },
+        {
+          "id": "LK-450902003",
+          "name": "Kadukainakar",
+          "query_id": "34127"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509025",
+      "name": "Ananthapuram",
+      "query_id": "13931",
+      "children": [
+        {
+          "id": "LK-450902501",
+          "name": "Ananthapuram  East  ",
+          "query_id": "6949"
+        },
+        {
+          "id": "LK-450902502",
+          "name": "Ananthapuram West",
+          "query_id": "39727"
+        },
+        {
+          "id": "LK-450902503",
+          "name": "Sooriyapuram",
+          "query_id": "52846"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509030",
+      "name": "Civic Center",
+      "query_id": "13932",
+      "children": [
+        {
+          "id": "LK-450903001",
+          "name": "Vilathikadu",
+          "query_id": "7008"
+        },
+        {
+          "id": "LK-450903002",
+          "name": "Pannankandy",
+          "query_id": "7009"
+        },
+        {
+          "id": "LK-450903003",
+          "name": "Koramoddai",
+          "query_id": "7010"
+        },
+        {
+          "id": "LK-450903004",
+          "name": "Navaiar Veethy",
+          "query_id": "34130"
+        },
+        {
+          "id": "LK-450903004",
+          "name": "Civic Center",
+          "query_id": "39732"
+        },
+        {
+          "id": "LK-450903005",
+          "name": "Udaithakandy",
+          "query_id": "39734"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509035",
+      "name": "Jeyanthinagar",
+      "query_id": "13933",
+      "children": [
+        {
+          "id": "LK-450903501",
+          "name": "Jeyanthinagar",
+          "query_id": "6974"
+        },
+        {
+          "id": "LK-450903502",
+          "name": "Thirunagar  Road",
+          "query_id": "6975"
+        },
+        {
+          "id": "LK-450903503",
+          "name": "Ashirama  Road",
+          "query_id": "6976"
+        },
+        {
+          "id": "LK-450903504",
+          "name": "Market  Road",
+          "query_id": "6977"
+        },
+        {
+          "id": "LK-450903505",
+          "name": "School  Road",
+          "query_id": "6978"
+        },
+        {
+          "id": "LK-450903506",
+          "name": "Uruthirapuram  Road",
+          "query_id": "6979"
+        },
+        {
+          "id": "LK-450903508",
+          "name": "Jeyanthinagar South",
+          "query_id": "39718"
+        },
+        {
+          "id": "LK-450903507",
+          "name": "Jeyanthinagar North",
+          "query_id": "39717"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509040",
+      "name": "Kanagambikaykulam",
+      "query_id": "13934",
+      "children": [
+        {
+          "id": "LK-450904001",
+          "name": "Housing Scheme",
+          "query_id": "6951"
+        },
+        {
+          "id": "LK-450904002",
+          "name": "Service  Street",
+          "query_id": "6952"
+        },
+        {
+          "id": "LK-450904003",
+          "name": "Kanagambikaykulam",
+          "query_id": "39728"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509045",
+      "name": "Kanagapuram",
+      "query_id": "13935",
+      "children": [
+        {
+          "id": "LK-450904501",
+          "name": "Kannagapuram  ",
+          "query_id": "6966"
+        },
+        {
+          "id": "LK-450904502",
+          "name": "Kannagapuram  IInd  Farm",
+          "query_id": "6967"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509050",
+      "name": "Ganeshapuram",
+      "query_id": "13936",
+      "children": [
+        {
+          "id": "LK-450905001",
+          "name": "Ganeshapuram",
+          "query_id": "6971"
+        },
+        {
+          "id": "LK-450905002",
+          "name": "Kumarasami Road",
+          "query_id": "6972"
+        },
+        {
+          "id": "LK-450905003",
+          "name": "Muruthappu  Road",
+          "query_id": "6973"
+        },
+        {
+          "id": "LK-450905004",
+          "name": "Band Road",
+          "query_id": "39715"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509055",
+      "name": "Kannakai puram",
+      "query_id": "13937",
+      "children": [
+        {
+          "id": "LK-450905501",
+          "name": "Kannakai puram  East",
+          "query_id": "6917"
+        },
+        {
+          "id": "LK-450905502",
+          "name": "Kannakai puram Y.H.S",
+          "query_id": "6918"
+        },
+        {
+          "id": "LK-450905503",
+          "name": "Kannakai puram West 150 H.S",
+          "query_id": "39667"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509065",
+      "name": "Konavil",
+      "query_id": "13938",
+      "children": [
+        {
+          "id": "LK-450906501",
+          "name": "Kanthi  Kiramam",
+          "query_id": "6924"
+        },
+        {
+          "id": "LK-450906502",
+          "name": "Konavil East",
+          "query_id": "6925"
+        },
+        {
+          "id": "LK-450906503",
+          "name": "Rajan Kuderippu",
+          "query_id": "6926"
+        },
+        {
+          "id": "LK-450906504",
+          "name": "Uniyan Kulam",
+          "query_id": "39710"
+        },
+        {
+          "id": "LK-450906505",
+          "name": "Konavil",
+          "query_id": "39711"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509070",
+      "name": "Krishnapuram",
+      "query_id": "13939",
+      "children": [
+        {
+          "id": "LK-450907001",
+          "name": "Krishnapuram",
+          "query_id": "6936"
+        },
+        {
+          "id": "LK-450907002",
+          "name": "Vinayagar puram",
+          "query_id": "6937"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509075",
+      "name": "Malaiyalapuram",
+      "query_id": "13940",
+      "children": [
+        {
+          "id": "LK-450907501",
+          "name": "Malaiyalapuram North",
+          "query_id": "6933"
+        },
+        {
+          "id": "LK-450907502",
+          "name": "Malaiyalapuram South",
+          "query_id": "6934"
+        },
+        {
+          "id": "LK-450907503",
+          "name": "Malaiyalapuram Center",
+          "query_id": "39716"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509080",
+      "name": "Maruthanakar",
+      "query_id": "13941",
+      "children": [
+        {
+          "id": "LK-450908001",
+          "name": "Maruthanagar West",
+          "query_id": "6962"
+        },
+        {
+          "id": "LK-450908002",
+          "name": "Maruthanakar East",
+          "query_id": "6963"
+        },
+        {
+          "id": "LK-450908003",
+          "name": "Part  Of  Pannankandy",
+          "query_id": "6964"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509085",
+      "name": "Mavadiyamman",
+      "query_id": "13942",
+      "children": [
+        {
+          "id": "LK-450908501",
+          "name": "Ramanathapuram 5th Unit",
+          "query_id": "7017"
+        },
+        {
+          "id": "LK-450908502",
+          "name": "Vaddakachchi",
+          "query_id": "7018"
+        },
+        {
+          "id": "LK-450908503",
+          "name": "Puthukkadu",
+          "query_id": "7019"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509090",
+      "name": "Mayavanoor",
+      "query_id": "13943",
+      "children": [
+        {
+          "id": "LK-450909001",
+          "name": "10, Houseng Scheme  ",
+          "query_id": "7011"
+        },
+        {
+          "id": "LK-450909002",
+          "name": "Mayavanoor",
+          "query_id": "7012"
+        },
+        {
+          "id": "LK-450909003",
+          "name": "Vaddakachchi  East",
+          "query_id": "7013"
+        },
+        {
+          "id": "LK-450909004",
+          "name": "Kudiyiruppu",
+          "query_id": "39738"
+        },
+        {
+          "id": "LK-450909005",
+          "name": "Ramanathapuram",
+          "query_id": "52864"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509095",
+      "name": "Pannankandy",
+      "query_id": "13944",
+      "children": [
+        {
+          "id": "LK-450909501",
+          "name": "Pannankandy",
+          "query_id": "6965"
+        },
+        {
+          "id": "LK-450909504",
+          "name": "Alvar Kudiyiruppu",
+          "query_id": "39745"
+        },
+        {
+          "id": "LK-450909502",
+          "name": "Sunthararaj Kudieruppu",
+          "query_id": "39739"
+        },
+        {
+          "id": "LK-450909503",
+          "name": "Joni Village",
+          "query_id": "39741"
+        },
+        {
+          "id": "LK-450909504",
+          "name": "",
+          "query_id": "39743"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509100",
+      "name": "Barathi puram",
+      "query_id": "13945",
+      "children": [
+        {
+          "id": "LK-450910001",
+          "name": "YMCV Veethy",
+          "query_id": "6929"
+        },
+        {
+          "id": "LK-450910002",
+          "name": "CSI Street",
+          "query_id": "6930"
+        },
+        {
+          "id": "LK-450910003",
+          "name": "Sebastion Veethy",
+          "query_id": "6931"
+        },
+        {
+          "id": "LK-450910004",
+          "name": "Amman  Veethy",
+          "query_id": "6932"
+        },
+        {
+          "id": "LK-450910001",
+          "name": "Barathi puram North",
+          "query_id": "39712"
+        },
+        {
+          "id": "LK-450910002",
+          "name": "Barathi puram Center",
+          "query_id": "39713"
+        },
+        {
+          "id": "LK-450910003",
+          "name": "Barathi puram",
+          "query_id": "39714"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509105",
+      "name": "Periya Paranthan",
+      "query_id": "13946",
+      "children": [
+        {
+          "id": "LK-450910501",
+          "name": "Periyaparanthan  D  - 5 Road",
+          "query_id": "6980"
+        },
+        {
+          "id": "LK-450910502",
+          "name": "Periyaparanthan  D  - 6 Road",
+          "query_id": "6981"
+        },
+        {
+          "id": "LK-450910503",
+          "name": "Periyaparanthan  D  - 7 Road",
+          "query_id": "6982"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509110",
+      "name": "Ponnagar",
+      "query_id": "13947",
+      "children": [
+        {
+          "id": "LK-450911001",
+          "name": "Ariviyal Nagar",
+          "query_id": "6927"
+        },
+        {
+          "id": "LK-450911003",
+          "name": "Ponnagar",
+          "query_id": "6928"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509115",
+      "name": "Puthumurippu",
+      "query_id": "13948",
+      "children": [
+        {
+          "id": "LK-450911501",
+          "name": "Salomnakar",
+          "query_id": "7005"
+        },
+        {
+          "id": "LK-450911502",
+          "name": "Solainakar",
+          "query_id": "7006"
+        },
+        {
+          "id": "LK-450911503",
+          "name": "Puthumurippu",
+          "query_id": "7007"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509125",
+      "name": "Rathinapuram",
+      "query_id": "13949",
+      "children": [
+        {
+          "id": "LK-450912501",
+          "name": "Ratnapuram",
+          "query_id": "6958"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509130",
+      "name": "Selvanakar",
+      "query_id": "13950",
+      "children": [
+        {
+          "id": "LK-450913001",
+          "name": "Selvanagar",
+          "query_id": "6946"
+        },
+        {
+          "id": "LK-450913002",
+          "name": "Muthumariamman  Street",
+          "query_id": "6947"
+        },
+        {
+          "id": "LK-450913003",
+          "name": "Milkboard  Street",
+          "query_id": "6948"
+        },
+        {
+          "id": "LK-450913004",
+          "name": "Borood Road",
+          "query_id": "34131"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509135",
+      "name": "Sivanakar",
+      "query_id": "13951",
+      "children": [
+        {
+          "id": "LK-450913501",
+          "name": "Sivanakar - 01",
+          "query_id": "6995"
+        },
+        {
+          "id": "LK-450913502",
+          "name": "Sivanakar - 02",
+          "query_id": "6996"
+        },
+        {
+          "id": "LK-450913503",
+          "name": "Sivan  Street",
+          "query_id": "6997"
+        },
+        {
+          "id": "LK-450913504",
+          "name": "Sivansolai / Adampansolai",
+          "query_id": "6998"
+        },
+        {
+          "id": "LK-450913505",
+          "name": "Adampansolai",
+          "query_id": "39729"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509140",
+      "name": "Skantha puram",
+      "query_id": "13952",
+      "children": [
+        {
+          "id": "LK-450914001",
+          "name": "Maniyam Kulam",
+          "query_id": "6920"
+        },
+        {
+          "id": "LK-450914002",
+          "name": "Skantha puram East",
+          "query_id": "39670"
+        },
+        {
+          "id": "LK-450914003",
+          "name": "Skantha puram West",
+          "query_id": "39671"
+        },
+        {
+          "id": "LK-450914004",
+          "name": "Vinayagar Kudieruppu",
+          "query_id": "39672"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509145",
+      "name": "Thirunagar North",
+      "query_id": "13953",
+      "children": [
+        {
+          "id": "LK-450914501",
+          "name": "Thirunagar North",
+          "query_id": "6970"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509150",
+      "name": "Thirunagar South",
+      "query_id": "13954",
+      "children": [
+        {
+          "id": "LK-450915001",
+          "name": "Thirunagar South",
+          "query_id": "6968"
+        },
+        {
+          "id": "LK-450915002",
+          "name": "Main  Street",
+          "query_id": "6969"
+        },
+        {
+          "id": "LK-450915003",
+          "name": "Manjula Bakery Road",
+          "query_id": "39746"
+        },
+        {
+          "id": "LK-450915004",
+          "name": "Sawmil Road",
+          "query_id": "39747"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509155",
+      "name": "Thiruvaiyaru",
+      "query_id": "13955",
+      "children": [
+        {
+          "id": "LK-450915501",
+          "name": "Thiruvaiyaru  Wilshan  Street",
+          "query_id": "6955"
+        },
+        {
+          "id": "LK-450915502",
+          "name": "Thiruvaiaru",
+          "query_id": "52865"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509160",
+      "name": "Thiruvaiyaru West",
+      "query_id": "13956",
+      "children": [
+        {
+          "id": "LK-450916001",
+          "name": "Thiruvaiyaru West",
+          "query_id": "6956"
+        },
+        {
+          "id": "LK-450916002",
+          "name": "Kanagambikai  Street",
+          "query_id": "6957"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509165",
+      "name": "Thondamannagar",
+      "query_id": "13957",
+      "children": [
+        {
+          "id": "LK-450916501",
+          "name": "Thondamannagar",
+          "query_id": "6950"
+        },
+        {
+          "id": "LK-450916502",
+          "name": "Thondamannagar East",
+          "query_id": "34128"
+        },
+        {
+          "id": "LK-450916503",
+          "name": "Thondamannagar West",
+          "query_id": "34129"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509170",
+      "name": "Uruthirapuram East",
+      "query_id": "13958",
+      "children": [
+        {
+          "id": "LK-450917001",
+          "name": "Uruthirapuram  West",
+          "query_id": "6986"
+        },
+        {
+          "id": "LK-450917002",
+          "name": "1cross  Road",
+          "query_id": "6987"
+        },
+        {
+          "id": "LK-450917003",
+          "name": "2cross  Road",
+          "query_id": "6988"
+        },
+        {
+          "id": "LK-450917004",
+          "name": "3  Cross  Road",
+          "query_id": "6989"
+        },
+        {
+          "id": "LK-450917005",
+          "name": "4  Cross  Road",
+          "query_id": "6990"
+        },
+        {
+          "id": "LK-450917006",
+          "name": "5  Cross  Road",
+          "query_id": "6991"
+        },
+        {
+          "id": "LK-450917006",
+          "name": "D 10 - 1",
+          "query_id": "34638"
+        },
+        {
+          "id": "LK-450917007",
+          "name": "D 10 - 11",
+          "query_id": "34639"
+        },
+        {
+          "id": "LK-450917008",
+          "name": "Civil Centre",
+          "query_id": "34640"
+        },
+        {
+          "id": "LK-450917001",
+          "name": "D8 Uruthirapuram",
+          "query_id": "39723"
+        },
+        {
+          "id": "LK-450917002",
+          "name": "Radnampannai",
+          "query_id": "39724"
+        },
+        {
+          "id": "LK-450917003",
+          "name": "Ananthampannai",
+          "query_id": "39725"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509175",
+      "name": "Uruththiram puram North",
+      "query_id": "13959",
+      "children": [
+        {
+          "id": "LK-450917501",
+          "name": "Ellukaddu / Shathipuram",
+          "query_id": "6983"
+        },
+        {
+          "id": "LK-450917502",
+          "name": "Neevil",
+          "query_id": "6984"
+        },
+        {
+          "id": "LK-450917503",
+          "name": "Kunsuparanthan",
+          "query_id": "6985"
+        },
+        {
+          "id": "LK-450917504",
+          "name": "Serukkan",
+          "query_id": "39719"
+        },
+        {
+          "id": "LK-450917505",
+          "name": "Salampan",
+          "query_id": "39720"
+        },
+        {
+          "id": "LK-450917506",
+          "name": "Porikadavai",
+          "query_id": "39721"
+        },
+        {
+          "id": "LK-450917507",
+          "name": "Uruthirapureesvaram",
+          "query_id": "39722"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509180",
+      "name": "Uruthirapuram West",
+      "query_id": "13960",
+      "children": [
+        {
+          "id": "LK-450918001",
+          "name": "D 10 Unit 02",
+          "query_id": "6992"
+        },
+        {
+          "id": "LK-450918002",
+          "name": "Kudimaththi",
+          "query_id": "6993"
+        },
+        {
+          "id": "LK-450918003",
+          "name": "D 10 Unit 01",
+          "query_id": "6994"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509185",
+      "name": "Uthayanagar East",
+      "query_id": "13961",
+      "children": [
+        {
+          "id": "LK-450918501",
+          "name": "Uthayanagar East",
+          "query_id": "6938"
+        },
+        {
+          "id": "LK-450918502",
+          "name": "Uthayanagar South",
+          "query_id": "6939"
+        },
+        {
+          "id": "LK-450918503",
+          "name": "Annaivelankanny  Veethy",
+          "query_id": "6940"
+        },
+        {
+          "id": "LK-450918504",
+          "name": "Selva Street",
+          "query_id": "34134"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509190",
+      "name": "Uthayanagar West",
+      "query_id": "13962",
+      "children": [
+        {
+          "id": "LK-450919001",
+          "name": "Uthayanagar West",
+          "query_id": "6941"
+        },
+        {
+          "id": "LK-450919002",
+          "name": "Jonny  Veethy",
+          "query_id": "6942"
+        },
+        {
+          "id": "LK-450919003",
+          "name": "Puvaneswari Veethi",
+          "query_id": "34132"
+        },
+        {
+          "id": "LK-450919004",
+          "name": "Mathavan Veethi",
+          "query_id": "34133"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509195",
+      "name": "Uttupulam",
+      "query_id": "13963",
+      "children": [
+        {
+          "id": "LK-450919501",
+          "name": "Valluvar  pannai",
+          "query_id": "6999"
+        },
+        {
+          "id": "LK-450919502",
+          "name": "Navalar pannai",
+          "query_id": "7000"
+        },
+        {
+          "id": "LK-450919503",
+          "name": "Puthiya  Kudijiruppu  G  T  Z  Road",
+          "query_id": "7001"
+        },
+        {
+          "id": "LK-450919504",
+          "name": "",
+          "query_id": "34119"
+        },
+        {
+          "id": "LK-450919505",
+          "name": "",
+          "query_id": "34120"
+        },
+        {
+          "id": "LK-450919506",
+          "name": "1/2 Ekar Scheme",
+          "query_id": "39731"
+        }
+      ]
+    },
+    {
+      "id": "LK-4509210",
+      "name": "Vivegananthanagar",
+      "query_id": "13964",
+      "children": [
+        {
+          "id": "LK-450921001",
+          "name": "Viveganandanagar",
+          "query_id": "6935"
+        },
+        {
+          "id": "LK-450921001",
+          "name": "Vivegananthanagar East",
+          "query_id": "34137"
+        },
+        {
+          "id": "LK-450921002",
+          "name": "Vivegananthanagar West",
+          "query_id": "34138"
+        }
+      ]
+    }
+  ]
+}

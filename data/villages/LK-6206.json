@@ -1,0 +1,336 @@
+{
+  "id": "LK-6206",
+  "name": "Vanathavilluwa",
+  "query_id": "1177",
+  "children": [
+    {
+      "id": "LK-6206075",
+      "name": "Samagipura",
+      "query_id": "14166",
+      "children": [
+        {
+          "id": "LK-620607501",
+          "name": "Samagipura",
+          "query_id": "55107"
+        },
+        {
+          "id": "LK-620607502",
+          "name": "Pubudhugama",
+          "query_id": "55108"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206005",
+      "name": "Pukkulama",
+      "query_id": "10258",
+      "children": [
+        {
+          "id": "LK-620600501",
+          "name": "Pookkulam",
+          "query_id": "20046"
+        },
+        {
+          "id": "LK-620600502",
+          "name": "Palugahathurai",
+          "query_id": "50384"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206010",
+      "name": "Ralmaduwa",
+      "query_id": "10259",
+      "children": [
+        {
+          "id": "LK-620601001",
+          "name": "Ralmaduwa",
+          "query_id": "20049"
+        },
+        {
+          "id": "LK-620601002",
+          "name": "Eluwankulam East",
+          "query_id": "50385"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206015",
+      "name": "Old  Eluwankulam",
+      "query_id": "10260",
+      "children": [
+        {
+          "id": "LK-620601501",
+          "name": "Old Eluwankulam",
+          "query_id": "20047"
+        },
+        {
+          "id": "LK-620601502",
+          "name": "Murandanveliya",
+          "query_id": "50386"
+        },
+        {
+          "id": "LK-620601503",
+          "name": "Vellaimundal",
+          "query_id": "50387"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206020",
+      "name": "Aluth Eluwankulama",
+      "query_id": "10261",
+      "children": [
+        {
+          "id": "LK-620602001",
+          "name": "New  Eluwankulam",
+          "query_id": "20048"
+        },
+        {
+          "id": "LK-620602002",
+          "name": "Gangewadiya",
+          "query_id": "50388"
+        },
+        {
+          "id": "LK-620602003",
+          "name": "Ailiya",
+          "query_id": "50389"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206025",
+      "name": "Serakkuliya",
+      "query_id": "10262",
+      "children": [
+        {
+          "id": "LK-620602501",
+          "name": "Serakkuliya",
+          "query_id": "20050"
+        },
+        {
+          "id": "LK-620602502",
+          "name": "Sinna Nagawilluwa",
+          "query_id": "50390"
+        },
+        {
+          "id": "LK-620602503",
+          "name": "Periyanagawilluwa",
+          "query_id": "50391"
+        },
+        {
+          "id": "LK-620602504",
+          "name": "Mahalawilluwa",
+          "query_id": "50392"
+        },
+        {
+          "id": "LK-620602505",
+          "name": "Madeenapuram",
+          "query_id": "50393"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206030",
+      "name": "Karathivu North",
+      "query_id": "10263",
+      "children": [
+        {
+          "id": "LK-620603001",
+          "name": "Karathivu ",
+          "query_id": "20056"
+        },
+        {
+          "id": "LK-620603002",
+          "name": "Rasoolpuram",
+          "query_id": "50394"
+        },
+        {
+          "id": "LK-620603003",
+          "name": "Ponparappi",
+          "query_id": "50395"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206035",
+      "name": "Karathivu South",
+      "query_id": "10264",
+      "children": [
+        {
+          "id": "LK-620603501",
+          "name": "Karathivu ",
+          "query_id": "20051"
+        },
+        {
+          "id": "LK-620603503",
+          "name": "Thirikkapallam",
+          "query_id": "50397"
+        },
+        {
+          "id": "LK-620603504",
+          "name": "Erukkalamwilluwa",
+          "query_id": "50398"
+        },
+        {
+          "id": "LK-620603505",
+          "name": "Alamwilluwa",
+          "query_id": "50399"
+        },
+        {
+          "id": "LK-620603506",
+          "name": "Hijrapuram",
+          "query_id": "50400"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206040",
+      "name": "Mangalapura",
+      "query_id": "10265",
+      "children": [
+        {
+          "id": "LK-620604001",
+          "name": "Mangalapura",
+          "query_id": "20062"
+        },
+        {
+          "id": "LK-620604002",
+          "name": "Devamiththapura",
+          "query_id": "50401"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206045",
+      "name": "Bandaranayakapura",
+      "query_id": "10266",
+      "children": [
+        {
+          "id": "LK-620604501",
+          "name": "Bandaranayakapura",
+          "query_id": "20061"
+        },
+        {
+          "id": "LK-620604502",
+          "name": "Katupuliyankulam",
+          "query_id": "50402"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206050",
+      "name": "Wanathawilluwa North",
+      "query_id": "10267",
+      "children": [
+        {
+          "id": "LK-620605001",
+          "name": "Wanathawilluwa",
+          "query_id": "20057"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206055",
+      "name": "Vanathawilluwa South",
+      "query_id": "10268",
+      "children": [
+        {
+          "id": "LK-620605501",
+          "name": "Wanathawilluwa South",
+          "query_id": "20058"
+        },
+        {
+          "id": "LK-620605502",
+          "name": "Nagamaduwa",
+          "query_id": "50403"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206060",
+      "name": "Wijayapura West",
+      "query_id": "10269",
+      "children": [
+        {
+          "id": "LK-620606001",
+          "name": "Wijayapura West",
+          "query_id": "20060"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206065",
+      "name": "Wijayapura East",
+      "query_id": "10270",
+      "children": [
+        {
+          "id": "LK-620606501",
+          "name": "Wijayapura East",
+          "query_id": "20059"
+        },
+        {
+          "id": "LK-620606502",
+          "name": "Morapathawa",
+          "query_id": "50404"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206070",
+      "name": "Karadipuwal",
+      "query_id": "10271",
+      "children": [
+        {
+          "id": "LK-620607001",
+          "name": "Karadipuwal",
+          "query_id": "20055"
+        },
+        {
+          "id": "LK-620607002",
+          "name": "Saliyapura",
+          "query_id": "50405"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206080",
+      "name": "Vattakandal",
+      "query_id": "10273",
+      "children": [
+        {
+          "id": "LK-620608001",
+          "name": "Wattakandal",
+          "query_id": "20052"
+        },
+        {
+          "id": "LK-620608002",
+          "name": "Ismailpuram",
+          "query_id": "50406"
+        },
+        {
+          "id": "LK-620608003",
+          "name": "Redbana",
+          "query_id": "50407"
+        },
+        {
+          "id": "LK-620608004",
+          "name": "Ambalam",
+          "query_id": "50408"
+        }
+      ]
+    },
+    {
+      "id": "LK-6206085",
+      "name": "Mailankulama",
+      "query_id": "10274",
+      "children": [
+        {
+          "id": "LK-620608501",
+          "name": "Mailankulama",
+          "query_id": "20053"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "id": "LK-4306",
+  "name": "Vavuniya South",
+  "query_id": "1091",
+  "children": [
+    {
+      "id": "LK-4306005",
+      "name": "Periya Ulukkulama",
+      "query_id": "7405",
+      "children": [
+        {
+          "id": "LK-430600501",
+          "name": "Periyaulukkulama",
+          "query_id": "7337"
+        },
+        {
+          "id": "LK-430600502",
+          "name": "Fisheries  Village",
+          "query_id": "7338"
+        },
+        {
+          "id": "LK-430600503",
+          "name": "New Village",
+          "query_id": "54368"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306010",
+      "name": "Poomaduwa",
+      "query_id": "7406",
+      "children": [
+        {
+          "id": "LK-430601001",
+          "name": "Poomaduwa",
+          "query_id": "7314"
+        },
+        {
+          "id": "LK-430601002",
+          "name": "Palayauruwa",
+          "query_id": "7315"
+        },
+        {
+          "id": "LK-430601003",
+          "name": "Thavasikulama",
+          "query_id": "7316"
+        },
+        {
+          "id": "LK-430601004",
+          "name": "Siyambalagaswewa",
+          "query_id": "7317"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306015",
+      "name": "Rankethgama",
+      "query_id": "7407",
+      "children": [
+        {
+          "id": "LK-430601501",
+          "name": "Rankethgama",
+          "query_id": "7302"
+        },
+        {
+          "id": "LK-430601502",
+          "name": "Kalayanuooruwa",
+          "query_id": "7303"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306020",
+      "name": "Maruthammaduwa",
+      "query_id": "7408",
+      "children": [
+        {
+          "id": "LK-430602001",
+          "name": "Maradammaduwa",
+          "query_id": "7335"
+        },
+        {
+          "id": "LK-430602002",
+          "name": "Kalasiyabalawa",
+          "query_id": "7336"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306025",
+      "name": "Track 7",
+      "query_id": "7409",
+      "children": [
+        {
+          "id": "LK-430602501",
+          "name": "Track  7",
+          "query_id": "7322"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306030",
+      "name": "Awaranthulawa",
+      "query_id": "7410",
+      "children": [
+        {
+          "id": "LK-430603003",
+          "name": "Halambagaswewa",
+          "query_id": "54375"
+        },
+        {
+          "id": "LK-430603001",
+          "name": "Avaranthulawa",
+          "query_id": "7304"
+        },
+        {
+          "id": "LK-430603002",
+          "name": "Unit  2",
+          "query_id": "7305"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306035",
+      "name": "Acre 20, 40, 60",
+      "query_id": "7411",
+      "children": [
+        {
+          "id": "LK-430603501",
+          "name": "Acre  20,40,60",
+          "query_id": "7339"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306040",
+      "name": "Acre 400",
+      "query_id": "7412",
+      "children": [
+        {
+          "id": "LK-430604002",
+          "name": "L. B.  Colony",
+          "query_id": "7327"
+        },
+        {
+          "id": "LK-430604003",
+          "name": "Janaudana Gammanaya",
+          "query_id": "7328"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306045",
+      "name": "Madukanda",
+      "query_id": "7413",
+      "children": [
+        {
+          "id": "LK-430604501",
+          "name": "Madukanda",
+          "query_id": "7323"
+        },
+        {
+          "id": "LK-430604502",
+          "name": "Ambalangodalla",
+          "query_id": "7324"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306050",
+      "name": "Eramperiyakulama",
+      "query_id": "7414",
+      "children": [
+        {
+          "id": "LK-430605001",
+          "name": "Irattaperiyakulam",
+          "query_id": "7308"
+        },
+        {
+          "id": "LK-430605002",
+          "name": "Navagama",
+          "query_id": "7309"
+        },
+        {
+          "id": "LK-430605003",
+          "name": "Ukkulankulm",
+          "query_id": "7310"
+        },
+        {
+          "id": "LK-430605004",
+          "name": "Kurundankulama",
+          "query_id": "7311"
+        },
+        {
+          "id": "LK-430605005",
+          "name": "Ariyalpattatikulam",
+          "query_id": "7312"
+        },
+        {
+          "id": "LK-430605006",
+          "name": "Veragama",
+          "query_id": "7313"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306055",
+      "name": "Alagalla",
+      "query_id": "7415",
+      "children": [
+        {
+          "id": "LK-430605501",
+          "name": "Alagalla",
+          "query_id": "7318"
+        },
+        {
+          "id": "LK-430605502",
+          "name": "Aluthgama",
+          "query_id": "7319"
+        },
+        {
+          "id": "LK-430605503",
+          "name": "Thiruwegama",
+          "query_id": "7320"
+        },
+        {
+          "id": "LK-430605504",
+          "name": "Viradagollawe",
+          "query_id": "7321"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306060",
+      "name": "Avusadapitiya",
+      "query_id": "7416",
+      "children": [
+        {
+          "id": "LK-430606001",
+          "name": "Avusadapitiya",
+          "query_id": "7331"
+        },
+        {
+          "id": "LK-430606002",
+          "name": "Pubudugama",
+          "query_id": "7332"
+        },
+        {
+          "id": "LK-430606003",
+          "name": "Pahala  Aluthwewa",
+          "query_id": "7333"
+        },
+        {
+          "id": "LK-430606004",
+          "name": "Arugampuleliya",
+          "query_id": "7334"
+        },
+        {
+          "id": "LK-430606006",
+          "name": "Aliyapitiya",
+          "query_id": "54370"
+        },
+        {
+          "id": "LK-430606005",
+          "name": "Nochchikulama",
+          "query_id": "54369"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306065",
+      "name": "Kalukunnamaduwa",
+      "query_id": "7417",
+      "children": [
+        {
+          "id": "LK-430606501",
+          "name": "Kalukunnammaduwa",
+          "query_id": "7340"
+        },
+        {
+          "id": "LK-430606502",
+          "name": "Ilamaradankulama",
+          "query_id": "7341"
+        },
+        {
+          "id": "LK-430606503",
+          "name": "Kurudupitiya",
+          "query_id": "7342"
+        },
+        {
+          "id": "LK-430606504",
+          "name": "Vijayabagama",
+          "query_id": "34139"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306070",
+      "name": "Nedunkulama",
+      "query_id": "7418",
+      "children": [
+        {
+          "id": "LK-430607001",
+          "name": "Nedunkulama",
+          "query_id": "7329"
+        },
+        {
+          "id": "LK-430607002",
+          "name": "Malayapariththikulama",
+          "query_id": "7330"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306075",
+      "name": "Mahamailankulama",
+      "query_id": "7419",
+      "children": [
+        {
+          "id": "LK-430607501",
+          "name": "Mahamailankulam",
+          "query_id": "7306"
+        },
+        {
+          "id": "LK-430607502",
+          "name": "Kudakachchakodiya",
+          "query_id": "7307"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306080",
+      "name": "Mamaduwa",
+      "query_id": "7420",
+      "children": [
+        {
+          "id": "LK-430608001",
+          "name": "Mamaduwa",
+          "query_id": "7294"
+        },
+        {
+          "id": "LK-430608002",
+          "name": "Mamaduva  Fisheries  Village",
+          "query_id": "7295"
+        },
+        {
+          "id": "LK-430608003",
+          "name": "Thapaseliya",
+          "query_id": "7296"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306085",
+      "name": "Mahakachchakodiya",
+      "query_id": "7421",
+      "children": [
+        {
+          "id": "LK-430608501",
+          "name": "Mahakachchakodiya",
+          "query_id": "7325"
+        },
+        {
+          "id": "LK-430608502",
+          "name": "Aluthwaththa",
+          "query_id": "34140"
+        },
+        {
+          "id": "LK-430608503",
+          "name": "Vairavashanthikulama",
+          "query_id": "34141"
+        },
+        {
+          "id": "LK-430608504",
+          "name": "New Village",
+          "query_id": "54373"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306090",
+      "name": "Pudubulankulama",
+      "query_id": "7422",
+      "children": [
+        {
+          "id": "LK-430609001",
+          "name": "Pudubulankulama",
+          "query_id": "7297"
+        },
+        {
+          "id": "LK-430609002",
+          "name": "Atanbagaskada",
+          "query_id": "7298"
+        },
+        {
+          "id": "LK-430609003",
+          "name": "Kiriveheragama",
+          "query_id": "34142"
+        },
+        {
+          "id": "LK-430609004",
+          "name": "Malmaduwa",
+          "query_id": "34143"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306095",
+      "name": "Pirappamaduwa",
+      "query_id": "7423",
+      "children": [
+        {
+          "id": "LK-430609503",
+          "name": "Pirappammaduwa",
+          "query_id": "7293"
+        },
+        {
+          "id": "LK-430609505",
+          "name": "Nandimithragama",
+          "query_id": "54371"
+        },
+        {
+          "id": "LK-430609506",
+          "name": "Salalihinigama",
+          "query_id": "54372"
+        }
+      ]
+    },
+    {
+      "id": "LK-4306100",
+      "name": "Agbopura",
+      "query_id": "7424",
+      "children": [
+        {
+          "id": "LK-430610001",
+          "name": "Agbopura",
+          "query_id": "7287"
+        },
+        {
+          "id": "LK-430610002",
+          "name": "Kokeliya",
+          "query_id": "7288"
+        },
+        {
+          "id": "LK-430610003",
+          "name": "Dikwave",
+          "query_id": "7289"
+        },
+        {
+          "id": "LK-430610004",
+          "name": "Pudiyasinnakulama",
+          "query_id": "7290"
+        },
+        {
+          "id": "LK-430610005",
+          "name": "Agbopura New Village",
+          "query_id": "54374"
+        }
+      ]
+    }
+  ]
+}

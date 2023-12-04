@@ -1,0 +1,981 @@
+{
+  "id": "LK-5245",
+  "name": "Thirukkovil",
+  "query_id": "1132",
+  "children": [
+    {
+      "id": "LK-5245005",
+      "name": "Thambattai 2",
+      "query_id": "8326",
+      "children": [
+        {
+          "id": "LK-524500501",
+          "name": "Alayadi Road",
+          "query_id": "9917"
+        },
+        {
+          "id": "LK-524500503",
+          "name": "Church Near Road",
+          "query_id": "54031"
+        },
+        {
+          "id": "LK-524500502",
+          "name": "Radsagar Church Road",
+          "query_id": "54030"
+        },
+        {
+          "id": "LK-524500504",
+          "name": "Seva Lanka Near Road",
+          "query_id": "54032"
+        },
+        {
+          "id": "LK-524500505",
+          "name": "3rd Cross Road",
+          "query_id": "54033"
+        },
+        {
+          "id": "LK-524500506",
+          "name": "Semmapulai Cross Road",
+          "query_id": "54034"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245010",
+      "name": "Thambattai 1",
+      "query_id": "8327",
+      "children": [
+        {
+          "id": "LK-524501001",
+          "name": "Vairavartha Road",
+          "query_id": "9918"
+        },
+        {
+          "id": "LK-524501002",
+          "name": "Vishnu Road",
+          "query_id": "54027"
+        },
+        {
+          "id": "LK-524501003",
+          "name": "School Road",
+          "query_id": "54028"
+        },
+        {
+          "id": "LK-524501004",
+          "name": "G.T.Z. Road",
+          "query_id": "54029"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245015",
+      "name": "Thambiluvil 1 West",
+      "query_id": "8328",
+      "children": [
+        {
+          "id": "LK-524501501",
+          "name": "Vammiadi Road",
+          "query_id": "9919"
+        },
+        {
+          "id": "LK-524501502",
+          "name": "Kaalikovil Road",
+          "query_id": "54037"
+        },
+        {
+          "id": "LK-524501503",
+          "name": "Konamalai Road",
+          "query_id": "54038"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245020",
+      "name": "Thambiluvil 1 East",
+      "query_id": "8329",
+      "children": [
+        {
+          "id": "LK-524502001",
+          "name": "Valluvar 2nd Cross Road",
+          "query_id": "9920"
+        },
+        {
+          "id": "LK-524502002",
+          "name": "Beach Road",
+          "query_id": "54035"
+        },
+        {
+          "id": "LK-524502003",
+          "name": "Perampalam Cross Road",
+          "query_id": "54036"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245025",
+      "name": "Thambiluvil 1 South",
+      "query_id": "8330",
+      "children": [
+        {
+          "id": "LK-524502501",
+          "name": "Munai Kalappu Road",
+          "query_id": "9921"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245030",
+      "name": "Sagamam",
+      "query_id": "8331",
+      "children": [
+        {
+          "id": "LK-524503018",
+          "name": "Vadakanda road",
+          "query_id": "54136"
+        },
+        {
+          "id": "LK-524503012",
+          "name": "Maariyachchi road",
+          "query_id": "54130"
+        },
+        {
+          "id": "LK-524503011",
+          "name": "Sanmugam road",
+          "query_id": "54129"
+        },
+        {
+          "id": "LK-524503010",
+          "name": "Parathesi road",
+          "query_id": "54128"
+        },
+        {
+          "id": "LK-524503001",
+          "name": "Aaththukanda road",
+          "query_id": "9922"
+        },
+        {
+          "id": "LK-524503009",
+          "name": "Suntharam road",
+          "query_id": "54127"
+        },
+        {
+          "id": "LK-524503015",
+          "name": "Periyathalawa road",
+          "query_id": "54133"
+        },
+        {
+          "id": "LK-524503013",
+          "name": "School road",
+          "query_id": "54131"
+        },
+        {
+          "id": "LK-524503003",
+          "name": "Veppaiyadi road",
+          "query_id": "54121"
+        },
+        {
+          "id": "LK-524503004",
+          "name": "Kovil road",
+          "query_id": "54122"
+        },
+        {
+          "id": "LK-524503006",
+          "name": "Mannan kula road",
+          "query_id": "54124"
+        },
+        {
+          "id": "LK-524503007",
+          "name": "Sathasivam road",
+          "query_id": "54125"
+        },
+        {
+          "id": "LK-524503008",
+          "name": "Valliyachchi road",
+          "query_id": "54126"
+        },
+        {
+          "id": "LK-524503014",
+          "name": "Vaikkol centre road",
+          "query_id": "54132"
+        },
+        {
+          "id": "LK-524503017",
+          "name": "Sittampalam road",
+          "query_id": "54135"
+        },
+        {
+          "id": "LK-524503005",
+          "name": "Pandiyan road",
+          "query_id": "54123"
+        },
+        {
+          "id": "LK-524503002",
+          "name": "Aaththukanda cross road",
+          "query_id": "54120"
+        },
+        {
+          "id": "LK-524503016",
+          "name": "Kumaran kula road",
+          "query_id": "54134"
+        },
+        {
+          "id": "LK-524503019",
+          "name": "Vadakanda 1st cross road",
+          "query_id": "54137"
+        },
+        {
+          "id": "LK-524503020",
+          "name": "Vadakanda 2nd cross road",
+          "query_id": "54138"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245035",
+      "name": "Thambiluvil 2 West",
+      "query_id": "8332",
+      "children": [
+        {
+          "id": "LK-524503501",
+          "name": "Post Office Road",
+          "query_id": "9923"
+        },
+        {
+          "id": "LK-524503504",
+          "name": "Sinthathurai Road",
+          "query_id": "54044"
+        },
+        {
+          "id": "LK-524503502",
+          "name": "Siththi Vinayagar Back Road",
+          "query_id": "54042"
+        },
+        {
+          "id": "LK-524503503",
+          "name": "Amman Uoorvala Road",
+          "query_id": "54043"
+        },
+        {
+          "id": "LK-524503505",
+          "name": "Bank of Ceylon Road",
+          "query_id": "54045"
+        },
+        {
+          "id": "LK-524503506",
+          "name": "Maariyar Road",
+          "query_id": "54046"
+        },
+        {
+          "id": "LK-524503507",
+          "name": "Kalaimahal Front Road",
+          "query_id": "54047"
+        },
+        {
+          "id": "LK-524503508",
+          "name": "Milladi Road",
+          "query_id": "54048"
+        },
+        {
+          "id": "LK-524503509",
+          "name": "Puliyadi Road",
+          "query_id": "54049"
+        },
+        {
+          "id": "LK-524503510",
+          "name": "Navaladi Road",
+          "query_id": "54050"
+        },
+        {
+          "id": "LK-524503511",
+          "name": "Pathman Road",
+          "query_id": "54051"
+        },
+        {
+          "id": "LK-524503512",
+          "name": "Water Board Office Road",
+          "query_id": "54052"
+        },
+        {
+          "id": "LK-524503513",
+          "name": "Market Road",
+          "query_id": "54053"
+        },
+        {
+          "id": "LK-524503514",
+          "name": "Rasavel Road",
+          "query_id": "54054"
+        },
+        {
+          "id": "LK-524503515",
+          "name": "Kurugula Road",
+          "query_id": "54055"
+        },
+        {
+          "id": "LK-524503516",
+          "name": "Market Front Road",
+          "query_id": "54056"
+        },
+        {
+          "id": "LK-524503517",
+          "name": "Library Road",
+          "query_id": "54057"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245040",
+      "name": "Thambiluvil 2 North",
+      "query_id": "8333",
+      "children": [
+        {
+          "id": "LK-524504001",
+          "name": "Sivan Kovil 4th Cross Road",
+          "query_id": "9924"
+        },
+        {
+          "id": "LK-524504002",
+          "name": "Sivan Kovil Road",
+          "query_id": "54058"
+        },
+        {
+          "id": "LK-524504003",
+          "name": "Beach Road",
+          "query_id": "54059"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245045",
+      "name": "Thambiluvil 2 East",
+      "query_id": "8334",
+      "children": [
+        {
+          "id": "LK-524504501",
+          "name": "Beach Road",
+          "query_id": "9925"
+        },
+        {
+          "id": "LK-524504502",
+          "name": "Velmurugu Road",
+          "query_id": "54039"
+        },
+        {
+          "id": "LK-524504503",
+          "name": "Sivan Kovil Cross Road",
+          "query_id": "54040"
+        },
+        {
+          "id": "LK-524504504",
+          "name": "Sai Cross Road",
+          "query_id": "54041"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245050",
+      "name": "Thirukkovil 3",
+      "query_id": "8335",
+      "children": [
+        {
+          "id": "LK-524505001",
+          "name": "School Road",
+          "query_id": "9926"
+        },
+        {
+          "id": "LK-524505002",
+          "name": "Ponnampalam Road",
+          "query_id": "54075"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245055",
+      "name": "Thirukkovil 1",
+      "query_id": "8336",
+      "children": [
+        {
+          "id": "LK-524505501",
+          "name": "Play Ground Road",
+          "query_id": "9927"
+        },
+        {
+          "id": "LK-524505502",
+          "name": "Jeyarednam Road",
+          "query_id": "54060"
+        },
+        {
+          "id": "LK-524505503",
+          "name": "Kovil Cross Road",
+          "query_id": "54061"
+        },
+        {
+          "id": "LK-524505504",
+          "name": "Kathirkamar Road",
+          "query_id": "54062"
+        },
+        {
+          "id": "LK-524505505",
+          "name": "Ramasami Road",
+          "query_id": "54063"
+        },
+        {
+          "id": "LK-524505506",
+          "name": "Court Cross Road",
+          "query_id": "54064"
+        },
+        {
+          "id": "LK-524505507",
+          "name": "Kovil Back Road",
+          "query_id": "54065"
+        },
+        {
+          "id": "LK-524505508",
+          "name": "Akkirasapillaiyar Kovil Road",
+          "query_id": "54066"
+        },
+        {
+          "id": "LK-524505509",
+          "name": "Akkirasapillaiyar Kovil Cross Road",
+          "query_id": "54067"
+        },
+        {
+          "id": "LK-524505510",
+          "name": "Murugan Kovil Front Road",
+          "query_id": "54068"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245060",
+      "name": "Thirukkovil 2",
+      "query_id": "8337",
+      "children": [
+        {
+          "id": "LK-524506001",
+          "name": "Ground Road",
+          "query_id": "9928"
+        },
+        {
+          "id": "LK-524506003",
+          "name": "Navaladi Road",
+          "query_id": "54070"
+        },
+        {
+          "id": "LK-524506002",
+          "name": "Ground Cross Road",
+          "query_id": "54069"
+        },
+        {
+          "id": "LK-524506004",
+          "name": "Nathan Road",
+          "query_id": "54071"
+        },
+        {
+          "id": "LK-524506005",
+          "name": "Velmurugu Road",
+          "query_id": "54072"
+        },
+        {
+          "id": "LK-524506006",
+          "name": "Court Cross Road",
+          "query_id": "54073"
+        },
+        {
+          "id": "LK-524506007",
+          "name": "Ariyanayagam Cross Road",
+          "query_id": "54074"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245065",
+      "name": "Vinayagapuram04",
+      "query_id": "8338",
+      "children": [
+        {
+          "id": "LK-524506516",
+          "name": "Sivan kovil road 1st cross road",
+          "query_id": "54118"
+        },
+        {
+          "id": "LK-524506501",
+          "name": "Madya road 2nd cross road",
+          "query_id": "9929"
+        },
+        {
+          "id": "LK-524506506",
+          "name": "Valluvar road cross road",
+          "query_id": "54107"
+        },
+        {
+          "id": "LK-524506502",
+          "name": "Manikkapillaiyar road 3rd cross road",
+          "query_id": "54103"
+        },
+        {
+          "id": "LK-524506504",
+          "name": "Parameshwara road cross road",
+          "query_id": "54105"
+        },
+        {
+          "id": "LK-524506503",
+          "name": "Manikkapillaiyar road 2nd cross road",
+          "query_id": "54104"
+        },
+        {
+          "id": "LK-524506515",
+          "name": "Elango road",
+          "query_id": "54117"
+        },
+        {
+          "id": "LK-524506509",
+          "name": "Valluvar road 2nd cross road",
+          "query_id": "54111"
+        },
+        {
+          "id": "LK-524506512",
+          "name": "School Road 1st Cross Street",
+          "query_id": "54114"
+        },
+        {
+          "id": "LK-524506505",
+          "name": "Valluvar road",
+          "query_id": "54106"
+        },
+        {
+          "id": "LK-524506514",
+          "name": "Parathiyar road",
+          "query_id": "54116"
+        },
+        {
+          "id": "LK-524506507",
+          "name": "Sivan kovil road",
+          "query_id": "54108"
+        },
+        {
+          "id": "LK-524506508",
+          "name": "Parameshwara road",
+          "query_id": "54110"
+        },
+        {
+          "id": "LK-524506510",
+          "name": "Beach road cross road",
+          "query_id": "54112"
+        },
+        {
+          "id": "LK-524506511",
+          "name": "Old post office cross road",
+          "query_id": "54113"
+        },
+        {
+          "id": "LK-524506513",
+          "name": "Sarvothaya road cross road",
+          "query_id": "54115"
+        },
+        {
+          "id": "LK-524506517",
+          "name": "Sivan kovil road 2nd cross road",
+          "query_id": "54119"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245070",
+      "name": "Vinayagapuram-01",
+      "query_id": "8339",
+      "children": [
+        {
+          "id": "LK-524507001",
+          "name": "Veemapodi Road",
+          "query_id": "9930"
+        },
+        {
+          "id": "LK-524507007",
+          "name": "Kirushna Road",
+          "query_id": "54095"
+        },
+        {
+          "id": "LK-524507008",
+          "name": "Sakthy Vidyalaya Road",
+          "query_id": "54096"
+        },
+        {
+          "id": "LK-524507005",
+          "name": "Milladi Road",
+          "query_id": "54093"
+        },
+        {
+          "id": "LK-524507006",
+          "name": "Parathi School Road",
+          "query_id": "54094"
+        },
+        {
+          "id": "LK-524507004",
+          "name": "Sarvothaya Front Road",
+          "query_id": "54092"
+        },
+        {
+          "id": "LK-524507002",
+          "name": "Grama Road",
+          "query_id": "54090"
+        },
+        {
+          "id": "LK-524507003",
+          "name": "Kalaimahal Road",
+          "query_id": "54091"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245075",
+      "name": "Vinayagapuram-02",
+      "query_id": "8340",
+      "children": [
+        {
+          "id": "LK-524507501",
+          "name": "Veeraiyadi Road",
+          "query_id": "9931"
+        },
+        {
+          "id": "LK-524507504",
+          "name": "Sarvothaya road",
+          "query_id": "54099"
+        },
+        {
+          "id": "LK-524507502",
+          "name": "Veeraiyadi 5th cross road",
+          "query_id": "54097"
+        },
+        {
+          "id": "LK-524507503",
+          "name": "Kappukanar road",
+          "query_id": "54098"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245080",
+      "name": "Thirukkovil 4",
+      "query_id": "8341",
+      "children": [
+        {
+          "id": "LK-524508002",
+          "name": "1st road 1st cross road",
+          "query_id": "54076"
+        },
+        {
+          "id": "LK-524508006",
+          "name": "2nd road",
+          "query_id": "54080"
+        },
+        {
+          "id": "LK-524508003",
+          "name": "1st road 3rd cross road",
+          "query_id": "54077"
+        },
+        {
+          "id": "LK-524508012",
+          "name": "11th road 5th cross road",
+          "query_id": "54086"
+        },
+        {
+          "id": "LK-524508001",
+          "name": "1st road",
+          "query_id": "9932"
+        },
+        {
+          "id": "LK-524508005",
+          "name": "1st road 5th cross road",
+          "query_id": "54079"
+        },
+        {
+          "id": "LK-524508007",
+          "name": "3rd road",
+          "query_id": "54081"
+        },
+        {
+          "id": "LK-524508015",
+          "name": "Santhosapuram",
+          "query_id": "54089"
+        },
+        {
+          "id": "LK-524508014",
+          "name": "7th road",
+          "query_id": "54088"
+        },
+        {
+          "id": "LK-524508004",
+          "name": "1st road 4th cross road",
+          "query_id": "54078"
+        },
+        {
+          "id": "LK-524508008",
+          "name": "4th road",
+          "query_id": "54082"
+        },
+        {
+          "id": "LK-524508009",
+          "name": "5th road",
+          "query_id": "54083"
+        },
+        {
+          "id": "LK-524508010",
+          "name": "8th road",
+          "query_id": "54084"
+        },
+        {
+          "id": "LK-524508011",
+          "name": "9th road",
+          "query_id": "54085"
+        },
+        {
+          "id": "LK-524508013",
+          "name": "13th cross road",
+          "query_id": "54087"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245085",
+      "name": "Kanchirankuda",
+      "query_id": "8342",
+      "children": [
+        {
+          "id": "LK-524508505",
+          "name": "4th cross road",
+          "query_id": "54142"
+        },
+        {
+          "id": "LK-524508501",
+          "name": "Main Street",
+          "query_id": "9933"
+        },
+        {
+          "id": "LK-524508502",
+          "name": "1st cross road",
+          "query_id": "54139"
+        },
+        {
+          "id": "LK-524508503",
+          "name": "2nd cross road",
+          "query_id": "54140"
+        },
+        {
+          "id": "LK-524508504",
+          "name": "3rd cross road",
+          "query_id": "54141"
+        },
+        {
+          "id": "LK-524508506",
+          "name": "Aananthan road-Sri Vallipuram",
+          "query_id": "54143"
+        },
+        {
+          "id": "LK-524508507",
+          "name": "Kadayadi road - Sri Vallipuram",
+          "query_id": "54144"
+        },
+        {
+          "id": "LK-524508508",
+          "name": "Kovil road- Sri Vallipuram",
+          "query_id": "54145"
+        },
+        {
+          "id": "LK-524508509",
+          "name": "6th cross road- Sri Vallipuram",
+          "query_id": "54146"
+        },
+        {
+          "id": "LK-524508510",
+          "name": "Main street- Sri Vallipuram",
+          "query_id": "54147"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245090",
+      "name": "Kanchikudiyaru",
+      "query_id": "8343",
+      "children": [
+        {
+          "id": "LK-524509002",
+          "name": "Thamaraikulam Kompaikarachchi road",
+          "query_id": "54148"
+        },
+        {
+          "id": "LK-524509001",
+          "name": "Ruvesh road",
+          "query_id": "9934"
+        },
+        {
+          "id": "LK-524509003",
+          "name": "Thamaraikulam Karadakallaru road",
+          "query_id": "54149"
+        },
+        {
+          "id": "LK-524509004",
+          "name": "School road",
+          "query_id": "54150"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245095",
+      "name": "Vinayagapuram-03",
+      "query_id": "8344",
+      "children": [
+        {
+          "id": "LK-524509501",
+          "name": "Kappukanar front road",
+          "query_id": "9935"
+        },
+        {
+          "id": "LK-524509503",
+          "name": "Sarvothaya cross road",
+          "query_id": "54101"
+        },
+        {
+          "id": "LK-524509502",
+          "name": "Koraikalappu road",
+          "query_id": "54100"
+        },
+        {
+          "id": "LK-524509504",
+          "name": "Koraikalappu cross road",
+          "query_id": "54102"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245100",
+      "name": "Sangamankiramam",
+      "query_id": "8345",
+      "children": [
+        {
+          "id": "LK-524510001",
+          "name": "Vaavi umiri road",
+          "query_id": "9936"
+        },
+        {
+          "id": "LK-524510002",
+          "name": "Beach road",
+          "query_id": "9937"
+        },
+        {
+          "id": "LK-524510003",
+          "name": "Thinakaran road",
+          "query_id": "54163"
+        },
+        {
+          "id": "LK-524510004",
+          "name": "Maariyamman road",
+          "query_id": "54164"
+        },
+        {
+          "id": "LK-524510005",
+          "name": "Beach cross road",
+          "query_id": "54165"
+        },
+        {
+          "id": "LK-524510006",
+          "name": "Thiruppathi road",
+          "query_id": "54166"
+        },
+        {
+          "id": "LK-524510007",
+          "name": "Kumari road",
+          "query_id": "54167"
+        },
+        {
+          "id": "LK-524510008",
+          "name": "Neccod road",
+          "query_id": "54168"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245105",
+      "name": "Thandiyadi",
+      "query_id": "8346",
+      "children": [
+        {
+          "id": "LK-524510501",
+          "name": "Makkal road",
+          "query_id": "9938"
+        },
+        {
+          "id": "LK-524510502",
+          "name": "Main 1st cross road",
+          "query_id": "54159"
+        },
+        {
+          "id": "LK-524510503",
+          "name": "Main 2nd cross road",
+          "query_id": "54160"
+        },
+        {
+          "id": "LK-524510504",
+          "name": "Main 3rd cross road",
+          "query_id": "54161"
+        },
+        {
+          "id": "LK-524510505",
+          "name": "Beach 1st cross road",
+          "query_id": "54162"
+        }
+      ]
+    },
+    {
+      "id": "LK-5245110",
+      "name": "Thangavelayuthapuram",
+      "query_id": "8347",
+      "children": [
+        {
+          "id": "LK-524511002",
+          "name": "Udumpan kulam 1st road",
+          "query_id": "54151"
+        },
+        {
+          "id": "LK-524511006",
+          "name": "3rd Adaippu road",
+          "query_id": "54155"
+        },
+        {
+          "id": "LK-524511001",
+          "name": "Arasar road",
+          "query_id": "9939"
+        },
+        {
+          "id": "LK-524511003",
+          "name": "Udumpan kula 2nd road",
+          "query_id": "54152"
+        },
+        {
+          "id": "LK-524511004",
+          "name": "Kanchikudiyaru Thangavelayuthapuram road",
+          "query_id": "54153"
+        },
+        {
+          "id": "LK-524511005",
+          "name": "Koolavadi road",
+          "query_id": "54154"
+        },
+        {
+          "id": "LK-524511007",
+          "name": "Udumpan kula ul road",
+          "query_id": "54156"
+        },
+        {
+          "id": "LK-524511008",
+          "name": "Sudalai road",
+          "query_id": "54157"
+        },
+        {
+          "id": "LK-524511009",
+          "name": "Oopretive front road",
+          "query_id": "54158"
+        }
+      ]
+    }
+  ]
+}

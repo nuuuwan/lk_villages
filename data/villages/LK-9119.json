@@ -1,0 +1,356 @@
+{
+  "id": "LK-9119",
+  "name": "Kalthota",
+  "query_id": "1299",
+  "children": [
+    {
+      "id": "LK-9119015",
+      "name": "Thanjanthenna",
+      "query_id": "12860",
+      "children": [
+        {
+          "id": "LK-911901501",
+          "name": "Gallelithota",
+          "query_id": "10715"
+        },
+        {
+          "id": "LK-911901502",
+          "name": "Thanjanthenna",
+          "query_id": "10717"
+        }
+      ]
+    },
+    {
+      "id": "LK-9119005",
+      "name": "Kalthota",
+      "query_id": "12861",
+      "children": [
+        {
+          "id": "LK-911900501",
+          "name": "Budugalagama",
+          "query_id": "10669"
+        },
+        {
+          "id": "LK-911900502",
+          "name": "Kolommada",
+          "query_id": "10670"
+        },
+        {
+          "id": "LK-911900503",
+          "name": "Deyyanne gama",
+          "query_id": "10671"
+        },
+        {
+          "id": "LK-911900504",
+          "name": "Udahagama",
+          "query_id": "10672"
+        },
+        {
+          "id": "LK-911900505",
+          "name": "Dippitiya",
+          "query_id": "10674"
+        },
+        {
+          "id": "LK-911900506",
+          "name": "Elauda landa",
+          "query_id": "10677"
+        },
+        {
+          "id": "LK-911900507",
+          "name": "Kivulalanda",
+          "query_id": "10680"
+        },
+        {
+          "id": "LK-911900508",
+          "name": "Heegasgomuwa",
+          "query_id": "10681"
+        },
+        {
+          "id": "LK-911900509",
+          "name": "Paspela",
+          "query_id": "10684"
+        },
+        {
+          "id": "LK-911900510",
+          "name": "Munwatta kele",
+          "query_id": "10687"
+        },
+        {
+          "id": "LK-911900511",
+          "name": "Uggala kalthota Palledepala",
+          "query_id": "10690"
+        },
+        {
+          "id": "LK-911900512",
+          "name": "Kumbukgolla",
+          "query_id": "10691"
+        },
+        {
+          "id": "LK-911900513",
+          "name": "Pethinawela",
+          "query_id": "10693"
+        },
+        {
+          "id": "LK-911900514",
+          "name": "Waralanda",
+          "query_id": "45510"
+        }
+      ]
+    },
+    {
+      "id": "LK-9119035",
+      "name": "Uggalkalthota Left Bank South",
+      "query_id": "12862",
+      "children": [
+        {
+          "id": "LK-911903501",
+          "name": "Uggal Kalthota Left Bank South colony",
+          "query_id": "10738"
+        },
+        {
+          "id": "LK-911903502",
+          "name": "Dhemothara",
+          "query_id": "45529"
+        }
+      ]
+    },
+    {
+      "id": "LK-9119010",
+      "name": "Medabedda",
+      "query_id": "12863",
+      "children": [
+        {
+          "id": "LK-911901001",
+          "name": "Part of the Madabeddagama",
+          "query_id": "10711"
+        }
+      ]
+    },
+    {
+      "id": "LK-9119020",
+      "name": "Neluyaya",
+      "query_id": "12864",
+      "children": [
+        {
+          "id": "LK-911902001",
+          "name": "Part of the Madabeddagama",
+          "query_id": "10730"
+        },
+        {
+          "id": "LK-911902002",
+          "name": "Neluyaya",
+          "query_id": "45508"
+        },
+        {
+          "id": "LK-911902003",
+          "name": "Perkumbayaya",
+          "query_id": "45509"
+        }
+      ]
+    },
+    {
+      "id": "LK-9119030",
+      "name": "Uggalkalthota Left Bank",
+      "query_id": "12865",
+      "children": [
+        {
+          "id": "LK-911903001",
+          "name": "Uggal Kalthota Left Bank",
+          "query_id": "10737"
+        },
+        {
+          "id": "LK-911903002",
+          "name": "Demodata Left Bank",
+          "query_id": "46780"
+        }
+      ]
+    },
+    {
+      "id": "LK-9119045",
+      "name": "Welipathayaya",
+      "query_id": "12866",
+      "children": [
+        {
+          "id": "LK-911904501",
+          "name": "Welipathayaya",
+          "query_id": "10759"
+        },
+        {
+          "id": "LK-911904502",
+          "name": "Uggal Kalthota South Bank Gama",
+          "query_id": "10760"
+        }
+      ]
+    },
+    {
+      "id": "LK-9119025",
+      "name": "Kuragala",
+      "query_id": "12867",
+      "children": [
+        {
+          "id": "LK-911902501",
+          "name": "Kuragala",
+          "query_id": "10732"
+        },
+        {
+          "id": "LK-911902502",
+          "name": "Thanjama",
+          "query_id": "10733"
+        },
+        {
+          "id": "LK-911902503",
+          "name": "Pihimbiyagolla",
+          "query_id": "10734"
+        },
+        {
+          "id": "LK-911902504",
+          "name": "Molamure",
+          "query_id": "10735"
+        }
+      ]
+    },
+    {
+      "id": "LK-9119050",
+      "name": "Molamure",
+      "query_id": "12868",
+      "children": [
+        {
+          "id": "LK-911905001",
+          "name": "Udawela",
+          "query_id": "10761"
+        },
+        {
+          "id": "LK-911905002",
+          "name": "Piyangiriya",
+          "query_id": "10762"
+        },
+        {
+          "id": "LK-911905003",
+          "name": "Molamure",
+          "query_id": "10763"
+        },
+        {
+          "id": "LK-911905004",
+          "name": "Udahawatta",
+          "query_id": "10764"
+        },
+        {
+          "id": "LK-911905005",
+          "name": "Koongolla",
+          "query_id": "10765"
+        },
+        {
+          "id": "LK-911905006",
+          "name": "Nawaneliya",
+          "query_id": "45498"
+        }
+      ]
+    },
+    {
+      "id": "LK-9119060",
+      "name": "Kongahamankada",
+      "query_id": "12891",
+      "children": [
+        {
+          "id": "LK-911906001",
+          "name": "Pinnaketiya",
+          "query_id": "10775"
+        },
+        {
+          "id": "LK-911906002",
+          "name": "Koongahamankada",
+          "query_id": "10776"
+        },
+        {
+          "id": "LK-911906003",
+          "name": "Puhulyaya",
+          "query_id": "45526"
+        },
+        {
+          "id": "LK-911906004",
+          "name": "Dekindayaya",
+          "query_id": "45527"
+        }
+      ]
+    },
+    {
+      "id": "LK-9119055",
+      "name": "Kalupedigama",
+      "query_id": "12892",
+      "children": [
+        {
+          "id": "LK-911905501",
+          "name": "Kirimakulgolla",
+          "query_id": "10772"
+        },
+        {
+          "id": "LK-911905502",
+          "name": "Pubbarapotha Gama",
+          "query_id": "10773"
+        },
+        {
+          "id": "LK-911905503",
+          "name": "Kalupeedigama",
+          "query_id": "10774"
+        },
+        {
+          "id": "LK-911905504",
+          "name": "Hunndugala",
+          "query_id": "45531"
+        }
+      ]
+    },
+    {
+      "id": "LK-9119040",
+      "name": "Diyavinna",
+      "query_id": "12893",
+      "children": [
+        {
+          "id": "LK-911904001",
+          "name": "Diyawinna",
+          "query_id": "10748"
+        },
+        {
+          "id": "LK-911904002",
+          "name": "Dorawela",
+          "query_id": "10749"
+        },
+        {
+          "id": "LK-911904003",
+          "name": "Ganelanda",
+          "query_id": "10750"
+        },
+        {
+          "id": "LK-911904004",
+          "name": "Henegama",
+          "query_id": "10751"
+        },
+        {
+          "id": "LK-911904005",
+          "name": "Kanduruwa",
+          "query_id": "10752"
+        },
+        {
+          "id": "LK-911904006",
+          "name": "Udagama",
+          "query_id": "10753"
+        },
+        {
+          "id": "LK-911904007",
+          "name": "Makandurugama",
+          "query_id": "10755"
+        },
+        {
+          "id": "LK-911904008",
+          "name": "Waguregama",
+          "query_id": "10757"
+        },
+        {
+          "id": "LK-911904009",
+          "name": "part of the Pubbarapothayaya",
+          "query_id": "10758"
+        }
+      ]
+    }
+  ]
+}

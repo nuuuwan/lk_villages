@@ -1,0 +1,556 @@
+{
+  "id": "LK-5127",
+  "name": "Manmunai Pattu (Arayampathy",
+  "query_id": "1111",
+  "children": [
+    {
+      "id": "LK-5127005",
+      "name": "Kirankulam North",
+      "query_id": "7746",
+      "children": [
+        {
+          "id": "LK-512700501",
+          "name": "Part of Kirankulam ",
+          "query_id": "16653"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127010",
+      "name": "Kirankulam South",
+      "query_id": "7747",
+      "children": [
+        {
+          "id": "LK-512701001",
+          "name": "Kirankulam (Part)",
+          "query_id": "17778"
+        },
+        {
+          "id": "LK-512701002",
+          "name": "Tharmapuram",
+          "query_id": "17779"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127015",
+      "name": "Kirankulam",
+      "query_id": "7748",
+      "children": [
+        {
+          "id": "LK-512701501",
+          "name": "Kirankulam (part)",
+          "query_id": "52955"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127020",
+      "name": "Kirankulam Central",
+      "query_id": "7749",
+      "children": [
+        {
+          "id": "LK-512702001",
+          "name": "Kirankulam (part)",
+          "query_id": "52956"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127025",
+      "name": "Puthukudiyiruppu",
+      "query_id": "7750",
+      "children": [
+        {
+          "id": "LK-512702502",
+          "name": "Lions Club Housing Scheme",
+          "query_id": "17784"
+        },
+        {
+          "id": "LK-512702503",
+          "name": "Kokkakulam(part)",
+          "query_id": "52958"
+        },
+        {
+          "id": "LK-512702504",
+          "name": "Pulavanaar Thoddam (part)",
+          "query_id": "52959"
+        },
+        {
+          "id": "LK-512702501",
+          "name": "Pudukudiyiruppu (part)",
+          "query_id": "52957"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127030",
+      "name": "Puthukudiyiruppu South",
+      "query_id": "7751",
+      "children": [
+        {
+          "id": "LK-512703002",
+          "name": "50 Housing Scheme",
+          "query_id": "52960"
+        },
+        {
+          "id": "LK-512703001",
+          "name": "Pudukudiyiruppu (part)",
+          "query_id": "17785"
+        },
+        {
+          "id": "LK-512703003",
+          "name": "Lions Club Housing Scheme",
+          "query_id": "52961"
+        },
+        {
+          "id": "LK-512703004",
+          "name": "Kokkakulam(part)",
+          "query_id": "52962"
+        },
+        {
+          "id": "LK-512703005",
+          "name": "Pulavanaar Thoddam (part)",
+          "query_id": "52963"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127035",
+      "name": "Puthukudiyiruppu North",
+      "query_id": "7752",
+      "children": [
+        {
+          "id": "LK-512703501",
+          "name": "Puthukudiyiruppu (part)",
+          "query_id": "17786"
+        },
+        {
+          "id": "LK-512703502",
+          "name": "Kanna Munai",
+          "query_id": "52964"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127040",
+      "name": "Palamunai",
+      "query_id": "7753",
+      "children": [
+        {
+          "id": "LK-512704001",
+          "name": "Palamunai Naduvodai",
+          "query_id": "17789"
+        },
+        {
+          "id": "LK-512704002",
+          "name": "Keerithona",
+          "query_id": "52966"
+        },
+        {
+          "id": "LK-512704003",
+          "name": "New Palamunai (part)",
+          "query_id": "52967"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127045",
+      "name": "Thalankudah",
+      "query_id": "7754",
+      "children": [
+        {
+          "id": "LK-512704503",
+          "name": "EHED Housing Schem",
+          "query_id": "17790"
+        },
+        {
+          "id": "LK-512704502",
+          "name": "Manthoddam",
+          "query_id": "52969"
+        },
+        {
+          "id": "LK-512704501",
+          "name": "Thalankudah",
+          "query_id": "52968"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127050",
+      "name": "Manmunai",
+      "query_id": "7755",
+      "children": [
+        {
+          "id": "LK-512705001",
+          "name": "Manmunai part ",
+          "query_id": "17792"
+        },
+        {
+          "id": "LK-512705002",
+          "name": "Chenaitheru",
+          "query_id": "52970"
+        },
+        {
+          "id": "LK-512705003",
+          "name": "Thalankudah 01",
+          "query_id": "52971"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127055",
+      "name": "Vedarkudiyiruppu",
+      "query_id": "7756",
+      "children": [
+        {
+          "id": "LK-512705501",
+          "name": "Vedarkudiyiruppu",
+          "query_id": "17803"
+        },
+        {
+          "id": "LK-512705502",
+          "name": "Savarayapuram",
+          "query_id": "52972"
+        },
+        {
+          "id": "LK-512705503",
+          "name": "50 Housing Scheme",
+          "query_id": "52973"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127060",
+      "name": "Mavilankanthurai",
+      "query_id": "7757",
+      "children": [
+        {
+          "id": "LK-512706001",
+          "name": "Vammiyadithurai",
+          "query_id": "17807"
+        },
+        {
+          "id": "LK-512706002",
+          "name": "Fathimapuram",
+          "query_id": "52975"
+        },
+        {
+          "id": "LK-512706003",
+          "name": "Manmunai part",
+          "query_id": "52976"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127065",
+      "name": "Kankeyanodai",
+      "query_id": "7758",
+      "children": [
+        {
+          "id": "LK-512706501",
+          "name": "Kankeyanodai(part)",
+          "query_id": "17809"
+        },
+        {
+          "id": "LK-512706502",
+          "name": "Kaddumavady (part)",
+          "query_id": "52977"
+        },
+        {
+          "id": "LK-512706503",
+          "name": "Periya Navalady",
+          "query_id": "52978"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127070",
+      "name": "Ollikulam",
+      "query_id": "7759",
+      "children": [
+        {
+          "id": "LK-512707001",
+          "name": "Keechnpallam",
+          "query_id": "17813"
+        },
+        {
+          "id": "LK-512707002",
+          "name": "Ollikulam",
+          "query_id": "52979"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127075",
+      "name": "Kankeyanodai South",
+      "query_id": "7760",
+      "children": [
+        {
+          "id": "LK-512707502",
+          "name": "Thidal Gramam",
+          "query_id": "52981"
+        },
+        {
+          "id": "LK-512707501",
+          "name": "Kankeyanodai(part)",
+          "query_id": "52980"
+        },
+        {
+          "id": "LK-512707503",
+          "name": "Navalady",
+          "query_id": "52982"
+        },
+        {
+          "id": "LK-512707504",
+          "name": "Iran Gramam",
+          "query_id": "52983"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127080",
+      "name": "Araipatti 03",
+      "query_id": "7761",
+      "children": [
+        {
+          "id": "LK-512708001",
+          "name": "Kaddumavadi",
+          "query_id": "17822"
+        },
+        {
+          "id": "LK-512708002",
+          "name": "Arayampathy (part)",
+          "query_id": "52984"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127085",
+      "name": "Rajathurai Gramam",
+      "query_id": "7762",
+      "children": [
+        {
+          "id": "LK-512708501",
+          "name": "Rajathurai Gramam",
+          "query_id": "17825"
+        },
+        {
+          "id": "LK-512708502",
+          "name": "Seeviraddy",
+          "query_id": "52985"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127090",
+      "name": "Araiyampathy South",
+      "query_id": "7763",
+      "children": [
+        {
+          "id": "LK-512709003",
+          "name": "Alayady",
+          "query_id": "17826"
+        },
+        {
+          "id": "LK-512709001",
+          "name": "Kovilkulam part",
+          "query_id": "52986"
+        },
+        {
+          "id": "LK-512709002",
+          "name": "Navalady",
+          "query_id": "52987"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127095",
+      "name": "Kovilkulam",
+      "query_id": "7764",
+      "children": [
+        {
+          "id": "LK-512709501",
+          "name": "Kovilkulam",
+          "query_id": "17832"
+        },
+        {
+          "id": "LK-512709502",
+          "name": "Periya",
+          "query_id": "52988"
+        },
+        {
+          "id": "LK-512709502",
+          "name": "Periyanavalady",
+          "query_id": "52989"
+        },
+        {
+          "id": "LK-512709503",
+          "name": "Siharam",
+          "query_id": "52990"
+        },
+        {
+          "id": "LK-512709504",
+          "name": "Rajathurai Gramam Section",
+          "query_id": "52991"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127100",
+      "name": "Araipatti Central",
+      "query_id": "7765",
+      "children": [
+        {
+          "id": "LK-512710001",
+          "name": "Arayampathy (part)",
+          "query_id": "52992"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127105",
+      "name": "Araipatti 02",
+      "query_id": "7766",
+      "children": [
+        {
+          "id": "LK-512710501",
+          "name": "Arayampathy (part)",
+          "query_id": "52993"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127110",
+      "name": "Selvanagar",
+      "query_id": "7767",
+      "children": [
+        {
+          "id": "LK-512711001",
+          "name": "Selvanagar",
+          "query_id": "17842"
+        },
+        {
+          "id": "LK-512711002",
+          "name": "Kovilkulam colony",
+          "query_id": "52994"
+        },
+        {
+          "id": "LK-512711002",
+          "name": "New Palamunai",
+          "query_id": "43227"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127115",
+      "name": "Selvanagar East",
+      "query_id": "7768",
+      "children": [
+        {
+          "id": "LK-512711501",
+          "name": "Selvanagar East ",
+          "query_id": "17844"
+        },
+        {
+          "id": "LK-512711502",
+          "name": "Gopi Nagar",
+          "query_id": "52995"
+        },
+        {
+          "id": "LK-512711503",
+          "name": "Theerthakarai part",
+          "query_id": "52996"
+        },
+        {
+          "id": "LK-512711504",
+          "name": "Kinnayady Thonah",
+          "query_id": "52997"
+        },
+        {
+          "id": "LK-512711505",
+          "name": "New Palamunai part",
+          "query_id": "52998"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127120",
+      "name": "Araipattay East",
+      "query_id": "7769",
+      "children": [
+        {
+          "id": "LK-512712001",
+          "name": "Arayampathy East",
+          "query_id": "17847"
+        },
+        {
+          "id": "LK-512712003",
+          "name": "Harbala",
+          "query_id": "17849"
+        },
+        {
+          "id": "LK-512712004",
+          "name": "Thiruneetrukerny",
+          "query_id": "53000"
+        },
+        {
+          "id": "LK-512712002",
+          "name": "Gramakkodady",
+          "query_id": "52999"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127125",
+      "name": "Arayampathy North",
+      "query_id": "7770",
+      "children": [
+        {
+          "id": "LK-512712501",
+          "name": "Arayampathy part",
+          "query_id": "53001"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127130",
+      "name": "Arayampathy 01",
+      "query_id": "7771",
+      "children": [
+        {
+          "id": "LK-512713001",
+          "name": "Erikkarai ",
+          "query_id": "34261"
+        },
+        {
+          "id": "LK-512713002",
+          "name": "Anaikkadday",
+          "query_id": "53002"
+        }
+      ]
+    },
+    {
+      "id": "LK-5127135",
+      "name": "Arayampathy West",
+      "query_id": "7772",
+      "children": [
+        {
+          "id": "LK-512713501",
+          "name": "Theervayady",
+          "query_id": "17852"
+        },
+        {
+          "id": "LK-512713502",
+          "name": "Arayampathy part",
+          "query_id": "53003"
+        },
+        {
+          "id": "LK-512713503",
+          "name": "Kalveedduthinnayady",
+          "query_id": "53004"
+        }
+      ]
+    }
+  ]
+}

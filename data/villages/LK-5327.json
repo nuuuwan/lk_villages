@@ -1,0 +1,781 @@
+{
+  "id": "LK-5327",
+  "name": "Muthur",
+  "query_id": "1143",
+  "children": [
+    {
+      "id": "LK-5327005",
+      "name": "Sampoor West",
+      "query_id": "8550",
+      "children": [
+        {
+          "id": "LK-532700501",
+          "name": "Sampoor West",
+          "query_id": "14056"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327010",
+      "name": "Koonithevu",
+      "query_id": "8551",
+      "children": [
+        {
+          "id": "LK-532701001",
+          "name": "Koonitivu",
+          "query_id": "14065"
+        },
+        {
+          "id": "LK-532701002",
+          "name": "Sudaikuda",
+          "query_id": "14068"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327015",
+      "name": "Navareththinapuram",
+      "query_id": "8552",
+      "children": [
+        {
+          "id": "LK-532701501",
+          "name": "Navareththinapuram",
+          "query_id": "14072"
+        },
+        {
+          "id": "LK-532701502",
+          "name": "Elakanthai",
+          "query_id": "14075"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327020",
+      "name": "Sampoor East",
+      "query_id": "8553",
+      "children": [
+        {
+          "id": "LK-532702001",
+          "name": "Sampoor East",
+          "query_id": "14053"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327025",
+      "name": "Kadatkaraichenai",
+      "query_id": "8554",
+      "children": [
+        {
+          "id": "LK-532702501",
+          "name": "Kadatkaraichenai",
+          "query_id": "14132"
+        },
+        {
+          "id": "LK-532702502",
+          "name": "Sambukkali",
+          "query_id": "14134"
+        },
+        {
+          "id": "LK-532702503",
+          "name": "Santhosapuram",
+          "query_id": "14137"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327030",
+      "name": "Kaddaiparichchan North",
+      "query_id": "8555",
+      "children": [
+        {
+          "id": "LK-532703001",
+          "name": "Kaddaiparichchan 07",
+          "query_id": "14117"
+        },
+        {
+          "id": "LK-532703002",
+          "name": "Salaiyoor",
+          "query_id": "14119"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327035",
+      "name": "Thqwa Nagar",
+      "query_id": "8556",
+      "children": [
+        {
+          "id": "LK-532703501",
+          "name": "Thqwa Nagar",
+          "query_id": "14158"
+        },
+        {
+          "id": "LK-532703502",
+          "name": "Bahriya Nagar",
+          "query_id": "14160"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327040",
+      "name": "Muthur East",
+      "query_id": "8557",
+      "children": [
+        {
+          "id": "LK-532704001",
+          "name": "Akkaraichenai",
+          "query_id": "14147"
+        },
+        {
+          "id": "LK-532704002",
+          "name": "Kenigadu",
+          "query_id": "14150"
+        },
+        {
+          "id": "LK-532704003",
+          "name": "Sirajiya Nagar",
+          "query_id": "54971"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327045",
+      "name": "Nadutheevu",
+      "query_id": "8558",
+      "children": [
+        {
+          "id": "LK-532704501",
+          "name": "Nadutheevu",
+          "query_id": "14167"
+        },
+        {
+          "id": "LK-532704502",
+          "name": "Habeeb Nagar",
+          "query_id": "14169"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327050",
+      "name": "Thaha Nagar",
+      "query_id": "8559",
+      "children": [
+        {
+          "id": "LK-532705001",
+          "name": "Thaha Nagar",
+          "query_id": "14213"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327055",
+      "name": "Muthur Central",
+      "query_id": "8560",
+      "children": [
+        {
+          "id": "LK-532705501",
+          "name": "Ward -1",
+          "query_id": "14173"
+        },
+        {
+          "id": "LK-532705502",
+          "name": "Ward -03",
+          "query_id": "14175"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327060",
+      "name": "Muthur West",
+      "query_id": "8561",
+      "children": [
+        {
+          "id": "LK-532706001",
+          "name": "Ward No 6",
+          "query_id": "14179"
+        },
+        {
+          "id": "LK-532706002",
+          "name": "Uppukaichchimadu",
+          "query_id": "14183"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327065",
+      "name": "Ralkuli",
+      "query_id": "8562",
+      "children": [
+        {
+          "id": "LK-532706503",
+          "name": "Gengai",
+          "query_id": "54189"
+        },
+        {
+          "id": "LK-532706501",
+          "name": "Ralkuli",
+          "query_id": "14220"
+        },
+        {
+          "id": "LK-532706502",
+          "name": "Navalady",
+          "query_id": "14222"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327070",
+      "name": "Shafi Nagar",
+      "query_id": "8563",
+      "children": [
+        {
+          "id": "LK-532707001",
+          "name": "Shafi Nagar",
+          "query_id": "14232"
+        },
+        {
+          "id": "LK-532707002",
+          "name": "Periyapalam Part",
+          "query_id": "14234"
+        },
+        {
+          "id": "LK-532707003",
+          "name": "Jebal Nagar",
+          "query_id": "14236"
+        },
+        {
+          "id": "LK-532707004",
+          "name": "Nooraniya Street",
+          "query_id": "14238"
+        },
+        {
+          "id": "LK-532707006",
+          "name": "Vethantheevu",
+          "query_id": "14240"
+        },
+        {
+          "id": "LK-532707005",
+          "name": "15th Canal",
+          "query_id": "14242"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327075",
+      "name": "Periyapalam",
+      "query_id": "8564",
+      "children": [
+        {
+          "id": "LK-532707501",
+          "name": "Periyapalam",
+          "query_id": "14198"
+        },
+        {
+          "id": "LK-532707502",
+          "name": "Hairiya Nagar",
+          "query_id": "14199"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327080",
+      "name": "Jaya Nagar",
+      "query_id": "8565",
+      "children": [
+        {
+          "id": "LK-532708001",
+          "name": "Muthur Veli",
+          "query_id": "14243"
+        },
+        {
+          "id": "LK-532708002",
+          "name": "Ward No 4",
+          "query_id": "14245"
+        },
+        {
+          "id": "LK-532708003",
+          "name": "Ward No 5",
+          "query_id": "14247"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327085",
+      "name": "Alim Nagar",
+      "query_id": "8566",
+      "children": [
+        {
+          "id": "LK-532708501",
+          "name": "Alim Nagar",
+          "query_id": "14208"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327090",
+      "name": "Anaichenai",
+      "query_id": "8567",
+      "children": [
+        {
+          "id": "LK-532709001",
+          "name": "Anaichenai",
+          "query_id": "14153"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327095",
+      "name": "Neithal Nagar",
+      "query_id": "8568",
+      "children": [
+        {
+          "id": "LK-532709501",
+          "name": "Neithal Nagar",
+          "query_id": "14163"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327100",
+      "name": "Palanagar",
+      "query_id": "8569",
+      "children": [
+        {
+          "id": "LK-532710001",
+          "name": "Palanagar",
+          "query_id": "14192"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327105",
+      "name": "Kaddaiparichchan South",
+      "query_id": "8570",
+      "children": [
+        {
+          "id": "LK-532710501",
+          "name": "Kaddaiparichchan",
+          "query_id": "14092"
+        },
+        {
+          "id": "LK-532710502",
+          "name": "Amman Nagar",
+          "query_id": "14095"
+        },
+        {
+          "id": "LK-532710504",
+          "name": "Santhanaveddai",
+          "query_id": "14098"
+        },
+        {
+          "id": "LK-532710503",
+          "name": "Arafa Nagar",
+          "query_id": "14100"
+        },
+        {
+          "id": "LK-532710505",
+          "name": "Ganesapuram",
+          "query_id": "54972"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327110",
+      "name": "Pallikudyjiruppu",
+      "query_id": "8571",
+      "children": [
+        {
+          "id": "LK-532711001",
+          "name": "Pallikudyjiruppu",
+          "query_id": "14002"
+        },
+        {
+          "id": "LK-532711002",
+          "name": "Thankapuram",
+          "query_id": "14005"
+        },
+        {
+          "id": "LK-532711003",
+          "name": "Srinivasa Puram",
+          "query_id": "14008"
+        },
+        {
+          "id": "LK-532711004",
+          "name": "Sinnakulam",
+          "query_id": "14010"
+        },
+        {
+          "id": "LK-532711005",
+          "name": "Maraveddai Kulam",
+          "query_id": "14012"
+        },
+        {
+          "id": "LK-532711006",
+          "name": "Iththikulam",
+          "query_id": "14014"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327115",
+      "name": "Chenaiyoor",
+      "query_id": "8572",
+      "children": [
+        {
+          "id": "LK-532711501",
+          "name": "Chenaiyoor",
+          "query_id": "14110"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327120",
+      "name": "Paddalipuram",
+      "query_id": "8573",
+      "children": [
+        {
+          "id": "LK-532712001",
+          "name": "Paddalipuram",
+          "query_id": "14046"
+        },
+        {
+          "id": "LK-532712002",
+          "name": "Veeramanagar",
+          "query_id": "14047"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327125",
+      "name": "Nallur",
+      "query_id": "8574",
+      "children": [
+        {
+          "id": "LK-532712501",
+          "name": "Nallur",
+          "query_id": "14028"
+        },
+        {
+          "id": "LK-532712502",
+          "name": "Malaimunthal",
+          "query_id": "14029"
+        },
+        {
+          "id": "LK-532712503",
+          "name": "Neenakeni",
+          "query_id": "54188"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327130",
+      "name": "Iqbal Nagar",
+      "query_id": "8575",
+      "children": [
+        {
+          "id": "LK-532713001",
+          "name": "Iqbal Nagar",
+          "query_id": "13843"
+        },
+        {
+          "id": "LK-532713003",
+          "name": "Pammankulachchenai",
+          "query_id": "13848"
+        },
+        {
+          "id": "LK-532713002",
+          "name": "Ullakkulachchenai",
+          "query_id": "13851"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327135",
+      "name": "Allai Nagar East",
+      "query_id": "8576",
+      "children": [
+        {
+          "id": "LK-532713501",
+          "name": "Naavalkeanichchenai",
+          "query_id": "13840"
+        },
+        {
+          "id": "LK-532713502",
+          "name": "Arapaththachenai",
+          "query_id": "13842"
+        },
+        {
+          "id": "LK-532713503",
+          "name": "Allai Nagar 07",
+          "query_id": "54186"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327140",
+      "name": "Allai Nagar West",
+      "query_id": "8577",
+      "children": [
+        {
+          "id": "LK-532714001",
+          "name": "Naavalkeanichchenai",
+          "query_id": "13867"
+        },
+        {
+          "id": "LK-532714002",
+          "name": "Allai Nagar 05",
+          "query_id": "13870"
+        },
+        {
+          "id": "LK-532714003",
+          "name": "Allai Nagar 06",
+          "query_id": "13871"
+        },
+        {
+          "id": "LK-532714004",
+          "name": "Aviyakulam",
+          "query_id": "13872"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327145",
+      "name": "Thoppur",
+      "query_id": "8578",
+      "children": [
+        {
+          "id": "LK-532714501",
+          "name": "Kallampaththai",
+          "query_id": "13834"
+        },
+        {
+          "id": "LK-532714502",
+          "name": "Thoppur",
+          "query_id": "13835"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327150",
+      "name": "Palathoppur",
+      "query_id": "8579",
+      "children": [
+        {
+          "id": "LK-532715002",
+          "name": "Maruthanagar",
+          "query_id": "54185"
+        },
+        {
+          "id": "LK-532715001",
+          "name": "Palaththoppur",
+          "query_id": "13854"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327155",
+      "name": "Jinna Nagar",
+      "query_id": "8580",
+      "children": [
+        {
+          "id": "LK-532715501",
+          "name": "Jinna Nagar",
+          "query_id": "14225"
+        },
+        {
+          "id": "LK-532715502",
+          "name": "Vettukattu Chenai",
+          "query_id": "14228"
+        },
+        {
+          "id": "LK-532715503",
+          "name": "Jabal Nagar",
+          "query_id": "14229"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327160",
+      "name": "Iruthayapuram",
+      "query_id": "8581",
+      "children": [
+        {
+          "id": "LK-532716001",
+          "name": "Iruthayapuram",
+          "query_id": "13939"
+        },
+        {
+          "id": "LK-532716002",
+          "name": "Manadchenai",
+          "query_id": "13941"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327165",
+      "name": "Peyaveli",
+      "query_id": "8582",
+      "children": [
+        {
+          "id": "LK-532716501",
+          "name": "Periyaveli",
+          "query_id": "13912"
+        },
+        {
+          "id": "LK-532716502",
+          "name": "Manadchchenai",
+          "query_id": "13916"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327170",
+      "name": "Mallihaitheevu",
+      "query_id": "8583",
+      "children": [
+        {
+          "id": "LK-532717001",
+          "name": "Mallihaitheevu",
+          "query_id": "13876"
+        },
+        {
+          "id": "LK-532717002",
+          "name": "Peruvelikulam",
+          "query_id": "13878"
+        },
+        {
+          "id": "LK-532717003",
+          "name": "Sinna Mallikaitheevu",
+          "query_id": "13881"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327175",
+      "name": "Paddithidal",
+      "query_id": "8584",
+      "children": [
+        {
+          "id": "LK-532717502",
+          "name": "Paddithidal Palaththadichenai (Part)",
+          "query_id": "13900"
+        },
+        {
+          "id": "LK-532717501",
+          "name": "Paddithidal",
+          "query_id": "54187"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327180",
+      "name": "Palaththadichenai",
+      "query_id": "8585",
+      "children": [
+        {
+          "id": "LK-532718001",
+          "name": "Palaththadichenai",
+          "query_id": "13959"
+        },
+        {
+          "id": "LK-532718002",
+          "name": "Munnampodiveddai",
+          "query_id": "13962"
+        },
+        {
+          "id": "LK-532718003",
+          "name": "Sri Narayanapuram",
+          "query_id": "13964"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327185",
+      "name": "Jinna Nagar",
+      "query_id": "8586",
+      "children": [
+        {
+          "id": "LK-532718501",
+          "name": "Jinna Nagar",
+          "query_id": "13862"
+        },
+        {
+          "id": "LK-532718502",
+          "name": "Koorkandam",
+          "query_id": "13864"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327190",
+      "name": "Azath Nagar",
+      "query_id": "8587",
+      "children": [
+        {
+          "id": "LK-532719001",
+          "name": "Azath Nagar",
+          "query_id": "13982"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327195",
+      "name": "Barathipuram",
+      "query_id": "8588",
+      "children": [
+        {
+          "id": "LK-532719501",
+          "name": "Barathipuram",
+          "query_id": "13970"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327200",
+      "name": "Kiliveddy",
+      "query_id": "8589",
+      "children": [
+        {
+          "id": "LK-532720001",
+          "name": "Kiliveddy",
+          "query_id": "13884"
+        },
+        {
+          "id": "LK-532720002",
+          "name": "Kumarapuram",
+          "query_id": "13886"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327205",
+      "name": "Menkamam",
+      "query_id": "8590",
+      "children": [
+        {
+          "id": "LK-532720501",
+          "name": "Menkamam",
+          "query_id": "13993"
+        }
+      ]
+    },
+    {
+      "id": "LK-5327210",
+      "name": "Kanguveli",
+      "query_id": "8591",
+      "children": [
+        {
+          "id": "LK-532721001",
+          "name": "Kanguveli",
+          "query_id": "13905"
+        },
+        {
+          "id": "LK-532721002",
+          "name": "Puliyadicholai",
+          "query_id": "13908"
+        }
+      ]
+    }
+  ]
+}

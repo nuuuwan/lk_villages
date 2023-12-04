@@ -1,0 +1,902 @@
+{
+  "id": "LK-4127",
+  "name": "Vadamaradchi North (Point Pedro)",
+  "query_id": "1079",
+  "children": [
+    {
+      "id": "LK-4127005",
+      "name": "Thondamanaru South",
+      "query_id": "7033",
+      "children": [
+        {
+          "id": "LK-412700501",
+          "name": "Sannithy",
+          "query_id": "34850"
+        },
+        {
+          "id": "LK-412700502",
+          "name": "Palaththady",
+          "query_id": "34851"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127010",
+      "name": "Thondamanaru North",
+      "query_id": "7034",
+      "children": [
+        {
+          "id": "LK-412701001",
+          "name": "Arasadi",
+          "query_id": "53245"
+        },
+        {
+          "id": "LK-412701002",
+          "name": "Periya Kadatkarai",
+          "query_id": "53246"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127015",
+      "name": "Kerudavil South",
+      "query_id": "7035",
+      "children": [
+        {
+          "id": "LK-412701501",
+          "name": "Sempadu",
+          "query_id": "37770"
+        },
+        {
+          "id": "LK-412701502",
+          "name": "Seddioor",
+          "query_id": "37771"
+        },
+        {
+          "id": "LK-412701503",
+          "name": "Kaadduppulam",
+          "query_id": "37772"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127020",
+      "name": "Kerudavil North",
+      "query_id": "7036",
+      "children": [
+        {
+          "id": "LK-412702002",
+          "name": "Majiliyathanai",
+          "query_id": "37773"
+        },
+        {
+          "id": "LK-412702003",
+          "name": "Mannasachchi ",
+          "query_id": "37774"
+        },
+        {
+          "id": "LK-412702001",
+          "name": "Urikkadu",
+          "query_id": "37775"
+        },
+        {
+          "id": "LK-412702004",
+          "name": "Manal",
+          "query_id": "53247"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127025",
+      "name": "Kerudavil East",
+      "query_id": "7037",
+      "children": [
+        {
+          "id": "LK-412702501",
+          "name": "Kommantharai",
+          "query_id": "37776"
+        },
+        {
+          "id": "LK-412702502",
+          "name": "Netkolunthu",
+          "query_id": "37777"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127030",
+      "name": "Valvettithurai North West",
+      "query_id": "7038",
+      "children": [
+        {
+          "id": "LK-412703001",
+          "name": "Athikovilady",
+          "query_id": "37785"
+        },
+        {
+          "id": "LK-412703002",
+          "name": "Sithampara North",
+          "query_id": "37786"
+        },
+        {
+          "id": "LK-412703003",
+          "name": "Urikkadu",
+          "query_id": "37787"
+        },
+        {
+          "id": "LK-412703004",
+          "name": "Karanthakerny",
+          "query_id": "37788"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127035",
+      "name": "Valvettiturai North Centre",
+      "query_id": "7039",
+      "children": [
+        {
+          "id": "LK-412703501",
+          "name": "Meenadchy Amman Kovilady",
+          "query_id": "37778"
+        },
+        {
+          "id": "LK-412703502",
+          "name": "Naruvilady",
+          "query_id": "37779"
+        },
+        {
+          "id": "LK-412703503",
+          "name": "Revathy ",
+          "query_id": "37780"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127040",
+      "name": "Valvettiturai North East",
+      "query_id": "7040",
+      "children": [
+        {
+          "id": "LK-412704001",
+          "name": "Kuchcham",
+          "query_id": "37781"
+        },
+        {
+          "id": "LK-412704002",
+          "name": "Koththiyal",
+          "query_id": "37782"
+        },
+        {
+          "id": "LK-412704003",
+          "name": "Kadduvalavu",
+          "query_id": "37783"
+        },
+        {
+          "id": "LK-412704004",
+          "name": "Nediyakadu",
+          "query_id": "37784"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127045",
+      "name": "Valvettithurai South West",
+      "query_id": "7041",
+      "children": [
+        {
+          "id": "LK-412704501",
+          "name": "Theruvil",
+          "query_id": "53248"
+        },
+        {
+          "id": "LK-412704502",
+          "name": "Viththanai",
+          "query_id": "53253"
+        },
+        {
+          "id": "LK-412704503",
+          "name": "Sivan Kovilady",
+          "query_id": "53255"
+        },
+        {
+          "id": "LK-412704504",
+          "name": "Karanthakeny",
+          "query_id": "53257"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127050",
+      "name": "Valvettiturai South East",
+      "query_id": "7042",
+      "children": [
+        {
+          "id": "LK-412705001",
+          "name": "Theniyampai",
+          "query_id": "37794"
+        },
+        {
+          "id": "LK-412705002",
+          "name": "Udaiyamanal",
+          "query_id": "37795"
+        },
+        {
+          "id": "LK-412705003",
+          "name": "Nediyakadu",
+          "query_id": "37796"
+        },
+        {
+          "id": "LK-412705004",
+          "name": "Kanthy Veethy",
+          "query_id": "37797"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127055",
+      "name": "Polikandy West",
+      "query_id": "7043",
+      "children": [
+        {
+          "id": "LK-412705501",
+          "name": "Nediyakadu",
+          "query_id": "37798"
+        },
+        {
+          "id": "LK-412705502",
+          "name": "Urani",
+          "query_id": "37799"
+        },
+        {
+          "id": "LK-412705502",
+          "name": "Maanakanai",
+          "query_id": "37800"
+        },
+        {
+          "id": "LK-412705503",
+          "name": "Uppukinatrady",
+          "query_id": "37801"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127060",
+      "name": "Polikandy East",
+      "query_id": "7044",
+      "children": [
+        {
+          "id": "LK-412706002",
+          "name": "Pathuvalai",
+          "query_id": "37803"
+        },
+        {
+          "id": "LK-412706001",
+          "name": "Palavy",
+          "query_id": "37804"
+        },
+        {
+          "id": "LK-412706003",
+          "name": "Karakanthanpulam",
+          "query_id": "37805"
+        },
+        {
+          "id": "LK-412706004",
+          "name": "Pulam",
+          "query_id": "37806"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127065",
+      "name": "Polikandy South",
+      "query_id": "7045",
+      "children": [
+        {
+          "id": "LK-412706501",
+          "name": "Veerapathirar Kovilady",
+          "query_id": "37810"
+        },
+        {
+          "id": "LK-412706502",
+          "name": "Immpilan",
+          "query_id": "37811"
+        },
+        {
+          "id": "LK-412706503",
+          "name": "Kuyavanpulam",
+          "query_id": "37812"
+        },
+        {
+          "id": "LK-412706504",
+          "name": "Arasanpulam",
+          "query_id": "37813"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127070",
+      "name": "Alvai West",
+      "query_id": "7046",
+      "children": [
+        {
+          "id": "LK-412707001",
+          "name": "Sakkodai",
+          "query_id": "37815"
+        },
+        {
+          "id": "LK-412707002",
+          "name": "Kaddaipuliyadi",
+          "query_id": "37816"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127075",
+      "name": "Alvai North West",
+      "query_id": "7047",
+      "children": [
+        {
+          "id": "LK-412707501",
+          "name": "Sakkoddai",
+          "query_id": "37821"
+        },
+        {
+          "id": "LK-412707502",
+          "name": "Panikkar Kovilady",
+          "query_id": "37822"
+        },
+        {
+          "id": "LK-412707503",
+          "name": "Sithampara Puliyady",
+          "query_id": "37823"
+        },
+        {
+          "id": "LK-412707504",
+          "name": "Manandi",
+          "query_id": "37824"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127080",
+      "name": "Alvai North Centre",
+      "query_id": "7048",
+      "children": [
+        {
+          "id": "LK-412708001",
+          "name": "Inparuddy",
+          "query_id": "37831"
+        },
+        {
+          "id": "LK-412708002",
+          "name": "Sakkodai",
+          "query_id": "37832"
+        },
+        {
+          "id": "LK-412708003",
+          "name": "Viyaparimoolai",
+          "query_id": "37833"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127085",
+      "name": "Viyaparimoolai",
+      "query_id": "7049",
+      "children": [
+        {
+          "id": "LK-412708501",
+          "name": "Viyaparimoolai",
+          "query_id": "37834"
+        },
+        {
+          "id": "LK-412708502",
+          "name": "Mayakkai",
+          "query_id": "37835"
+        },
+        {
+          "id": "LK-412708503",
+          "name": "Kumutheni",
+          "query_id": "37836"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127090",
+      "name": "Alvai North",
+      "query_id": "7050",
+      "children": [
+        {
+          "id": "LK-412709001",
+          "name": "Alvai North",
+          "query_id": "37841"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127095",
+      "name": "Point Pedro",
+      "query_id": "7051",
+      "children": [
+        {
+          "id": "LK-412709501",
+          "name": "Super Madam",
+          "query_id": "37842"
+        },
+        {
+          "id": "LK-412709502",
+          "name": "Koddady",
+          "query_id": "37843"
+        },
+        {
+          "id": "LK-412709503",
+          "name": "Point Pedro",
+          "query_id": "37844"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127100",
+      "name": "Point Pedro South",
+      "query_id": "7052",
+      "children": [
+        {
+          "id": "LK-412710001",
+          "name": "Iyanar Kalady",
+          "query_id": "37845"
+        },
+        {
+          "id": "LK-412710002",
+          "name": "Odakarai",
+          "query_id": "37846"
+        },
+        {
+          "id": "LK-412710003",
+          "name": "Point Pedro",
+          "query_id": "37847"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127105",
+      "name": "Point Pedro East",
+      "query_id": "7053",
+      "children": [
+        {
+          "id": "LK-412710501",
+          "name": "Point Pedro East",
+          "query_id": "38005"
+        },
+        {
+          "id": "LK-412710502",
+          "name": "Sinnathoddam",
+          "query_id": "38008"
+        },
+        {
+          "id": "LK-412710503",
+          "name": "Munai",
+          "query_id": "38010"
+        },
+        {
+          "id": "LK-412710504",
+          "name": "Thumaplai North",
+          "query_id": "38013"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127110",
+      "name": "Thumpalai",
+      "query_id": "7054",
+      "children": [
+        {
+          "id": "LK-412711001",
+          "name": "Thumpalai West",
+          "query_id": "38016"
+        },
+        {
+          "id": "LK-412711002",
+          "name": "Thikiri",
+          "query_id": "38017"
+        },
+        {
+          "id": "LK-412711002",
+          "name": "Eladchumanan Thoddam",
+          "query_id": "38018"
+        },
+        {
+          "id": "LK-412711003",
+          "name": "Nellandai",
+          "query_id": "38021"
+        },
+        {
+          "id": "LK-412711005",
+          "name": "Thumpalai South",
+          "query_id": "38022"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127115",
+      "name": "Thumpalai East",
+      "query_id": "7055",
+      "children": [
+        {
+          "id": "LK-412711501",
+          "name": "Thumpalai East",
+          "query_id": "38028"
+        },
+        {
+          "id": "LK-412711502",
+          "name": "Nellandai",
+          "query_id": "38030"
+        },
+        {
+          "id": "LK-412711503",
+          "name": "Piralikkulaththadi",
+          "query_id": "38031"
+        },
+        {
+          "id": "LK-412711504",
+          "name": "Kaddaiyadi",
+          "query_id": "38032"
+        },
+        {
+          "id": "LK-412711501",
+          "name": "",
+          "query_id": "38035"
+        },
+        {
+          "id": "LK-412711502",
+          "name": "",
+          "query_id": "38037"
+        },
+        {
+          "id": "LK-412711503",
+          "name": "",
+          "query_id": "38039"
+        },
+        {
+          "id": "LK-412711501",
+          "name": "",
+          "query_id": "38042"
+        },
+        {
+          "id": "LK-412711502",
+          "name": "",
+          "query_id": "38043"
+        },
+        {
+          "id": "LK-412711503",
+          "name": "",
+          "query_id": "38044"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127120",
+      "name": "Katkovalam",
+      "query_id": "7056",
+      "children": [
+        {
+          "id": "LK-412712001",
+          "name": "Katkovalam",
+          "query_id": "38047"
+        },
+        {
+          "id": "LK-412712002",
+          "name": "Varaththuppalai",
+          "query_id": "38049"
+        },
+        {
+          "id": "LK-412712003",
+          "name": "Punithanagar",
+          "query_id": "38050"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127125",
+      "name": "Puloly North",
+      "query_id": "7057",
+      "children": [
+        {
+          "id": "LK-412712501",
+          "name": "Maathanai",
+          "query_id": "38054"
+        },
+        {
+          "id": "LK-412712502",
+          "name": "Maruthady",
+          "query_id": "38055"
+        },
+        {
+          "id": "LK-412712503",
+          "name": "Savanai",
+          "query_id": "38057"
+        },
+        {
+          "id": "LK-412712504",
+          "name": "Pannakkadai",
+          "query_id": "38058"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127130",
+      "name": "Puloly North East",
+      "query_id": "7058",
+      "children": [
+        {
+          "id": "LK-412713001",
+          "name": "Varaththuppalai",
+          "query_id": "38062"
+        },
+        {
+          "id": "LK-412713002",
+          "name": "Santhathoddam",
+          "query_id": "38065"
+        },
+        {
+          "id": "LK-412713003",
+          "name": "Thikiri",
+          "query_id": "38066"
+        },
+        {
+          "id": "LK-412713004",
+          "name": "Koolavady",
+          "query_id": "38067"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127135",
+      "name": "Puloly Centre",
+      "query_id": "7059",
+      "children": [
+        {
+          "id": "LK-412713504",
+          "name": "Navaladi",
+          "query_id": "53277"
+        },
+        {
+          "id": "LK-412713502",
+          "name": "Konalthevu",
+          "query_id": "38070"
+        },
+        {
+          "id": "LK-412713503",
+          "name": "Iyanar Kaladdi",
+          "query_id": "38073"
+        },
+        {
+          "id": "LK-412713501",
+          "name": "Aththiyadi",
+          "query_id": "38074"
+        },
+        {
+          "id": "LK-412713505",
+          "name": "Thampasiddi",
+          "query_id": "38075"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127140",
+      "name": "Puloly West",
+      "query_id": "7060",
+      "children": [
+        {
+          "id": "LK-412714001",
+          "name": "Vannathurai",
+          "query_id": "38078"
+        },
+        {
+          "id": "LK-412714002",
+          "name": "Thampasiddi",
+          "query_id": "38079"
+        },
+        {
+          "id": "LK-412714003",
+          "name": "Vaththanai",
+          "query_id": "38081"
+        },
+        {
+          "id": "LK-412714004",
+          "name": "Iravanai",
+          "query_id": "38082"
+        },
+        {
+          "id": "LK-412714005",
+          "name": "Salampai",
+          "query_id": "38084"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127145",
+      "name": "Puloly South West",
+      "query_id": "7061",
+      "children": [
+        {
+          "id": "LK-412714501",
+          "name": "Koovil",
+          "query_id": "38087"
+        },
+        {
+          "id": "LK-412714502",
+          "name": "Vadduvanai",
+          "query_id": "38089"
+        },
+        {
+          "id": "LK-412714503",
+          "name": "Vanakkudieruppu",
+          "query_id": "38090"
+        },
+        {
+          "id": "LK-412714504",
+          "name": "Kalanai",
+          "query_id": "38091"
+        },
+        {
+          "id": "LK-412714505",
+          "name": "Saraiyadi",
+          "query_id": "38092"
+        },
+        {
+          "id": "LK-412714506",
+          "name": "Mayakkai",
+          "query_id": "38093"
+        },
+        {
+          "id": "LK-412714507",
+          "name": "Vaddappathy",
+          "query_id": "38096"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127150",
+      "name": "Puloly North West",
+      "query_id": "7062",
+      "children": [
+        {
+          "id": "LK-412715001",
+          "name": "Madaththadi",
+          "query_id": "38098"
+        },
+        {
+          "id": "LK-412715002",
+          "name": "Kanthiyoor",
+          "query_id": "38100"
+        },
+        {
+          "id": "LK-412715003",
+          "name": "Kurumpaikaddi",
+          "query_id": "38101"
+        },
+        {
+          "id": "LK-412715004",
+          "name": "Malavaththai",
+          "query_id": "38103"
+        },
+        {
+          "id": "LK-412715005",
+          "name": "Manthikai",
+          "query_id": "38106"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127155",
+      "name": "Puloly East",
+      "query_id": "7063",
+      "children": [
+        {
+          "id": "LK-412715501",
+          "name": "Puttalai",
+          "query_id": "38108"
+        },
+        {
+          "id": "LK-412715502",
+          "name": "Upayakathirkamam",
+          "query_id": "38110"
+        },
+        {
+          "id": "LK-412715503",
+          "name": "Naruvil Ollai",
+          "query_id": "38112"
+        },
+        {
+          "id": "LK-412715504",
+          "name": "Maavil",
+          "query_id": "38113"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127160",
+      "name": "Puloly South",
+      "query_id": "7064",
+      "children": [
+        {
+          "id": "LK-412716001",
+          "name": "Vadduvaththai",
+          "query_id": "38114"
+        },
+        {
+          "id": "LK-412716002",
+          "name": "Peruntheru",
+          "query_id": "38115"
+        },
+        {
+          "id": "LK-412716003",
+          "name": "Singainagar",
+          "query_id": "38117"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127165",
+      "name": "Manthikai",
+      "query_id": "7065",
+      "children": [
+        {
+          "id": "LK-412716501",
+          "name": "Thuraiyamoolai",
+          "query_id": "38118"
+        },
+        {
+          "id": "LK-412716502",
+          "name": "Karukampan",
+          "query_id": "38119"
+        },
+        {
+          "id": "LK-412716503",
+          "name": "Thevaran",
+          "query_id": "38121"
+        },
+        {
+          "id": "LK-412716504",
+          "name": "Madaththadi",
+          "query_id": "38122"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127170",
+      "name": "Vallipuram",
+      "query_id": "7066",
+      "children": [
+        {
+          "id": "LK-412717001",
+          "name": "Vallipurakurichchi",
+          "query_id": "38123"
+        }
+      ]
+    },
+    {
+      "id": "LK-4127175",
+      "name": "Thunnalai North",
+      "query_id": "7067",
+      "children": [
+        {
+          "id": "LK-412717501",
+          "name": "Thunnalai North",
+          "query_id": "38124"
+        },
+        {
+          "id": "LK-412717502",
+          "name": "Kodikkadu",
+          "query_id": "38125"
+        },
+        {
+          "id": "LK-412717503",
+          "name": "Puliyankan",
+          "query_id": "38126"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "id": "LK-5103",
+  "name": "Koralai Pattu North",
+  "query_id": "1103",
+  "children": [
+    {
+      "id": "LK-5103065",
+      "name": "Mankerny Central",
+      "query_id": "7540",
+      "children": [
+        {
+          "id": "LK-510306501",
+          "name": "Mankerni Central",
+          "query_id": "17432"
+        },
+        {
+          "id": "LK-510306502",
+          "name": "Mavadiodai",
+          "query_id": "17433"
+        },
+        {
+          "id": "LK-510306503",
+          "name": "2 nd Mile post",
+          "query_id": "17434"
+        },
+        {
+          "id": "LK-510306504",
+          "name": "Trinco Road",
+          "query_id": "17435"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103075",
+      "name": "Kayankerny",
+      "query_id": "7541",
+      "children": [
+        {
+          "id": "LK-510307501",
+          "name": "Periya Kayankerny",
+          "query_id": "17436"
+        },
+        {
+          "id": "LK-510307502",
+          "name": "Kayankerni Central",
+          "query_id": "17437"
+        },
+        {
+          "id": "LK-510307503",
+          "name": "Gopalapuram",
+          "query_id": "17438"
+        },
+        {
+          "id": "LK-510307504",
+          "name": "Selvapuram",
+          "query_id": "17439"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103055",
+      "name": "Punanai East",
+      "query_id": "7542",
+      "children": [
+        {
+          "id": "LK-510305501",
+          "name": "Alankulam",
+          "query_id": "17440"
+        },
+        {
+          "id": "LK-510305502",
+          "name": "Kernimadu",
+          "query_id": "17441"
+        },
+        {
+          "id": "LK-510305503",
+          "name": "Valamankeny",
+          "query_id": "17442"
+        },
+        {
+          "id": "LK-510305504",
+          "name": "Omadiyamadu",
+          "query_id": "17443"
+        },
+        {
+          "id": "LK-510305505",
+          "name": "Mevandakulam",
+          "query_id": "34554"
+        },
+        {
+          "id": "LK-510305506",
+          "name": "Punani",
+          "query_id": "34555"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103045",
+      "name": "Panichchankerni",
+      "query_id": "7543",
+      "children": [
+        {
+          "id": "LK-510304501",
+          "name": "Sallithivu",
+          "query_id": "17444"
+        },
+        {
+          "id": "LK-510304502",
+          "name": "Kovilkudiyiruppu",
+          "query_id": "17445"
+        },
+        {
+          "id": "LK-510304503",
+          "name": "Nadukudiyiruppu",
+          "query_id": "17446"
+        },
+        {
+          "id": "LK-510304504",
+          "name": "Trinco Road",
+          "query_id": "17447"
+        },
+        {
+          "id": "LK-510304504",
+          "name": "Sunami Kudiyiruppu",
+          "query_id": "34556"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103080",
+      "name": "Vattavan",
+      "query_id": "7544",
+      "children": [
+        {
+          "id": "LK-510308001",
+          "name": "Vaddavan East",
+          "query_id": "17448"
+        },
+        {
+          "id": "LK-510308002",
+          "name": "Vaddavan West",
+          "query_id": "17449"
+        },
+        {
+          "id": "LK-510308003",
+          "name": "Iralodai",
+          "query_id": "17450"
+        },
+        {
+          "id": "LK-510308004",
+          "name": "Vaddavan ",
+          "query_id": "17451"
+        },
+        {
+          "id": "LK-510308005",
+          "name": "Vaddavan",
+          "query_id": "34553"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103050",
+      "name": "Mathurankernikulam",
+      "query_id": "7545",
+      "children": [
+        {
+          "id": "LK-510305001",
+          "name": "Kunchankulam",
+          "query_id": "17454"
+        },
+        {
+          "id": "LK-510305002",
+          "name": "Mathurankulam",
+          "query_id": "17455"
+        },
+        {
+          "id": "LK-510305003",
+          "name": "Kirimichchi",
+          "query_id": "17457"
+        },
+        {
+          "id": "LK-510305003",
+          "name": "Mathurankenikulam",
+          "query_id": "34557"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103060",
+      "name": "Kirmichai",
+      "query_id": "7546",
+      "children": [
+        {
+          "id": "LK-510306001",
+          "name": "Farmcolony",
+          "query_id": "17460"
+        },
+        {
+          "id": "LK-510306002",
+          "name": "Palayadiodai",
+          "query_id": "17461"
+        },
+        {
+          "id": "LK-510306003",
+          "name": "Kirimichchai",
+          "query_id": "17462"
+        },
+        {
+          "id": "LK-510306004",
+          "name": "Trinco Road",
+          "query_id": "17463"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103070",
+      "name": "Mankerny South",
+      "query_id": "7547",
+      "children": [
+        {
+          "id": "LK-510307001",
+          "name": "Mankerni South",
+          "query_id": "17466"
+        },
+        {
+          "id": "LK-510307002",
+          "name": "Pirapayadimadu",
+          "query_id": "17470"
+        },
+        {
+          "id": "LK-510307003",
+          "name": "Trinco road",
+          "query_id": "17472"
+        },
+        {
+          "id": "LK-510307003",
+          "name": "Mankerni ",
+          "query_id": "34558"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103040",
+      "name": "Vakarai Central",
+      "query_id": "7548",
+      "children": [
+        {
+          "id": "LK-510304001",
+          "name": "Oddumadu",
+          "query_id": "17479"
+        },
+        {
+          "id": "LK-510304002",
+          "name": "Manikkapuram",
+          "query_id": "17480"
+        },
+        {
+          "id": "LK-510304003",
+          "name": "Alagapuri",
+          "query_id": "17483"
+        },
+        {
+          "id": "LK-510304006",
+          "name": "58 Houses Project",
+          "query_id": "17485"
+        },
+        {
+          "id": "LK-510304004",
+          "name": "Vaharai Central",
+          "query_id": "34559"
+        },
+        {
+          "id": "LK-510304005",
+          "name": "Thannipalai",
+          "query_id": "34561"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103025",
+      "name": "Vakarai North",
+      "query_id": "7549",
+      "children": [
+        {
+          "id": "LK-510302501",
+          "name": "Puliyankandalady",
+          "query_id": "17494"
+        },
+        {
+          "id": "LK-510302502",
+          "name": "Kandalady",
+          "query_id": "17500"
+        },
+        {
+          "id": "LK-510302503",
+          "name": "5th Ward",
+          "query_id": "17503"
+        },
+        {
+          "id": "LK-510302504",
+          "name": "Vaharai North",
+          "query_id": "34560"
+        },
+        {
+          "id": "LK-510302505",
+          "name": "Mathurankeny",
+          "query_id": "34562"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103030",
+      "name": "Uriyankaddu",
+      "query_id": "7550",
+      "children": [
+        {
+          "id": "LK-510303001",
+          "name": "Uriyankaddu",
+          "query_id": "17507"
+        },
+        {
+          "id": "LK-510303002",
+          "name": "Vellaiyadimadu",
+          "query_id": "17510"
+        },
+        {
+          "id": "LK-510303003",
+          "name": "Settukudah",
+          "query_id": "17512"
+        },
+        {
+          "id": "LK-510303004",
+          "name": "Sinnathaddumunai",
+          "query_id": "17518"
+        },
+        {
+          "id": "LK-510303005",
+          "name": "Periyathaddumunai",
+          "query_id": "34551"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103005",
+      "name": "Kathiravely",
+      "query_id": "7551",
+      "children": [
+        {
+          "id": "LK-510300501",
+          "name": "Kathiravely",
+          "query_id": "17522"
+        },
+        {
+          "id": "LK-510300502",
+          "name": "Puthur",
+          "query_id": "17524"
+        },
+        {
+          "id": "LK-510300503",
+          "name": "Kalpadi Verugal",
+          "query_id": "17525"
+        },
+        {
+          "id": "LK-510300504",
+          "name": "Trinco Road",
+          "query_id": "17527"
+        },
+        {
+          "id": "LK-510300505",
+          "name": "Verukal",
+          "query_id": "34552"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103020",
+      "name": "Palchenai",
+      "query_id": "7552",
+      "children": [
+        {
+          "id": "LK-510302001",
+          "name": "Madavankeny",
+          "query_id": "17534"
+        },
+        {
+          "id": "LK-510302002",
+          "name": "Palchenai",
+          "query_id": "17535"
+        },
+        {
+          "id": "LK-510302003",
+          "name": "Pandithona",
+          "query_id": "17537"
+        },
+        {
+          "id": "LK-510302004",
+          "name": "Nagapuram",
+          "query_id": "17539"
+        },
+        {
+          "id": "LK-510302005",
+          "name": "Werugal",
+          "query_id": "34563"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103035",
+      "name": "Kaddumurivu",
+      "query_id": "7553",
+      "children": [
+        {
+          "id": "LK-510303501",
+          "name": "Kaddumurivu",
+          "query_id": "17542"
+        },
+        {
+          "id": "LK-510303502",
+          "name": "Aandankulam",
+          "query_id": "17543"
+        },
+        {
+          "id": "LK-510303503",
+          "name": "Manicankulam",
+          "query_id": "17544"
+        },
+        {
+          "id": "LK-510303504",
+          "name": "Kaddumurivu Road",
+          "query_id": "17545"
+        },
+        {
+          "id": "LK-510303503",
+          "name": "Thonithanddamadu",
+          "query_id": "34564"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103015",
+      "name": "Puchchakerny",
+      "query_id": "7554",
+      "children": [
+        {
+          "id": "LK-510301501",
+          "name": "Puchchakerni",
+          "query_id": "17549"
+        },
+        {
+          "id": "LK-510301502",
+          "name": "Thonithaddamadu",
+          "query_id": "17551"
+        },
+        {
+          "id": "LK-510301503",
+          "name": "Kathiravely Road",
+          "query_id": "17553"
+        },
+        {
+          "id": "LK-510301504",
+          "name": "Trinco Road",
+          "query_id": "17554"
+        }
+      ]
+    },
+    {
+      "id": "LK-5103010",
+      "name": "Ammanthanavely",
+      "query_id": "7555",
+      "children": [
+        {
+          "id": "LK-510301001",
+          "name": "Ammanthanavely",
+          "query_id": "17557"
+        },
+        {
+          "id": "LK-510301002",
+          "name": "Vammivadavan",
+          "query_id": "17560"
+        },
+        {
+          "id": "LK-510301003",
+          "name": "Komathalamadu",
+          "query_id": "17562"
+        },
+        {
+          "id": "LK-510301004",
+          "name": "Kathiravely Road",
+          "query_id": "17563"
+        }
+      ]
+    }
+  ]
+}

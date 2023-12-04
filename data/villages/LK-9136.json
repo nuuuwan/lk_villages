@@ -1,0 +1,625 @@
+{
+  "id": "LK-9136",
+  "name": "Nivithigala",
+  "query_id": "1258",
+  "children": [
+    {
+      "id": "LK-9136005",
+      "name": "Pathakada",
+      "query_id": "13033",
+      "children": [
+        {
+          "id": "LK-913600501",
+          "name": "Part of the Pathakada",
+          "query_id": "8399"
+        },
+        {
+          "id": "LK-913600502",
+          "name": "Panangala",
+          "query_id": "8400"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136010",
+      "name": "Noragalla",
+      "query_id": "13034",
+      "children": [
+        {
+          "id": "LK-913601001",
+          "name": "Noragalla Estate",
+          "query_id": "8415"
+        },
+        {
+          "id": "LK-913601002",
+          "name": "Noragalla Gama ",
+          "query_id": "8416"
+        },
+        {
+          "id": "LK-913601003",
+          "name": "Dela Gama",
+          "query_id": "45215"
+        },
+        {
+          "id": "LK-913601004",
+          "name": "Dela Estate",
+          "query_id": "45216"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136015",
+      "name": "Dombagammana",
+      "query_id": "13035",
+      "children": [
+        {
+          "id": "LK-913601501",
+          "name": "Dombagammana",
+          "query_id": "8421"
+        },
+        {
+          "id": "LK-913601502",
+          "name": "Dombagammana  Colony",
+          "query_id": "8422"
+        },
+        {
+          "id": "LK-913601503",
+          "name": "Kiribathgala Estate (Dombagammana Division)",
+          "query_id": "45179"
+        },
+        {
+          "id": "LK-913601504",
+          "name": "Noragalla Estate (Dombagammana Division)",
+          "query_id": "45181"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136020",
+      "name": "Erabadda",
+      "query_id": "13036",
+      "children": [
+        {
+          "id": "LK-913602001",
+          "name": "Uda Erabadda ",
+          "query_id": "8423"
+        },
+        {
+          "id": "LK-913602002",
+          "name": "Pahala Erabadda",
+          "query_id": "8424"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136025",
+      "name": "Kiribathgala",
+      "query_id": "13037",
+      "children": [
+        {
+          "id": "LK-913602501",
+          "name": "Kiribathgala",
+          "query_id": "8417"
+        },
+        {
+          "id": "LK-913602502",
+          "name": "Henyaya",
+          "query_id": "45207"
+        },
+        {
+          "id": "LK-913602503",
+          "name": "Kiribathgala Estate",
+          "query_id": "45208"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136030",
+      "name": "Wanniyawatta",
+      "query_id": "13038",
+      "children": [
+        {
+          "id": "LK-913603001",
+          "name": "Game Kanda",
+          "query_id": "8418"
+        },
+        {
+          "id": "LK-913603002",
+          "name": "Kattadi Kanda",
+          "query_id": "8419"
+        },
+        {
+          "id": "LK-913603003",
+          "name": "Wanniyawaththa",
+          "query_id": "8420"
+        },
+        {
+          "id": "LK-913603004",
+          "name": "Gamage Kanda",
+          "query_id": "45212"
+        },
+        {
+          "id": "LK-913603005",
+          "name": "Kiribathgala Estate Upper division",
+          "query_id": "45213"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136035",
+      "name": "Watapotha",
+      "query_id": "13039",
+      "children": [
+        {
+          "id": "LK-913603501",
+          "name": "Watapota Estate",
+          "query_id": "8425"
+        },
+        {
+          "id": "LK-913603502",
+          "name": "Mawathapalla",
+          "query_id": "8426"
+        },
+        {
+          "id": "LK-913603503",
+          "name": "Watapotha Gama",
+          "query_id": "8427"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136040",
+      "name": "Thuththiripitiya",
+      "query_id": "13040",
+      "children": [
+        {
+          "id": "LK-913604001",
+          "name": "Atallagama",
+          "query_id": "8397"
+        },
+        {
+          "id": "LK-913604002",
+          "name": "Thuththiripitiyagama",
+          "query_id": "8398"
+        },
+        {
+          "id": "LK-913604003",
+          "name": "Pinkanda Estate (Watapotha Division)",
+          "query_id": "45214"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136045",
+      "name": "Nivithigala",
+      "query_id": "13041",
+      "children": [
+        {
+          "id": "LK-913604501",
+          "name": "Nivithigala",
+          "query_id": "8390"
+        },
+        {
+          "id": "LK-913604502",
+          "name": "Mahawela",
+          "query_id": "8391"
+        },
+        {
+          "id": "LK-913604503",
+          "name": "Brahamanagoda",
+          "query_id": "45185"
+        },
+        {
+          "id": "LK-913604504",
+          "name": "Dodampawththa",
+          "query_id": "45186"
+        },
+        {
+          "id": "LK-913604505",
+          "name": "Egoda",
+          "query_id": "45188"
+        },
+        {
+          "id": "LK-913604506",
+          "name": "Panapura",
+          "query_id": "45189"
+        },
+        {
+          "id": "LK-913604507",
+          "name": "Thiriwanagala hena",
+          "query_id": "45190"
+        },
+        {
+          "id": "LK-913604508",
+          "name": "Pikanda Estate (mahawala division)",
+          "query_id": "45191"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136050",
+      "name": "Yakdehiwaththa",
+      "query_id": "13042",
+      "children": [
+        {
+          "id": "LK-913605001",
+          "name": "Ganegangoda Gama",
+          "query_id": "8392"
+        },
+        {
+          "id": "LK-913605002",
+          "name": "Yakdehiwatta Gama",
+          "query_id": "8393"
+        },
+        {
+          "id": "LK-913605003",
+          "name": "Part of the Pathakada",
+          "query_id": "8394"
+        },
+        {
+          "id": "LK-913605004",
+          "name": "Pinkanda Estate (part)",
+          "query_id": "45178"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136055",
+      "name": "Wathupitiya",
+      "query_id": "13043",
+      "children": [
+        {
+          "id": "LK-913605501",
+          "name": "Wadagala Part Of The Pinkanda Government Estate",
+          "query_id": "8383"
+        },
+        {
+          "id": "LK-913605502",
+          "name": "Wathupitiya Gama  ",
+          "query_id": "8384"
+        },
+        {
+          "id": "LK-913605503",
+          "name": "Peenkanda Government Estate",
+          "query_id": "8385"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136060",
+      "name": "Horangala",
+      "query_id": "13044",
+      "children": [
+        {
+          "id": "LK-913606001",
+          "name": "Horangala Gama",
+          "query_id": "8387"
+        },
+        {
+          "id": "LK-913606002",
+          "name": "Peenkanda Estate wathupitiya division",
+          "query_id": "45183"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136065",
+      "name": "Pahala Karavita",
+      "query_id": "13045",
+      "children": [
+        {
+          "id": "LK-913606501",
+          "name": "Diganakanda",
+          "query_id": "8380"
+        },
+        {
+          "id": "LK-913606502",
+          "name": "Pahala  Karawita ",
+          "query_id": "8381"
+        },
+        {
+          "id": "LK-913606503",
+          "name": "Niriella Estate  ",
+          "query_id": "8382"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136070",
+      "name": "Uda Karavita",
+      "query_id": "13046",
+      "children": [
+        {
+          "id": "LK-913607001",
+          "name": "Udakarawitagama",
+          "query_id": "8386"
+        },
+        {
+          "id": "LK-913607002",
+          "name": "Pinkanda Estate (part)",
+          "query_id": "50857"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136075",
+      "name": "Pinkanda",
+      "query_id": "13047",
+      "children": [
+        {
+          "id": "LK-913607501",
+          "name": "Peenkanda  Estate",
+          "query_id": "8388"
+        },
+        {
+          "id": "LK-913607502",
+          "name": "Pahumunayalage  Gammadda",
+          "query_id": "8389"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136080",
+      "name": "Halkandaliya",
+      "query_id": "13048",
+      "children": [
+        {
+          "id": "LK-913608001",
+          "name": "Halkandaliya",
+          "query_id": "8412"
+        },
+        {
+          "id": "LK-913608002",
+          "name": "Madara",
+          "query_id": "8413"
+        },
+        {
+          "id": "LK-913608003",
+          "name": "Navangoda",
+          "query_id": "8414"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136085",
+      "name": "Sidurupitiya",
+      "query_id": "13049",
+      "children": [
+        {
+          "id": "LK-913608501",
+          "name": "Kotte Gangoda",
+          "query_id": "8395"
+        },
+        {
+          "id": "LK-913608502",
+          "name": "Sidurupitiya",
+          "query_id": "8396"
+        },
+        {
+          "id": "LK-913608503",
+          "name": "Peenkanda Estate parawaththa ",
+          "query_id": "45175"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136090",
+      "name": "Doloswala",
+      "query_id": "13050",
+      "children": [
+        {
+          "id": "LK-913609001",
+          "name": "Doloswala",
+          "query_id": "8401"
+        },
+        {
+          "id": "LK-913609002",
+          "name": "Horakandawala",
+          "query_id": "8402"
+        },
+        {
+          "id": "LK-913609003",
+          "name": "Gallagemandiya",
+          "query_id": "8403"
+        },
+        {
+          "id": "LK-913609004",
+          "name": "Bokutuketiya",
+          "query_id": "45209"
+        },
+        {
+          "id": "LK-913609005",
+          "name": "Navodayagama",
+          "query_id": "45210"
+        },
+        {
+          "id": "LK-913609006",
+          "name": "Doloswala Estate No - 02",
+          "query_id": "45211"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136095",
+      "name": "Colombagama",
+      "query_id": "13051",
+      "children": [
+        {
+          "id": "LK-913609501",
+          "name": "Colombagama",
+          "query_id": "8406"
+        },
+        {
+          "id": "LK-913609502",
+          "name": "Gammaddegama",
+          "query_id": "8407"
+        },
+        {
+          "id": "LK-913609503",
+          "name": "Mandadola  Pahala  Kanda",
+          "query_id": "8408"
+        },
+        {
+          "id": "LK-913609504",
+          "name": "Amuna  Iddara",
+          "query_id": "8409"
+        },
+        {
+          "id": "LK-913609505",
+          "name": "Dammoruwa",
+          "query_id": "8410"
+        },
+        {
+          "id": "LK-913609506",
+          "name": "Ovilana",
+          "query_id": "8411"
+        },
+        {
+          "id": "LK-913609507",
+          "name": "Doloswala Estate No 01 Division",
+          "query_id": "45221"
+        },
+        {
+          "id": "LK-913609508",
+          "name": "Doloswala Estate No 03 Division",
+          "query_id": "45222"
+        },
+        {
+          "id": "LK-913609503",
+          "name": "Doloswala Estate No 03 Division",
+          "query_id": "45223"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136100",
+      "name": "Doloswalakanda",
+      "query_id": "13052",
+      "children": [
+        {
+          "id": "LK-913610001",
+          "name": "Waththehena ",
+          "query_id": "8404"
+        },
+        {
+          "id": "LK-913610002",
+          "name": "Doloswala  Kanda",
+          "query_id": "8405"
+        },
+        {
+          "id": "LK-913610003",
+          "name": "Pitakelaya Gama",
+          "query_id": "45219"
+        },
+        {
+          "id": "LK-913610004",
+          "name": "Doloswalakanda Estate No 01",
+          "query_id": "45220"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136105",
+      "name": "Pebotuwa",
+      "query_id": "13053",
+      "children": [
+        {
+          "id": "LK-913610501",
+          "name": "Neluwakanda Gama",
+          "query_id": "8430"
+        },
+        {
+          "id": "LK-913610502",
+          "name": "Pebotuwa Gama",
+          "query_id": "8431"
+        },
+        {
+          "id": "LK-913610503",
+          "name": "Pebotuwa Estate",
+          "query_id": "45226"
+        },
+        {
+          "id": "LK-913610504",
+          "name": "Uda Pebotuwa",
+          "query_id": "45227"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136110",
+      "name": "Horanekarakanda",
+      "query_id": "13054",
+      "children": [
+        {
+          "id": "LK-913611001",
+          "name": "Davulkaragoda Gama",
+          "query_id": "8435"
+        },
+        {
+          "id": "LK-913611002",
+          "name": "Horanekarakanda Gama",
+          "query_id": "8436"
+        },
+        {
+          "id": "LK-913611003",
+          "name": "Morawakella Estate",
+          "query_id": "45224"
+        },
+        {
+          "id": "LK-913611004",
+          "name": "Karawita Janapadaya",
+          "query_id": "45225"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136115",
+      "name": "Delwala",
+      "query_id": "13055",
+      "children": [
+        {
+          "id": "LK-913611501",
+          "name": "Delwala  Gama",
+          "query_id": "8428"
+        },
+        {
+          "id": "LK-913611502",
+          "name": "Delwala  Kandagama",
+          "query_id": "8429"
+        },
+        {
+          "id": "LK-913611503",
+          "name": "Vithanakanda Estate",
+          "query_id": "45217"
+        },
+        {
+          "id": "LK-913611504",
+          "name": "Andana Estate Delawala Division",
+          "query_id": "45218"
+        }
+      ]
+    },
+    {
+      "id": "LK-9136120",
+      "name": "Panahetagala",
+      "query_id": "13056",
+      "children": [
+        {
+          "id": "LK-913612001",
+          "name": "Arabbada",
+          "query_id": "8432"
+        },
+        {
+          "id": "LK-913612002",
+          "name": "Liyanek kanda",
+          "query_id": "8433"
+        },
+        {
+          "id": "LK-913612003",
+          "name": "Panahatagala",
+          "query_id": "8434"
+        }
+      ]
+    }
+  ]
+}

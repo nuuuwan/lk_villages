@@ -1,0 +1,702 @@
+{
+  "id": "LK-4303",
+  "name": "Vavuniya North",
+  "query_id": "1090",
+  "children": [
+    {
+      "id": "LK-4303005",
+      "name": "Unchalkaddy",
+      "query_id": "7385",
+      "children": [
+        {
+          "id": "LK-430300501",
+          "name": "Unchalkaddy",
+          "query_id": "7358"
+        },
+        {
+          "id": "LK-430300502",
+          "name": "Koramodai",
+          "query_id": "7359"
+        },
+        {
+          "id": "LK-430300503",
+          "name": "Nochchikulam",
+          "query_id": "7360"
+        },
+        {
+          "id": "LK-430300505",
+          "name": "Rajapuram",
+          "query_id": "54380"
+        },
+        {
+          "id": "LK-430300504",
+          "name": "Arijamadu",
+          "query_id": "54379"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303010",
+      "name": "Vedivaithakallu",
+      "query_id": "7386",
+      "children": [
+        {
+          "id": "LK-430301001",
+          "name": "Vedivaiththakallu",
+          "query_id": "7378"
+        },
+        {
+          "id": "LK-430301002",
+          "name": "Koramoddai",
+          "query_id": "7379"
+        },
+        {
+          "id": "LK-430301003",
+          "name": "Nochikulam",
+          "query_id": "7380"
+        },
+        {
+          "id": "LK-430301007",
+          "name": "Kambiliwewa",
+          "query_id": "54384"
+        },
+        {
+          "id": "LK-430301004",
+          "name": "Kojilpulijankulam",
+          "query_id": "54381"
+        },
+        {
+          "id": "LK-430301008",
+          "name": "Bogaswewa 01",
+          "query_id": "54385"
+        },
+        {
+          "id": "LK-430301005",
+          "name": "Uththukulam",
+          "query_id": "54382"
+        },
+        {
+          "id": "LK-430301006",
+          "name": "Werakaththenna",
+          "query_id": "54383"
+        },
+        {
+          "id": "LK-430301009",
+          "name": "Bogaswewa 02",
+          "query_id": "54386"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303015",
+      "name": "Maruthodai",
+      "query_id": "7387",
+      "children": [
+        {
+          "id": "LK-430301501",
+          "name": "Maruthodai",
+          "query_id": "7412"
+        },
+        {
+          "id": "LK-430301502",
+          "name": "Kanchuramoddai",
+          "query_id": "7413"
+        },
+        {
+          "id": "LK-430301503",
+          "name": "Kaddupoovarasankulam",
+          "query_id": "7414"
+        },
+        {
+          "id": "LK-430301504",
+          "name": "Navalar  Farm",
+          "query_id": "7415"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303020",
+      "name": "Paddikudiyiruppu",
+      "query_id": "7388",
+      "children": [
+        {
+          "id": "LK-430302001",
+          "name": "Paddikkudijiruppu",
+          "query_id": "7410"
+        },
+        {
+          "id": "LK-430302002",
+          "name": "Thuvarankulam",
+          "query_id": "7411"
+        },
+        {
+          "id": "LK-430302003",
+          "name": "Pavatkulam",
+          "query_id": "54387"
+        },
+        {
+          "id": "LK-430302004",
+          "name": "Vinnakupitty",
+          "query_id": "54388"
+        },
+        {
+          "id": "LK-430302005",
+          "name": "Arijakundansolai",
+          "query_id": "54389"
+        },
+        {
+          "id": "LK-430302006",
+          "name": "Thanikkallu",
+          "query_id": "54390"
+        },
+        {
+          "id": "LK-430302007",
+          "name": "Vannankeny",
+          "query_id": "54391"
+        },
+        {
+          "id": "LK-430302008",
+          "name": "Vajalkudijituppu",
+          "query_id": "54392"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303025",
+      "name": "Katkulam",
+      "query_id": "7389",
+      "children": [
+        {
+          "id": "LK-430302501",
+          "name": "Katkulam",
+          "query_id": "7375"
+        },
+        {
+          "id": "LK-430302502",
+          "name": "Keerisuddan",
+          "query_id": "7376"
+        },
+        {
+          "id": "LK-430302503",
+          "name": "Paddadaipitinthakulam",
+          "query_id": "7377"
+        },
+        {
+          "id": "LK-430302504",
+          "name": "Kaddaijarkulam",
+          "query_id": "54393"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303030",
+      "name": "Nedunkerny South",
+      "query_id": "7390",
+      "children": [
+        {
+          "id": "LK-430303001",
+          "name": "Pulijankulam  Veethi",
+          "query_id": "7343"
+        },
+        {
+          "id": "LK-430303002",
+          "name": "Sivanakar",
+          "query_id": "7344"
+        },
+        {
+          "id": "LK-430303003",
+          "name": "Rampaikulam",
+          "query_id": "7345"
+        },
+        {
+          "id": "LK-430303004",
+          "name": "Suduventhan",
+          "query_id": "7346"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303035",
+      "name": "Nedunkerny North",
+      "query_id": "7391",
+      "children": [
+        {
+          "id": "LK-430303501",
+          "name": "6th mile post",
+          "query_id": "7365"
+        },
+        {
+          "id": "LK-430303502",
+          "name": "Sandakulam",
+          "query_id": "7366"
+        },
+        {
+          "id": "LK-430303503",
+          "name": "Girls  Farm  Scheme",
+          "query_id": "7367"
+        },
+        {
+          "id": "LK-430303504",
+          "name": "Navalar  Veethi",
+          "query_id": "7368"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303040",
+      "name": "Olumadu",
+      "query_id": "7392",
+      "children": [
+        {
+          "id": "LK-430304001",
+          "name": "Olumadu",
+          "query_id": "7347"
+        },
+        {
+          "id": "LK-430304002",
+          "name": "Odaiveli",
+          "query_id": "7348"
+        },
+        {
+          "id": "LK-430304003",
+          "name": "Muthurampiddy",
+          "query_id": "7349"
+        },
+        {
+          "id": "LK-430304004",
+          "name": "veladdikulam",
+          "query_id": "7350"
+        },
+        {
+          "id": "LK-430304005",
+          "name": "Palamoddai",
+          "query_id": "54394"
+        },
+        {
+          "id": "LK-430304006",
+          "name": "Pankulam",
+          "query_id": "54395"
+        },
+        {
+          "id": "LK-430304007",
+          "name": "Theevukaddukulam",
+          "query_id": "54396"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303045",
+      "name": "Mamadu",
+      "query_id": "7393",
+      "children": [
+        {
+          "id": "LK-430304501",
+          "name": "Mamadu",
+          "query_id": "7369"
+        },
+        {
+          "id": "LK-430304502",
+          "name": "Senaipilavu",
+          "query_id": "7370"
+        },
+        {
+          "id": "LK-430304503",
+          "name": "Eddimurinsan",
+          "query_id": "7371"
+        },
+        {
+          "id": "LK-430304504",
+          "name": "Vinasikulam",
+          "query_id": "7372"
+        },
+        {
+          "id": "LK-430304505",
+          "name": "Palajamamadu",
+          "query_id": "7373"
+        },
+        {
+          "id": "LK-430304506",
+          "name": "Prijakulam  Road",
+          "query_id": "7374"
+        },
+        {
+          "id": "LK-430304507",
+          "name": "2nd Mile post",
+          "query_id": "54397"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303050",
+      "name": "Kulavisuddan",
+      "query_id": "7394",
+      "children": [
+        {
+          "id": "LK-430305009",
+          "name": "katkulam",
+          "query_id": "54399"
+        },
+        {
+          "id": "LK-430305010",
+          "name": "Kurinsakulam",
+          "query_id": "54400"
+        },
+        {
+          "id": "LK-430305011",
+          "name": "Nedimurinathan",
+          "query_id": "54401"
+        },
+        {
+          "id": "LK-430305008",
+          "name": "Nansudan",
+          "query_id": "54398"
+        },
+        {
+          "id": "LK-430305001",
+          "name": "Velankulam",
+          "query_id": "7383"
+        },
+        {
+          "id": "LK-430305002",
+          "name": "Kulavisuddan",
+          "query_id": "7384"
+        },
+        {
+          "id": "LK-430305003",
+          "name": "Thekilparanthan",
+          "query_id": "7385"
+        },
+        {
+          "id": "LK-430305004",
+          "name": "Kurisuddakulam",
+          "query_id": "7386"
+        },
+        {
+          "id": "LK-430305005",
+          "name": "Eddimurinsan",
+          "query_id": "7387"
+        },
+        {
+          "id": "LK-430305006",
+          "name": "Parisankulam",
+          "query_id": "7388"
+        },
+        {
+          "id": "LK-430305007",
+          "name": "Annathevanmadu",
+          "query_id": "7389"
+        },
+        {
+          "id": "LK-430305012",
+          "name": "Udumpupainthan",
+          "query_id": "54402"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303055",
+      "name": "Maraillupai",
+      "query_id": "7395",
+      "children": [
+        {
+          "id": "LK-430305501",
+          "name": "Marajiluppai",
+          "query_id": "7390"
+        },
+        {
+          "id": "LK-430305502",
+          "name": "Makilamoddai",
+          "query_id": "7391"
+        },
+        {
+          "id": "LK-430305503",
+          "name": "Panaininran",
+          "query_id": "7392"
+        },
+        {
+          "id": "LK-430305504",
+          "name": "Kantharodaikulam",
+          "query_id": "7393"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303060",
+      "name": "Paranthan",
+      "query_id": "7396",
+      "children": [
+        {
+          "id": "LK-430306001",
+          "name": "Paranthan",
+          "query_id": "7351"
+        },
+        {
+          "id": "LK-430306002",
+          "name": "Mathijamadu",
+          "query_id": "7352"
+        },
+        {
+          "id": "LK-430306003",
+          "name": "Sinnapoovarasankulam",
+          "query_id": "7353"
+        },
+        {
+          "id": "LK-430306004",
+          "name": "Kaddaijarkulam",
+          "query_id": "54403"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303065",
+      "name": "Anantha Puliyakulam",
+      "query_id": "7397",
+      "children": [
+        {
+          "id": "LK-430306501",
+          "name": "Anantharpulijankulam",
+          "query_id": "7361"
+        },
+        {
+          "id": "LK-430306502",
+          "name": "Nochchikulam",
+          "query_id": "7362"
+        },
+        {
+          "id": "LK-430306503",
+          "name": "Thuvaranery",
+          "query_id": "7363"
+        },
+        {
+          "id": "LK-430306504",
+          "name": "Sammalankulam",
+          "query_id": "7364"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303070",
+      "name": "Sinnadampan",
+      "query_id": "7398",
+      "children": [
+        {
+          "id": "LK-430307001",
+          "name": "Sinnadampan",
+          "query_id": "7416"
+        },
+        {
+          "id": "LK-430307002",
+          "name": "Vegnankulam",
+          "query_id": "7417"
+        },
+        {
+          "id": "LK-430307003",
+          "name": "Karappukuththy",
+          "query_id": "7418"
+        },
+        {
+          "id": "LK-430307004",
+          "name": "Rasapuram",
+          "query_id": "7419"
+        },
+        {
+          "id": "LK-430307005",
+          "name": "Sadavankulam",
+          "query_id": "7420"
+        },
+        {
+          "id": "LK-430307006",
+          "name": "Perijadampan",
+          "query_id": "54404"
+        },
+        {
+          "id": "LK-430307007",
+          "name": "kompodiththakulam",
+          "query_id": "54405"
+        },
+        {
+          "id": "LK-430307008",
+          "name": "kachchalkody",
+          "query_id": "54406"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303075",
+      "name": "Nainamadu",
+      "query_id": "7399",
+      "children": [
+        {
+          "id": "LK-430307501",
+          "name": "Nainamadu",
+          "query_id": "7421"
+        },
+        {
+          "id": "LK-430307502",
+          "name": "Perijamadu",
+          "query_id": "7422"
+        },
+        {
+          "id": "LK-430307503",
+          "name": "Ajilady",
+          "query_id": "7423"
+        },
+        {
+          "id": "LK-430307504",
+          "name": "karadjan",
+          "query_id": "54407"
+        },
+        {
+          "id": "LK-430307505",
+          "name": "koodaliparichchan",
+          "query_id": "54408"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303080",
+      "name": "Puliyankulam South",
+      "query_id": "7400",
+      "children": [
+        {
+          "id": "LK-430308001",
+          "name": "Pulijankulam",
+          "query_id": "7394"
+        },
+        {
+          "id": "LK-430308002",
+          "name": "Palajawady",
+          "query_id": "7395"
+        },
+        {
+          "id": "LK-430308003",
+          "name": "Kalmadu",
+          "query_id": "7396"
+        },
+        {
+          "id": "LK-430308004",
+          "name": "Ramarpulijankulam",
+          "query_id": "7397"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303085",
+      "name": "Puliyankulam North",
+      "query_id": "7401",
+      "children": [
+        {
+          "id": "LK-430308501",
+          "name": "Puthoor",
+          "query_id": "7354"
+        },
+        {
+          "id": "LK-430308502",
+          "name": "Puthoor  Junction",
+          "query_id": "7355"
+        },
+        {
+          "id": "LK-430308503",
+          "name": "Parisankulam",
+          "query_id": "7356"
+        },
+        {
+          "id": "LK-430308504",
+          "name": "Muththumarinakar",
+          "query_id": "7357"
+        },
+        {
+          "id": "LK-430308505",
+          "name": "Kurukkalkulam",
+          "query_id": "54409"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303090",
+      "name": "Kanakarayankulam South",
+      "query_id": "7402",
+      "children": [
+        {
+          "id": "LK-430309001",
+          "name": "Kanakarajankulam",
+          "query_id": "7398"
+        },
+        {
+          "id": "LK-430309002",
+          "name": "Puthukkulam",
+          "query_id": "7399"
+        },
+        {
+          "id": "LK-430309003",
+          "name": "Kurisuddakulam",
+          "query_id": "7400"
+        },
+        {
+          "id": "LK-430309004",
+          "name": "Alankulam",
+          "query_id": "7401"
+        },
+        {
+          "id": "LK-430309005",
+          "name": "Ampalankar",
+          "query_id": "54410"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303095",
+      "name": "Kanakarayankulam North",
+      "query_id": "7403",
+      "children": [
+        {
+          "id": "LK-430309501",
+          "name": "Kanakarajankulam North",
+          "query_id": "7402"
+        },
+        {
+          "id": "LK-430309502",
+          "name": "Perijakulam",
+          "query_id": "7403"
+        },
+        {
+          "id": "LK-430309503",
+          "name": "Muthirankulam",
+          "query_id": "7404"
+        }
+      ]
+    },
+    {
+      "id": "LK-4303100",
+      "name": "Mannakulam",
+      "query_id": "7404",
+      "children": [
+        {
+          "id": "LK-430310001",
+          "name": "Mannakulam",
+          "query_id": "7405"
+        },
+        {
+          "id": "LK-430310002",
+          "name": "Puthuvilankulam",
+          "query_id": "7406"
+        },
+        {
+          "id": "LK-430310003",
+          "name": "Puthukkulam",
+          "query_id": "7407"
+        },
+        {
+          "id": "LK-430310004",
+          "name": "Kollarpulijankulam",
+          "query_id": "7408"
+        },
+        {
+          "id": "LK-430310005",
+          "name": "Kunsukulam",
+          "query_id": "7409"
+        }
+      ]
+    }
+  ]
+}

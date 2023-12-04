@@ -1,0 +1,216 @@
+{
+  "id": "LK-5227",
+  "name": "Karaitivu",
+  "query_id": "1125",
+  "children": [
+    {
+      "id": "LK-5227005",
+      "name": "Mavadippalli West",
+      "query_id": "8157",
+      "children": [
+        {
+          "id": "LK-522700501",
+          "name": "Mavadipppalli West",
+          "query_id": "9629"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227010",
+      "name": "Mavadippalli East",
+      "query_id": "8158",
+      "children": [
+        {
+          "id": "LK-522701001",
+          "name": "Mavadippalli East",
+          "query_id": "9631"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227015",
+      "name": "Maligaikadu West",
+      "query_id": "8159",
+      "children": [
+        {
+          "id": "LK-522701501",
+          "name": "Maligaikadu West",
+          "query_id": "9633"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227020",
+      "name": "Maligaikadu Central",
+      "query_id": "8160",
+      "children": [
+        {
+          "id": "LK-522702001",
+          "name": "Maligaikadu Central",
+          "query_id": "9635"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227025",
+      "name": "Maligaikadu East",
+      "query_id": "8161",
+      "children": [
+        {
+          "id": "LK-522702501",
+          "name": "Maligaikadu East",
+          "query_id": "9636"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227030",
+      "name": "Karaitivu 03",
+      "query_id": "8162",
+      "children": [
+        {
+          "id": "LK-522703001",
+          "name": "Siththanaikkuddy Puram",
+          "query_id": "9638"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227035",
+      "name": "Karaitivu 02",
+      "query_id": "8163",
+      "children": [
+        {
+          "id": "LK-522703501",
+          "name": "Karaitivu- 02nd Village",
+          "query_id": "9640"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227040",
+      "name": "Karaitivu 01",
+      "query_id": "8164",
+      "children": [
+        {
+          "id": "LK-522704001",
+          "name": "Karaitivu- 01st Village",
+          "query_id": "9641"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227045",
+      "name": "Karaitivu 06",
+      "query_id": "8165",
+      "children": [
+        {
+          "id": "LK-522704501",
+          "name": "Nanthavanam",
+          "query_id": "9642"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227050",
+      "name": "Karaitivu 05",
+      "query_id": "8166",
+      "children": [
+        {
+          "id": "LK-522705001",
+          "name": "Sarathapuram",
+          "query_id": "9645"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227055",
+      "name": "Karaitivu 04",
+      "query_id": "8167",
+      "children": [
+        {
+          "id": "LK-522705501",
+          "name": "Kalaikkottam",
+          "query_id": "9646"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227060",
+      "name": "Karaitivu 08",
+      "query_id": "8168",
+      "children": [
+        {
+          "id": "LK-522706001",
+          "name": "Vigneshwara Puram",
+          "query_id": "9647"
+        },
+        {
+          "id": "LK-522706002",
+          "name": "Salliththivu",
+          "query_id": "54169"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227065",
+      "name": "Karaitivu 07",
+      "query_id": "8169",
+      "children": [
+        {
+          "id": "LK-522706501",
+          "name": "Karaitivu- 07th Village",
+          "query_id": "9648"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227070",
+      "name": "Karaitivu 10",
+      "query_id": "8170",
+      "children": [
+        {
+          "id": "LK-522707001",
+          "name": "karadithottam",
+          "query_id": "9649"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227075",
+      "name": "Karaitivu 09",
+      "query_id": "8171",
+      "children": [
+        {
+          "id": "LK-522707501",
+          "name": "Bangalavadi",
+          "query_id": "9650"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227080",
+      "name": "Karaitivu 11",
+      "query_id": "8172",
+      "children": [
+        {
+          "id": "LK-522708001",
+          "name": "Mavadikiramam",
+          "query_id": "9652"
+        }
+      ]
+    },
+    {
+      "id": "LK-5227085",
+      "name": "Karaitivu 12",
+      "query_id": "8173",
+      "children": [
+        {
+          "id": "LK-522708501",
+          "name": "Kalappoor",
+          "query_id": "9653"
+        }
+      ]
+    }
+  ]
+}

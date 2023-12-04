@@ -1,0 +1,513 @@
+{
+  "id": "LK-4109",
+  "name": "Valikamam South-West (Sandilipay)",
+  "query_id": "1073",
+  "children": [
+    {
+      "id": "LK-4109005",
+      "name": "Suthumalai North",
+      "query_id": "6846",
+      "children": [
+        {
+          "id": "LK-410900501",
+          "name": "Suthumalai North",
+          "query_id": "24867"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109010",
+      "name": "Suthumalai South",
+      "query_id": "6847",
+      "children": [
+        {
+          "id": "LK-410901003",
+          "name": "Suthumalai South",
+          "query_id": "24868"
+        },
+        {
+          "id": "LK-410901001",
+          "name": "Kelavil",
+          "query_id": "53298"
+        },
+        {
+          "id": "LK-410901002",
+          "name": "Echatti",
+          "query_id": "53299"
+        },
+        {
+          "id": "LK-410901004",
+          "name": "Panthiyaddy",
+          "query_id": "53300"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109015",
+      "name": "Savalkaddu",
+      "query_id": "6848",
+      "children": [
+        {
+          "id": "LK-410901501",
+          "name": "Savatkaddu",
+          "query_id": "24869"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109020",
+      "name": "Uyarappulam",
+      "query_id": "6849",
+      "children": [
+        {
+          "id": "LK-410902001",
+          "name": "Uyarappulam",
+          "query_id": "24870"
+        },
+        {
+          "id": "LK-410902003",
+          "name": "Kurankalippan",
+          "query_id": "53302"
+        },
+        {
+          "id": "LK-410902002",
+          "name": "Kulavaddy",
+          "query_id": "53301"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109025",
+      "name": "Ana\u200dicoddai",
+      "query_id": "6850",
+      "children": [
+        {
+          "id": "LK-410902502",
+          "name": "Anaicoddai",
+          "query_id": "24871"
+        },
+        {
+          "id": "LK-410902501",
+          "name": "Koolavaddy",
+          "query_id": "53304"
+        },
+        {
+          "id": "LK-410902503",
+          "name": "Mulli",
+          "query_id": "53305"
+        },
+        {
+          "id": "LK-410902504",
+          "name": "Kakaitivu",
+          "query_id": "53306"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109030",
+      "name": "Navali North",
+      "query_id": "6851",
+      "children": [
+        {
+          "id": "LK-410903001",
+          "name": "Navaly North",
+          "query_id": "24872"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109035",
+      "name": "Navaly East",
+      "query_id": "6852",
+      "children": [
+        {
+          "id": "LK-410903501",
+          "name": "Navaly East",
+          "query_id": "24873"
+        },
+        {
+          "id": "LK-410903502",
+          "name": "Annsicodai",
+          "query_id": "53308"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109040",
+      "name": "Navali South",
+      "query_id": "6853",
+      "children": [
+        {
+          "id": "LK-410904001",
+          "name": "Navaly South",
+          "query_id": "24874"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109045",
+      "name": "Manipay North",
+      "query_id": "6854",
+      "children": [
+        {
+          "id": "LK-410904501",
+          "name": "Manipay North",
+          "query_id": "24875"
+        },
+        {
+          "id": "LK-410904502",
+          "name": "Sanguvely",
+          "query_id": "53310"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109050",
+      "name": "Manipay East",
+      "query_id": "6855",
+      "children": [
+        {
+          "id": "LK-410905001",
+          "name": "Manipay East",
+          "query_id": "24876"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109055",
+      "name": "Manipay South",
+      "query_id": "6856",
+      "children": [
+        {
+          "id": "LK-410905501",
+          "name": "Manipay South",
+          "query_id": "24877"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109060",
+      "name": "Manipay West",
+      "query_id": "6857",
+      "children": [
+        {
+          "id": "LK-410906001",
+          "name": "Manipay West",
+          "query_id": "24878"
+        },
+        {
+          "id": "LK-410906002",
+          "name": "Kaddudai",
+          "query_id": "53311"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109065",
+      "name": "Sandilipay North",
+      "query_id": "6858",
+      "children": [
+        {
+          "id": "LK-410906501",
+          "name": "Sandilipay North",
+          "query_id": "24879"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109070",
+      "name": "Sandilipay Centre",
+      "query_id": "6859",
+      "children": [
+        {
+          "id": "LK-410907003",
+          "name": "Sandilipay Centre",
+          "query_id": "24880"
+        },
+        {
+          "id": "LK-410907001",
+          "name": "Kalvalai",
+          "query_id": "53314"
+        },
+        {
+          "id": "LK-410907002",
+          "name": "Madathadi",
+          "query_id": "53316"
+        },
+        {
+          "id": "LK-410907004",
+          "name": "Thoppu",
+          "query_id": "53317"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109075",
+      "name": "Sandilipay West",
+      "query_id": "6860",
+      "children": [
+        {
+          "id": "LK-410907501",
+          "name": "Sandilipay West",
+          "query_id": "24881"
+        },
+        {
+          "id": "LK-410907502",
+          "name": "Seerani",
+          "query_id": "53318"
+        },
+        {
+          "id": "LK-410907503",
+          "name": "Teneippulayady",
+          "query_id": "53319"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109080",
+      "name": "Mahiyappiddy",
+      "query_id": "6861",
+      "children": [
+        {
+          "id": "LK-410908004",
+          "name": "Mahiyappiddy",
+          "query_id": "24882"
+        },
+        {
+          "id": "LK-410908001",
+          "name": "Companipulam",
+          "query_id": "53320"
+        },
+        {
+          "id": "LK-410908002",
+          "name": "Yavil",
+          "query_id": "53321"
+        },
+        {
+          "id": "LK-410908003",
+          "name": "Sooriyothaya",
+          "query_id": "53322"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109085",
+      "name": "Vadaliyadaippu",
+      "query_id": "6862",
+      "children": [
+        {
+          "id": "LK-410908501",
+          "name": "Vadaliyadaippu",
+          "query_id": "24883"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109090",
+      "name": "Pandaththarippu",
+      "query_id": "6863",
+      "children": [
+        {
+          "id": "LK-410909001",
+          "name": "Pandaththarippu",
+          "query_id": "24884"
+        },
+        {
+          "id": "LK-410909002",
+          "name": "Piranpattu",
+          "query_id": "53323"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109095",
+      "name": "Piranpattu",
+      "query_id": "6864",
+      "children": [
+        {
+          "id": "LK-410909501",
+          "name": "Piranpattu",
+          "query_id": "24885"
+        },
+        {
+          "id": "LK-410909502",
+          "name": "Nitsamam",
+          "query_id": "53325"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109100",
+      "name": "Si\u200dlalai North",
+      "query_id": "6865",
+      "children": [
+        {
+          "id": "LK-410910001",
+          "name": "Si\u200dlalai North",
+          "query_id": "24886"
+        },
+        {
+          "id": "LK-410910002",
+          "name": "Santhai",
+          "query_id": "53326"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109105",
+      "name": "S\u200dilalai South",
+      "query_id": "6866",
+      "children": [
+        {
+          "id": "LK-410910501",
+          "name": "Si\u200dlalai South",
+          "query_id": "24887"
+        },
+        {
+          "id": "LK-410910502",
+          "name": "Santhai",
+          "query_id": "53328"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109110",
+      "name": "Mathagal East",
+      "query_id": "6867",
+      "children": [
+        {
+          "id": "LK-410911003",
+          "name": "Mathagal East",
+          "query_id": "24888"
+        },
+        {
+          "id": "LK-410911001",
+          "name": "Kanchipuram",
+          "query_id": "53329"
+        },
+        {
+          "id": "LK-410911002",
+          "name": "Vilvalai",
+          "query_id": "53331"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109115",
+      "name": "Mathagal South",
+      "query_id": "6868",
+      "children": [
+        {
+          "id": "LK-410911501",
+          "name": "Mathagal South",
+          "query_id": "24889"
+        },
+        {
+          "id": "LK-410911502",
+          "name": "Vilvalai",
+          "query_id": "53333"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109120",
+      "name": "Mathagal West",
+      "query_id": "6869",
+      "children": [
+        {
+          "id": "LK-410912001",
+          "name": "Mathagal West",
+          "query_id": "24890"
+        },
+        {
+          "id": "LK-410912002",
+          "name": "Nunasai",
+          "query_id": "53334"
+        },
+        {
+          "id": "LK-410912003",
+          "name": "Tharaimugam",
+          "query_id": "53335"
+        },
+        {
+          "id": "LK-410912004",
+          "name": "Sampalthurai",
+          "query_id": "53336"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109125",
+      "name": "Periyavilan",
+      "query_id": "6870",
+      "children": [
+        {
+          "id": "LK-410912501",
+          "name": "Periyavilan",
+          "query_id": "24891"
+        },
+        {
+          "id": "LK-410912502",
+          "name": "Athiyolai",
+          "query_id": "53337"
+        },
+        {
+          "id": "LK-410912503",
+          "name": "Siruvilan",
+          "query_id": "53338"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109130",
+      "name": "Maresankoodal",
+      "query_id": "6871",
+      "children": [
+        {
+          "id": "LK-410913002",
+          "name": "Uyarappulam",
+          "query_id": "53339"
+        },
+        {
+          "id": "LK-410913001",
+          "name": "Maresankoodal",
+          "query_id": "24892"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109135",
+      "name": "Ilavalai",
+      "query_id": "6872",
+      "children": [
+        {
+          "id": "LK-410913501",
+          "name": "Ilavalai",
+          "query_id": "24893"
+        },
+        {
+          "id": "LK-410913502",
+          "name": "Poyitti",
+          "query_id": "53340"
+        },
+        {
+          "id": "LK-410913503",
+          "name": "Natholai",
+          "query_id": "53342"
+        }
+      ]
+    },
+    {
+      "id": "LK-4109140",
+      "name": "Mullanai",
+      "query_id": "6873",
+      "children": [
+        {
+          "id": "LK-410914001",
+          "name": "Mullanai",
+          "query_id": "24894"
+        }
+      ]
+    }
+  ]
+}

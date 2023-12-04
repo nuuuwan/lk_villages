@@ -1,0 +1,483 @@
+{
+  "id": "LK-6227",
+  "name": "Pallama",
+  "query_id": "1184",
+  "children": [
+    {
+      "id": "LK-6227005",
+      "name": "Dewala Handiya",
+      "query_id": "10434",
+      "children": [
+        {
+          "id": "LK-622700501",
+          "name": "Tharunawyaparaya",
+          "query_id": "19884"
+        },
+        {
+          "id": "LK-622700502",
+          "name": "Higuregama",
+          "query_id": "19887"
+        },
+        {
+          "id": "LK-622700503",
+          "name": "Ginipatiya",
+          "query_id": "19888"
+        },
+        {
+          "id": "LK-622700504",
+          "name": "Dewala Handiya",
+          "query_id": "19889"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227010",
+      "name": "Wilpatha East",
+      "query_id": "10435",
+      "children": [
+        {
+          "id": "LK-622701001",
+          "name": "Wilpotha East",
+          "query_id": "19753"
+        },
+        {
+          "id": "LK-622701002",
+          "name": "Teak Reservation",
+          "query_id": "43754"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227015",
+      "name": "Siyambalagaswewa",
+      "query_id": "10436",
+      "children": [
+        {
+          "id": "LK-622701501",
+          "name": "Siyambalagaswewa",
+          "query_id": "19942"
+        },
+        {
+          "id": "LK-622701502",
+          "name": "Arasanwewa",
+          "query_id": "19943"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227020",
+      "name": "Nagavila",
+      "query_id": "10437",
+      "children": [
+        {
+          "id": "LK-622702001",
+          "name": "Nagavila",
+          "query_id": "19754"
+        },
+        {
+          "id": "LK-622702002",
+          "name": "Aluthgama",
+          "query_id": "19755"
+        },
+        {
+          "id": "LK-622702003",
+          "name": "Halpanvila",
+          "query_id": "19756"
+        },
+        {
+          "id": "LK-622702004",
+          "name": "Kottamaduwa ",
+          "query_id": "19774"
+        },
+        {
+          "id": "LK-622702005",
+          "name": "Eppadikulama",
+          "query_id": "19776"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227025",
+      "name": "Periyamaduwa",
+      "query_id": "10438",
+      "children": [
+        {
+          "id": "LK-622702501",
+          "name": "Periyamaduwa",
+          "query_id": "20012"
+        },
+        {
+          "id": "LK-622702502",
+          "name": "Andahena",
+          "query_id": "20013"
+        },
+        {
+          "id": "LK-622702503",
+          "name": "Wilegama",
+          "query_id": "20015"
+        },
+        {
+          "id": "LK-622702504",
+          "name": "Parappanthota",
+          "query_id": "20016"
+        },
+        {
+          "id": "LK-622702505",
+          "name": "Karadikkulama",
+          "query_id": "20018"
+        },
+        {
+          "id": "LK-622702506",
+          "name": "Kooratihena",
+          "query_id": "20022"
+        },
+        {
+          "id": "LK-622702507",
+          "name": "Gal Agara",
+          "query_id": "20024"
+        },
+        {
+          "id": "LK-622702508",
+          "name": "Minimulla",
+          "query_id": "43755"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227030",
+      "name": "Kammandaluwa",
+      "query_id": "10439",
+      "children": [
+        {
+          "id": "LK-622703001",
+          "name": "Kammandaluwa",
+          "query_id": "19868"
+        },
+        {
+          "id": "LK-622703002",
+          "name": "Galkulama",
+          "query_id": "19869"
+        },
+        {
+          "id": "LK-622703003",
+          "name": "Kalayagama",
+          "query_id": "19871"
+        },
+        {
+          "id": "LK-622703004",
+          "name": "Demala Surakkulama",
+          "query_id": "19872"
+        },
+        {
+          "id": "LK-622703005",
+          "name": "Kajuwatte",
+          "query_id": "43756"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227035",
+      "name": "Wilpotha West",
+      "query_id": "10440",
+      "children": [
+        {
+          "id": "LK-622703501",
+          "name": "Wilpotha",
+          "query_id": "19874"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227040",
+      "name": "Thamarakkulama",
+      "query_id": "10441",
+      "children": [
+        {
+          "id": "LK-622704001",
+          "name": "Thamarakkulama",
+          "query_id": "19782"
+        },
+        {
+          "id": "LK-622704002",
+          "name": "Madamakele",
+          "query_id": "19862"
+        },
+        {
+          "id": "LK-622704003",
+          "name": "Pitalakele",
+          "query_id": "19864"
+        },
+        {
+          "id": "LK-622704004",
+          "name": "Halmillagaswewa",
+          "query_id": "19865"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227045",
+      "name": "Serukele",
+      "query_id": "10442",
+      "children": [
+        {
+          "id": "LK-622704501",
+          "name": "Serukele",
+          "query_id": "19902"
+        },
+        {
+          "id": "LK-622704502",
+          "name": "Waduressakotuwa",
+          "query_id": "19904"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227050",
+      "name": "Katupotha",
+      "query_id": "10443",
+      "children": [
+        {
+          "id": "LK-622705001",
+          "name": "Katupotha",
+          "query_id": "19899"
+        },
+        {
+          "id": "LK-622705002",
+          "name": "Thimbirigolla",
+          "query_id": "19900"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227055",
+      "name": "Madawakkulam",
+      "query_id": "10444",
+      "children": [
+        {
+          "id": "LK-622705501",
+          "name": "Madawakkulama",
+          "query_id": "19906"
+        },
+        {
+          "id": "LK-622705502",
+          "name": "Puliyankulam",
+          "query_id": "19908"
+        },
+        {
+          "id": "LK-622705503",
+          "name": "Wannankuliya",
+          "query_id": "19909"
+        },
+        {
+          "id": "LK-622705504",
+          "name": "Solayakulama",
+          "query_id": "19910"
+        },
+        {
+          "id": "LK-622705505",
+          "name": "Ihalagama",
+          "query_id": "43779"
+        },
+        {
+          "id": "LK-622705506",
+          "name": "Kurukeppettiyawa",
+          "query_id": "43781"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227060",
+      "name": "Watiya",
+      "query_id": "10445",
+      "children": [
+        {
+          "id": "LK-622706001",
+          "name": "Watiya",
+          "query_id": "19913"
+        },
+        {
+          "id": "LK-622706002",
+          "name": "Kadayandaluwa",
+          "query_id": "19914"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227065",
+      "name": "Nandimithtrapuram",
+      "query_id": "10446",
+      "children": [
+        {
+          "id": "LK-622706501",
+          "name": "Poththukkulama",
+          "query_id": "20027"
+        },
+        {
+          "id": "LK-622706502",
+          "name": "Kalukele",
+          "query_id": "20028"
+        },
+        {
+          "id": "LK-622706503",
+          "name": "Kola Eliya",
+          "query_id": "43790"
+        },
+        {
+          "id": "LK-622706504",
+          "name": "nandimittharapura(Siththampalam  Waththa)",
+          "query_id": "43791"
+        },
+        {
+          "id": "LK-622706505",
+          "name": "Pudhu Pothukkulam",
+          "query_id": "43792"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227070",
+      "name": "Wendakadu",
+      "query_id": "10447",
+      "children": [
+        {
+          "id": "LK-622707001",
+          "name": "Wendakaduwa",
+          "query_id": "19945"
+        },
+        {
+          "id": "LK-622707002",
+          "name": "Adammana",
+          "query_id": "19946"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227075",
+      "name": "Pallama",
+      "query_id": "10448",
+      "children": [
+        {
+          "id": "LK-622707501",
+          "name": "Ihala kolaeliya",
+          "query_id": "19921"
+        },
+        {
+          "id": "LK-622707502",
+          "name": "Pallama",
+          "query_id": "19922"
+        },
+        {
+          "id": "LK-622707503",
+          "name": "Yodayakele",
+          "query_id": "19924"
+        },
+        {
+          "id": "LK-622707504",
+          "name": "Ibbanwalayaya",
+          "query_id": "19925"
+        },
+        {
+          "id": "LK-622707505",
+          "name": "Nandimitharagama",
+          "query_id": "19927"
+        },
+        {
+          "id": "LK-622707506",
+          "name": "Pahalayaya",
+          "query_id": "19929"
+        },
+        {
+          "id": "LK-622707507",
+          "name": "Danwilakale",
+          "query_id": "43801"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227080",
+      "name": "Wathupola",
+      "query_id": "10449",
+      "children": [
+        {
+          "id": "LK-622708001",
+          "name": "Wathupola",
+          "query_id": "19892"
+        },
+        {
+          "id": "LK-622708002",
+          "name": "Thorawatawan",
+          "query_id": "19897"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227085",
+      "name": "Puliyankulam",
+      "query_id": "10450",
+      "children": [
+        {
+          "id": "LK-622708501",
+          "name": "Puliyankulam",
+          "query_id": "19907"
+        },
+        {
+          "id": "LK-622708502",
+          "name": "Ihala Mandalana",
+          "query_id": "19919"
+        },
+        {
+          "id": "LK-622708503",
+          "name": "Minikukula",
+          "query_id": "19920"
+        },
+        {
+          "id": "LK-622708504",
+          "name": "Pahala Kolaeliya",
+          "query_id": "43809"
+        },
+        {
+          "id": "LK-622708505",
+          "name": "Koralawila",
+          "query_id": "43811"
+        }
+      ]
+    },
+    {
+      "id": "LK-6227090",
+      "name": "Thammana",
+      "query_id": "10451",
+      "children": [
+        {
+          "id": "LK-622709001",
+          "name": "Ihala  Thammana",
+          "query_id": "19932"
+        },
+        {
+          "id": "LK-622709002",
+          "name": "Podidelpotha",
+          "query_id": "19933"
+        },
+        {
+          "id": "LK-622709003",
+          "name": "Huniyaneba",
+          "query_id": "19939"
+        },
+        {
+          "id": "LK-622709004",
+          "name": "Thukkiniyagamam",
+          "query_id": "19940"
+        },
+        {
+          "id": "LK-622709005",
+          "name": "Melsiri Janapadaya ",
+          "query_id": "43816"
+        },
+        {
+          "id": "LK-622709006",
+          "name": "Pothuwala",
+          "query_id": "43817"
+        }
+      ]
+    }
+  ]
+}

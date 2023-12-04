@@ -1,0 +1,920 @@
+{
+  "id": "LK-7133",
+  "name": "Nuwaragam Palatha East",
+  "query_id": "1202",
+  "children": [
+    {
+      "id": "LK-7133005",
+      "name": "Nuwarawewa",
+      "query_id": "11093",
+      "children": [
+        {
+          "id": "LK-713300502",
+          "name": "Walawwaththa",
+          "query_id": "43645"
+        },
+        {
+          "id": "LK-713300503",
+          "name": "Railway Town ",
+          "query_id": "43646"
+        },
+        {
+          "id": "LK-713300504",
+          "name": "Niwaththakachetiya road",
+          "query_id": "43648"
+        },
+        {
+          "id": "LK-713300505",
+          "name": "Mihintala road",
+          "query_id": "43650"
+        },
+        {
+          "id": "LK-713300506",
+          "name": "Sri Maha Bodhi Mawatha",
+          "query_id": "43651"
+        },
+        {
+          "id": "LK-713300501",
+          "name": "Nuwarawewa",
+          "query_id": "46590"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133010",
+      "name": "Stage (I) part (I)",
+      "query_id": "11094",
+      "children": [
+        {
+          "id": "LK-713301001",
+          "name": "Railway Quaters",
+          "query_id": "43624"
+        },
+        {
+          "id": "LK-713301002",
+          "name": "Dharmapala Mawatha (A part)",
+          "query_id": "43626"
+        },
+        {
+          "id": "LK-713301003",
+          "name": "Maithripala Senanayake Mawatha",
+          "query_id": "43628"
+        },
+        {
+          "id": "LK-713301004",
+          "name": "Jayanthi Mawatha (A part)",
+          "query_id": "43630"
+        },
+        {
+          "id": "LK-713301006",
+          "name": "Govt Quaters",
+          "query_id": "43631"
+        },
+        {
+          "id": "LK-713301005",
+          "name": "Wan Ela Place ",
+          "query_id": "43632"
+        },
+        {
+          "id": "LK-713301006",
+          "name": "Market Place",
+          "query_id": "43633"
+        },
+        {
+          "id": "LK-713301007",
+          "name": "Abhaya Place ",
+          "query_id": "43635"
+        },
+        {
+          "id": "LK-713301010",
+          "name": "Govt Rice Mill Road.",
+          "query_id": "43638"
+        },
+        {
+          "id": "LK-713301011",
+          "name": "Junior Quarters",
+          "query_id": "43639"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133015",
+      "name": "Maha Kalaththawa",
+      "query_id": "11095",
+      "children": [
+        {
+          "id": "LK-713301502",
+          "name": "Ichchankulama",
+          "query_id": "43590"
+        },
+        {
+          "id": "LK-713301503",
+          "name": "Bandiyalankulama",
+          "query_id": "43591"
+        },
+        {
+          "id": "LK-713301504",
+          "name": "Arunagama",
+          "query_id": "43593"
+        },
+        {
+          "id": "LK-713301501",
+          "name": "Maha Kalaththawa",
+          "query_id": "49128"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133020",
+      "name": "Thariyankulama",
+      "query_id": "11096",
+      "children": [
+        {
+          "id": "LK-713302002",
+          "name": "Halmillawewa",
+          "query_id": "43595"
+        },
+        {
+          "id": "LK-713302003",
+          "name": "Sattambikulama",
+          "query_id": "43597"
+        },
+        {
+          "id": "LK-713302004",
+          "name": "Palugaswewa",
+          "query_id": "43598"
+        },
+        {
+          "id": "LK-713302005",
+          "name": "Kuda Sattambikulama",
+          "query_id": "43600"
+        },
+        {
+          "id": "LK-713302001",
+          "name": "Thariyankulama",
+          "query_id": "49129"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133025",
+      "name": "Nelunkanniya",
+      "query_id": "11097",
+      "children": [
+        {
+          "id": "LK-713302502",
+          "name": "Wewaldigiliya",
+          "query_id": "43584"
+        },
+        {
+          "id": "LK-713302503",
+          "name": "Halmillawa",
+          "query_id": "43586"
+        },
+        {
+          "id": "LK-713302501",
+          "name": "Nelunkanniya",
+          "query_id": "49130"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133030",
+      "name": "Kuda Nelumkulama",
+      "query_id": "11098",
+      "children": [
+        {
+          "id": "LK-713303002",
+          "name": "Maha Nelumkulama",
+          "query_id": "43579"
+        },
+        {
+          "id": "LK-713303003",
+          "name": "Kuda Kalaththawa",
+          "query_id": "43580"
+        },
+        {
+          "id": "LK-713303004",
+          "name": "Kuda Wannammaduwa",
+          "query_id": "43582"
+        },
+        {
+          "id": "LK-713303001",
+          "name": "Kuda Nelumkulama",
+          "query_id": "49131"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133035",
+      "name": "Keerikkulama",
+      "query_id": "11099",
+      "children": [
+        {
+          "id": "LK-713303502",
+          "name": "Ehalawewa",
+          "query_id": "43574"
+        },
+        {
+          "id": "LK-713303503",
+          "name": "Pahala Keerikkulama",
+          "query_id": "43575"
+        },
+        {
+          "id": "LK-713303501",
+          "name": "Keerikkulama",
+          "query_id": "49132"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133040",
+      "name": "Thammannapura",
+      "query_id": "11100",
+      "children": [
+        {
+          "id": "LK-713304002",
+          "name": "Aththikulalma  11",
+          "query_id": "43605"
+        },
+        {
+          "id": "LK-713304003",
+          "name": "Pubudu Mawatha",
+          "query_id": "43606"
+        },
+        {
+          "id": "LK-713304004",
+          "name": "Nuwara Wewa Para",
+          "query_id": "43608"
+        },
+        {
+          "id": "LK-713304005",
+          "name": "Old Kandy Road",
+          "query_id": "43609"
+        },
+        {
+          "id": "LK-713304006",
+          "name": "Dharmalankara Mawatha",
+          "query_id": "43611"
+        },
+        {
+          "id": "LK-713304007",
+          "name": "Sarwodaya Road",
+          "query_id": "43612"
+        },
+        {
+          "id": "LK-713304008",
+          "name": "Samagi Mawatha",
+          "query_id": "43613"
+        },
+        {
+          "id": "LK-713304009",
+          "name": "Yasasirigama",
+          "query_id": "43614"
+        },
+        {
+          "id": "LK-713304001",
+          "name": "Thammennapura",
+          "query_id": "46572"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133045",
+      "name": "Vannithammannawa",
+      "query_id": "11101",
+      "children": [
+        {
+          "id": "LK-713304502",
+          "name": "Kuda Paladikulama",
+          "query_id": "43602"
+        },
+        {
+          "id": "LK-713304501",
+          "name": "Wannithammannawa",
+          "query_id": "46567"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133050",
+      "name": "Thammannakulama",
+      "query_id": "11102",
+      "children": [
+        {
+          "id": "LK-713305002",
+          "name": "Isurupura ",
+          "query_id": "43603"
+        },
+        {
+          "id": "LK-713305001",
+          "name": "Thammennakulama",
+          "query_id": "46569"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133055",
+      "name": "Stage (I) part (II)",
+      "query_id": "11103",
+      "children": [
+        {
+          "id": "LK-713305501",
+          "name": "Harishchandra Mawatha(A part )",
+          "query_id": "43640"
+        },
+        {
+          "id": "LK-713305502",
+          "name": "Dharmapala Mawatha(A part)",
+          "query_id": "43641"
+        },
+        {
+          "id": "LK-713305503",
+          "name": "Mithripala Senanayake Mawatha(A part)",
+          "query_id": "43642"
+        },
+        {
+          "id": "LK-713305504",
+          "name": "Bandaranayaka Mawatha(A part )",
+          "query_id": "43643"
+        },
+        {
+          "id": "LK-713305505",
+          "name": "Jayanthi Mawatha(A part)",
+          "query_id": "43644"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133060",
+      "name": "Stage (II) part (III)",
+      "query_id": "11104",
+      "children": [
+        {
+          "id": "LK-713306002",
+          "name": "Buddhagaya Mawatha (A part)",
+          "query_id": "43663"
+        },
+        {
+          "id": "LK-713306003",
+          "name": "Preeman Mawatha (A part)",
+          "query_id": "43664"
+        },
+        {
+          "id": "LK-713306004",
+          "name": "Airport Road (A part)",
+          "query_id": "43665"
+        },
+        {
+          "id": "LK-713306005",
+          "name": "Shantha Josheps Road South",
+          "query_id": "43666"
+        },
+        {
+          "id": "LK-713306006",
+          "name": "Nuwarawewa Road(A part)",
+          "query_id": "43667"
+        },
+        {
+          "id": "LK-713306001",
+          "name": "Wijayapura Cross Road (A part)",
+          "query_id": "49133"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133065",
+      "name": "Stage (II) part (II)",
+      "query_id": "11105",
+      "children": [
+        {
+          "id": "LK-713306501",
+          "name": "Jayanthi Mawatha (A part)",
+          "query_id": "43524"
+        },
+        {
+          "id": "LK-713306502",
+          "name": "Udaya Mawatha  ",
+          "query_id": "43525"
+        },
+        {
+          "id": "LK-713306503",
+          "name": "Maithripala Senanayake Mawatha (A part)",
+          "query_id": "43526"
+        },
+        {
+          "id": "LK-713306504",
+          "name": "Vimukthi Lane",
+          "query_id": "49134"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133070",
+      "name": "Pothanegama",
+      "query_id": "11106",
+      "children": [
+        {
+          "id": "LK-713307002",
+          "name": "Akkara 111",
+          "query_id": "43568"
+        },
+        {
+          "id": "LK-713307003",
+          "name": "Ihala Wewa",
+          "query_id": "43569"
+        },
+        {
+          "id": "LK-713307001",
+          "name": "Pothanegama",
+          "query_id": "49135"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133075",
+      "name": "Stage (III) part (III)",
+      "query_id": "11107",
+      "children": [
+        {
+          "id": "LK-713307502",
+          "name": "Jayasiripura",
+          "query_id": "43548"
+        },
+        {
+          "id": "LK-713307501",
+          "name": "Yasasiripura (A part)",
+          "query_id": "43562"
+        },
+        {
+          "id": "LK-713307503",
+          "name": "Pubudupura",
+          "query_id": "43563"
+        },
+        {
+          "id": "LK-713307504",
+          "name": "Samuha Govipala ",
+          "query_id": "43564"
+        },
+        {
+          "id": "LK-713307505",
+          "name": "Stage III (A part)",
+          "query_id": "43565"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133080",
+      "name": "Stage (II) part (I)",
+      "query_id": "11108",
+      "children": [
+        {
+          "id": "LK-713308002",
+          "name": "Kumbichchankulama",
+          "query_id": "43653"
+        },
+        {
+          "id": "LK-713308003",
+          "name": "Rathnayakapura",
+          "query_id": "43655"
+        },
+        {
+          "id": "LK-713308004",
+          "name": "Godage Mawatha",
+          "query_id": "43657"
+        },
+        {
+          "id": "LK-713308005",
+          "name": "Town Hall Place ",
+          "query_id": "43658"
+        },
+        {
+          "id": "LK-713308006",
+          "name": "New Town ",
+          "query_id": "43660"
+        },
+        {
+          "id": "LK-713308007",
+          "name": "Preeman mawatha (A part)",
+          "query_id": "43662"
+        },
+        {
+          "id": "LK-713308001",
+          "name": "Agbopura",
+          "query_id": "49136"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133085",
+      "name": "Stage (II) part (IV)",
+      "query_id": "11109",
+      "children": [
+        {
+          "id": "LK-713308504",
+          "name": "D.S Senanayake School Mawatha (A part) ",
+          "query_id": "43530"
+        },
+        {
+          "id": "LK-713308502",
+          "name": "Sarvodaya Road (A part)",
+          "query_id": "43668"
+        },
+        {
+          "id": "LK-713308501",
+          "name": "Wijayapura Cross Road (A part)",
+          "query_id": "43669"
+        },
+        {
+          "id": "LK-713308502",
+          "name": "Bulankulama Disa Mawatha",
+          "query_id": "43670"
+        },
+        {
+          "id": "LK-713308503",
+          "name": "Gewal 55",
+          "query_id": "43671"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133090",
+      "name": "Vanniyankulama (IV)",
+      "query_id": "11110",
+      "children": [
+        {
+          "id": "LK-713309001",
+          "name": "Lenin Mawatha",
+          "query_id": "43502"
+        },
+        {
+          "id": "LK-713309002",
+          "name": "Maliyadewa Mawatha (A part)",
+          "query_id": "43503"
+        },
+        {
+          "id": "LK-713309003",
+          "name": "Bandaranayaka Mawatha (A part)",
+          "query_id": "43504"
+        },
+        {
+          "id": "LK-713309004",
+          "name": "Abaya Mawatha",
+          "query_id": "43505"
+        },
+        {
+          "id": "LK-713309005",
+          "name": "Pandukabaya Mawatha",
+          "query_id": "43506"
+        },
+        {
+          "id": "LK-713309006",
+          "name": "Welfare Mawatha ",
+          "query_id": "43507"
+        },
+        {
+          "id": "LK-713309007",
+          "name": "Gunananda Mawatha ",
+          "query_id": "43508"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133095",
+      "name": "Vanniyankulama (V)",
+      "query_id": "11111",
+      "children": [
+        {
+          "id": "LK-713309502",
+          "name": "Anuladewi Mawatha",
+          "query_id": "43618"
+        },
+        {
+          "id": "LK-713309503",
+          "name": "Wishaka Mawatha",
+          "query_id": "43620"
+        },
+        {
+          "id": "LK-713309504",
+          "name": "Bandaranayaka Mawatha (A part)",
+          "query_id": "43621"
+        },
+        {
+          "id": "LK-713309501",
+          "name": "Nagasena Mawatha",
+          "query_id": "43623"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133100",
+      "name": "Vanniyankulama (VI)",
+      "query_id": "11112",
+      "children": [
+        {
+          "id": "LK-713310001",
+          "name": "Kamkaru Mawatha ",
+          "query_id": "43510"
+        },
+        {
+          "id": "LK-713310002",
+          "name": "Wannithammenna Road",
+          "query_id": "43511"
+        },
+        {
+          "id": "LK-713310003",
+          "name": "Nuwarawewa Mawatha",
+          "query_id": "43512"
+        },
+        {
+          "id": "LK-713310004",
+          "name": "Rathnayaka Mawatha",
+          "query_id": "43513"
+        },
+        {
+          "id": "LK-713310005",
+          "name": "Sereppu adigala Para",
+          "query_id": "43514"
+        },
+        {
+          "id": "LK-713310007",
+          "name": "Rahula Mawatha (A part)",
+          "query_id": "43515"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133105",
+      "name": "Ghanikulama",
+      "query_id": "11113",
+      "children": [
+        {
+          "id": "LK-713310502",
+          "name": "Abayapura",
+          "query_id": "43476"
+        },
+        {
+          "id": "LK-713310501",
+          "name": "Chanikulama",
+          "query_id": "46562"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133110",
+      "name": "Kawarakkulama",
+      "query_id": "11114",
+      "children": [
+        {
+          "id": "LK-713311002",
+          "name": "Ponimankulama",
+          "query_id": "43672"
+        },
+        {
+          "id": "LK-713311003",
+          "name": "Kudawewa",
+          "query_id": "43673"
+        },
+        {
+          "id": "LK-713311004",
+          "name": "Mahawannammaduwa",
+          "query_id": "43674"
+        },
+        {
+          "id": "LK-713311001",
+          "name": "Kawarakkulama",
+          "query_id": "49137"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133115",
+      "name": "MahaPaladikulama",
+      "query_id": "11115",
+      "children": [
+        {
+          "id": "LK-713311502",
+          "name": "Unagaswewa",
+          "query_id": "43472"
+        },
+        {
+          "id": "LK-713311503",
+          "name": "Weluwanagama",
+          "query_id": "43474"
+        },
+        {
+          "id": "LK-713311504",
+          "name": "Iththawewagama",
+          "query_id": "43475"
+        },
+        {
+          "id": "LK-713311501",
+          "name": "Mahapaladikulama",
+          "query_id": "46561"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133120",
+      "name": "Stage(III) part (I)",
+      "query_id": "11116",
+      "children": [
+        {
+          "id": "LK-713312001",
+          "name": "Yasasirapura(A part)",
+          "query_id": "43531"
+        },
+        {
+          "id": "LK-713312002",
+          "name": "Industrial Place stage 3  ",
+          "query_id": "43532"
+        },
+        {
+          "id": "LK-713312003",
+          "name": "Stage (III) (A part)",
+          "query_id": "43533"
+        },
+        {
+          "id": "LK-713312005",
+          "name": "D.S.Senanayaka Mawatha",
+          "query_id": "43534"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133125",
+      "name": "Stage(III)  part (II)",
+      "query_id": "11117",
+      "children": [
+        {
+          "id": "LK-713312501",
+          "name": "Parakum Uyana",
+          "query_id": "43536"
+        },
+        {
+          "id": "LK-713312502",
+          "name": "Sirimewan Uyana",
+          "query_id": "43538"
+        },
+        {
+          "id": "LK-713312504",
+          "name": "D.S.Senanayaka Mawatha",
+          "query_id": "43540"
+        },
+        {
+          "id": "LK-713312505",
+          "name": "Pubudupura Road",
+          "query_id": "43542"
+        },
+        {
+          "id": "LK-713312506",
+          "name": "Maliyadewa mawatha",
+          "query_id": "43544"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133130",
+      "name": "Vanniyankulama (III)",
+      "query_id": "11118",
+      "children": [
+        {
+          "id": "LK-713313001",
+          "name": "Bandaranayaka Mawatha (A part)",
+          "query_id": "43496"
+        },
+        {
+          "id": "LK-713313002",
+          "name": "Mahasen Mawatha",
+          "query_id": "43497"
+        },
+        {
+          "id": "LK-713313003",
+          "name": "Thissa Mawatha",
+          "query_id": "43498"
+        },
+        {
+          "id": "LK-713313004",
+          "name": "Gamunu Mawatha",
+          "query_id": "43499"
+        },
+        {
+          "id": "LK-713313005",
+          "name": "Parakrama Mawatha",
+          "query_id": "43500"
+        },
+        {
+          "id": "LK-713313006",
+          "name": "Maliyadewa Mawatha (A part)",
+          "query_id": "43501"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133135",
+      "name": "Vanniyankulama (I)",
+      "query_id": "11119",
+      "children": [
+        {
+          "id": "LK-713313501",
+          "name": "Bandaranayaka Mawatha(A part)",
+          "query_id": "43479"
+        },
+        {
+          "id": "LK-713313502",
+          "name": "9 Ela Para(A part)",
+          "query_id": "43480"
+        },
+        {
+          "id": "LK-713313503",
+          "name": "Dharmapala Mawatha",
+          "query_id": "43481"
+        },
+        {
+          "id": "LK-713313504",
+          "name": "Sangabo Mawatha",
+          "query_id": "43482"
+        },
+        {
+          "id": "LK-713313505",
+          "name": "Wijaya Mawatha",
+          "query_id": "43483"
+        },
+        {
+          "id": "LK-713313506",
+          "name": "Ashoka Mawatha",
+          "query_id": "43485"
+        },
+        {
+          "id": "LK-713313507",
+          "name": "Gajaba Mawatha",
+          "query_id": "43486"
+        },
+        {
+          "id": "LK-713313508",
+          "name": "Govijana Mawatha",
+          "query_id": "43488"
+        },
+        {
+          "id": "LK-713313509",
+          "name": "Choolani Mawatha",
+          "query_id": "43489"
+        },
+        {
+          "id": "LK-713313510",
+          "name": "Meditation Centre Road",
+          "query_id": "43490"
+        },
+        {
+          "id": "LK-713313511",
+          "name": "Saliya Mawatha",
+          "query_id": "43491"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133140",
+      "name": "Vanniyankulama (II)",
+      "query_id": "11120",
+      "children": [
+        {
+          "id": "LK-713314001",
+          "name": "Senanayaka Mawatha",
+          "query_id": "43492"
+        },
+        {
+          "id": "LK-713314002",
+          "name": "Bhathiya Mawatha(A part)",
+          "query_id": "43493"
+        },
+        {
+          "id": "LK-713314003",
+          "name": "Shanthi Mawatha",
+          "query_id": "43494"
+        },
+        {
+          "id": "LK-713314004",
+          "name": "9 Ela Road(A part)",
+          "query_id": "43495"
+        }
+      ]
+    },
+    {
+      "id": "LK-7133145",
+      "name": "Sucharithagama",
+      "query_id": "11121",
+      "children": [
+        {
+          "id": "LK-713314502",
+          "name": "Yahalegama",
+          "query_id": "43471"
+        },
+        {
+          "id": "LK-713314501",
+          "name": "Sucharithagama",
+          "query_id": "46558"
+        }
+      ]
+    }
+  ]
+}

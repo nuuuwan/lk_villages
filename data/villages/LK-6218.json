@@ -1,0 +1,909 @@
+{
+  "id": "LK-6218",
+  "name": "Mundalama",
+  "query_id": "1181",
+  "children": [
+    {
+      "id": "LK-6218005",
+      "name": "Puladiviyal",
+      "query_id": "10342",
+      "children": [
+        {
+          "id": "LK-621800501",
+          "name": "Puludhivayal",
+          "query_id": "22548"
+        },
+        {
+          "id": "LK-621800502",
+          "name": "Kadjuwatta",
+          "query_id": "22550"
+        },
+        {
+          "id": "LK-621800503",
+          "name": "Redbana",
+          "query_id": "22552"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218010",
+      "name": "Viruthodai",
+      "query_id": "10343",
+      "children": [
+        {
+          "id": "LK-621801001",
+          "name": "Senaikudieruppu",
+          "query_id": "22536"
+        },
+        {
+          "id": "LK-621801002",
+          "name": "Konganimoolai",
+          "query_id": "22543"
+        },
+        {
+          "id": "LK-621801003",
+          "name": "Viruthodai",
+          "query_id": "22545"
+        },
+        {
+          "id": "LK-621801004",
+          "name": "Elluchchenai",
+          "query_id": "43570"
+        },
+        {
+          "id": "LK-621801005",
+          "name": "",
+          "query_id": "43571"
+        },
+        {
+          "id": "LK-621801005",
+          "name": "Parisarithottam",
+          "query_id": "43572"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218015",
+      "name": "Weerapura",
+      "query_id": "10344",
+      "children": [
+        {
+          "id": "LK-621801501",
+          "name": "Amaikkuli",
+          "query_id": "22571"
+        },
+        {
+          "id": "LK-621801502",
+          "name": "Weerapura",
+          "query_id": "22572"
+        },
+        {
+          "id": "LK-621801503",
+          "name": "Karikkatti",
+          "query_id": "22573"
+        },
+        {
+          "id": "LK-621801504",
+          "name": "Sembette",
+          "query_id": "22575"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218020",
+      "name": "Welusumanapura",
+      "query_id": "10345",
+      "children": [
+        {
+          "id": "LK-621802001",
+          "name": "Welusumanapura",
+          "query_id": "22562"
+        },
+        {
+          "id": "LK-621802002",
+          "name": "Welasiya",
+          "query_id": "22564"
+        },
+        {
+          "id": "LK-621802003",
+          "name": "Rathmalgaswewa",
+          "query_id": "22567"
+        },
+        {
+          "id": "LK-621802004",
+          "name": "Suhadagama",
+          "query_id": "43573"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218025",
+      "name": "Madurankuli",
+      "query_id": "10346",
+      "children": [
+        {
+          "id": "LK-621802501",
+          "name": "Part of Sembetta",
+          "query_id": "22579"
+        },
+        {
+          "id": "LK-621802502",
+          "name": "Paththayama",
+          "query_id": "22581"
+        },
+        {
+          "id": "LK-621802503",
+          "name": "Keerthisinhagama",
+          "query_id": "22583"
+        },
+        {
+          "id": "LK-621802504",
+          "name": "Madurankuliya ",
+          "query_id": "22585"
+        },
+        {
+          "id": "LK-621802505",
+          "name": "Unaweli",
+          "query_id": "22587"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218030",
+      "name": "Kanamoolai North",
+      "query_id": "10347",
+      "children": [
+        {
+          "id": "LK-621803001",
+          "name": "North of Pekuruvatana village of Kanamulla village",
+          "query_id": "22534"
+        },
+        {
+          "id": "LK-621803002",
+          "name": "Kanamoolai",
+          "query_id": "43576"
+        },
+        {
+          "id": "LK-621803003",
+          "name": "Rahmathpuram",
+          "query_id": "43577"
+        },
+        {
+          "id": "LK-621803004",
+          "name": "Kurinjawettai",
+          "query_id": "43578"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218035",
+      "name": "Kadayamottai",
+      "query_id": "10348",
+      "children": [
+        {
+          "id": "LK-621803501",
+          "name": "Mellampitti",
+          "query_id": "22528"
+        },
+        {
+          "id": "LK-621803502",
+          "name": "Kadayamottai",
+          "query_id": "22529"
+        },
+        {
+          "id": "LK-621803503",
+          "name": "Surivayal",
+          "query_id": "22530"
+        },
+        {
+          "id": "LK-621803504",
+          "name": "Pallikundavayal",
+          "query_id": "22531"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218040",
+      "name": "Nallandaluwa",
+      "query_id": "10349",
+      "children": [
+        {
+          "id": "LK-621804001",
+          "name": "Nallandaluwa",
+          "query_id": "22622"
+        },
+        {
+          "id": "LK-621804002",
+          "name": "Thunguchenai",
+          "query_id": "22623"
+        },
+        {
+          "id": "LK-621804003",
+          "name": "Marikkarchenai",
+          "query_id": "22626"
+        },
+        {
+          "id": "LK-621804004",
+          "name": "Muttipalakulam",
+          "query_id": "22628"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218045",
+      "name": "Palasola",
+      "query_id": "10350",
+      "children": [
+        {
+          "id": "LK-621804501",
+          "name": "Palasolai",
+          "query_id": "22553"
+        },
+        {
+          "id": "LK-621804502",
+          "name": "Kilamaduchenai",
+          "query_id": "22558"
+        },
+        {
+          "id": "LK-621804503",
+          "name": "Kachcha Madurankuli",
+          "query_id": "22560"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218050",
+      "name": "Mukkuthoduwawa",
+      "query_id": "10351",
+      "children": [
+        {
+          "id": "LK-621805001",
+          "name": "Mukkuthoduwawa",
+          "query_id": "22532"
+        },
+        {
+          "id": "LK-621805002",
+          "name": "Acre   100",
+          "query_id": "43581"
+        },
+        {
+          "id": "LK-621805003",
+          "name": "Kajuwatta",
+          "query_id": "43583"
+        },
+        {
+          "id": "LK-621805004",
+          "name": "Dosthara Watta",
+          "query_id": "43585"
+        },
+        {
+          "id": "LK-621805005",
+          "name": "Wellawatta",
+          "query_id": "43587"
+        },
+        {
+          "id": "LK-621805006",
+          "name": "Thambiwatta",
+          "query_id": "43588"
+        },
+        {
+          "id": "LK-621805007",
+          "name": "Sivaluxmi Watta",
+          "query_id": "43589"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218055",
+      "name": "Kandathoduwawa",
+      "query_id": "10352",
+      "children": [
+        {
+          "id": "LK-621805501",
+          "name": "Kandathoduwawa",
+          "query_id": "22533"
+        },
+        {
+          "id": "LK-621805502",
+          "name": "Pivithurugama",
+          "query_id": "43592"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218060",
+      "name": "Kanamoolai  South",
+      "query_id": "10353",
+      "children": [
+        {
+          "id": "LK-621806001",
+          "name": "KanamullaTown",
+          "query_id": "22535"
+        },
+        {
+          "id": "LK-621806002",
+          "name": "Kanamolai South",
+          "query_id": "43594"
+        },
+        {
+          "id": "LK-621806003",
+          "name": "Latheef Mawatha",
+          "query_id": "43596"
+        },
+        {
+          "id": "LK-621806004",
+          "name": "Part of Kurinjanwetiya ",
+          "query_id": "43599"
+        },
+        {
+          "id": "LK-621806005",
+          "name": "Bandula Watta",
+          "query_id": "43601"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218065",
+      "name": "Pubudugama",
+      "query_id": "10354",
+      "children": [
+        {
+          "id": "LK-621806501",
+          "name": "Pubudugama",
+          "query_id": "22589"
+        },
+        {
+          "id": "LK-621806502",
+          "name": "Mandamanthivu",
+          "query_id": "22590"
+        },
+        {
+          "id": "LK-621806503",
+          "name": "Ambalaweli",
+          "query_id": "22592"
+        },
+        {
+          "id": "LK-621806504",
+          "name": "Marichchikattu South ",
+          "query_id": "22593"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218070",
+      "name": "Sameeragama",
+      "query_id": "10355",
+      "children": [
+        {
+          "id": "LK-621807001",
+          "name": "Sameeragama",
+          "query_id": "22511"
+        },
+        {
+          "id": "LK-621807002",
+          "name": "Puliyanchenai",
+          "query_id": "22512"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218075",
+      "name": "Palli Wasalpaduwa",
+      "query_id": "10356",
+      "children": [
+        {
+          "id": "LK-621807501",
+          "name": "Palliwasalpadu",
+          "query_id": "22513"
+        },
+        {
+          "id": "LK-621807502",
+          "name": "Pudupadu",
+          "query_id": "22514"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218080",
+      "name": "Perukkuwattan",
+      "query_id": "10357",
+      "children": [
+        {
+          "id": "LK-621808001",
+          "name": "Perukuwatan",
+          "query_id": "22515"
+        },
+        {
+          "id": "LK-621808002",
+          "name": "Karuwamadu",
+          "query_id": "22516"
+        },
+        {
+          "id": "LK-621808003",
+          "name": "maanikkamadu",
+          "query_id": "22517"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218085",
+      "name": "Kottantheevu",
+      "query_id": "10358",
+      "children": [
+        {
+          "id": "LK-621808501",
+          "name": "Kottantivu",
+          "query_id": "22507"
+        },
+        {
+          "id": "LK-621808502",
+          "name": "Kandayaya",
+          "query_id": "22508"
+        },
+        {
+          "id": "LK-621808503",
+          "name": "Pilliyawatta Acre 5",
+          "query_id": "22509"
+        },
+        {
+          "id": "LK-621808504",
+          "name": "Manwadi Colony",
+          "query_id": "22510"
+        },
+        {
+          "id": "LK-621808505",
+          "name": "Colony",
+          "query_id": "43604"
+        },
+        {
+          "id": "LK-621808506",
+          "name": "Mancholai Watta",
+          "query_id": "43607"
+        },
+        {
+          "id": "LK-621808507",
+          "name": "Manchadi Colony",
+          "query_id": "43610"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218090",
+      "name": "Mangalaeliya",
+      "query_id": "10359",
+      "children": [
+        {
+          "id": "LK-621809001",
+          "name": "Mangalaeliya",
+          "query_id": "22599"
+        },
+        {
+          "id": "LK-621809002",
+          "name": "Samidugama",
+          "query_id": "22600"
+        },
+        {
+          "id": "LK-621809003",
+          "name": "Nugasevana Gama",
+          "query_id": "43615"
+        },
+        {
+          "id": "LK-621809004",
+          "name": "Sandiyapalli Janapadha",
+          "query_id": "43616"
+        },
+        {
+          "id": "LK-621809005",
+          "name": "Asokapura Janapadha",
+          "query_id": "43617"
+        },
+        {
+          "id": "LK-621809006",
+          "name": "E.K. Estate Colony",
+          "query_id": "43619"
+        },
+        {
+          "id": "LK-621809007",
+          "name": "Henyaya Gama",
+          "query_id": "43622"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218095",
+      "name": "Nawadankulama",
+      "query_id": "10360",
+      "children": [
+        {
+          "id": "LK-621809501",
+          "name": "Nawadankulama",
+          "query_id": "22602"
+        },
+        {
+          "id": "LK-621809502",
+          "name": "02  Mile Post",
+          "query_id": "22604"
+        },
+        {
+          "id": "LK-621809503",
+          "name": "01 Mile Post",
+          "query_id": "22606"
+        },
+        {
+          "id": "LK-621809504",
+          "name": "Ihala Nawadankulama",
+          "query_id": "22608"
+        },
+        {
+          "id": "LK-621809505",
+          "name": "Sedawatta Janapadaya",
+          "query_id": "22609"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218100",
+      "name": "Mundalama",
+      "query_id": "10361",
+      "children": [
+        {
+          "id": "LK-621810001",
+          "name": "Mundel Town",
+          "query_id": "22594"
+        },
+        {
+          "id": "LK-621810002",
+          "name": "Sunimal Janapadaya ",
+          "query_id": "22595"
+        },
+        {
+          "id": "LK-621810003",
+          "name": "Mundalkadu",
+          "query_id": "22596"
+        },
+        {
+          "id": "LK-621810004",
+          "name": " 412 Acre Gammana",
+          "query_id": "22597"
+        },
+        {
+          "id": "LK-621810005",
+          "name": "Samagigama",
+          "query_id": "22598"
+        },
+        {
+          "id": "LK-621810006",
+          "name": "15 th Mile Post Village ",
+          "query_id": "43625"
+        },
+        {
+          "id": "LK-621810007",
+          "name": "Sadasarana Gama",
+          "query_id": "43627"
+        },
+        {
+          "id": "LK-621810008",
+          "name": "Eksath Gama",
+          "query_id": "43629"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218105",
+      "name": "Kudieruppu",
+      "query_id": "10362",
+      "children": [
+        {
+          "id": "LK-621810501",
+          "name": "Kudieruppu",
+          "query_id": "22615"
+        },
+        {
+          "id": "LK-621810502",
+          "name": "Santhiyakalli",
+          "query_id": "22616"
+        },
+        {
+          "id": "LK-621810503",
+          "name": "15 Kanuwa Village ",
+          "query_id": "22617"
+        },
+        {
+          "id": "LK-621810504",
+          "name": "Thandivilluwa",
+          "query_id": "22618"
+        },
+        {
+          "id": "LK-621810505",
+          "name": "Kirimattawa",
+          "query_id": "22619"
+        },
+        {
+          "id": "LK-621810506",
+          "name": "Keeriyankalli",
+          "query_id": "22620"
+        },
+        {
+          "id": "LK-621810507",
+          "name": "Part of Mundel Town",
+          "query_id": "43634"
+        },
+        {
+          "id": "LK-621810508",
+          "name": "Saranagama",
+          "query_id": "43636"
+        },
+        {
+          "id": "LK-621810509",
+          "name": "Part of Karathanvilluwa",
+          "query_id": "43637"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218110",
+      "name": "Kattaikadu",
+      "query_id": "10363",
+      "children": [
+        {
+          "id": "LK-621811001",
+          "name": "kattaikaduwa",
+          "query_id": "22497"
+        },
+        {
+          "id": "LK-621811002",
+          "name": "Watawana",
+          "query_id": "22498"
+        },
+        {
+          "id": "LK-621811003",
+          "name": "Panichchavillu",
+          "query_id": "22499"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218115",
+      "name": "Sinnapadu",
+      "query_id": "10364",
+      "children": [
+        {
+          "id": "LK-621811501",
+          "name": "Sinnapaduwa",
+          "query_id": "22505"
+        },
+        {
+          "id": "LK-621811502",
+          "name": "Periyapadwa",
+          "query_id": "22506"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218120",
+      "name": "Poonapiti",
+      "query_id": "10365",
+      "children": [
+        {
+          "id": "LK-621812001",
+          "name": "Wambiwattan",
+          "query_id": "22500"
+        },
+        {
+          "id": "LK-621812002",
+          "name": "Sinna Oththapanai",
+          "query_id": "22501"
+        },
+        {
+          "id": "LK-621812003",
+          "name": "Periya Oththapanai",
+          "query_id": "22502"
+        },
+        {
+          "id": "LK-621812004",
+          "name": "Paaripadu",
+          "query_id": "22503"
+        },
+        {
+          "id": "LK-621812005",
+          "name": "Punapitiya",
+          "query_id": "22504"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218125",
+      "name": "Andimunai",
+      "query_id": "10366",
+      "children": [
+        {
+          "id": "LK-621812501",
+          "name": "Andimunai",
+          "query_id": "22496"
+        },
+        {
+          "id": "LK-621812502",
+          "name": "Periya Colony",
+          "query_id": "43647"
+        },
+        {
+          "id": "LK-621812503",
+          "name": "Sinna Colony",
+          "query_id": "43649"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218130",
+      "name": "Udappuwa",
+      "query_id": "10367",
+      "children": [
+        {
+          "id": "LK-621813001",
+          "name": "Udappu 1",
+          "query_id": "22490"
+        },
+        {
+          "id": "LK-621813002",
+          "name": "Udappu 2",
+          "query_id": "22491"
+        },
+        {
+          "id": "LK-621813003",
+          "name": "Udappu 3",
+          "query_id": "22492"
+        },
+        {
+          "id": "LK-621813004",
+          "name": "Udappu   4",
+          "query_id": "22493"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218135",
+      "name": "Udappuwa",
+      "query_id": "10368",
+      "children": [
+        {
+          "id": "LK-621813501",
+          "name": "Udappu  No 5",
+          "query_id": "22494"
+        },
+        {
+          "id": "LK-621813502",
+          "name": "Udappu  No 6",
+          "query_id": "22495"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218140",
+      "name": "Pulichchakulama",
+      "query_id": "10369",
+      "children": [
+        {
+          "id": "LK-621814001",
+          "name": "Pulichchakulam",
+          "query_id": "22480"
+        },
+        {
+          "id": "LK-621814002",
+          "name": "Baththulu Oya North",
+          "query_id": "22481"
+        },
+        {
+          "id": "LK-621814003",
+          "name": "Pudukudirippuwa",
+          "query_id": "22482"
+        },
+        {
+          "id": "LK-621814004",
+          "name": "Keeriyankalliya",
+          "query_id": "22483"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218145",
+      "name": "Karathanvilluwa",
+      "query_id": "10370",
+      "children": [
+        {
+          "id": "LK-621814501",
+          "name": "Karathanvilluwa",
+          "query_id": "22610"
+        },
+        {
+          "id": "LK-621814502",
+          "name": "Sapirigama",
+          "query_id": "22611"
+        },
+        {
+          "id": "LK-621814503",
+          "name": "Part of Keeriyankalli",
+          "query_id": "22612"
+        },
+        {
+          "id": "LK-621814504",
+          "name": "Mariyansena ",
+          "query_id": "22613"
+        },
+        {
+          "id": "LK-621814505",
+          "name": "Sirisembukuliya",
+          "query_id": "22614"
+        },
+        {
+          "id": "LK-621814506",
+          "name": "60 Acre",
+          "query_id": "43652"
+        },
+        {
+          "id": "LK-621814507",
+          "name": "Dasanayakapura",
+          "query_id": "43654"
+        },
+        {
+          "id": "LK-621814508",
+          "name": "Sedawatta",
+          "query_id": "43656"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218150",
+      "name": "Tharakudivilluwa",
+      "query_id": "10371",
+      "children": [
+        {
+          "id": "LK-621815001",
+          "name": "Tharavillu",
+          "query_id": "22487"
+        },
+        {
+          "id": "LK-621815002",
+          "name": "Nainapuram",
+          "query_id": "22488"
+        },
+        {
+          "id": "LK-621815003",
+          "name": "Akkarawelli",
+          "query_id": "22489"
+        }
+      ]
+    },
+    {
+      "id": "LK-6218155",
+      "name": "Angunavila",
+      "query_id": "10372",
+      "children": [
+        {
+          "id": "LK-621815501",
+          "name": "Agunavila",
+          "query_id": "22484"
+        },
+        {
+          "id": "LK-621815502",
+          "name": "Wilpatha",
+          "query_id": "22485"
+        },
+        {
+          "id": "LK-621815503",
+          "name": "Wilpotha Madhyama Panthiyagama ",
+          "query_id": "22486"
+        },
+        {
+          "id": "LK-621815504",
+          "name": "Molawaththa",
+          "query_id": "43659"
+        },
+        {
+          "id": "LK-621815505",
+          "name": "Bogaha Junction ",
+          "query_id": "43661"
+        }
+      ]
+    }
+  ]
+}
