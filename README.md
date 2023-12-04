@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**47,715** Villages from **12,927** GNDs in **312** DSDs (7.278MB), scraped as of *2023-12-04 05:19:19*.
+**48,749** Villages from **13,108** GNDs in **317** DSDs (7.424MB), scraped as of *2023-12-04 05:40:24*.
 
 ## LK-1 - Western
 
@@ -407,3 +407,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 * [LK-9103](data/villages/LK-9103.json) - Eheliyagoda
 * [LK-9106](data/villages/LK-9106.json) - Kuruvita
+* [LK-9109](data/villages/LK-9109.json) - Kiriella
+* [LK-9112](data/villages/LK-9112.json) - Ratnapura
+* [LK-9115](data/villages/LK-9115.json) - Imbulpe
+* [LK-9118](data/villages/LK-9118.json) - Balangoda
+* [LK-9121](data/villages/LK-9121.json) - Opanayake
