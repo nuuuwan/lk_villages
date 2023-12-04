@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**51,158** Villages from **13,701** GNDs in **332** DSDs (7.781MB), scraped as of *2023-12-04 07:01:20*.
+**52,153** Villages from **13,927** GNDs in **337** DSDs (7.926MB), scraped as of *2023-12-04 07:22:35*.
 
 ## LK-1 - Western
 
@@ -430,3 +430,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-9206](data/villages/LK-9206.json) - Mawanella
 * [LK-9209](data/villages/LK-9209.json) - Aranayaka
 * [LK-9212](data/villages/LK-9212.json) - Kegalle
+* [LK-9215](data/villages/LK-9215.json) - Galigamuwa
+* [LK-9218](data/villages/LK-9218.json) - Warakapola
+* [LK-9221](data/villages/LK-9221.json) - Ruwanwella
+* [LK-9224](data/villages/LK-9224.json) - Bulathkohupitiya
+* [LK-9227](data/villages/LK-9227.json) - Yatiyanthota
