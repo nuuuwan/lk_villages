@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**52,488** Villages from **13,992** GNDs in **339** DSDs (7.973MB), scraped as of *2023-12-04 12:17:21*.
+**52,488** Villages from **13,992** GNDs in **339** DSDs (7.973MB), scraped as of *2023-12-04 12:32:43*.
 
 ## LK-1 - Western
 
