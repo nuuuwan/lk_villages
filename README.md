@@ -4,7 +4,7 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 
 ![word-cloud](data/word_cloud.png)
 
-**48,749** Villages from **13,108** GNDs in **317** DSDs (7.424MB), scraped as of *2023-12-04 05:40:24*.
+**49,401** Villages from **13,243** GNDs in **322** DSDs (7.518MB), scraped as of *2023-12-04 05:59:14*.
 
 ## LK-1 - Western
 
@@ -412,3 +412,8 @@ Scrapes information about villages from http://moha.gov.lk:8090.
 * [LK-9115](data/villages/LK-9115.json) - Imbulpe
 * [LK-9118](data/villages/LK-9118.json) - Balangoda
 * [LK-9121](data/villages/LK-9121.json) - Opanayake
+* [LK-9124](data/villages/LK-9124.json) - Pelmadulla
+* [LK-9127](data/villages/LK-9127.json) - Elapatha
+* [LK-9130](data/villages/LK-9130.json) - Ayagama
+* [LK-9133](data/villages/LK-9133.json) - Kalawana
+* [LK-9136](data/villages/LK-9136.json) - Nivithigala
